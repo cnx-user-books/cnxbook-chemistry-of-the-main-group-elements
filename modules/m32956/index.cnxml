@@ -1,0 +1,250 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Ammonia</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32956</md:content-id>
+  <md:title>Ammonia</md:title>
+  <md:abstract/>
+  <md:uuid>c72fe9a2-db18-49e7-85de-722adb70edd7</md:uuid>
+</metadata>
+<content>
+    <para id="id1170947443909">Ammonia (NH<sub>3</sub>) is a colorless, pungent gas (bp = -33.5 °C) whose odor can be detected at concentrations as low 20 – 50 ppm. Its high boiling point relative to its heavier congeners is indicative of the formation of strong hydrogen bonding. The strong hydrogen bonding also results in a high heat of vaporization (23.35 kJ/mol) and thus ammonia can be conveniently used as a liquid at room temperature despite its low boiling point.</para>
+
+    <note id="eip-5" type="warning">Ammonia solution causes burns and irritation to the eyes and skin. The vapor causes severe irritation to the respiratory system. If swallowed the solution causes severe internal damage. </note>
+
+
+
+    <section id="id7422303">
+      <title>Synthesis</title>
+      <para id="id1170947720628">Ammonia is manufactured on the industrial scale by the Haber process using the direct reaction of nitrogen with hydrogen at high pressure (10<sup>2</sup> – 10<sup>3</sup> atm) and high temperature (400 – 550 °C) over a catalyst (e.g., α-iron), <link target-id="eip-11101"/>.</para>
+
+<equation id="eip-11101">   <media id="id1170947858961_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-0f8a.jpg" id="id1170947858961__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+    
+
+
+      <para id="id1170947585702">On the smaller scale ammonia is prepared by the reaction of an ammonium salt with a base, <link target-id="eip-11102"/>, or hydrolysis of a nitride, <link target-id="eip-11103"/>. The latter is a convenient route to ND<sub>3</sub> by the use of D<sub>2</sub>O. </para>
+
+<equation id="eip-11102"><media id="id1170949607711_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-2fbe.jpg" id="id1170949607711__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+      
+
+<equation id="eip-11103"> <media id="id2151319_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-ae9e.jpg" id="id2151319__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+         
+    </section>
+
+    <section id="id7577155">
+      <title>Structure</title>
+      <para id="id1170946768572">The nitrogen in ammonia adopts sp<sup>3</sup> hybridization, and ammonia has an umbrella structure (<link target-id="id8965259"/>) due to the stereochemically active lone pair. </para>
+
+      <figure id="id8965259"><media id="id8965259_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-7946.jpg" id="id8965259__onlineimage" width="150" print-width="1.5in"/>
+        </media>
+
+      <caption>The structure of ammonia.</caption></figure>
+
+
+<para id="eip-893">The barrier to inversion of the umbrella is very low (E<sub>a</sub> = 24 kJ/mol) and the inversion occurs 100’s of times a second, <link target-id="eip-11104"/>. As a consequence it is not possible to isolate chiral amines in the same manner that is possible for phosphines.</para><equation id="eip-11104"> <media id="id7405570_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-818b.jpg" id="id7405570__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+       
+
+
+
+
+
+
+
+      <para id="id2157066">In a similar manner to water, <link target-id="eip-11105"/>, ammonia is a self-ionizing, <link target-id="eip-11105"/>; however, the equilibrium constant (K = 10<sup>-33</sup>) is much lower than water (K = 10<sup>-14</sup>). The lower dielectric constant of ammonia (16.5 @ 20 °C) as compared to water (80.4 @ 20 °C) means that ammonia is not as good as water as a solvent for ionic compounds, but is better for covalent organic compounds. </para>
+
+<equation id="eip-11105">     <media id="id8748650_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-b120.jpg" id="id8748650__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+   
+
+
+<equation id="eip-11106"><media id="id1170946707587_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-588a.jpg" id="id1170946707587__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+          
+
+
+
+
+
+    </section>
+    <section id="id2133230">
+      <title>Reactions</title>
+      <para id="id8239751">The similarity of ammonia and water means that the two compounds are miscible. In fact, ammonia forms a series of solid hydrates, analogous to ice in which hydrogen bonding defines the structures (<link target-id="id1170947105882"/>). Several hydrates of ammonia are known, including: NH<sub>3</sub>.2H<sub>2</sub>O (ammonia dihydrate, ADH), NH<sub>3</sub>.H<sub>2</sub>O (ammonia monohydrate, AMH), and 2NH<sub>3</sub>.2H<sub>2</sub>O (ammonia hemihydrate, AHH). </para>
+
+
+      <figure id="id1170947105882">
+        <media id="id1170947105882_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-d6e3.jpg" id="id1170947105882__onlineimage" width="300" print-width="2in"/>
+        </media>
+<caption>The crystal structure of ammonia monohydrate (ANH-II) with hydrogen atoms omitted. Adapted from A. D. Fortes, E. Suard, M. -H. Lemée-Cailleau, C. J. Pickard, and R. J. Needs, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 2009, <emphasis effect="bold">131</emphasis>, 13508. Copyright: American Chemical Society (2009).</caption>
+      </figure>
+
+
+
+
+
+      <para id="id6948500">It should be noted that these hydrates do not contain discrete NH<sub>4</sub><sup>+</sup> or OH<sup>-</sup> ions, indicating that ammonium hydroxide does not exist as a discrete species despite the common useage of the name. In aqueous solution, ammonia is a weak base (pK<sub>b</sub> = 4.75), <link target-id="eip-11107"/>. </para>
+
+<equation id="eip-11107">  <media id="id1170947786830_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-8bc5.jpg" id="id1170947786830__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+      
+
+
+
+      <note id="eip-442">Ammonia solutions commonly used in the laboratory is a 35% solution in water. In warm weather the solution develops pressure and the cap must be released with care. The 25% solution sold commercially (for home use) is free from this problem.</note>
+
+
+      <para id="id8428270">Ammonia is a Lewis base and readily forms Lewis acid-base complexes with both transition metals, <link target-id="eip-11108"/>, and main group metals (<link target-id="id6586691"/>). </para>
+
+<equation id="eip-11108"><media id="id1170947883661_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-d714.jpg" id="id1170947883661__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+        
+
+
+
+        <figure id="id6586691">
+          <media id="id6586691_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-0734.jpg" id="id6586691__onlineimage" width="300" print-width="2in"/>
+          </media>
+<caption>The molecular structure of AlMe<sub>2</sub>(BHT)NH<sub>3</sub>. Hydrogen atoms, except those attached to nitrogen, are omitted for clarity. Adapted from M. D. Healy, J. T. Leman, and A. R. Barron, <emphasis effect="italics">J. Am. Chem. Soc.,</emphasis> 1991, <emphasis effect="bold">113</emphasis>, 2776. Copyright: American Chemical Society. </caption>
+        </figure>
+
+
+
+
+
+      <para id="id1170947729306">The formation of stable ammonia complexes is the basis of a simple but effective method of detection: Nessler’s reagent, <link target-id="eip-11109"/>. Using a 0.09 mol/L solution of potassium tetraiodomercurate(II), K<sub>2</sub>[HgI<sub>4</sub>], in 2.5 mol/L potassium hydroxide. A yellow coloration indicates the presence of ammonia: at higher concentrations, a brown precipitate may form. The sensitivity as a spot test is about 0.3 μg NH<sub>3</sub> in 2 μL.</para>
+
+<equation id="eip-11109"><media id="id8469708_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-cb86.jpg" id="id8469708__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+      <para id="id8853698">Ammonia forms a blue solution with Group 1 metals. As an example, the dissolution of sodium in liquid ammonia results in the formation of solvated Na<sup>+</sup> cations and electrons, <link target-id="eip-11110"/> where solv = NH<sub>3</sub>. The solvated electrons are stable in liquid ammonia and form a complex: [e<sup>-</sup>(NH<sub>3</sub>)<sub>6</sub>].</para>
+
+<equation id="eip-11110">   <media id="id1170949839062_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-34b6.jpg" id="id1170949839062__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+     
+
+
+
+      <para id="id2157514">It is this solvated electron that gives the strong reducing properties of the solution as well as the characteristic signal in the ESR spectrum associated with a single unpaired electron. The blue color of the solution is often ascribed to these solvated electrons; however, their absorption is in the far infra-red region of the spectrum. A second species, Na<sup>-</sup>(solv), is actually responsible for the blue color of the solution. </para>
+
+<equation id="eip-11111">    <media id="id1170947726484_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-f979.jpg" id="id1170947726484__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+    
+
+
+      <para id="id8446725">The reaction of ammonia with oxygen is highly favored, <link target-id="eip-11112"/>, and the flammability limit of ammonia is 16 – 25 vol%. If the reaction is carried out in the presence of a catalyst (Pt or Pd) the reaction can be limited to the formation of nitric oxide (NO), <link target-id="eip-11113"/>. </para>
+
+<equation id="eip-11112">   <media id="id1170946681114_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-c8b0.jpg" id="id1170946681114__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+
+<equation id="eip-11113"> <media id="id1170947544846_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-e023.jpg" id="id1170947544846__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+         
+
+
+    </section>
+    <section id="id1170947778734">
+      <title>Ammonium salts</title>
+      <para id="id2148749">The ammonium cation (NH<sub>4</sub><sup>+</sup>) behaves in a similar manner to the Group 1 metal ions. The solubility and structure of ammonium salts particularly resembles those of potassium and rubidium because of their relative size (<link target-id="id8551717"/>). One difference is that ammonium salts often decompose upon heating, <link target-id="eip-11114"/>. </para>
+
+
+<equation id="eip-11114">        <media id="id8777044_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics17-fdc5.jpg" id="id8777044__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+
+
+
+      <table id="id8551717" summary="Ionic radius of the ammonium ion compared to those of potassium and rubidium.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Cation</emphasis></entry>
+              <entry><emphasis effect="bold">Ionic radius (Å)</emphasis></entry>
+            </row>
+            <row>
+              <entry>K<sup>+</sup></entry>
+              <entry>1.33</entry>
+            </row>
+            <row>
+              <entry>NH<sub>4</sub><sup>+</sup></entry>
+              <entry>1.43</entry>
+            </row>
+            <row>
+              <entry>Rb<sup>+</sup></entry>
+              <entry>1.47</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Ionic radius of the ammonium ion compared to those of potassium and rubidium.</caption>
+</table>
+
+
+      <para id="id8855375">The decomposition of ammonium salts of oxidizing acids can often be violent to highly explosive, and they should be treated with care. For example, while ammonium dichromate, (NH<sub>4</sub>)<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, decomposes to give a volcano (<link target-id="id2116312"/>), ammonium permanganate, NH<sub>4</sub>[MnO<sub>4</sub>], is friction sensitive and explodes at 60 °C. Ammonium nitrate, NH<sub>4</sub>[NO<sub>3</sub>], can cause fire if contacted with a combustible material and is a common ingredient in explosives since it acts as the oxygen source due to its positive oxygen balance, i.e., the compound liberates oxygen surplus to its own needs upon decomposition, <link target-id="eip-11116"/>. </para>
+
+<equation id="eip-11116">    <media id="id8751443_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics18-4da5.jpg" id="id8751443__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+    
+
+
+
+      <figure id="id2116312">
+        <media id="id2116312_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics19-09f3.jpg" id="id2116312__onlineimage" width="300" print-width="2in"/>
+        </media>
+<caption>A laboratory demonstration of an ammonium dichromate volcano. </caption>
+      </figure>
+
+
+    </section>
+
+
+    <section id="id7622272">
+      <title>Bibliography</title>
+      <list id="id8342538" list-type="bulleted">
+        <item>A. R. Barron, <emphasis effect="italics">The Detonator</emphasis>, 2009, <emphasis effect="bold">36</emphasis>, 60.</item>
+        <item>A. D. Fortes, E. Suard, M. -H. Lemée-Cailleau, C. J. Pickard, and R. J. Needs, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 2009, <emphasis effect="bold">131</emphasis>, 13508. </item>
+        <item>M. D. Healy, J. T. Leman, and A. R. Barron, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 1991, <emphasis effect="bold">113</emphasis>, 2776. </item>
+        <item>A. I. Vogel and G. Svehla, <emphasis effect="italics">Textbook of Macro and Semimicro Qualitative Inorganic Analysis</emphasis>, Longman, London (1979). </item>
+      </list>
+    </section>
+  </content>
+</document>

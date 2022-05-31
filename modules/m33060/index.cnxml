@@ -1,0 +1,216 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Liquid Ammonia as a Solvent</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33060</md:content-id>
+  <md:title>Liquid Ammonia as a Solvent</md:title>
+  <md:abstract/>
+  <md:uuid>cfda386b-4f7d-4c97-8502-d3b27f833185</md:uuid>
+</metadata>
+<content>
+
+    <para id="id1164854672256">Ammonia has a reasonable liquid range (-77 to –33 °C), and as such it can be readily liquefied with dry ice (solid CO<sub>2</sub>, T<sub>sub</sub> = -78.5 °C), and handled in a thermos flask. Ammonia’s high boiling point relative to its heavier congeners is indicative of the formation of strong hydrogen bonding, which also results in a high heat of vaporization (23.35 kJ/mol). As a consequence ammonia can be conveniently used as a liquid at room temperature despite its low boiling point. </para>
+
+    <para id="id1164854269149">Liquid ammonia is a good solvent for organic molecules (e.g., esters, amines, benzene, and alcohols). It is a better solvent for organic compounds than water, but a worse solvent for inorganic compounds. The solubility of inorganic salts is highly dependant on the identity of the counter ion (<link target-id="id2954606"/>). </para>
+
+    <table id="id2954606" summary="General solubility of inorganic salts in liquid ammonia as a function of the counter ion. ">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Soluble in liquid NH<sub>3</sub></emphasis></entry>
+            <entry><emphasis effect="bold">Generally insoluble in liquid NH<sub>3</sub> </emphasis></entry>
+          </row>
+          <row>
+            <entry>SCN<sup>-</sup>, I<sup>-</sup>, NH<sub>4</sub><sup>+</sup>, NO<sub>3</sub><sup>-</sup>, NO<sub>2</sub><sup>-</sup>, ClO<sub>4</sub><sup>-</sup></entry>
+            <entry>F<sup>-</sup>, Cl<sup>-</sup>, Br<sup>-</sup>, CO<sub>3</sub><sup>2-</sup>, SO<sub>4</sub><sup>2-</sup>, O<sup>2-</sup>, OH<sup>-</sup>, S<sup>2-</sup></entry>
+          </row>
+        </tbody>
+      </tgroup>
+<caption>General solubility of inorganic salts in liquid ammonia as a function of the counter ion. </caption>
+    </table>
+
+
+
+
+    <para id="id1164854229299">The difference in solubility of inorganic salts in ammonia as compared to water, as well as the lower temperature of liquid ammonia, can be used to good advantage in the isolation of unstable compounds. For example, the attempted synthesis of ammonium nitrate by the reaction of sodium nitrate and ammonium chloride in water results in the formation of nitrogen and water due to the decomposition of the nitrate, <link target-id="eip-44450"/>. By contrast, if the reaction is carried out in liquid ammonia, the sodium chloride side product is insoluble and the ammonium nitrate may be isolated as a white solid after filtration and evaporation below its decomposition temperature of 0 °C, <link target-id="eip-44451"/>. </para>
+
+<equation id="eip-44450">
+      <media id="id7670939_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-1f9c.jpg" id="id7670939__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+
+
+<equation id="eip-44451">     <media id="id1164854069005_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-894a.jpg" id="id1164854069005__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+ 
+
+
+
+    <section id="id1164858193756">
+      <title>Ammonation</title>
+      <para id="id1164853878044">Ammonation is defined as a reaction in which ammonia is added to other molecules or ions by covalent bond formation utilizing the unshared pair of electrons on the nitrogen atom, or through ion-dipole electrostatic interactions. In simple terms the resulting <emphasis effect="italics">ammine</emphasis> complex is formed when the ammonia is acting as a Lewis base to a Lewis acid, <link target-id="eip-44452"/> and <link target-id="eip-44453"/>, or as a ligand to a cation, e.g., [Pt(NH<sub>3</sub>)<sub>4</sub>]<sup>2+</sup>, [Ni(NH<sub>3</sub>)<sub>6</sub>]<sup>2+</sup>, [Cr(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>, and [Co(NH<sub>3</sub>)<sub>6</sub>]<sup>3+</sup>. </para>
+
+
+<equation id="eip-44452"> <media id="id1164852955384_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-7eee.jpg" id="id1164852955384__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+         
+
+<equation id="eip-44453">  <media id="id4395852_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-3c26.jpg" id="id4395852__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+        
+
+    </section>
+    <section id="id1164853772667">
+      <title>Ammonolysis</title>
+      <para id="id1164853760784">Ammonolysis with ammonia is an analogous reaction to hydrolysis with water, i.e., a dissociation reaction of the ammonia molecule producing H<sup>+</sup> and an NH<sub>2</sub><sup>-</sup> species. Ammonolysis reactions occur with inorganic halides, <link target-id="eip-44454"/> and <link target-id="eip-44455"/>, and organometallic compounds, <link target-id="eip-44456"/>. In both case the NH<sub>2</sub><sup>-</sup> moiety forms a substituent or ligand. </para>
+
+
+
+
+<equation id="eip-44454"><media id="id1164860119974_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-9d17.jpg" id="id1164860119974__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+          
+
+<equation id="eip-44455">  <media id="id1164852885633_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-e4b6.jpg" id="id1164852885633__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</equation>
+
+        
+
+<equation id="eip-44456">
+        <media id="id1164856254922_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-f43d.jpg" id="id1164856254922__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+      <para id="id3808356">The reaction of esters, <link target-id="eip-44457"/>, and aryl halides, <link target-id="eip-44458"/>, are also examples of ammonolysis reactions. </para>
+
+<equation id="eip-44457">  <media id="id1164856261166_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-ad47.jpg" id="id1164856261166__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+        
+
+<equation id="eip-44458">          <media id="id5978472_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-b81d.jpg" id="id5978472__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</equation>
+
+
+
+    </section>
+    <section id="id1164856949870">
+      <title>Homoleptic amides </title>
+
+      <para id="id1164853398903">A homoleptic compound is <emphasis effect="italics">a compound with all the ligands being identical</emphasis>, e.g., M(NH<sub>2</sub>)<sub>n</sub>. A general route to homoleptic amide compounds is accomplished by the reaction of a salt of the desired metal that is soluble in liquid ammonia (<link target-id="id2954606"/>) with a soluble Group 1 amide. The solubility of the Group 1 amides is given in <link target-id="id7826865"/>. Since all amides are insoluble (except those of the Group 1 metals) are insoluble in liquid ammonia, the resulting amide may be readily isolated, e.g., <link target-id="eip-44461"/> and <link target-id="eip-44462"/>. </para>
+
+<equation id="eip-44461">      <media id="id1164857087038_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-ee26.jpg" id="id1164857087038__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+    
+
+<equation id="eip-44462">      <media id="id3802886_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-3bcc.jpg" id="id3802886__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+    
+
+
+      <table id="id7826865" summary="Solubility of Group amides in liquid ammonia.">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Amide</emphasis> </entry>
+              <entry><emphasis effect="bold">Solubility in liquid ammonia</emphasis></entry>
+            </row>
+            <row>
+              <entry>LiNH<sub>2</sub></entry>
+              <entry>Sparingly soluble</entry>
+            </row>
+            <row>
+              <entry>NaNH<sub>2</sub></entry>
+              <entry>Sparingly soluble</entry>
+            </row>
+            <row>
+              <entry>KNH<sub>2</sub></entry>
+              <entry>Soluble</entry>
+            </row>
+            <row>
+              <entry>RbNH<sub>2</sub></entry>
+              <entry>Soluble</entry>
+            </row>
+            <row>
+              <entry>CsNH<sub>2</sub></entry>
+              <entry>Soluble</entry>
+            </row>
+          </tbody>
+        </tgroup>
+<caption>Solubility of Group amides in liquid ammonia.</caption>
+      </table>
+
+
+
+    </section>
+    <section id="id7819969">
+      <title>Redox reactions</title>
+      <para id="id1164853603446">Ammonia is poor as an oxidant since it is relatively easily oxidized, e.g., <link target-id="eip-44463"/> and <link target-id="eip-44464"/>. Thus, if it is necessary to perform an oxidation reaction ammonia is not a suitable solvent; however, it is a good solvent for reduction reactions. </para>
+
+
+<equation id="eip-44463">   <media id="id1164852986948_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-c892.jpg" id="id1164852986948__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+
+<equation id="eip-44464">   <media id="id1164858129218_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-21e5.jpg" id="id1164858129218__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+
+      <para id="id1164858049531">Liquid ammonia will dissolve Group 1 (alkali) metals and other electropositive metals such as calcium, strontium, barium, magnesium, aluminum, europium, and ytterbium. At low concentrations (ca. 0.06 mol/L), deep blue solutions are formed: these contain metal cations and solvated electrons, <link target-id="eip-44466"/>. The solvated electrons are stable in liquid ammonia and form a complex: [e<sup>-</sup>(NH<sub>3</sub>)<sub>6</sub>].</para>
+
+<equation id="eip-44466">        <media id="id8014751_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-1b0e.jpg" id="id8014751__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+
+
+      <para id="id1164853676729">The solvated electrons provide a suitable and powerful reducing agent for a range of reactions that are not ordinarily accomplished, e.g., <link target-id="eip-44467"/> and <link target-id="eip-44468"/>. </para>
+
+<equation id="eip-44467">   <media id="id1164856081392_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-59fc.jpg" id="id1164856081392__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+<equation id="eip-44468">
+          <media id="id1164854338418_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-5b02.jpg" id="id1164854338418__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+
+
+    </section>
+  </content>
+</document>

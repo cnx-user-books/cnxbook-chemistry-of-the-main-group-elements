@@ -1,0 +1,222 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Basics of Combustion</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33088</md:content-id>
+  <md:title>The Basics of Combustion</md:title>
+  <md:abstract/>
+  <md:uuid>cf22e1e9-4857-4bef-91cf-60f13cf26033</md:uuid>
+</metadata>
+<content>
+
+
+    <para id="id27269253">When discussing the combustion of a compound it is ordinarily referring to the reaction of an organic compound (hydrocarbon) with oxygen, in which the carbon is converted to carbon dioxide (CO<sub>2</sub>) and the hydrogen forms water (H<sub>2</sub>O) as a vapor, e.g., <link target-id="eip-2220"/>. </para>
+
+<equation id="eip-2220">  <media id="id25037207_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-db2f.jpg" id="id25037207__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+    
+
+
+
+    <para id="id16230567">However, this only a narrow view of combustion, and a more general definition should be that combustion or burning is <emphasis effect="italics">the sequence of </emphasis><emphasis effect="italics">exothermic </emphasis><emphasis effect="italics">chemical reactions between a fuel and an </emphasis><emphasis effect="italics">oxidant </emphasis><emphasis effect="italics">accompanied by the production of heat and conversion of chemical species</emphasis>. Based upon this definition methane can combust in the presence of fluorine (F<sub>2</sub>) as strong oxidant, <link target-id="eip-2221"/>. </para>
+
+<equation id="eip-2221">
+        <media id="id26735890_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-1a01.jpg" id="id26735890__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+    <para id="id19432082">In considering the combustion of any flammable compound, for example gasoline, it should be noted that the compounds that make up gasoline are quiet stable in the absence of a source of oxygen (usually from the air). Furthermore, some form of energy input (heat, flame, or spark) must be provided. Thus, the combustion of gasoline provides the archetypal example of the three component explosive system typical of a traditional chemical explosive: fuel (something that will burn), an oxidizer (usually a source of oxygen), and energy (ignition). In this regard, combustion also includes the exothermic reactions of many metals with oxygen, <link target-id="eip-2222"/>. </para>
+
+<equation id="eip-2222"> <media id="id19432934_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-2f0d.jpg" id="id19432934__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+       
+
+
+
+
+    <para id="id17245857">It is not just reactive metals that can be used as the fuel component of combustion, but many of their compounds as well. The formation of water from the hydrogen in organic compounds, in combination with an oxygen source, releases significant energy. It stands to reason therefore that any compound comprising of hydrogen and an element can be a potential fuel: a compound of hydrogen and another element is known as a hydride. This is especially true for the hydrides of reactive metals such as aluminum and sodium (and metalloids such as boron, <link target-id="eip-2223"/>), but is also true for the hydrides of silicon and phosphorus. These hydride compounds react with an oxidizer in a manner analogous to that of a hydrocarbon, as may be seen by a comparison of <link target-id="eip-2224"/> and <link target-id="eip-2220"/>. </para>
+
+
+<equation id="eip-2223">   <media id="id27252377_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics4-003a.jpg" id="id27252377__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+   
+
+<equation id="eip-2224">   <media id="id16004661_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-def5.jpg" id="id16004661__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+     
+
+    <para id="id17042402"><link target-id="id19550433"/> shows a comparison of the heat of combustion of various inorganic fuels with commonly used jet fuels (JP-10 and JP-8). Hydrocarbons heat of combustion is limited by the C:H ratio, while graphite is the limiting case. Boron and boron compounds have greater volumetric and<emphasis effect="italics"/>gravimetric energy density than hydrocarbons, and therefore were studied as potential high-energy fuels. </para>
+
+
+      <figure id="id19550433">
+        <media id="id19550433_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-6475.jpg" id="id19550433__onlineimage" width="450" print-width="4.5in"/>
+        </media>
+<caption>Heat of combustion of various fuels. </caption>    
+ </figure>
+
+
+
+
+
+    <note id="eip-809">Ammonia has been proposed as a practical alternative to fossil fuel for internal combustion engines. The energy value of ammonia is 22.5 MJ/kg, which is about half that of diesel. In a normal engine, in which the water vapor is not condensed, the calorific value of ammonia will be about 21% less than this value; however, it can be used in existing engines with only minor modifications to carburetors/fuel injectors. </note>
+
+    
+
+
+
+    <para id="id28462604">Oxygen (O<sub>2</sub>) from the air does not have to be the source of oxidizer. Alternatives such as hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>), nitrous oxide (N<sub>2</sub>O), and nitrates (e.g., ammonium nitrate, NH<sub>4</sub>(NO<sub>3</sub>)) are all sources of oxygen for combustion or explosions. However, this does not mean that every compound containing oxygen can be an oxidizer. For example, alcohols such as methanol will burn (in the presence of additional oxygen), but they will not act as an oxidizer. The oxygen within any compound must be “reactive”. By this we mean that it must be able to be released, preferentially as the more reactive oxygen atom (O) rather than O<sub>2</sub>, or be attached (chemically bonded to an element that wants to get rid of the oxygen (i.e., an element that is readily reduced). The most likely element in this case is nitrogen, with sulfur and phosphorus also potential candidates. Almost all compounds containing nitrogen bonded to oxygen can act as an oxidizer. Generally, the more oxygen atoms attached to nitrogen the more reactive the compound. </para>
+
+    <para id="id27336417">The efficiency of a chemical reaction such as combustion is dependent on how well the fuel and oxidizer are mixed at the molecular scale. Obviously the best situation is if both components are in the same molecule. Self-oxidizers are compounds containing oxygen in a reactive form as well as a suitable fuel (carbon or hydrogen). The most common self-oxidizers are organic nitrates. It should be pointed out that in spite of the presence of reactive oxygen, self-oxidizers may still require an external source of oxygen to ensure complete reaction, and some form of energy input (ignition) is still required. </para>
+
+    <section id="id19210556">
+      <title>Oxygen balance</title>
+      <para id="id17445564">While many compounds contain oxygen that does not mean they will combust efficiently in the absence of an external oxidizer, or whether they have sufficient oxygen to completely self-combust, or whether they can act as an oxidizer for other compounds. The simplest test for a compound’s potential to fulfill these roles is its “oxygen balance”. The oxygen balance for a chemical is the amount of oxygen needed or produced to ensure the complete oxidation of all the carbon, hydrogen, or other elements. </para>
+
+
+      <para id="id20537270">Compounds such as trinitrotoluene (TNT, <link target-id="id24247221"/>a) have a negative oxygen balance since extra oxygen is needed for complete formation of all the CO<sub>2</sub> and H<sub>2</sub>O possible, <link target-id="eip-2225"/>. Thus, despite its reputation as an explosive, TNT is only efficient in the presence of an external oxidant, which may be air or another compound that provides a positive oxygen balance. </para>
+
+<equation id="eip-2225">   <media id="id16278981_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-d884.jpg" id="id16278981__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+
+
+        <figure id="id24247221">
+          <media id="id24247221_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-4ab7.jpg" id="id24247221__onlineimage" width="400" print-width="3.75in"/>
+          </media>
+<caption>The structurse of (a) trinitrotoluene (TNT) and (b) The structure of performic acid. </caption>
+        </figure>
+
+
+
+
+      <para id="id11250863">In contrast to TNT, performic acid (<link target-id="id24247221"/>b) is an example of a compound with a zero oxygen balance: it has all the oxygen it needs for complete combustion, <link target-id="eip-2226"/>, and hence only requires energy to detonate making at a much more dangerous compound per se than TNT. </para>
+
+<equation id="eip-2226">  <media id="id27406024_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-676a.jpg" id="id27406024__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+        
+
+
+      <para id="id27329565">A positive oxygen balance means that the compound liberates oxygen surplus to its own needs, for example the decomposition of ammonium nitrate provides one atom of oxygen per molecule, <link target-id="eip-6667"/>. Clearly, any compound with a positive oxygen balance makes a good oxidizer and is highly incompatible with combustible chemicals. </para>
+
+<equation id="eip-6667">   <media id="id26443542_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-28fb.jpg" id="id26443542__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+
+
+      <section id="id16266663">
+        <title>Quantification of oxygen balance</title>
+        <para id="id26417554">A quantification of oxygen balance allows for the determination of approximate ratio of reagents to optimize combustion/explosion. In this regard <emphasis effect="italics">oxygen balance</emphasis> is defined as the number of moles of oxygen (excess or deficient) for 100 g of a compound of a known molecular weight (M<sub>w</sub>), <link target-id="eip-6668"/> where <emphasis effect="italics">x</emphasis> = number of atoms of carbon, <emphasis effect="italics">y</emphasis> = number of atoms of hydrogen, <emphasis effect="italics">z</emphasis> = number of atoms of oxygen, and <emphasis effect="italics">m</emphasis> = number of atoms of metal oxide produced.</para>
+
+<equation id="eip-6668">   <media id="id19259945_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-f0c9.jpg" id="id19259945__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+
+
+
+        <example id="eip-998">
+<para id="id17176607">In the case of TNT, the M<sub>w</sub> = 227.1 g/mol, the number of carbon atoms (<emphasis effect="italics">x</emphasis>) = 7, the number of hydrogen atoms (<emphasis effect="italics">y</emphasis>) = 5, the number of oxygen atoms (<emphasis effect="italics">z</emphasis>) = 6, and the number of atoms of metal oxide produced (<emphasis effect="italics">m</emphasis>) = 0. Therefore: </para>
+
+
+<media id="id19494711_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-5ca4.jpg" id="id19494711__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+         
+
+
+</example>
+
+
+
+
+
+
+        <para id="id19293254">A summary of selected oxygen balance values is given in <link target-id="id14294409"/>. </para>
+
+
+        <table id="id14294409" summary="Oxygen balance of selected compounds. ">
+          <tgroup cols="2">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element or compound</emphasis></entry>
+                <entry><emphasis effect="bold">Oxygen balance (%)</emphasis></entry>
+              </row>
+              <row>
+                <entry>Carbon</entry>
+                <entry>-266.7</entry>
+              </row>
+              <row>
+                <entry>Sulfur</entry>
+                <entry>-100</entry>
+              </row>
+              <row>
+                <entry>Aluminum powder</entry>
+                <entry>-89</entry>
+              </row>
+              <row>
+                <entry>Trinitrotoluene</entry>
+                <entry>-74</entry>
+              </row>
+              <row>
+                <entry>nitroglycerine</entry>
+                <entry>+3.5</entry>
+              </row>
+              <row>
+                <entry>Ammonium nitrate</entry>
+                <entry>+20</entry>
+              </row>
+              <row>
+                <entry>Ammonium perchlorate</entry>
+                <entry>+34</entry>
+              </row>
+              <row>
+                <entry>Potassium chlorate</entry>
+                <entry>+39.2</entry>
+              </row>
+              <row>
+                <entry>Sodium chlorate </entry>
+                <entry>+45</entry>
+              </row>
+              <row>
+                <entry>Sodium nitrate</entry>
+                <entry>+47</entry>
+              </row>
+              <row>
+                <entry>Tetranitromethane</entry>
+                <entry>+49</entry>
+              </row>
+              <row>
+                <entry>Lithium perchlorate</entry>
+                <entry>+60</entry>
+              </row>
+            </tbody>
+          </tgroup>
+<caption>Oxygen balance of selected compounds. </caption>
+        </table>
+
+      </section>
+    </section>
+  </content>
+</document>

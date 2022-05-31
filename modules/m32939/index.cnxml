@@ -1,0 +1,96 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Carbon Monoxide</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32939</md:content-id>
+  <md:title>Carbon Monoxide</md:title>
+  <md:abstract/>
+  <md:uuid>11966780-15d9-4ecb-8a9a-558bddbbc673</md:uuid>
+</metadata>
+<content>
+    <para id="id1166805964578">Carbon monoxide (CO) is iso-electronic with nitrogen (N<sub>2</sub>) and formed through the incomplete combustion of carbon, <link target-id="eip-336"/>, or hydrocarbon compounds. </para>
+
+<equation id="eip-336"><media id="id8923777_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-7077.jpg" id="id8923777__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+ 
+
+
+    
+ 
+   <para id="id1166817302758">Carbon monoxide may also be made from steam and coal as part of synthesis gas, <link target-id="eip-334"/>. A convenient laboratory preparation of CO is the dehydration of formic acid by sulfuric acid, <link target-id="eip-335"/>. </para>
+
+
+<equation id="eip-335">
+      <media id="id1166813641234_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-1ce7.jpg" id="id1166813641234__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+
+
+<equation id="eip-334">  <media id="id1166814080950_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-359c.jpg" id="id1166814080950__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+
+
+
+    <section id="id1166815575591">
+      <title>Hazards and toxicity</title>
+      <para id="id1112132">Carbon monoxide is flammable, <link target-id="eip-333"/>, and has an explosive limit of 12.5 – 74% with an auto ignition temperature of 609 °C. </para>
+
+<equation id="eip-333">     <media id="id1166812395199_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-f207.jpg" id="id1166812395199__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+   
+
+
+
+<para id="id1166807759347">Carbon monoxide is also very toxic; however, it is colorless, odorless, tasteless and non-irritating all of which increase its danger. The incomplete combustion of hydrocarbon (natural gas or heating oil) or carbon sources (coal or charcoal) is a common hazard in the home. In a closed environment (e.g., charcoal grill in room with no, or poor, ventilation) as carbon uses up oxygen in room the formation of toxic carbon monoxide results instead of carbon dioxide (CO<sub>2</sub>).Typical sources of CO in the home are shown in <link target-id="id1166802265292"/>. 
+</para>
+
+
+      <figure id="id1166802265292"><media id="id1166802265292_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-f930.jpg" id="id1166802265292__onlineimage" width="400" print-width="4in"/>
+        </media>
+
+      <caption>Potential sources of carbon in the home. Copyright: Fire Safety Council. </caption></figure>
+
+
+
+      <para id="eip-865">The toxicity of CO is due to its competition with oxygen at the heme binding site in hemoglobin. The binding affinity for CO is 200 times greater than that for oxygen, meaning that just small amounts of CO dramatically reduces hemoglobin's ability to transport oxygen around the body. The bright red color of the CO-heme complex is the reason that chronic exposure results in the skin adopting a bright red color. The symptoms of CO poisoning include headache, nausea, weakness, and eventually death. When air contains CO levels as low as 0.02%, headache and nausea occur; if the CO concentration is increased to 0.1%, unconsciousness will follow. </para><note id="eip-16">     <para id="id1166802535480">Cigarette smoke containing large amounts of carbon monoxide and as a result heavy smokers can have up to 20% of the oxygen-active sites in their blood blocked by CO. However, despite this hazard, cigarettes would be even more deadly if they were not burnt. A key (and often engineered) ingredient in cigarettes is the addictive drug nicotine. Nicotine is an alkaloid (<link target-id="id5825179"/>a) as is caffeine (<link target-id="id5825179"/>b) that is in coffee and tea. The lethal dose of caffeine is approximately 10 g, which relates to approximately 70 – 100 cups of coffee (assuming a concentration of 100- 150 mg per cup). Alternatively, a lethal dose of caffeine from cola would require approximately 180 – 280 12 oz bottles, each containing 35 – 44 mg. In comparison nicotine has a lethal dose of 50 mg. This means that 12 cigarettes can provide a lethal does if consumed. The only reason smoking 12 cigarettes do not kill immediately is that the majority of the nicotine is burnt in the smoking of the cigarette. If this were not true smokers would be killed before they could develop a habit!</para>
+
+      <figure id="id5825179">
+        <media id="id5825179_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-bda3.jpg" id="id5825179__onlineimage" width="300" print-width="3in"/>
+        </media>
+<caption>The molecular structures of (a) nicotine and (b) caffeine. </caption>
+      </figure>
+</note>
+
+
+
+ 
+
+    </section>
+
+
+
+    <section id="id1166814646328">
+      <title>Structure and bonding</title>
+      <para id="id1166812156481">The bonding in CO involves 1 σ-bond and 2 sets of π-bonds (<link target-id="id4591013"/>). The C-O bond distance in carbon monoxide is 1.1 Å and therefore consistent with a triple bond. In comparison a typical C-O single bond is <emphasis effect="italics">ca</emphasis>. 1.43 Å, and an average C-O double bond is <emphasis effect="italics">ca</emphasis>. 1.23 Å. The major absorption band in the infra red spectrum for CO is 2143 cm<sup>-1</sup>, while for <sup>13</sup>CO it is 2099.2 cm<sup>-1</sup>. </para>
+
+
+        <figure id="id4591013">
+          <media id="id4591013_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-dd20.jpg" id="id4591013__onlineimage" width="500" print-width="5in"/>
+          </media>
+<caption>The carbon monoxide molecular orbital diagram.</caption>
+        </figure>
+
+
+    </section>
+  </content>
+</document>

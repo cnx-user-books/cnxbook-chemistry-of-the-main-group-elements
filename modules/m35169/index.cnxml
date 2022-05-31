@@ -1,0 +1,39 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Reaction Chemistry of Nitrogen</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35169</md:content-id>
+  <md:title>Reaction Chemistry of Nitrogen</md:title>
+  <md:abstract/>
+  <md:uuid>4a6cc611-ac27-4ab6-b40c-897c075ab84c</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1167939221086">Despite nitrogen being the inert component of the Earth’s atmosphere, dinitrogen undergoes a range of reactions, although it only reacts with a few reagents under standard temperature and pressure. Nitrogen reacts with oxygen in an electric arc, <link target-id="eip-281"/>, both in the laboratory and within lightening strikes. </para>
+    
+    <equation id="eip-281"><media id="id1167939229853_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-3725.jpg" id="id1167939229853__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation><para id="id1167939290898">The synthesis of ammonia is accomplished by the Harber process, using an iron oxide (Fe<sub>3</sub>O<sub>4</sub>) catalyst, <link target-id="eip-673"/>, at about 500 °C and 200 atmospheres pressure.</para>
+    
+    <equation id="eip-673"><media id="id1167939163017_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-41c7.jpg" id="id1167939163017__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation><para id="id1167939088394">Nitrogen reacts with lithium metal at room temperature to form the nitride, <link target-id="eip-738"/>. Magnesium also burns in nitrogen, forming magnesium nitride, <link target-id="eip-969"/>.</para>
+    
+    <equation id="eip-738"><media id="id1167941151246_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-75e0.jpg" id="id1167941151246__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation>
+    <equation id="eip-969"><media id="id1167939196174_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics4-668a.jpg" id="id1167939196174__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation><para id="id1167939161119">Nitrogen forms complexes with transition metals yielding nitrogeno complexes, <link target-id="eip-302"/>. Under some conditions these complexes react to give ammonia, <link target-id="eip-110"/>, and as such may give a hint to the action of nitrogenase in which molybdenum in the active site. </para>
+    
+    <equation id="eip-302"><media id="id1167939161182_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics5-1b3b.jpg" id="id1167939161182__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation><equation id="eip-110"><media id="id1167939161373_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics6-8f1b.jpg" id="id1167939161373__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation>
+  </content>
+</document>

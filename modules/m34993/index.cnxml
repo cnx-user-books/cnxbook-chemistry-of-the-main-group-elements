@@ -1,0 +1,569 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Group 16 Elements: The Chalcogens</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34993</md:content-id>
+  <md:title>The Group 16 Elements: The Chalcogens</md:title>
+  <md:abstract/>
+  <md:uuid>9c474e5a-132e-4c6c-94d5-7544a4a32755</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id1168348368491">
+      <title>The elements</title>
+      <para id="id1168355263487">The Group 16 elements have a particular name chalcogenes. <link target-id="id1168349987951"/> lists the derivation of the names of the halogens. </para>
+      <table id="id1168349987951" summary="Derivation of the names of each of the Group 16(VI) elements.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Symbol</emphasis></entry>
+              <entry><emphasis effect="bold">Name</emphasis></entry>
+            </row>
+            <row>
+              <entry>Oxygen</entry>
+              <entry>O</entry>
+              <entry>Greek <emphasis effect="italics">oxys</emphasis> (<emphasis effect="italics">sharp</emphasis>, from the taste of acids) and <emphasis effect="italics">genēs</emphasis> (producer)</entry>
+            </row>
+            <row>
+              <entry>Sulfur (sulphur)</entry>
+              <entry>S</entry>
+              <entry>From the Latin <emphasis effect="italics">sulphurium</emphasis></entry>
+            </row>
+            <row>
+              <entry>Selenium</entry>
+              <entry>Se</entry>
+              <entry>Greek <emphasis effect="italics">selene</emphasis> meaning <emphasis effect="italics">Moon</emphasis></entry>
+            </row>
+            <row>
+              <entry>Tellurium </entry>
+              <entry>Te</entry>
+              <entry>Latin <emphasis effect="italics">tellus</emphasis> meaning <emphasis effect="italics">earth</emphasis></entry>
+            </row>
+            <row>
+              <entry>Polonium</entry>
+              <entry>Po</entry>
+              <entry>Named after Poland, Latin <emphasis effect="italics">Polonia</emphasis></entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Derivation of the names of each of the Group 16(VI) elements. </caption>
+</table>
+      
+      
+      <note id="eip-978">In Latin, the word is variously written <emphasis effect="italics">sulpur</emphasis>, <emphasis effect="italics">sulphur</emphasis>, and <emphasis effect="italics">sulfur</emphasis>. It is an original Latin name and not a classical Greek loan, so the <emphasis effect="italics">ph</emphasis> variant does not denote the Greek letter φ. Sulfur in Greek is <emphasis effect="italics">thion</emphasis>, whence comes the prefix <emphasis effect="italics">thio</emphasis>- to donate a sulfur derivative, e.g., a thioketone, R<sub>2</sub>C=S. The simplification of the Latin words <emphasis effect="italics">p</emphasis> or <emphasis effect="italics">ph</emphasis> to an <emphasis effect="italics">f</emphasis> appears to have taken place towards the end of the classical period. The element has traditionally been spelled sulphur in the United Kingdom, India, Malaysia, South Africa, Australia, Ireland, and Canada, but sulfur in the United States. IUPAC adopted the spelling “sulfur” in 1990, as did the Royal Society of Chemistry Nomenclature Committee in 1992. </note>
+
+<section id="id5743803">
+        <title>Discovery</title>
+        <section id="id1168350046935"><title>Oxygen</title><para id="id1168351700445">The 2<sup>nd</sup> century BC Greek writer, Philo of Byzantium, observed that inverting a jar over a burning candle and surrounding the jar’s neck with water resulted in some water rising into the neck. He incorrectly ascribed this to the idea that part of the air in the vessel were converted into the element <emphasis effect="italics">fire</emphasis> and thus were able to escape through pores in the glass. Much later Leonardo da Vinci (<link target-id=" id1168349908138"/>) suggested that this effect was actually due to a portion of air being consumed during combustion. </para>
+
+
+            <figure id="id1168349908138"><media id="id1168349908138_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics1-1c74.jpg" id="id1168349908138__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>Italian painter, sculptor, architect, musician, scientist, mathematician, engineer, inventor, anatomist, geologist, cartographer, botanist and writer Leonardo di ser Piero da Vinci (1452 - 1519). </caption></figure>
+
+          
+          <para id="id1168350030016">By the late 17<sup>th</sup> century, Robert Boyle (<link target-id="id1168349850741"/>) showed that air is necessary for combustion. His work was expanded by English chemist John Mayow (<link target-id="id7212695"/>) by showing that fire requires only a part of air that he called <emphasis effect="italics">spiritus nitroaereus</emphasis> or just <emphasis effect="italics">nitroaereus</emphasis>. </para>
+
+
+            <figure id="id1168349850741"><media id="id1168349850741_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics2-d69d.jpg" id="id1168349850741__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>British natural philosopher, chemist, physicist, and inventor Robert Boyle (1627 - 1691). </caption></figure>
+
+          
+          <figure id="id7212695"><media id="id7212695_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3-17fd.jpg" id="id7212695__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>English chemist, physician, and physiologist John Mayow FRS (1641–1679). </caption></figure>
+
+
+          <para id="id1168349988879">The reactive nature of nitroaereus was implied by Mayow from his observation that antimony (Sb) increased in weight when heated in air. He also suggested that the lungs separate nitroaereus from air and pass it into the blood and that animal heat and muscle movement result from the reaction of nitroaereus with certain substances in the body; both concepts that were proven to be correct. </para>
+
+          <para id="id1168356736812">Robert Hooke (<link target-id="id1168362506699"/>), Ole Borch (<link target-id="id1168350238583"/>), Mikhail Lomonosov (id1168366758158), and Pierre Bayen (<link target-id="id1168350106441"/>) all produced oxygen in experiments in the 17<sup>th</sup> and the 18<sup>th</sup> century but none of them recognized it as an element, probably since the prevalence at that time of the phlogiston, and their attempts to fit their experimental observations to that theory. </para>
+
+          <figure id="id1168362506699">
+            <media id="id1168362506699_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics4-d2f2.jpg" id="id1168362506699__onlineimage" width="300" print-width="2in"/>
+            </media><caption>Portrait of English natural philosopher, architect Robert Hooke FRS (1635 - 1703). </caption>
+          </figure>
+
+            <figure id="id1168350238583">
+              <media id="id1168350238583_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics5-1d80.jpg" id="id1168350238583__onlineimage" width="300" print-width="2in"/>
+              </media><caption>Danish scientist, physician, grammarian, and poet Ole Borch (1626 - 1690).</caption>
+            </figure>
+
+          <figure id="id1168366758158">
+            <media id="id1168366758158_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-d13a.jpg" id="id1168366758158__onlineimage" width="300" print-width="2in"/>
+            </media><caption>Russian scientist and writer Mikhail Vasilyevich Lomonosov (1711 - 1765). </caption>
+          </figure>
+
+
+
+            <figure id="id1168350106441">
+              <media id="id1168350106441_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics7-98d4.jpg" id="id1168350106441__onlineimage" width="300" print-width="2in"/>
+              </media><caption>French chemist and pharmacist Pierre Bayen (1725 - 1798). </caption>
+            </figure>
+
+
+
+
+
+          
+
+
+          <note id="eip-824">The phlogiston theory was postulated in 1667 by the German alchemist J. J. Becher, and modified in 1731 by the chemist Georg Ernst Stahl. Phlogiston theory stated that all combustible materials were made of two parts. One part, called <emphasis effect="italics">phlogiston</emphasis>, was given off when the substance containing it was burned, while the <emphasis effect="italics">dephlogisticated</emphasis> component was thought to be its true form, or <emphasis effect="italics">calx</emphasis>. Highly combustible materials that leave little residue (e.g., wood) were thought to mostly comprise of phlogiston, while non-combustible substances that corrode (e.g., iron) contained very little phlogiston. Air did not play a role in phlogiston theory, instead, it was based on observations of what happens when something burns, that most common objects appear to become lighter and seem to lose something in the process. However, one observation that overturned phlogiston theory was that metals, gain weight in rusting when they were supposedly losing phlogiston! </note><para id="id1168361383574">Oxygen was first discovered by Carl Wilhelm Scheele (<link target-id="id1168365304022"/>) by heating mercuric oxide (HgO). Scheele called the gas <emphasis effect="italics">fire air</emphasis> because it was the only known supporter of combustion. He wrote an account of this discovery in a manuscript (<emphasis effect="italics">Treatise on Air and Fire</emphasis>) submitted in 1775. Unfortunately for Scheele his work was not published until 1777. In August 1774, an experiment conducted by Joseph Priestley (<link target-id="id1168358337172"/>) sunlight on mercuric oxide (HgO) inside a glass tube, which liberated a gas he named <emphasis effect="italics">dephlogisticated air</emphasis>. Priestley noted that candles burned brighter in this gas. He even went as far as breathing the gas himself, after which he wrote: "The feeling of it to my lungs was not sensibly different from that of common air, but I fancied that my breast felt peculiarly light and easy for some time afterwards." Priestley published his findings in 1775. Because he published his findings first, Priestley is usually given credit for the discovery of what became known as oxygen. </para>
+
+
+            <figure id="id1168365304022"><media id="id1168365304022_media" alt="">
+                <image mime-type="image/png" src="../../media/graphics8-4173.png" id="id1168365304022__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>Swedish chemist Carl Wilhelm Scheele (1742 – 1786). Isaac Asimov called him "hard-luck Scheele" because he made a number of chemical discoveries before others who are generally given the credit.</caption></figure>
+
+
+          
+          <figure id="id1168358337172"><media id="id1168358337172_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics9-79e1.jpg" id="id1168358337172__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Portrait (by Ellen Sharples) of British clergyman natural philosopher, educator, and political theorist Joseph Priestley (1733 - 1804). </caption></figure>
+          
+          <para id="id1168361676048">Interestingly, Lavoisier (<link target-id=" id1168350048385"/>) claimed to have discovered this new substance independently. However, Priestley visited Lavoisier in October 1774 and told him about his experiment and how he liberated the new gas. Furthermore, Scheele also posted a letter to Lavoisier on September 30, 1774 that described his own discovery. Lavoisier never acknowledged receiving it, however, a copy of the letter was found in Scheele's belongings after his death. </para>
+
+
+          <figure id="id1168350048385"><media id="id1168350048385_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics10-8c05.jpg" id="id1168350048385__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Line engraving (by Louis Jean Desire Delaistre) of the French chemist and biologist Antoine-Laurent de Lavoisier (1743 - 1794) often refereed to as the <emphasis effect="italics">father of modern chemistry</emphasis> due to his extensive contributions. </caption></figure>
+          
+          <para id="id1168353081908">Raoul Pictet (<link target-id="id1168350642910"/>) showed that by the evaporation of liquid sulfur dioxide (SO<sub>2</sub>), carbon dioxide could be liquefied, which in turn was evaporated to cool oxygen gas enough to liquefy it. Pictet reported his results on December 22, 1877. Two days later, Louis Cailletet (<link target-id="id1168360454043"/>) announced his own method of liquefying oxygen. In both cases only a few drops could be produced, making analysis difficult. In 1891 James Dewar (<link target-id="id1168349993113"/>) was able to produce enough liquid oxygen to study. However, it was the process developed independently by Carl von Linde (<link target-id="id1168355222806"/>) and William Hampson (1854 - 1926). </para>
+
+            <figure id="id1168350642910"><media id="id1168350642910_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics11-c1d5.jpg" id="id1168350642910__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>Swiss chemist and physicist Raoul Pierre Pictet (1846 - 1929). </caption></figure>
+
+          
+          <figure id="id1168360454043"><media id="id1168360454043_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics12-e64b.jpg" id="id1168360454043__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>French physicist Louis Paul Cailletet (1832 - 1913). </caption></figure>
+          
+
+            <figure id="id1168349993113"><media id="id1168349993113_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics13-e8d6.jpg" id="id1168349993113__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>Scottish chemist and physicist Sir James Dewar FRS (1842 - 1923). </caption></figure>
+
+          
+          <figure id="id1168355222806"><media id="id1168355222806_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics14-4016.jpg" id="id1168355222806__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>German engineer Carl Paul Gottfried von Linde (1842 - 1934). </caption></figure>
+          
+        </section>
+        <section id="id1168350010137">
+          <title>Sulfur</title>
+          <para id="id7407591">Sulfur was known in ancient times and is referred to in the Bible. English translations of the Bible commonly referred to burning sulfur as <emphasis effect="italics">brimstone</emphasis>, giving rise to the name of <emphasis effect="italics">fire-and-brimstone</emphasis> sermons, in which listeners are reminded of the fate of eternal damnation that await the unbelieving and unrepentant. It is from this part of the Bible that Hell is implied to <emphasis effect="italics">smell of sulfur</emphasis> (likely due to its association with volcanic activity). Sulfur ointments were used in ancient Egypt, while it was used for fumigation in Greece. A natural form of sulfur known as <emphasis effect="italics">shiliuhuang</emphasis> was known in China since the 6<sup>th</sup> century BC. However, it was not until 1777 that  Lavoisier (<link target-id="id1168350048385"/>) convinced the scientific community that sulfur was an element and not a compound. </para>
+        </section>
+        <section id="id1168348704061">
+          <title>Selenium</title>
+          <para id="id1168353167909">The element was discovered in 1817 by Berzelius (<link target-id="id1168351941359"/>), who found the element associated with tellurium. It was discovered as a byproduct of sulfuric acid production. </para>
+          <figure id="id1168351941359"><media id="id1168351941359_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics15-54da.jpg" id="id1168351941359__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Swedish chemist Jöns Jacob Berzelius (1779 - 1848).</caption></figure>
+          
+        </section>
+        <section id="id1168351882083"><title>Tellurium</title><para id="id1168362454288">Tellurium was discovered in the 18<sup>th</sup> century in gold ore from the mines in Zlatna, Transylvania. In 1782 Müller von Reichenstein (<link target-id="id1168349972871"/>), the Hungarian chief inspector of mines in Transylvania, concluded that the ore was bismuth sulfide. However, the following year, he reported that this was erroneous and that the ore contained mostly gold and an unknown metal very similar to antimony. After three years of work Müller determined the specific gravity of the mineral and noted the radish-like smell of the white smoke evolved when the new metal was heated. Nevertheless, he was not able to identify this metal and gave it the names <emphasis effect="italics">aurum paradoxium</emphasis> and <emphasis effect="italics">metallum problematicum</emphasis>, as it did not show the properties predicted for the expected antimony. </para>
+          <figure id="id1168349972871"><media id="id1168349972871_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics16-8887.jpg" id="id1168349972871__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>A stamp showing Hungarian mineralogist Franz-Joseph Müller von Reichenstein (1742 - 1825). </caption></figure>
+          
+          <para id="id1168358721098">In 1789 Kitaibel (<link target-id="id1168366476117"/>) also discovered the element independently in an ore from Deutsch-Pilsen which had been regarded as <emphasis effect="italics">argentiferous molybdenite</emphasis>, but later he gave the credit to Müller. In 1798, the name was chosen by Klaproth (<link target-id="id1168363408405"/>) who earlier isolated it from the mineral calaverite. </para>
+          <figure id="id1168366476117"><media id="id1168366476117_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics17-f19b.jpg" id="id1168366476117__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Hungarian botanist and chemist Pál Kitaibel (1757 - 1817). </caption></figure>
+          
+
+            <figure id="id1168363408405"><media id="id1168363408405_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics18-71fe.jpg" id="id1168363408405__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>Figure. German chemist Martin Heinrich Klaproth (1743 –1817).</caption></figure>
+
+          
+        </section>
+        <section id="id1168361369367">
+          <title>Polonium</title>
+          <para id="id1168348726196">Temporarily called <emphasis effect="italics">radium F</emphasis>, polonium was discovered by Marie Curie and her husband Pierre Curie (<link target-id="id1168361368058"/>) in 1898, but it was later named after Marie Curie's native land of Poland. At the time Poland was not an independent country, but partitioned under Russian, Prussian, and Austrian. It was Curie's hope that naming the element after her native land would publicize its lack of independence. Polonium was the first chemical element named to highlight a political controversy. </para>
+          <figure id="id1168361368058"><media id="id1168361368058_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics19-e02a.jpg" id="id1168361368058__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Pierre (1859 - 1906) and Marie Skłodowska-Curie (1867 - 1934) in their Paris laboratory. </caption></figure>
+          
+        </section>
+      </section>
+      <section id="id1168365704944">
+        <title>Abundance</title>
+        <para id="id1168351987394">The abundance of the chalcogenes is given in <link target-id="id1168348731894"/>. </para>
+        <table id="id1168348731894" summary="Abundance of Group 16 elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Terrestrial abundance (ppm)</emphasis></entry>
+              </row>
+              <row>
+                <entry>O</entry>
+                <entry>47 x 10<sup>4</sup> (Earth’s crust), constituent of water, 21 x 10<sup>4</sup> (atmosphere)</entry>
+              </row>
+              <row>
+                <entry>S</entry>
+                <entry>260 (Earth’s crust), 870 (sea water), 10<sup>-3</sup> (atmosphere)</entry>
+              </row>
+              <row>
+                <entry>Se</entry>
+                <entry>0.05 (Earth’s crust), 5 (soil), 0.2 x 10<sup>-3</sup> (sea water)</entry>
+              </row>
+              <row>
+                <entry>Te</entry>
+                <entry>5 x 10-3 (Earth’s crust), 0.03 (soil), 0.15 x 10<sup>-6</sup> (sea water)</entry>
+              </row>
+              <row>
+                <entry>Po</entry>
+                <entry>Trace (Earth’s crust)</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Abundance of Group 16 elements. </caption>
+</table>
+        
+      </section>
+      <section id="id1168367378476">
+        <title>Isotopes</title>
+        <para id="id1168351785286">The naturally abundant isotopes of the Group 16 elements are listed in <link target-id="id1168350248213"/>. All of the isotopes of polonium are radioactive.</para>
+        <table id="id1168350248213" summary="Abundance of the non-synthetic isotopes of the Group 16 elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Isotope</emphasis></entry>
+                <entry><emphasis effect="bold">Natural abundance (%)</emphasis></entry>
+              </row>
+              <row>
+                <entry>Oxygen-16</entry>
+                <entry>99.76</entry>
+              </row>
+              <row>
+                <entry>Oxygen-17</entry>
+                <entry>0.039</entry>
+              </row>
+              <row>
+                <entry>Oxygen-18</entry>
+                <entry>0.201</entry>
+              </row>
+              <row>
+                <entry>Sulfur-32</entry>
+                <entry>95.02</entry>
+              </row>
+              <row>
+                <entry>Sulfur-33</entry>
+                <entry>0.75</entry>
+              </row>
+              <row>
+                <entry>Sulfur-34</entry>
+                <entry>4.21</entry>
+              </row>
+              <row>
+                <entry>Sulfur-36</entry>
+                <entry>0.02</entry>
+              </row>
+              <row>
+                <entry>Selenium-74</entry>
+                <entry>0.87</entry>
+              </row>
+              <row>
+                <entry>Selenium-76</entry>
+                <entry>9.36</entry>
+              </row>
+              <row>
+                <entry>Selenium-77</entry>
+                <entry>7.63</entry>
+              </row>
+              <row>
+                <entry>Selenium-78</entry>
+                <entry>23.78</entry>
+              </row>
+              <row>
+                <entry>Selenium-80</entry>
+                <entry>49.61</entry>
+              </row>
+              <row>
+                <entry>Tellurium-120</entry>
+                <entry>0.09</entry>
+              </row>
+              <row>
+                <entry>Tellurium-122</entry>
+                <entry>2.55</entry>
+              </row>
+              <row>
+                <entry>Tellurium-123</entry>
+                <entry>0.89</entry>
+              </row>
+              <row>
+                <entry>Tellurium-124</entry>
+                <entry>4.74</entry>
+              </row>
+              <row>
+                <entry>Tellurium-125</entry>
+                <entry>7.07</entry>
+              </row>
+              <row>
+                <entry>Tellurium-126</entry>
+                <entry>18.84</entry>
+              </row>
+              <row>
+                <entry>Tellurium-128</entry>
+                <entry>31.74</entry>
+              </row>
+              <row>
+                <entry>Tellurium-130</entry>
+                <entry>34.08</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Abundance of the non-synthetic isotopes of the Group 16 elements. </caption>
+</table>
+        
+        <para id="id1168366279683">There are 38 known nuclear isomers of tellurium with atomic masses that range from 105 to 142. Tellurium is the lightest element known to undergo alpha decay, with isotopes <sup>106</sup>Te to <sup>110</sup>Te being able to undergo this mode of decay. </para>
+        <section id="id1168350288452">
+          <title>Cigarettes: it is not only the smoke that kills, but also the radioactivity </title>
+          <para id="id1168360221174">Ever since the early 1960s, the presence of polonium-210 in tobacco smoke has been known. The world's biggest tobacco firms spent over 40 years trying to find ways to remove the polonium-210 without success: even to this day. However, they also never published the results, keeping the facts of the radioactive hazards from the consumer. </para>
+          <para id="id1168349924219">Radioactive polonium-210 is contained in phosphate fertilizers and is absorbed by the roots of plants (such as tobacco) and stored in its tissues. Tobacco plants fertilized by rock phosphates contain polonium-210, which emits alpha radiation estimated to cause about 11,700 lung cancer deaths annually worldwide. </para>
+        </section>
+      </section>
+    </section>
+    <section id="id1168363860367">
+      <title>Industrial production of the elements</title>
+      <section id="id1168351630150">
+        <title>Sulfur</title>
+        <para id="id1168359524771">Elemental sulfur is found near hot springs and volcanic regions in many parts of the world. Volcanic deposits are mined in Indonesia, Chile, and Japan. Significant deposits of sulfur also exist in salt domes along the coast of the Gulf of Mexico, and in eastern Europe and western Asia. The sulfur in these deposits is believed to come from the action of anaerobic bacteria on sulfate minerals. However, fossil-based sulfur deposits from salt domes are the basis for commercial production in the United States, Poland, Russia, Turkmenistan, and Ukraine.Sulfur is mainly extracted from natural sources by two processes: the Sicilian process and the Frasch process. </para>
+        <section id="id1168355835094">
+          <title>Sicilian process</title>
+          <para id="id1168363966933">First used in Sicily from where it takes its name, the Sicilian process was used in ancient times to get sulfur from rocks present in volcanic regions. The sulfur deposits are piled and stacked in brick kilns built on sloping hillsides, and with airspaces between them (<link target-id="id1168355849633"/>). Then powdered sulfur is put on top of the sulfur deposit and ignited. As the sulfur burns, the heat melts the sulfur deposits, causing the molten sulfur to flow down the sloping hillside. The molten sulfur can then be collected in wooden buckets. The sulfur produced by the Sicilian process must be purified by distillation.</para>
+          <figure id="id1168355849633"><media id="id1168355849633_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics20-5540.jpg" id="id1168355849633__onlineimage" width="300" print-width="3in"/>
+            </media>
+          <caption>Extraction of sulfur by the Sicilian process. </caption></figure>
+          
+        </section>
+        <section id="id1168351821539"><title>Frasch process</title><para id="id1168351924972">In 1867, sulfur was discovered in the caprock of a salt dome in Louisiana; however, it was beneath quicksand, which prevented mining. In 1894 Herman Frasch (<link target-id="id1168359954124"/>), devised a method of sulfur removal using pipes to bypass the quicksand. The process proved successful, but the high cost of fuel needed to heat the water made the process uneconomic until the 1901 discovery of the Spindletop oil field in Texas (<link target-id="id1168347765561"/>) provided cheap fuel oil to the region.</para>
+
+            <figure id="id1168359954124"><media id="id1168359954124_media" alt="">
+                <image mime-type="image/png" src="../../media/graphics21-a20d.png" id="id1168359954124__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>German-born American chemist Herman Frasch (1851 - 1914). </caption></figure>
+
+          
+          <figure id="id1168347765561"><media id="id1168347765561_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics22-17fe.jpg" id="id1168347765561__onlineimage" width="400" print-width="3in"/>
+            </media>
+          <caption>Spindletop oil field in Beaumont, Texas. </caption></figure>
+          
+          <para id="id1168359021668">In the Frasch process three concentric pipes to extract sulfur at high purity directly out of the ground (<link target-id="id1168358406292"/>). Superheated steam (160 °C) is pumped down the outermost pipe, which melts the sulfur. Hot compressed air is pumped down the innermost pipe, which serves to create foam and pressure. The resulting molten sulfur foam is then expelled through the middle pipe. The Frasch process produces sulfur with 99.5% purity, which needs no further purification. </para>
+
+            <figure id="id1168358406292"><media id="id1168358406292_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics23-adf6.jpg" id="id1168358406292__onlineimage" width="350" print-width="3.5in"/>
+              </media>
+            <caption>Schematic diagram of the Frasch process. </caption></figure>
+
+          
+          <para id="id1168357558554">Most of the world's sulfur was obtained using the Frasch process until the late 20<sup>th</sup> century, when sulfur recovered from petroleum sources (recovered sulfur) became more commonplace. </para>
+        </section>
+      </section>
+      <section id="id7964536"><title>Selenium</title><para id="id1168350132634">Elemental selenium is a rare mineral, and most elemental selenium comes as a byproduct of refining copper or producing sulfuric acid. Isolation of selenium begins by oxidation with sodium carbonate to produce selenium dioxide. The selenium dioxide is then mixed with water and the solution is acidified to form selenous acid (oxidation step). Selenous acid is bubbled with sulfur dioxide (reduction step) to give elemental selenium. </para>
+        <para id="id1168349927931">Elemental selenium produced by chemical reactions appears as the amorphous red form. When the red form is rapidly melted, it forms the black, vitreous form. The most thermodynamically stable and dense form of selenium is the electrically conductive gray (trigonal) form, which is composed of long helical chains of selenium atoms (<link target-id="id1168349952291"/>). The conductivity of this form is notably light sensitive. Selenium also exists in three different deep-red crystalline monoclinic forms, which is composed of Se<sub>8</sub> molecules, similar to many allotropes of sulfur. </para>
+
+
+        <figure id="id1168349952291"><media id="id1168349952291_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics29-9507.jpg" id="id1168349952291__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>The structure of trigonal selenium. </caption></figure>
+
+      </section>
+      <section id="id1168352703960">
+        <title>Tellurium</title>
+        <para id="id1168359373234">The principal source of tellurium is from anode sludges produced during the electrolytic refining of copper. Treatment of 500 tons of copper ore typically yields 1 lb (0.45 kg) of tellurium. The anode sludges contain the selenides and tellurides of the noble metals in compounds with the formula M<sub>2</sub>Se or M<sub>2</sub>Te (M = Cu, Ag, Au). At temperatures of 500 °C the anode sludges are roasted with sodium carbonate (Na<sub>2</sub>CO<sub>3</sub>) under air. The metals are reduced to the metals, while the tellurium is converted to sodium tellurite, <link target-id="eip-898"/>. </para>
+        
+        <equation id="eip-898"><media id="id1168350106731_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics24-0116.jpg" id="id1168350106731__onlineimage" width="500" print-width="4.5in"/>
+            </media></equation><para id="id1168365674536">Tellurites can be extracted from the mixture with water and are normally present as hydrotellurites HTeO<sub>3</sub><sup>-</sup> in solution.Selenates are also formed during this process, but they can be separated by adding sulfuric acid. The hydrotellurites are converted into the insoluble tellurium dioxide while the selenites stay in solution, <link target-id=" eip-920"/>. </para>
+        
+        <equation id="eip-920"><media id="id1168364956421_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics25-61cd.jpg" id="id1168364956421__onlineimage" width="500" print-width="4.5in"/>
+            </media></equation><para id="id1168359008166">The reduction to the metal is done either by electrolysis or by reacting the tellurium dioxide with sulfur dioxide in sulfuric acid, <link target-id=" eip-416"/>. </para><equation id="eip-416"><media id="id1168349918419_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics26-beb4.jpg" id="id1168349918419__onlineimage" width="500" print-width="4.5in"/>
+            </media></equation>
+        
+      </section>
+      <section id="id1168367359290">
+        <title>Physical properties</title>
+        <para id="id1168359082059">The physical properties of the Group 16 elements encompasses a gas (O<sub>2</sub>), a non-metallic solid (S<sub>2</sub>), and metals (Se, Te, Po), <link target-id="id1168363474072"/>. </para>
+        <table id="id1168363474072" summary="Selected physical properties of the Group 16 elements.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+                <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold">Density (g/cm<sup>3</sup>)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>O</entry>
+                <entry>-218.79</entry>
+                <entry>-182.95</entry>
+                <entry>1.429 g/L</entry>
+              </row>
+              <row>
+                <entry>S</entry>
+                <entry>115.21</entry>
+                <entry>444.6</entry>
+                <entry>1.819</entry>
+              </row>
+              <row>
+                <entry>Se</entry>
+                <entry>221</entry>
+                <entry>685</entry>
+                <entry>4.81 (gray), 4.39 (alpha), 4.28 (vitreous)</entry>
+              </row>
+              <row>
+                <entry>Te</entry>
+                <entry>449.51</entry>
+                <entry>988</entry>
+                <entry>6.24 (solid), 5.70 (liquid)</entry>
+              </row>
+              <row>
+                <entry>Po</entry>
+                <entry>254</entry>
+                <entry>962</entry>
+                <entry>9.196 (alpha), 9.398 (beta)</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>Selected physical properties of the Group 16 elements. </caption>
+</table>
+        
+      </section>
+      <section id="id1168365686931"><title>Vapor phase</title><para id="id1168349249836">The lighter Group 16 elements form X<sub>2</sub> dimers in the vapor phase. Sulfur also forms higher allotropes in the vapor phase (e.g., S<sub>8</sub> and S<sub>6</sub>), while selenium and tellurium forms atomic vapor in addition to the dimmers. Unlike dihydrogen, however, the bonding is associated with the molecular orbital combination of the two π-orbitals (<link target-id="id1168361048095"/>). All of the dimeric X<sub>2</sub> molecules are paramagnetic. </para>
+
+          <figure id="id1168361048095"><media id="id1168361048095_media" alt="">
+              <image mime-type="image/jpg" src="../../media/FigO2.jpg" id="id1168361048095__onlineimage" width="350" print-width="3.5in"/>
+            </media>
+          <caption>Molecular orbital diagram for the formation of O<sub>2</sub>. </caption></figure>
+
+        
+      </section>
+      <section id="id1168360566358"><title>Solid state</title><para id="id1168360223400">While sulfur forms over 30 allotropes, the common form of sulfur is cyclooctasulfur (S8) has three main allotropes: Sα, Sβ, and Sγ. The orthorhombic form (Sα) is more stable up to 95 °C, while the β-form is the thermodynamic form. The lone pairs of electrons make the S-S-S bend (108°), resulting in S<sub>8</sub> having the shape of a crown (<link target-id="id1168350029900"/>). When sulfur melts the S<sub>8</sub> molecules break up. When suddenly cooled, long chain molecules are formed in the plastic sulfur that, behave as rubber. Plastic sulfur transform into rhombic sulfur over time. </para>
+
+        <figure id="id1168350029900"><media id="id1168350029900_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics28-b6c3.jpg" id="id1168350029900__onlineimage" width="250" print-width="2.5in"/>
+          </media>
+        <caption>The structure of S<sub>8</sub>. </caption></figure>
+
+        
+
+        <para id="id1168354339553">Elemental selenium produced in chemical reactions appears as the amorphous red form. When rapidly melted, it forms the black, vitreous form, which is usually sold industrially as beads. The most thermodynamically stable and dense form of selenium is the electrically conductive gray (trigonal) form, which is composed of long helical chains of selenium atoms (<link target-id="id1168349952291"/>). The conductivity of gray selenium is light sensitive and is hence used in photocopiers. Selenium also exists in three different deep-red crystalline monoclinic forms, which are composed of Se8 molecules, similar to many allotropes of sulfur. Unlike sulfur, however, selenium does not undergo the changes in viscosity when heated. </para>
+        
+        <para id="id1168349815137">Tellurium is a crystalline metal with a triginal structure (<emphasis effect="italics">a</emphasis> = 4.4572 Å, <emphasis effect="italics">c</emphasis> = 5.929 Å). Polonium has a simple cubic structure in it’s a form (<emphasis effect="italics">a</emphasis> = 3.359 Å)</para>
+      </section>
+    </section>
+    <section id="id1168355269589">
+      <title>Compounds of the Group 16 elements. </title>
+      <para id="id1168351376018">The chemistry of the Group 16 elements is dominated by the stability of the -2 oxidation state and the noble gas configuration of the X<sup>2-</sup> anion. </para>
+      <section id="id2411251">
+        <title>Oxidation state</title>
+        <para id="id6236329">The electronegativity of oxygen (3.5) results in it having predominantly -2 oxidation state, however, sulfur, selenium and tellurium all for compounds with higher oxidation states, especially with oxygen (<link target-id="id1168351958395"/>). </para>
+        <table id="id1168351958395" summary="Examples of oxidation states in compounds of the Group 16 elements.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">-2</emphasis></entry>
+                <entry><emphasis effect="bold">-1</emphasis></entry>
+                <entry><emphasis effect="bold">+4</emphasis></entry>
+                <entry><emphasis effect="bold">+6</emphasis></entry>
+              </row>
+              <row>
+                <entry>O</entry>
+                <entry>Na<sub>2</sub>O, H<sub>2</sub>O</entry>
+                <entry>H<sub>2</sub>O<sub>2</sub></entry>
+                <entry>-</entry>
+                <entry>-</entry>
+              </row>
+              <row>
+                <entry>S</entry>
+                <entry>H<sub>2</sub>S</entry>
+                <entry>H<sub>2</sub>S<sub>2</sub></entry>
+                <entry>SO<sub>2</sub></entry>
+                <entry>H<sub>2</sub>SO<sub>4</sub>, SO<sub>3</sub></entry>
+              </row>
+              <row>
+                <entry>Se</entry>
+                <entry>H<sub>2</sub>Se</entry>
+                <entry>H<sub>2</sub>Se<sub>2</sub></entry>
+                <entry>SeO<sub>2</sub></entry>
+                <entry>SeF<sub>4</sub></entry>
+              </row>
+              <row>
+                <entry>Te</entry>
+                <entry>H<sub>2</sub>Te</entry>
+                <entry><sup>t</sup>Bu<sub>2</sub>Te<sub>2</sub></entry>
+                <entry>TeO<sub>2</sub></entry>
+                <entry>Te(OH)<sub>6</sub></entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>Examples of oxidation states in compounds of the Group 16 elements. </caption>
+</table>
+        
+      </section>
+      <section id="id1168367375375">
+        <title>Catenation</title>
+        <para id="id1168349942199">Catenation is the ability of a chemical element to form a long chain-like structure via a series of covalent bonds. Although oxygen shows this property only in the existence of ozone, sulfur is second only to carbon in exhibiting this mode of combination; the chalcogens beyond sulfur show it to diminishing degrees, polonium having no tendency to catenate.</para>
+        <para id="id1168355876374">When aqueous metal sulfide salts are heated with elemental sulfur a range of polysulfide ions are formed, <link target-id="eip-528"/>. When alkali polysulfides dissolve in polar solvents (e.g., DMF or DMSO) a deep blue solution is formed. The absorption (λ<sub>max</sub> = 610 nm) is associated with the radical anion, S<sub>3</sub><sup>-</sup>. While, polyselenides and polytellurides are less common, the Se<sub>3</sub><sup>2-</sup> and Te<sub>3</sub><sup>2-</sup> ions are known.</para>
+        
+        <equation id="eip-528"><media id="id1168365566663_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics30-fcd2.jpg" id="id1168365566663__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id1168348513688">The term <emphasis effect="italics">polysulfide</emphasis> often refers to a class of polymers with alternating chains of several sulfur atoms and hydrocarbon substituents. The general formula is R<sub>2</sub>Sn, where n ranges from 2 – 10. For the selenium and tellurium analogs the extent of catenation is far more limited. </para>
+      </section>
+    </section>
+    <section id="id1168368185382">
+      <title>Bibliography</title>
+      <list id="id1168364118623" list-type="bulleted">
+        <item>D. Barisic, S. Lulic, and P. Miletic, <emphasis effect="italics">Water Research</emphasis>, 1992, <emphasis effect="bold">26</emphasis>, 607. </item>
+        <item>M. Davies, <emphasis effect="italics">History of Science, </emphasis>1989, <emphasis effect="bold">22</emphasis>, 63.</item>
+        <item>T. F. Kelley, <emphasis effect="italics">Science</emphasis>, 1965, <emphasis effect="bold">149</emphasis>, 537. </item>
+        <item>M. B. Power, J. W. Ziller, A. N. Tyler, and A. R. Barron, <emphasis effect="italics">Organometallics</emphasis>., 1992, <emphasis effect="bold">11</emphasis>, 1055. </item>
+      </list>
+    </section>
+  </content>
+</document>

@@ -1,0 +1,207 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Hydrazine</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33041</md:content-id>
+  <md:title>Hydrazine</md:title>
+  <md:abstract/>
+  <md:uuid>78e3a376-4575-4bbf-8c13-540cc50f0b3a</md:uuid>
+</metadata>
+<content>
+    <para id="id1168437310529">Hydrazine (N<sub>2</sub>H<sub>4</sub>) is a colorless liquid with an odor similar to ammonia. Hydrazine has physical properties very close to water, with a melting point of 2 °C and a boiling point of 114 °C. The similarity in its chemistry to water is as a result of strong intermolecular hydrogen bonding. </para>
+
+    <note id="eip-290" type="warning">Hydrazine is highly toxic and dangerously unstable, and is usually handled as aqueous solution for safety reasons. Even so, hydrazine hydrate causes severe burns on the skin and eyes. Contact with transition metals, their oxides (e.g., rust), or salts cause catalytic decomposition and possible ignition of evolved hydrogen. Reactions with oxidants are violent. </note>
+    
+
+    <section id="id1168440298991">
+
+      <title>Synthesis</title>
+      <para id="id7950632">Hydrazine is manufactured on the industrial scale by the Olin Raschig process using the reaction of a sodium hypochlorite solution with ammonia at 5 °C to form chloramine (NH<sub>2</sub>Cl) and sodium hydroxide, <link target-id="eip-22220"/>. The chloramines solution is the reacted with ammonia under pressure at 130 °C, <link target-id="eip-22221"/>. Ammonia is used in a 33 fold excess. </para>
+
+<equation id="eip-22220">       <media id="id3129409_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-e878.jpg" id="id3129409__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+   
+
+
+<equation id="eip-22221">   <media id="id1168440697094_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-10be.jpg" id="id1168440697094__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+   
+
+
+      <para id="id6387210">If transition metals are present then decomposition occurs, <link target-id="eip-22222"/>, and therefore, ethylenediaminetetraacetic acid (EDTA, <link target-id="id1168442753501"/>) is added to complex the transition metal ions. The as produced hydrazine solution can be concentrated by distillation to give a 65% solution. Anhydrous hydrazine is formed by the distillation from NaOH.</para>
+
+<equation id="eip-22222">   <media id="id4191791_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-7589.jpg" id="id4191791__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+     
+
+
+      <figure id="id1168442753501">
+        <media id="id1168442753501_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-b478.jpg" id="id1168442753501__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+<caption>The structure of ethylenediaminetetraacetic acid (EDTA). </caption>
+      </figure>
+
+
+
+      <para id="id7616441">Alternative routes to hydrazine include the oxidation of urea with sodium hypochlorite, <link target-id="eip-22223"/>, and the reaction of ammonia and hydrogen peroxide, <link target-id="eip-22224"/>. </para>
+
+<equation id="eip-22223">   <media id="id7126071_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-8c69.jpg" id="id7126071__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+     
+<equation id="eip-22224">
+        <media id="id1168442728719_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-0ada.jpg" id="id1168442728719__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+
+    </section>
+
+    <section id="id1168442528702">
+
+
+      <title>Structure</title>
+      <para id="id1168442771013">The nitrogen atoms in hydrazine adopt sp<sup>3</sup> hybridization (<link target-id="id9010420"/>a), and molecule adopts a <emphasis effect="italics">gauche</emphasis> conformation in the vapor, liquid and solid states (<link target-id="id9010420"/>b). </para>
+
+      <figure id="id9010420">
+        <media id="id9010420_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-fb45.jpg" id="id9010420__onlineimage" width="300" print-width="2.5in"/>
+        </media>
+<caption>The structure of hydrazine. </caption>
+      </figure>
+
+
+
+      <para id="id1168442734635">In a similar manner to ammonia, <link target-id="eip-22225"/>, hydrazine is a self-ionizing, <link target-id="eip-22226"/>. While there is a wide range of salts of the N<sub>2</sub>H<sub>5</sub><sup>+</sup> cation, only the sodium and potassium salts of N<sub>2</sub>H<sub>3</sub><sup>-</sup> are stable. </para>
+
+<equation id="eip-22225"> <media id="id1168437342125_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-5b2e.jpg" id="id1168437342125__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+       
+<equation id="eip-22226">   <media id="id1168437288514_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-0fc1.jpg" id="id1168437288514__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+     
+
+
+
+    </section>
+    <section id="id5551411">
+      <title>Reaction chemistry and uses</title>
+
+      <para id="id1168437373645">Hydrazine is polar, highly ionizing, and forms stable hydrogen bonds, and its resemblance to water is reflected in the formation of aqueous solutions and hydrates. In the solid state the monohydrate is formed, i.e., N<sub>2</sub>H<sub>4</sub>.H<sub>2</sub>O. In solution hydrazine acts as a base to form the hydrazinium ion, <link target-id="eip-22227"/> where K<sub>b</sub> = 8.5 x 10<sup>-7</sup>. The presence of a second Lewis base site means that hydrazine can be protonated twice to form the hydrazonium ion, <link target-id="eip-22228"/> where K<sub>b</sub> = 8.9 x 10<sup>-16</sup>. Salts of the cation N<sub>2</sub>H<sub>5</sub><sup>+</sup> are stable in water; however, the salts of the dication are less stable.</para>
+
+<equation id="eip-22227"> <media id="id1168442695498_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-8712.jpg" id="id1168442695498__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+       
+
+
+<equation id="eip-22228">   <media id="id1168442547552_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-5b9a.jpg" id="id1168442547552__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+     
+
+
+
+      <para id="id1168444858526">The reaction of hydrazine with oxygen is highly favored, <link target-id="eip-22229"/>, and the explosive limit is 1.8 – 100 vol%. </para>
+
+<equation id="eip-22229"><media id="id6508874_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-9d4f.jpg" id="id6508874__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+
+      <para id="id8478804">Hydrazine is useful in a number of organic reactions for the synthesis of a wide range of compounds used in pharmaceuticals, textile dyes, and in photography, including: </para>
+
+      <list id="id1168442563086" list-type="bulleted">
+        <item>Hydrazone formation, <link target-id="eip-22230"/> and <link target-id="eip-22231"/>. </item>
+        <item>Alkyl-substituted hydrazine synthesis via direct alkylation with alkyl halides. </item>
+        <item>Reaction with 2-cyanopyridines to form amide hydrazides, which can be converted using 1,2-diketones into triazines. </item>
+        <item id="id1168442722397">Use in the Wolff-Kishner reduction that transforms the carbonyl group of a ketone or aldehyde into a methylene (or methyl) group via a hydrazone intermediate, <link target-id="eip-22232"/>. </item>
+        <item>As a building block for the preparation of many heterocyclic compounds via condensation with a range of difunctional electrophiles. </item>
+        <item>Cleavage N-alkylated phthalimide derivatives. </item>
+        <item>As a convenient reductant because the by-products are typically nitrogen gas and water. </item>
+      </list>
+
+<equation id="eip-22230">     <media id="id1168442545174_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-78bc.jpg" id="id1168442545174__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+     
+
+<equation id="eip-22231"><media id="id1168430583560_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-10fd.jpg" id="id1168430583560__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</equation>
+
+          
+
+<equation id="eip-22232">  <media id="id3726358_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-d76d.jpg" id="id3726358__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+        
+
+
+      <section id="id1168443042937">
+        <title>Messerschmitt Me 163 Komet</title>
+
+        <para id="id1168442712959">Designed by Alexander Lippisch (<link target-id="id7264565"/>), the Messerschmitt Me 163B Komet (<link target-id="id4646883"/>) was the first rocket-powered fighter plane. With a top speed of around 596 mph (Mach 0.83) and a service ceiling of 40,000 ft, the Komet’s performance of the Me 163B far exceeded that of contemporary piston engine fighters. However, despite its impressive performance, it was only produced in limited numbers (<emphasis effect="italics">ca</emphasis>. 370 as compared to the 1,430 built of its jet powered compatriot the Me 262) and was not an effective combat airplane. </para>
+
+        <figure id="id7264565">
+          <media id="id7264565_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-ee63.jpg" id="id7264565__onlineimage" width="300" print-width="2in"/>
+          </media>
+<caption>German pioneer of aerodynamics Alexander Martin Lippisch (1894 – 1976).</caption>
+        </figure>
+
+
+
+
+
+          <figure id="id4646883"><media id="id4646883_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics17-0a29.jpg" id="id4646883__onlineimage" width="400" print-width="4in"/>
+            </media>
+
+          <caption>The Messerschmitt Me 163B-1. </caption></figure>
+
+
+
+
+
+        <para id="id6348133">The Komet was powered by the HWK 109-509 <emphasis effect="italics">hot engine</emphasis> (<link target-id="id1168442532936"/>) that used a mixture of a fuel and an oxidizer. The fuel was a mixture of hydrazine hydrate (30%), methanol (57%), and water (13%) that was designated by the code name, <emphasis effect="italics">C-Stoff</emphasis>, that burned with the oxygen-rich exhaust from hydrogen peroxide (<emphasis effect="italics">T-Stoff</emphasis>) used as the oxidizer. The C-Stoff was stored in a glass tank on the plane, while the T-Stoff was stored in an aluminum container. An oxidizing agent cocktail of CaMnO<sub>4</sub> and/or K<sub>2</sub>CrO<sub>4</sub> was added to the <emphasis effect="italics">T-Stoff</emphasis> generating steam and high temperatures, this in tern reacted violently with the <emphasis effect="italics">C-Stoff</emphasis>. The flow of reagents was controlled by two pumps, to regulate the rate of combustion and thereby the amount of thrust. The violent combustion process resulted in the formation of water, carbon dioxide and nitrogen, and a huge amount of heat sending out a superheated stream of steam, nitrogen and air that was drawn in through the hole in the mantle of the engine, thus providing a forward thrust of approximately 3,800 lbf. Because of the potential hazards of mixing the fuels, they were stored at least <sup>1</sup>/<sub>2</sub> mile apart, and the plane was washed with water between fueling steps and after missions. </para>
+
+        <figure id="id1168442532936">
+          <media id="id1168442532936_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics18-9137.jpg" id="id1168442532936__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>A photograph taken by Professor A. D. Baxter of the HWK 109-509 <emphasis effect="italics">hot engine</emphasis>. </caption>
+        </figure>
+
+
+
+      </section>
+    </section>
+  </content>
+</document>

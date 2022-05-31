@@ -1,0 +1,144 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Ozone</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33089</md:content-id>
+  <md:title>Ozone</md:title>
+  <md:abstract/>
+  <md:uuid>90c18fcf-60f7-45a2-8205-416174fdfbc6</md:uuid>
+</metadata>
+<content>
+    <para id="id14588748">Ozone (O<sub>3</sub>) is an allotrope of oxygen that is much less stable than the diatomic molecule (O<sub>2</sub>). Ground-level ozone is an air pollutant with harmful effects on the respiratory system, while the ozone layer in the upper atmosphere filters potentially damaging ultraviolet light from reaching the Earth's surface. </para>
+
+    <para id="id14588814">The structure of ozone is bent, with C<sub>2v</sub> symmetry, similar to water (<link target-id="id14588849"/>a). The central oxygen has <emphasis effect="italics">sp</emphasis><sup>2</sup> hybridization with one lone pair. As a consequence of the bent structure, and the resonance hybridization (<link target-id="id14588849"/>b) ozone is a polar molecule (dipole moment = 0.5337 D). </para>
+
+    <figure id="id14588849"><media id="id14588849_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-0b9b.jpg" id="id14588849__onlineimage" width="400" print-width="3.5in"/>
+      </media>
+
+    <caption>The (a) structural parameters of ozone and (b) its resonance hybridization. </caption></figure>
+
+
+
+
+    <para id="id14588877">Ozone is made by the exposure of oxygen (O<sub>2</sub>) to an electric discharge. Ozone has a characteristic smell can be commonly smelled after a lightening strike; in fact the name ozone comes from the Greek <emphasis effect="italics">ozein</emphasis> meaning <emphasis effect="italics">to smell</emphasis>. In the laboratory, ozone can also be produced by electrolysis using graphite rod cathode, a platinum wire anode, and sulfuric acid (3 M) electrolyte. The half cell reactions are as follows:</para>
+
+    
+
+<equation id="eip-6660">     <media id="id14588994_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-3bc2.jpg" id="id14588994__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+   
+
+
+<equation id="eip-6661"> <media id="id14589032_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-af17.jpg" id="id14589032__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+       
+
+
+<equation id="eip-6662">  <media id="id14589069_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-8280.jpg" id="id14589069__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+      
+
+    <para id="id14589091">Ozone is also produced through photolysis of oxygen, <link target-id="eip-6664"/> and <link target-id="eip-6665"/>, both in the laboratory and the atmosphere. </para>
+
+<equation id="eip-6664">
+        <media id="id14589126_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-2527.jpg" id="id14589126__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+<equation id="eip-6665">    <media id="id14589164_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-1cbe.jpg" id="id14589164__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+    
+
+    <para id="id14589186">Ozone is a very strong oxidizing agent, and will readily oxidize a range of materials, e.g., <link target-id="eip-6666"/> and <link target-id="eip-6667"/>. It will also oxidize metals (except gold, platinum, and iridium) to their highest oxidation state, e.g., <link target-id="eip-6668"/>. </para>
+
+<equation id="eip-6666">   <media id="id14589216_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-a8d0.jpg" id="id14589216__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+     
+
+<equation id="eip-6667">  <media id="id14589253_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-6d51.jpg" id="id14589253__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+      
+
+
+<equation id="eip-6668">     <media id="id14589291_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-ed76.jpg" id="id14589291__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+   
+
+
+
+    <para id="id14589313">Metal ozanides, which contain the ozonide anion (O<sub>3</sub><sup>-</sup>) are explosive and must be stored at cryogenic temperatures. Ozonides for all the alkali metals are known. KO<sub>3</sub>, RbO<sub>3</sub>, and CsO<sub>3</sub> can be prepared from their respective superoxides. </para>
+
+<equation id="eip-6670">   <media id="id14589397_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-d6d9.jpg" id="id14589397__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+     
+
+
+
+    <section id="id14589419">
+      <title>Ozone as a modulator of life on Earth</title>
+      <para id="id14589432">The Earth’s atmosphere acts as a source of O<sub>2</sub> and a repository of CO<sub>2</sub>, but its also acts as a shield for life. First, nearly all meteorites burn up on entry because of the high temperatures generated by the friction of the atmosphere. Second, the atmosphere acts as a shield for high energy UV radiation. </para>
+
+      <para id="id14589452">Although UV radiation converts 7-dehydrocholesterol into vitamin D3 in the skin (<link target-id="id14589524"/>), and is therefore useful, high energy UV destroys living cells. In fact the darkening we call a suntan is actually the body’s mechanism for preventing further UV damage. Sun burn and skin cancer are caused by relatively weak UV light that reaches the Earth’s surface, without the atmosphere we would be exposed to high energy UV that would be a hazard to all life on Earth. The Earth’s “sun screen” is ozone (O<sub>3</sub>). And without ozone in the upper atmosphere there would be no life on Earth. </para>
+
+
+      <figure id="id14589524">
+        <media id="id14589524_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-caec.jpg" id="id14589524__onlineimage" width="600" print-width="6in"/>
+        </media>
+<caption>The conversion of 7-dehydrocholesterol (a derivative of cholesterol) to pre-vitamin D3 by photolysis by ultraviolet light, and its subsequent isomerization to vitamin D3. </caption>
+      </figure>
+
+
+
+
+      <para id="id14589557">The ozone layer is located in the lower portion of the stratosphere from approximately 10 km to 50 km above Earth, though the thickness varies seasonally and geographically. This layer contains over 91% of the ozone in Earth’s atmosphere and absorbs 93-99% of the sun's high frequency ultraviolet light. The ozone decomposes photolytically to O<sub>2</sub> and molecular oxygen, <link target-id="eip-6671"/>, and it is this reaction that accounts for the UV protection of the atmosphere. Ozone is naturally regenerated by the exothermic reaction of the molecular oxygen with O<sub>2</sub>, <link target-id="eip-6672"/>. </para>
+
+
+<equation id="eip-6671">    <media id="id14589603_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-a153.jpg" id="id14589603__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+    
+
+<equation id="eip-6672">   <media id="id14589628_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-5604.jpg" id="id14589628__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+     
+
+
+      <para id="id14589650">The balance between ozone formation and destruction is thus an important mechanism for the protection of living organisms on the planet. While the ozone layer had been relatively constant on Earth for millions of years, the last 70 have seen a dramatic change including the increase in the polar hole in the ozone layer. The ozone hole is defined geographically as the area where the total ozone concentration is less than 220 Dobson Units. </para>
+
+      <note id="eip-495">One Dobson unit refers to a layer of ozone that would be 10 µm (micrometre) that is 1 x 10<sup>-5</sup> m thick under standard temperature (25 °C) and pressure (1 atmosphere). </note>
+      
+
+
+      <para id="id14589709">The ozone hole has steadily grown in size and length of existence over the past two and half decades. At present the size of ozone hole over Antarctica is estimated to be about 30 million sq.km (<link target-id="id14589740"/>). </para>
+
+      <figure id="id14589740"><media id="id14589740_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-53d6.jpg" id="id14589740__onlineimage" width="300" print-width="3in"/>
+        </media>
+
+      <caption>The concentration profile of ozone over Antarctica.</caption></figure>
+
+
+
+
+    </section>
+  </content>
+</document>

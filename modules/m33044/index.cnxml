@@ -1,0 +1,316 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+  <title>Chalcogenides of Aluminum, Gallium, and Indium</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33044</md:content-id>
+  <md:title>Chalcogenides of Aluminum, Gallium, and Indium</md:title>
+  <md:abstract/>
+  <md:uuid>bc2bebe3-def2-4ac2-ad46-2373cefab0b8</md:uuid>
+</metadata>
+<content>
+    <para id="id1171954421496">The only stable chalcogenides of aluminum are Al<sub>2</sub>S<sub>3</sub> (white), Al<sub>2</sub>Se<sub>3</sub> (grey), and Al<sub>2</sub>Te<sub>3</sub> (dark grey). They are each prepared by the direct reaction of the elements (100 °C) and hydrolyze rapidly in aqueous solution, <link target-id="eip-2444"/>. All the chalcogenides have a hexagonal ZnS structure in which <sup>2</sup>/<sub>3</sub> of the metal sites are occupied. </para>
+
+<equation id="eip-2444"><media id="id1171956255265_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-8a87.jpg" id="id1171956255265__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+    
+
+
+    <para id="id1171954218656">The chalcogenides of gallium and indium are more numerous than those of aluminum, and are listed in <link target-id="id1171956313089"/> and <link target-id="id1171957659922"/> along with selected physical properties. </para>
+
+    <table id="id1171956313089" summary="Stoichiometries, structures and selected physical properties of the crystalline chalcogenides of gallium.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Compound</emphasis></entry>
+            <entry><emphasis effect="bold">Structural type</emphasis></entry>
+            <entry><emphasis effect="bold">Crystallographic system</emphasis></entry>
+            <entry><emphasis effect="bold">Cell parameters (Å, °)</emphasis></entry>
+            <entry><emphasis effect="bold">Band Gap (eV)<sup>a</sup></emphasis></entry>
+          </row>
+          <row>
+            <entry>GaS</entry>
+            <entry/>
+            <entry>Hexagonal</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 3.587, <emphasis effect="italics">c</emphasis> = 15.492</entry>
+            <entry>3.05 (dir.), 2.593 (ind.)</entry>
+          </row>
+          <row>
+            <entry>GaS</entry>
+            <entry>ZnS or NaCl</entry>
+            <entry>Cubic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 5.5</entry>
+            <entry>4.0 (opt.)</entry>
+          </row>
+          <row>
+            <entry>β-GaSe</entry>
+            <entry>GaS</entry>
+            <entry>Hexagonal</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 3.742, <emphasis effect="italics">c</emphasis> = 15.919</entry>
+            <entry>2.103 (dir.), 2.127 (ind.)</entry>
+          </row>
+          <row>
+            <entry>γ-GaSe</entry>
+            <entry>GaS</entry>
+            <entry>Rhombohedral</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 3.755, <emphasis effect="italics">c</emphasis> = 23.92</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>δ-GaSe</entry>
+            <entry>GaS</entry>
+            <entry>Hexagonal</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 3.755, <emphasis effect="italics">c</emphasis> = 31.99</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>β-GaTe</entry>
+            <entry>GaS</entry>
+            <entry>Hexagonal</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 4.06, <emphasis effect="italics">c</emphasis> = 16.96</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>GaTe</entry>
+            <entry>GaS</entry>
+            <entry>Monoclinic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 17.44, <emphasis effect="italics">b</emphasis> = 4.077, <emphasis effect="italics">c</emphasis> = 10.456, <emphasis effect="italics">β</emphasis> = 104.4</entry>
+            <entry>1.799 (dir.)</entry>
+          </row>
+          <row>
+            <entry>α-Ga<sub>2</sub>S<sub>3</sub></entry>
+            <entry>Wurtzite</entry>
+            <entry>Cubic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 5.181</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>α-Ga<sub>2</sub>S<sub>3</sub></entry>
+            <entry>Wurtzite</entry>
+            <entry>Monoclinic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 12.637, <emphasis effect="italics">b</emphasis> = 6.41, <emphasis effect="italics">c</emphasis> = 7.03, <emphasis effect="italics">β</emphasis> = 131.08</entry>
+            <entry>3.438 (opt.)</entry>
+          </row>
+          <row>
+            <entry>β-Ga<sub>2</sub>S<sub>3</sub></entry>
+            <entry>Defect wurtzite</entry>
+            <entry>Hexagonal</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 3.685, <emphasis effect="italics">c</emphasis> = 6.028</entry>
+            <entry>2.5 - 2.7 (opt.)</entry>
+          </row>
+          <row>
+            <entry>α-Ga<sub>2</sub>Se<sub>3</sub></entry>
+            <entry>Sphalerite</entry>
+            <entry>Cubic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 5.429</entry>
+            <entry>2.1 (dir.), 2.04 (ind.)</entry>
+          </row>
+          <row>
+            <entry>α-Ga<sub>2</sub>Te<sub>3</sub></entry>
+            <entry>Sphalerite</entry>
+            <entry>Cubic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 5.886</entry>
+            <entry>1.22 (opt.)</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Stoichiometries, structures and selected physical properties of the crystalline chalcogenides of gallium. <sup>a</sup> dir = direct, ind = indirect, opt = optical.</caption>
+</table>
+
+
+
+
+    
+
+
+
+
+
+    <table id="id1171957659922" summary="Stoichiometries, structures and selected physical properties of the crystalline chalcogenides of indium.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Compound</emphasis></entry>
+            <entry><emphasis effect="bold">Structural type</emphasis></entry>
+            <entry><emphasis effect="bold">Crystallographic system</emphasis></entry>
+            <entry><emphasis effect="bold">Cell parameters (Å, °)</emphasis></entry>
+            <entry><emphasis effect="bold">Band gap (eV)<sup>a</sup></emphasis></entry>
+          </row>
+          <row>
+            <entry>β-InS</entry>
+            <entry>GaS</entry>
+            <entry>Orthorhombic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 3.944, <emphasis effect="italics">b</emphasis> = 4.447, <emphasis effect="italics">c</emphasis> = 10.648</entry>
+            <entry>2.58 (dir.), 2.067 (ind.)</entry>
+          </row>
+          <row>
+            <entry>InS<sup>b</sup></entry>
+            <entry>Hg<sub>2</sub>Cl<sub>2</sub></entry>
+            <entry>Tetragonal</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>InSe</entry>
+            <entry>GaS</entry>
+            <entry>Rhombohedral</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 4.00, <emphasis effect="italics">c</emphasis> = 25.32</entry>
+            <entry>1.3525 (dir.), 1.32 (ind.)</entry>
+          </row>
+          <row>
+            <entry>β-InSe</entry>
+            <entry>GaS</entry>
+            <entry>Hexagonal</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 4.05, <emphasis effect="italics">c</emphasis> = 16.93</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>InTe</entry>
+            <entry>TlSe</entry>
+            <entry>Tetragonal</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 8.437, <emphasis effect="italics">c</emphasis> = 7.139</entry>
+            <entry>Metallic</entry>
+          </row>
+          <row>
+            <entry>InTe<sup>b</sup></entry>
+            <entry>NaCl</entry>
+            <entry>Cubic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 6.18</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>α-In<sub>2</sub>S<sub>3</sub></entry>
+            <entry>γ-Al<sub>2</sub>O<sub>3</sub></entry>
+            <entry>Cubic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 5.36</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>β-In<sub>2</sub>S<sub>3</sub></entry>
+            <entry>Spinel</entry>
+            <entry>Tetragonal</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 7.618, <emphasis effect="italics">c</emphasis> = 32.33</entry>
+            <entry>2.03 (dir.), 1.1 (ind.)</entry>
+          </row>
+          <row>
+            <entry>α-In<sub>2</sub>Se<sub>3</sub></entry>
+            <entry>Defect wurtzite</entry>
+            <entry>Hexagonal</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 16.00, <emphasis effect="italics">c</emphasis> = 19.24</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>β-In<sub>2</sub>Se<sub>3</sub></entry>
+            <entry>Defect wurtzite</entry>
+            <entry>Rhombohedral</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 4.025, <emphasis effect="italics">c</emphasis> = 19.222</entry>
+            <entry>1.2 - 1.5 (ind.)</entry>
+          </row>
+          <row>
+            <entry>α-In<sub>2</sub>Te<sub>3</sub></entry>
+            <entry>Sphalerite</entry>
+            <entry>Cubic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 6.158</entry>
+            <entry>0.92 - 1.15 (opt.)</entry>
+          </row>
+          <row>
+            <entry>In<sub>6</sub>S<sub>7</sub></entry>
+            <entry/>
+            <entry>Monoclinic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 9.090, <emphasis effect="italics">b</emphasis> = 3.887, <emphasis effect="italics">c</emphasis> = 17.705, <emphasis effect="italics">β</emphasis> = 108.20</entry>
+            <entry>0.89 (dir.), 0.7 (ind.)</entry>
+          </row>
+          <row>
+            <entry>In<sub>6</sub>Se<sub>7</sub></entry>
+            <entry>In<sub>6</sub>S<sub>7</sub></entry>
+            <entry>Monoclinic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 9.430, <emphasis effect="italics">b</emphasis> = 4.063, <emphasis effect="italics">c</emphasis> = 18.378, <emphasis effect="italics">β</emphasis> = 109.34</entry>
+            <entry>0.86 (dir.), 0.34 (ind.)</entry>
+          </row>
+          <row>
+            <entry>In<sub>4</sub>Se<sub>3</sub></entry>
+            <entry/>
+            <entry>Orthorhombic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 15.297, <emphasis effect="italics">b</emphasis> = 12.308, <emphasis effect="italics">c</emphasis> = 4.081</entry>
+            <entry>0.64 (dir.)</entry>
+          </row>
+          <row>
+            <entry>In<sub>4</sub>Te<sub>3</sub></entry>
+            <entry>In<sub>4</sub>Se<sub>3</sub></entry>
+            <entry>Orthorhombic</entry>
+            <entry><emphasis effect="italics">a</emphasis> = 15.630, <emphasis effect="italics">b</emphasis> = 12.756, <emphasis effect="italics">c</emphasis> = 4.441</entry>
+            <entry>0.48 (dir.)</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Stoichiometries, structures and selected physical properties of the crystalline chalcogenides of indium. <sup>a</sup> dir = direct, ind = indirect, opt = optical. <sup>b</sup> High pressure phase. </caption>
+</table>
+    
+    <para id="id1171961099921">The hexagonal <emphasis effect="italics">β</emphasis>-form of Ga<sub>2</sub>S<sub>3</sub> is isostructural with the aluminum analogue; however, while the α-phase was proposed to be hexagonal it was later shown to be monoclinic. A cubic α-phase has been reported. Cubic Sphalerite structures are found for Ga<sub>2</sub>Se<sub>3</sub>, Ga<sub>2</sub>Te<sub>3</sub>, and In<sub>2</sub>Te<sub>3</sub>, in which the structure is based on a cubic close packing of the chalcogenides and the metal atoms occupying <sup>1</sup>/<sub>3</sub> of the tetrahedral sites. These structures are all formed with rapid crystallization; slow crystallization and/or thermal annealing leads to ordering and the formation of more complex structures. The indium sulfides, and selenides derivatives are spinel (γ-Al<sub>2</sub>O<sub>3</sub>), and defect Würtzite, respectively. </para>
+
+    <para id="id7782056">Unlike the chalcogenides of aluminum, those of gallium and indium also form subvalent compounds, i.e., those in which the metal is formally of an oxidation state less than +3. Of these subvalent chalcogenides the (formally) divalent materials are of the most interest. The thermodynamically stable phase of GaS has a hexagonal layer structure (<link target-id="id1171962826667"/>) with Ga-Ga bonds (2.48 Å). The compound can, therefore, be considered as an example of Ga(II). Each Ga is coordinated by three sulfur atoms and one gallium, and the sequence of layers along the <emphasis effect="italics">z</emphasis>-axis is <sup>...</sup>S-Ga-Ga-S<sup>...</sup>S-Ga-Ga-S<sup>...</sup>.</para>
+
+    <figure id="id1171962826667"><media id="id1171962826667_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-8d63.jpg" id="id1171962826667__onlineimage" width="250" print-width="2in"/>
+      </media>
+
+    <caption>The <sup>...</sup>S-Ga-Ga-S<sup>...</sup>S-Ga-Ga-S<sup>...</sup> structure of hexagonal GaS. Gallium atoms are shown shaded. </caption></figure>
+
+
+
+    <para id="id5057806">The structures of β-GaSe, and β-InSe are similar to hexagonal GaS. The layered structure of GaTe is similar in that it consists of <sup>...</sup>TeGaGaTe<sup>...</sup> layers, but is monoclinic, while InS is found in both a (high pressure) tetragonal phase (<link target-id="id1171952767330"/>a) as well as an orthorhombic phase (<link target-id="id1171952767330"/>b). By contrast to these M-M bonded layered compounds InTe (<link target-id="id1171957730843"/>) has a structure formalized as In(I)[In(III)Te<sub>2</sub>]; each In(III) is tetrahedrally coordinated to four Te and these tetrahedra are linked <emphasis effect="italics">via</emphasis> shared edges; the In(I) centers lying between these chains. </para>
+
+
+    <figure id="id1171952767330">
+      <media id="id1171952767330_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Fig46.jpg" id="id1171952767330__onlineimage" width="250" print-width="2in"/>
+      </media>
+<caption>Unit cell of (a) tetragonal InS and (b) orthorhombic InS. Indium atoms are shown shaded, and the solid bonds represent the smallest cyclic structural fragment. </caption>
+    </figure>
+
+
+
+
+    <figure id="id1171957730843"><media id="id1171957730843_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics4-9b29.jpg" id="id1171957730843__onlineimage" width="300" print-width="2.5in"/>
+      </media>
+
+    <caption>Unit cell of tetragonal InTe. Indium atoms are shown shaded, and the solid bonds represent the [InTe<sub>2</sub>]<sub>∞</sub> chains. </caption></figure>
+
+
+
+
+    <para id="id1171962433052">Further sub-chalcogenides are known for indium, e.g.; In<sub>4</sub>Se<sub>3</sub>, which contains [In(III)<sub>3</sub>Se<sub>2</sub>]<sup>5+</sup> groups (<link target-id="id1171954615299"/>). While the formally In(I) molecule In<sub>2</sub>S has been detected in the gas phase, it is actually a mixture of In and InS in the solid state.</para>
+
+    <figure id="id1171954615299">
+      <media id="id1171954615299_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics5-31ec.jpg" id="id1171954615299__onlineimage" width="200" print-width="2in"/>
+      </media>
+<caption>Structure of [In(III)<sub>3</sub>Se<sub>2</sub>]<sup>5+</sup> groups in In<sub>4</sub>Se<sub>3</sub>. </caption>
+    </figure>
+
+
+
+    <section id="id7616303">
+      <title>Bibliography</title>
+      <list id="id5820036" list-type="bulleted">
+        <item>W. J. Duffin and J. H. C. Hogg, <emphasis effect="italics">Acta Crystallogr</emphasis>., 1966, <emphasis effect="bold">20</emphasis>, 566.</item>
+        <item>J. Goodyear and G. Steigman, <emphasis effect="italics">Acta Crystallogr.</emphasis> 1963, <emphasis effect="bold">16</emphasis>, 946.</item>
+        <item>H. Hahn and G. Frank, <emphasis effect="italics">Z. Anorg. Allgem. Chem</emphasis>., 1955, <emphasis effect="bold">278</emphasis>, 340.</item>
+        <item>S. Kabalkina, V. G. Losev, and N. M. Gasanly, <emphasis effect="italics">Solid State Commun</emphasis>., 1982, <emphasis effect="bold">44</emphasis>, 1383. </item>
+        <item>A. Keys, S. G. Bott, and A. R. Barron, <emphasis effect="italics">Chem. Mater.</emphasis>, 1999, <emphasis effect="bold">11</emphasis>, 3578. </item>
+        <item>A. N. MacInnes, M. B. Power, and A. R. Barron, <emphasis effect="italics">Chem. Mater.</emphasis>, 1992, <emphasis effect="bold">4</emphasis>, 11.</item>
+        <item>A. N. MacInnes, W. M. Cleaver, A. R. Barron, M. B. Power, and A. F. Hepp, <emphasis effect="italics">Adv. Mater. Optics. Electron.</emphasis>, 1992,<emphasis effect="italics"/><emphasis effect="bold">1</emphasis><emphasis effect="italics">, </emphasis>229. </item>
+        <item>K. Schubert, E. Dörre, and E. Günzel, <emphasis effect="italics">Naturwissenschaften</emphasis>, 1954, <emphasis effect="bold">41</emphasis>, 488. </item>
+      </list>
+    </section>
+  </content>
+</document>

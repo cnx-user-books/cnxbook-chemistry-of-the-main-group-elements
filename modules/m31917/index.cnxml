@@ -1,0 +1,449 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Compounds of the Alkali Metals</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31917</md:content-id>
+  <md:title>Compounds of the Alkali Metals</md:title>
+  <md:abstract/>
+  <md:uuid>5e2b70c9-f250-4559-bd66-9e7140d80313</md:uuid>
+</metadata>
+
+<content>
+    <para id="id8592422">The chemistry of the alkali metals is dominated by the stability of the +1 oxidation state and the noble gas configuration of the M<sup>+</sup> cation. The alkali metals all have low first ionization energies (<link target-id="id1172521238986"/>) but very high second ionization energies. </para>
+    <table id="id1172521238986" summary="First ionization potentials for the alkali metals.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">1<sup>st</sup> ionization energy (kJ/mol)</emphasis></entry>
+          </row>
+          <row>
+            <entry>Li</entry>
+            <entry>526</entry>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>502</entry>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>425</entry>
+          </row>
+          <row>
+            <entry>Rb </entry>
+            <entry>409</entry>
+          </row>
+          <row>
+            <entry>Cs</entry>
+            <entry>382</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>First ionization potentials for the alkali metals. </caption>
+</table>
+    
+    <para id="id1172523303719">As a consequence of the stability of M<sup>+</sup>, the Group 1 metals have the least variation in chemistry of the any Group in the periodic table. The only exceptions are the subtle trends that exist for lithium due to its small size (<link target-id="id7918480"/>). All of the metals are more electropositive than hydrogen (<link target-id="id7005236"/>).  </para>
+    <table id="id7918480" summary="Radii of alkali metals. Some values are unknown.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Atomic radius (Å)</emphasis></entry>
+            <entry><emphasis effect="bold">Ionic radius (Å)</emphasis></entry>
+            <entry><emphasis effect="bold">Covalent radius (Å)</emphasis></entry>
+            <entry><emphasis effect="bold">Van der Waals radius (Å)</emphasis></entry>
+          </row>
+          <row>
+            <entry>Li </entry>
+            <entry>1.52</entry>
+            <entry>0.68</entry>
+            <entry>1.52</entry>
+            <entry>1.82</entry>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>1.86</entry>
+            <entry>0.97</entry>
+            <entry>1.53</entry>
+            <entry>2.27</entry>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>2.31</entry>
+            <entry>1.33</entry>
+            <entry>1.90</entry>
+            <entry>2.75</entry>
+          </row>
+          <row>
+            <entry>Rb</entry>
+            <entry>2.44</entry>
+            <entry>1.47</entry>
+            <entry>2.47</entry>
+            <entry>-</entry>
+          </row>
+          <row>
+            <entry>Cs</entry>
+            <entry>2.62</entry>
+            <entry>1.67</entry>
+            <entry>2.65</entry>
+            <entry>-</entry>
+          </row>
+          <row>
+            <entry>Fr</entry>
+            <entry>-</entry>
+            <entry>1.80</entry>
+            <entry>2.70</entry>
+            <entry>-</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Radii of alkali metals. N.B. Some values are unknown. </caption>
+</table>
+    
+    <table id="id7005236" summary="Pauling electronegativities of Group 1 elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Electronegativity</emphasis></entry>
+          </row>
+          <row>
+            <entry>H</entry>
+            <entry>2.20</entry>
+          </row>
+          <row>
+            <entry>Li</entry>
+            <entry>0.98</entry>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>0.93</entry>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>0.82</entry>
+          </row>
+          <row>
+            <entry>Rb </entry>
+            <entry>0.82</entry>
+          </row>
+          <row>
+            <entry>Cs</entry>
+            <entry>0.79</entry>
+          </row>
+          <row>
+            <entry>Fr</entry>
+            <entry>0.70</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Pauling electronegativities of Group 1 elements.</caption>
+</table>
+    
+    <section id="id847771">
+      <title>Solid state </title>
+      <para id="id1172523455575">In the solid state the compounds of the alkali metals generally form ionic lattices, e.g., Na<sup>+</sup>Cl<sup>-</sup>. These structures are essentially electrostatic in nature and the lattice energy is usually defined as the enthalpy of formation of the ionic compound from gaseous ions and as such is invariably exothermic. </para>
+      
+      
+      <equation id="eip-413"><media id="id6742782_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-70d0.jpg" id="id6742782__onlineimage" width="500" print-width="4.5in"/>
+
+
+        </media></equation><para id="id1172523326220">In all cases the lattice energies is high and is found to be proportional to the ratio of the charges on the ions and the sum of the ionic radii (r). </para>
+      
+      <equation id="eip-158"><media id="id8363956_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-ed43.jpg" id="id8363956__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1172523479789">The ionic radii for alkali metal cations are given in <link target-id="id7918480"/>; those for common anions are given in <link target-id="eip-69"/>. </para>
+      <table id="eip-69" summary="Ionic radii of common anions.">
+<tgroup cols="2"><tbody>
+  <row>
+    <entry><emphasis effect="bold">Anion</emphasis></entry>
+    <entry><emphasis effect="bold">Ionic radius (Å)</emphasis></entry>
+  </row>
+  <row>
+    <entry>F<sup>-</sup></entry>
+    <entry>1.33</entry>
+  </row>
+  <row>
+    <entry>Cl<sup>-</sup></entry>
+    <entry>1.81</entry>
+  </row>
+  <row>
+    <entry>Br<sup>-</sup></entry>
+    <entry>1.96</entry>
+  </row>
+  <row>
+    <entry>I<sup>-</sup></entry>
+    <entry>2.20</entry>
+  </row>
+  <row>
+    <entry>H<sup>-</sup></entry>
+    <entry>1.54</entry>
+  </row>
+  <row>
+    <entry>O<sup>2-</sup></entry>
+    <entry>1.32</entry>
+  </row>
+</tbody>
+</tgroup><caption>Ionic radii of common anions.</caption>
+</table>
+      
+      <para id="id1172523507669">The ratio of the ionic radii (r<sup>+</sup>/r<sup>-</sup>) neatly defines the structural type observed for alkali metal salts (<link target-id="id1172523482627"/>). The unit cells for ZnS (zinc blende), NaCl (rock salt), and CsCl are shown in <link target-id="id1172523521434"/>, <link target-id="id6833173"/>, and <link target-id="id5108770"/>, respectively. </para>
+      <table id="id1172523482627" summary="Defining MX structural types.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>
+              <emphasis effect="bold">r<sup>+</sup>/r<sup>-</sup></emphasis>
+              </entry>
+              <entry><emphasis effect="bold">Structural type</emphasis></entry>
+              <entry><emphasis effect="bold">Metal coordination number</emphasis></entry>
+            </row>
+            <row>
+              <entry>0.225 – 0.414</entry>
+              <entry>ZnS (zinc blende)</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>0.414 – 0.732 </entry>
+              <entry>NaCl (rock salt)</entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>0.732 - </entry>
+              <entry>CsCl</entry>
+              <entry>8</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Defining MX structural types for alkali metal salts.</caption>
+</table>
+      
+      <figure id="id1172523521434"><media id="id1172523521434_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-5785.jpg" id="id1172523521434__onlineimage" width="300" print-width="2.5in"/>
+        </media>
+      <caption>Unit cell structure of a zinc blende (ZnS) lattice. </caption></figure>
+      
+
+        <figure id="id6833173"><media id="id6833173_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-f396.jpg" id="id6833173__onlineimage" width="300" print-width="2.5in"/>
+          </media>
+        <caption>Unit cell structure of a rock salt lattice. </caption></figure>
+  
+      
+      <figure id="id5108770"><media id="id5108770_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-1593.jpg" id="id5108770__onlineimage" width="300" print-width="2.5in"/>
+        </media>
+      <caption>Unit cell of CsCl. </caption></figure>
+      
+      <para id="id6819863">As an example, the structure of KBr can be predicted from the data in <link target-id=" id7918480"/> and <link target-id="eip-69"/>. The ionic radius of K<sup>+</sup> is 1.33 Å, while that for Br<sup>-</sup> is 1.96 Å. The ratio of the ionic radii (r<sup>+</sup>/r<sup>-</sup>) is 0.67. Hence, KBr has a NaCl (rock salt) structure. </para>
+      
+      <exercise id="eip-788"><problem id="eip-539">
+  <para id="eip-480">
+ What is the structure of NaH?
+  </para>
+</problem>
+
+<solution id="eip-429">
+  <para id="eip-813">
+    The ionic radius of Na<sup>+</sup> is 0.97 Å, while that for H<sup>-</sup> is 1.54 Å. The ratio of the ionic radii (r<sup>+</sup>/r<sup>-</sup>) is 0.67. Hence, NaH has a NaCl (rock salt) structure.
+  </para>
+</solution>
+</exercise><exercise id="eip-915"><problem id="eip-649">
+  <para id="eip-213">
+    What is the structure of RbF?
+  </para>
+</problem>
+
+<solution id="eip-546">
+  <para id="eip-911">
+   The ionic radius of Rb<sup>+</sup> is 1.47 Å, while that for F<sup>-</sup> is 1.33 Å. The ratio of the ionic radii (r<sup>+</sup>/r<sup>-</sup>) is 1.10. Hence, RbF has a CsCl structure.
+  </para>
+</solution>
+</exercise>
+      
+      
+    </section>
+    <section id="id5110311">
+      <title>Complexes </title>
+      <para id="id5517423">The coordination complexes of the alkali metal cations (M<sup>+</sup>) involve electrostatic, or ion-dipole, interactions (<link target-id="id1172523297832"/>) that have no preferred direction of interaction. Thus, the ionic radius of the cation (<link target-id="id7918480"/>) controls the coordination numbers of the metal in its complexes (<link target-id="id1172523483033"/>). </para>
+      <figure id="id1172523297832"><media id="id1172523297832_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-6135.jpg" id="id1172523297832__onlineimage" width="150" print-width="1.5in"/>
+        </media>
+      <caption>A schematic representation of the ion-dipole or electrostatic interaction of Na<sup>+</sup> with water. </caption></figure>
+      
+      <table id="id1172523483033" summary="Coordination number for alkali metal ions in aqueous complexes.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Aquo ion</emphasis></entry>
+              <entry><emphasis effect="bold">n</emphasis></entry>
+            </row>
+            <row>
+              <entry>[Li(H<sub>2</sub>O)<sub>n</sub>]<sup>+</sup></entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>[Na(H<sub>2</sub>O)<sub>n</sub>]<sup>+</sup></entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>[K(H<sub>2</sub>O)<sub>n</sub>]<sup>+</sup></entry>
+              <entry>6</entry>
+            </row>
+            <row>
+              <entry>[Rb(H<sub>2</sub>O)<sub>n</sub>]<sup>+</sup></entry>
+              <entry>6 - 8</entry>
+            </row>
+            <row>
+              <entry>[Cs(H<sub>2</sub>O)<sub>n</sub>]<sup>+</sup></entry>
+              <entry>8</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Coordination number for alkali metal ions in aqueous complexes. </caption>
+</table>
+      
+      <para id="id1172521415397">In general the alkali metal ions form complexes with hard donor such as oxygen (H<sub>2</sub>O, ROH, RCO<sub>2</sub><sup>-</sup>, etc.) or nitrogen (e.g., NH<sub>3</sub>, NR<sub>3</sub>, etc.). The aquo complexes readily exchange the water for other ligands, <link target-id="eip-237"/>; however, the equilibrium constants are small when the ligand is similar in size to water. </para>
+      
+      
+      <equation id="eip-237"><media id="id1172523455846_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-0e5c.jpg" id="id1172523455846__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+<para id="id3178688">As a consequence of the low equilibrium constants for monodentate ligands, the alkali metal cations, M<sup>+</sup>, favor coordination to polydentate ligands such as ethylenediaminetetraacetic acid (EDTA, <link target-id="id8363028"/>), polyethers, and even natural polyesters or polypeptides. In each case the polydentate ligand wraps itself around the cation. </para>
+ 
+        <figure id="id8363028"><media id="id8363028_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-442b.jpg" id="id8363028__onlineimage" width="200" print-width="2in"/>
+          </media>
+        <caption>Structure of ethylenediaminetetraacetic acid (EDTA).</caption></figure>
+
+      
+      <section id="id8577041">
+        <title>Macrocyclic ligands</title>
+        <para id="id5967093">Macrocyclic ligands represent a special class of polydentate ligand. They are defined as being a cyclic compound with nine or more members including all the heteroatoms and with three or more donor atoms. and are given the special name of cryptands when they are synthetic bi- and poly-cyclic multidentate ligands. Crown ethers is the name applied to macrocyclic ligands that consist of a ring containing several ether groups. <link target-id="id1172523323330"/> shows several common macrocyclic ligands. </para>
+        <figure id="id1172523323330"><media id="id1172523323330_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-353e.jpg" id="id1172523323330__onlineimage" width="550" print-width="5in"/>
+          </media>
+        <caption>The structures of some common macrocyclic ligands.</caption></figure>
+        
+        <para id="id1172523535058">Macrocyclic ligands are generally oxygen or nitrogen donor ligands, and they form highly stable 1:1 complexes with alkali metal ions in which all or most of the coordination sites on the metal are occupied, i.e., [M(L)]<sup>+</sup> rather than [M(L)(H<sub>2</sub>O)<sub>n</sub>]<sup>+</sup>. Since the external surface of the macrocyclic ligands comprises of organic residue (e.g., CH<sub>2</sub> groups) the complexes are soluble in organic solvents. Thus, crown ethers are commonly used to solubilize salts (e.g., NaCl) in organic solvents. They have also been used to create solutions of nanoparticles, such as carbon nanotubes (<link target-id="id6792359"/>), that are ordinarily highly insoluble in common organic solvents (<link target-id="id8696931"/>). </para>
+
+
+          <figure id="id6792359"><media id="id6792359_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics11-b817.jpg" id="id6792359__onlineimage" width="600" print-width="5in"/>
+            </media>
+          <caption>Representation of the reaction between Na/Hg amalgam, dibenzo-18-crown-6, and purified single walled carbon nanotubes (SWNTs) in toluene and the formation of the [Na(dibenzo-18-crown-6)]<sub>n</sub>[SWNT] complex. Adapted from R. E. Anderson and A. R. Barron, <emphasis effect="italics">J. Nanosci. Nanotechnol.</emphasis>, 2007, <emphasis effect="bold">7</emphasis>, 3436.</caption></figure>
+  
+        
+        <table id="id8696931" summary="The concentration of Na/dibenzo-18-crown-6 solubilized reduced single walled carbon nanotubes (SWNTs) in various solvents.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Solvent</emphasis></entry>
+                <entry><emphasis effect="bold">SWNT concentration (mg/L)</emphasis></entry>
+              </row>
+              <row>
+                <entry>CH<sub>2</sub>Cl<sub>2</sub></entry>
+                <entry>14.05</entry>
+              </row>
+              <row>
+                <entry>DMF</entry>
+                <entry>11.42</entry>
+              </row>
+              <row>
+                <entry>hexane</entry>
+                <entry>4.65</entry>
+              </row>
+              <row>
+                <entry>toluene</entry>
+                <entry>3.79</entry>
+              </row>
+              <row>
+                <entry>EtOH</entry>
+                <entry>2.37</entry>
+              </row>
+              <row>
+                <entry>MeOH</entry>
+                <entry>2.37</entry>
+              </row>
+              <row>
+                <entry>CHCl<sub>3</sub></entry>
+                <entry>0.30</entry>
+              </row>
+              <row>
+                <entry>H<sub>2</sub>O</entry>
+                <entry>0.10</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>The concentration of Na/dibenzo-18-crown-6 solubilized reduced single walled carbon nanotubes (SWNTs) in various solvents. </caption>
+</table>
+        
+        <para id="id8912625">The most important factor in the coordination of various macrocyclic ligands to alkali metal ions is the relative size of the ion and the ligand cavity. For example, 4,7,13,16,21,24-hexaoxa-1,10-diazabicyclo[8,8,8]hexacosane is a potentially octa-dentate ligand; however, the binding efficiency is very dependant on the identity of the M<sup>+</sup> ion (<link target-id="id8912787"/>). The low binding constant for lithium is probably as a consequence that the ligand would have to distort to coordinate to the small cation. Conversely, the lower equilibrium for caesium is due to its being to large to fit completely into the ligand cavity. </para>
+ 
+
+          <figure id="id8912787"><media id="id8912787_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics12-2d1f.jpg" id="id8912787__onlineimage" width="400" print-width="4in"/>
+            </media>
+          <caption>Relative stability constants (log K) of alkali metal ions to 4,7,13,16,21,24-hexaoxa-1,10-diazabicyclo[8,8,8]hexacosane and relationship to the M<sup>+</sup> ionic radius. </caption></figure>
+
+        
+        <para id="id8912523">One application of the size effect for macrocyclic ligands is the ability to selectively bind different metals. For example, the 4,7,13,16,21-pentaoxa-1,10-diazabicyclo[8,8,5]tricosane and 4,7,13,16,21,24-hexaoxa-1,10-diazabicyclo[8,8,8]hexacosane ligands shown in <link target-id="id8912454"/> have very different binding constants to Na<sup>+</sup> and K<sup>+</sup>, as a consequence of the relative size of the cation and the ligand cavity (<link target-id="id8910491"/>). </para>
+      
+
+          <figure id="id8912454"><media id="id8912454_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics13-7081.jpg" id="id8912454__onlineimage" width="400" print-width="4in"/>
+            </media>
+          <caption>Structure of (a) 4,7,13,16,21-pentaoxa-1,10-diazabicyclo[8,8,5]tricosane “[2,2,1]” and (b) 4,7,13,16,21,24-hexaoxa-1,10-diazabicyclo[8,8,8]hexacosane “[2,2,2]”. </caption></figure>
+
+        
+        <table id="id8910491" summary="Equilbrium constants for the M+ complexes for macrocyclic ligands with different cavity sizes.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Cation</emphasis></entry>
+                <entry><emphasis effect="bold">[2,2,2]</emphasis></entry>
+                <entry><emphasis effect="bold">[2,2,1]</emphasis></entry>
+              </row>
+              <row>
+                <entry>Na<sup>+</sup></entry>
+                <entry>800</entry>
+                <entry>250,000</entry>
+              </row>
+              <row>
+                <entry>K<sup>+</sup></entry>
+                <entry>250,000</entry>
+                <entry>700</entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup><caption>Equilbrium constants for the M<sup>+</sup> complexes for macrocyclic ligands with different cavity sizes. The structures of the ligands are shown in <link target-id="id8912454"/>. </caption>
+</table>
+        
+      </section>
+    </section>
+    <section id="id8910154">
+      <title>Bibliography</title>
+      <list id="id8910161" list-type="bulleted">
+        <item id="id8910164">R. E. Anderson and A. R. Barron, <emphasis effect="italics">J. Nanosci. Nanotechnol.</emphasis>, 2007, <emphasis effect="bold">7</emphasis>, 3436.</item>
+        <item>J. M. Lehn, <emphasis effect="italics">Supramolecular Chemistry: Concepts and Perspectives</emphasis>. VCH (1995).</item>
+      </list>
+    </section>
+  </content>
+</document>

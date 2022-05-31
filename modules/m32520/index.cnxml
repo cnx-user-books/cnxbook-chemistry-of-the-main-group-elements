@@ -1,0 +1,149 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Organomercury Compounds</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32520</md:content-id>
+  <md:title>Organomercury Compounds</md:title>
+  <md:abstract/>
+  <md:uuid>ae517a7d-8f3e-4b5c-b2af-d6da83c903c6</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169641175347">
+      <title>Synthesis</title>
+      <para id="id4125063">The most common routes to organomercury compounds involve the direct reaction of mercury with an alkyl iodide, <link target-id="eip-444"/>, to form the mercury analog of a Grignard reagent. </para>
+
+<equation id="eip-444">   <media id="id2472654_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-edf7.jpg" id="id2472654__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+     
+
+
+      <para id="id6514680">The subsequent reaction of RHgI with potassium cyanide yields the appropriate dialkyl mercury derivative, <link target-id="eip-445"/>. </para>
+
+
+<equation id="eip-445">     <media id="id3135022_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-ee57.jpg" id="id3135022__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+   
+
+
+
+      <section id="id8021500">
+        <title>Solvomercuration</title>
+        <para id="id1169630988714">The general process of solvomercuration involves the addition of HgX<sub>2</sub> across an alkene double (or alkyne triple) bond in the presence of a solvent, <link target-id="eip-446"/>. Solvomercuration applies where HY, from <link target-id="eip-446"/>, are part of the solvent system, e.g., in water the process can be described as hydroxymercuration.</para>
+
+<equation id="eip-446">   <media id="id1169636678665_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-167e.jpg" id="id1169636678665__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+       
+
+
+
+        <para id="id7819378">The addition to the alkene occurs with Markovnikoff addition, i.e., through the formation of the most stable carbonium ion resulting with the mercury adding to the less substituted carbon. The Hg-C bond can be cleaved by the addition of NaBH<sub>4</sub> to yield the C-H bond. It is common to employ mercury acetate, Hg(OAc)<sub>2</sub> (OAc = O<sub>2</sub>CCH<sub>3</sub>), with subsequent reaction with NaCl or NaI to form the halide, rather than the mercury halide directly. However, the acetate can also act as a neucleophile resulting in a mixture of products. The order of reactivity for alkenes follows the trend: </para>
+
+<equation id="eip-447">       <media id="id1169654150569_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-4b96.jpg" id="id1169654150569__onlineimage" width="600" print-width="5in"/>
+          </media></equation>
+   
+
+
+        <para id="id6454780">This is due to a combination of steric and electronic effects. The addition occurs in a <emphasis effect="italics">trans</emphasis>/<emphasis effect="italics">anti</emphasis> fashion, <link target-id="eip-448"/>. </para>
+
+<equation id="eip-448">      <media id="id5062051_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-7ceb.jpg" id="id5062051__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+    
+
+
+        <para id="id1169648090216">Mercury(II) halides dissociate in polar solvents, <link target-id="eip-449"/>, and this species is commonly associated with the initial reaction step. </para>
+
+<equation id="eip-449">  <media id="id4210764_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-918c.jpg" id="id4210764__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        
+
+
+        <para id="id4144813">The mechanism of solvomercuration is best described by the reaction shown in <link target-id="id1169622278984"/>. </para>
+
+          <figure id="id1169622278984">
+            <media id="id1169622278984_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics7-8b77.jpg" id="id1169622278984__onlineimage" width="500" print-width="5in"/>
+            </media>
+<caption>Mechanism of solvomercuration.</caption>
+          </figure>
+
+
+
+        <para id="id1169620435557">Evidence for the mechanism is twofold: </para>
+        <list id="id7913540" list-type="enumerated" number-style="arabic">
+          <item>The addition is exclusively <emphasis effect="italics">trans</emphasis>. </item>
+          <item>No rearrangement is observed even for <sup>t</sup>Bu(H)C=C(H)<sup>t</sup>Bu whose carbonium ion is known to undergo rearrangement. </item>
+        </list>
+
+        <para id="id1169630936715">Isotope studies indicate that the C-O bond formation is present in the transition state (<link target-id="id3735848"/>). The mercury bridge in the transition state may not be symmetrical, but the structure is similar to the addition of Br<sup>+</sup> and AuX<sup>+</sup> to alkenes. </para>
+       
+ <figure id="id3735848"><media id="id3735848_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-1096.jpg" id="id3735848__onlineimage" width="225" print-width="2in"/>
+          </media>
+
+        <caption>Proposed transition state for the solvomercuration reaction where the solvent is methanol. </caption></figure>
+
+
+
+
+
+        <para id="id2952903">The actual reaction was originally carried out with Hg(OAc)<sub>2</sub> in benzene at 110 °C for several hours in acetic acid solution. It was found that the reaction was catalyzed by the presence of HClO<sub>4</sub>, H<sub>2</sub>SO<sub>4</sub>, and HNO<sub>3</sub>, which were found to replace the acetate ion. The reaction rate is also increased by 690,000 times by the use of Hg(O<sub>2</sub>CCF<sub>3</sub>)<sub>2</sub> in HO<sub>2</sub>CCF<sub>3</sub>. </para>
+
+        <para id="id1169656072880">The solvomercuration of alkynes gives alkenylmercury compounds, but the reaction is more sluggish than for the reaction with alkenes, and the product is always the <emphasis effect="italics">trans</emphasis> isomer. </para>
+      </section>
+
+
+      <section id="id1169634496729">
+        <title>Mercuration of aromatic compounds</title>
+        <para id="id1169633316975">Mercuration is an electrophilic aromatic substitution reaction that is possible for most 2n+2 π-electron species, <link target-id="eip-450"/>. Evidence for the π-complex intermediate is indicated by UV spectroscopy, which shows an increase in the region 280 – 320 nm for the reaction of aromatic compounds with Hg(O<sub>2</sub>CCF<sub>3</sub>)<sub>2</sub> in HO<sub>2</sub>CCF<sub>3</sub>. The σ-complex has detected in liquid SO<sub>2</sub>.</para>
+
+
+<equation id="eip-450"><media id="id1451035_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics9-14cf.jpg" id="id1451035__onlineimage" width="550" print-width="5in"/>
+            </media></equation>
+     
+
+
+        <para id="id1169650782387">As a preparative method mercuration suffers from alack of selectivity, including an isomerization from <emphasis effect="italics">para</emphasis> substitution at low temperature to <emphasis effect="italics">meta</emphasis> substitution at high temperatures. </para>
+      </section>
+    </section>
+
+    <section id="id3639142">
+      <title>Structure</title>
+      <para id="id1169660579445">Dialkyl mercury compounds, R<sub>2</sub>Hg, are generally air stable and show little Lewis acid behavior. They are monomeric colorless liquids or low melting solids, e.g., Bp = 92.5 °C for Me<sub>2</sub>Hg. No solubility is observed in water, except for (F<sub>3</sub>C)<sub>2</sub>Hg, <link target-id="eip-451"/>. </para>
+
+<equation id="eip-451">  <media id="id1169650599032_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-22f1.jpg" id="id1169650599032__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+      
+
+
+      <para id="id1169646116395">The hybridization at mercury involves the 6s and 6p orbitals; however, the 5d may be involved. X-ray crystal structures for both R<sub>2</sub>Hg and RHgX show linear structures. In general R<sub>2</sub>Hg compounds are very weak Lewis acids, but adduct are formed if the alkyl group is sufficiently electron withdrawing, e.g., (C<sub>6</sub>F<sub>5</sub>)<sub>2</sub>Hg. The geometry of the Lewis acid-base complex is not triangular as predicted from VSEPR theory, but a <emphasis effect="italics">T-shape</emphasis>. The distortion from a linear C-Hg-C unit is minor. For example, in (C<sub>6</sub>F<sub>5</sub>)<sub>2</sub>Hg the C-Hg-C angle is 176.2°, while in [(C<sub>6</sub>F<sub>5</sub>)<sub>2</sub>Hg]<sub>2</sub>(diars), where diars = Ph<sub>2</sub>AsCH<sub>2</sub>CH<sub>2</sub>AsPh<sub>2</sub> (<link target-id="id1169628073464"/>), the same angle is 173°. Furthermore, the donor atom-Hg bond distance (e.g., As-Hg = 3.4 Å) is only slightly shorter than the sum of the van der Waal radii (e.g., 3.5 Å). </para>
+
+      <figure id="id1169628073464">
+        <media id="id1169628073464_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-f299.jpg" id="id1169628073464__onlineimage" width="250" print-width="2in"/>
+        </media>
+<caption>The structure of [(C<sub>6</sub>F<sub>5</sub>)<sub>2</sub>Hg]<sub>2</sub>(diars). </caption>
+      </figure>
+
+
+
+
+    </section>
+    <section id="id1169650477712">
+      <title>Bibliography</title>
+      <list id="id1169630097689" list-type="bulleted">
+        <item>L. C. Damude and P. A. W. Dean. <emphasis effect="italics">J. Organomet. Chem.</emphasis>, 1979, <emphasis effect="bold">181</emphasis>, 1. </item>
+        <item>L. C. Damude and P. A. W. Dean. <emphasis effect="italics">J. Chem. Soc., Chem. Commun.</emphasis>, 1978, 1083. </item>
+        <item>J. L. Courtneidge, A. G. Davies, P. S. Gregory, D. C. McGuchan, and S. N. Yazdi. <emphasis effect="italics">J. Chem. Soc., Chem. Commun.</emphasis>, 1987, 1192. </item>
+        <item>P. B. Hitchcock, J. M. Keates, and G. A. Lawless, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 1998, <emphasis effect="bold">120</emphasis>, 599. </item>
+      </list>
+    </section>
+  </content>
+</document>

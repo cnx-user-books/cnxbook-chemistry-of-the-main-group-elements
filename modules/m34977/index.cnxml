@@ -1,0 +1,97 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Comparison of Sulfur to Oxygen</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34977</md:content-id>
+  <md:title>Comparison of Sulfur to Oxygen</md:title>
+  <md:abstract/>
+  <md:uuid>9cac0911-0325-40b9-98cd-103ff608bedc</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id1171221312069">
+      <title>Size </title>
+      <para id="id1171217527710"><link target-id="id1171217432968"/> summarizes the comparative sizes of oxygen and sulfur. </para>
+      <table id="id1171217432968" summary="Comparison of physical characteristics for oxygen and sulfur.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Atomic radius (Å)</emphasis> </entry>
+              <entry><emphasis effect="bold">Covalent radius (Å)</emphasis> </entry>
+              <entry><emphasis effect="bold">Ionic radius (Å)</emphasis> </entry>
+              <entry><emphasis effect="bold">van der Waal radius (Å)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Oxygen</entry>
+              <entry>0.48</entry>
+              <entry>0.66</entry>
+              <entry>1.40</entry>
+              <entry>1.52</entry>
+            </row>
+            <row>
+              <entry>Sulfur</entry>
+              <entry>0.88</entry>
+              <entry>1.05</entry>
+              <entry>1.84</entry>
+              <entry>1.80</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Comparison of physical characteristics for oxygen and sulfur. </caption>
+</table>
+      
+    </section>
+
+    <section id="id1171220951172">
+
+      <title>Electronegativity</title>
+      <para id="id1171220643313">Sulfur is less electronegative than oxygen (2.4 and 3.5, respectively) and as a consequence bonds to sulfur are less polar than the corresponding bonds to oxygen. One significant result in that with a less polar S-H bond the subsequent hydrogen bonding is weaker than observed with O-H analogs. A further consequence of the lower electronegativity is that the S-O bond is polar. </para>
+
+
+    </section>
+    <section id="id1171231979300">
+
+      <title>Bonds formed</title>
+      <para id="id1171226678736">Sulfur forms a range of bonding types. As with oxygen the -2 oxidation state prevalent. For example, sulfur forms analogs of ethers, i.e., thioethers R-S-R. However, unlike oxygen, sulfur can form more than two covalent (non-dative) bonds, i.e., in compounds such as SF<sub>4</sub> and SF<sub>6</sub>. </para>
+
+
+      <para id="id1171242788904">Such hypervalent compounds were originally thought be due to the inclusion of low energy <emphasis effect="italics">d</emphasis> orbitals in hybrids (e.g., <emphasis effect="italics">sp</emphasis><sup>3</sup><emphasis effect="italics">d</emphasis><sup>2</sup> for SF<sub>6</sub>); however, a better picture involves a combination of <emphasis effect="italics">s</emphasis> and <emphasis effect="italics">p</emphasis> ortbitals in bonding (<link target-id="id1171212594070"/>). Any involvement of the <emphasis effect="italics">d</emphasis> orbitals is limited to the polarization of the <emphasis effect="italics">p</emphasis> orbitals rather than direct hydridization. In this regard SF<sub>6</sub> represents the archetypal hypervalent molecule. Finally, sulfur can form multiple bonds, e.g., Me<sub>2</sub>S=O. </para>
+
+
+        <figure id="id1171212594070">
+          <media id="id1171212594070_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-4bc2.jpg" id="id1171212594070__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>Molecular orbital diagram for SF<sub>6</sub>.</caption>
+        </figure>
+
+
+
+    </section>
+    <section id="id1171217055678">
+      <title>Catenation</title>
+      <para id="id2019440">Catenation is defined as the ability of a chemical element to form a long chain-like structure via a series of covalent bonds. Oxygen’s extent of catenation is limited to ozone (O<sub>3</sub>) and peroxides (e.g., R-O-O-R). In contrast, the chemistry of sulfur is rich in the formation of multiple S-S bonds. </para>
+
+      <para id="id1171245263634">While elemental sulfur exists as a diatomic molecule (i.e., S<sub>2</sub>) in the gas phase at high temperatures, sulfur vapor consists of a mixture of oligomers (S<sub>3</sub> to S<sub>8</sub>) as a temperature dependant equilibrium. In the solid state the formation of Sn dominates, and sulfur exists as a range of polymorphs in which extended S-S bonding occurs in either rings of 6 to 20 atoms (e.g., <link target-id="id1171214641551"/>) or chains (catenasulfur). </para>
+
+
+
+        <figure id="id1171214641551">
+          <media id="id1171214641551_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-ca4d.jpg" id="id1171214641551__onlineimage" width="500" print-width="5in"/>
+          </media>
+<caption>Structures of two polymorphs of sulfur: (a) cyclohexasulfur S<sub>6</sub>, (b) cyclooctasulfur S<sub>8</sub>, and (b) cyclododecasulfur S<sub>12</sub>. </caption>
+        </figure>
+
+
+
+      <para id="id1171226162641">The higher level of catenation for sulfur is due to the greater strength of a S-S bond (226 kJ/mol) as compared to the O-O bond (142 kJ/mol). In general the homoleptic bond strength is expected to decrease going down a period of the Periodic Table. The reason for the unexpected weakness of the O-O bond is that the electronegative oxygen atoms repel each other and thus weaken the bond. </para>
+
+    </section>
+  </content>
+</document>

@@ -1,0 +1,310 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Choosing a Solvent</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33076</md:content-id>
+  <md:title>Choosing a Solvent</md:title>
+  <md:abstract/>
+  <md:uuid>26542b5d-4031-4f0a-b7f0-e0a0f374d458</md:uuid>
+</metadata>
+<content>
+
+
+    <para id="id1170189857999">The choice of solvent is an important parameter for any chemical reaction. The following provides a guide to some of the consideration to be made in choosing a solvent to ensure the desired reaction occurs. </para>
+
+    <section id="id1170189942895">
+      <title>Solvation</title>
+      <para id="id1170189942902">Solvation may be defined as the interaction between the solvent and the solute, however, two general classes of solvation have different consequences to the stability of either reagents or products in a chemical reaction, and hence the potential of a reaction to occur. </para>
+
+      <list id="id1170190483418" list-type="bulleted">
+        <item><emphasis effect="bold">Specific solvation</emphasis> is where the solvent interacts with one of the ions (or molecules) in solution via a covalent interaction. Furthermore, there will be a specific number of solvent molecules bound to each ion (or molecule), e.g., [Cu(NH<sub>3</sub>)<sub>4</sub>]<sup>2+</sup> and [Mg(H<sub>2</sub>O)<sub>6</sub>]<sup>2+</sup> (<link target-id="id1170189895424"/>a). </item>
+
+
+<item><emphasis effect="bold">Non-specific</emphasis> solvation is as a result of van der Waals or dipole-dipole forces between the solvent and an ion (or molecule). There will be no defined number of interactions and the solvent<sup>...</sup>ion interaction will be highly fluxional, e.g., while water solvates the chloride ion (<link target-id="id1170189895424"/>b) the number of water molecules around each anion is not fixed. </item>
+      </list>
+
+
+      <figure id="id1170189895424">
+        <media id="id1170189895424_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-1700.jpg" id="id1170189895424__onlineimage" width="300" print-width="3in"/>
+        </media>
+<caption>Examples of (a) specific and (b) non-specific solvation. </caption>
+      </figure>
+
+
+
+      <para id="id1170190479525"><link target-id="id1170190356724"/> shows the ability of three solvents to act with specific and non-specific solvation. The relative solvation ability of each solvent results in three different products from the dissolution of iron(III) chloride (FeCl<sub>3</sub>). </para>
+
+      <table id="id1170190356724" summary="The ability for specific and non-specific solvation. ">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Solvation</emphasis></entry>
+              <entry><emphasis effect="bold">DMSO (Me<sub>2</sub>SO)</emphasis></entry>
+              <entry><emphasis effect="bold">Pyridine (C<sub>5</sub>H<sub>5</sub>N)</emphasis></entry>
+              <entry><emphasis effect="bold">Acetonitrile (MeCN) </emphasis></entry>
+            </row>
+            <row>
+              <entry>Specific</entry>
+              <entry>Good </entry>
+              <entry>Very good</entry>
+              <entry>Poor</entry>
+            </row>
+            <row>
+              <entry>Non-specific</entry>
+              <entry>Good</entry>
+              <entry>Poor</entry>
+              <entry>Moderately good</entry>
+            </row>
+          </tbody>
+        </tgroup>
+<caption>The ability for specific and non-specific solvation. </caption>
+      </table>
+
+
+
+
+      <para id="id1170189943369">Dissolution of FeCl<sub>3</sub> in DMSO results in the dissociation of a chloride ligand, <link target-id="eip-23231"/>, due to both the specific solvation of the “FeCl<sub>2</sub><sup>+</sup>” cation and the non-specific solvation of the Cl<sup>-</sup> anion. In fact, the good solvation properties of DMSO means that depending on the concentration (and temperature) a series of dissociations may occur, <link target-id="eip-23232"/>. </para>
+
+<equation id="eip-23231">
+        <media id="id1170190250307_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-6592.jpg" id="id1170190250307__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+<equation id="eip-23232">   <media id="id1170189881054_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-b840.jpg" id="id1170189881054__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+
+
+
+
+      <para id="id1170190233865">In contrast, if FeCl<sub>3</sub> is dissolved in pyridine (py) the neutral Lewis acid-base complex is formed, <link target-id="eip-23233"/>, because while pyridine is a very good at specific solvation (<link target-id="id1170190356724"/>), it is poor at solvating the chloride anion. </para>
+
+<equation id="eip-23233"> <media id="id1170190174175_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-52a3.jpg" id="id1170190174175__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+       
+
+
+
+      <para id="id1170189850063">In a similar manner, FeCl<sub>3</sub>(MeCN)<sub>3</sub> will be formed by the dissolution in acetonitrile, because although it is not good at specific solvation, it is not sufficiently good at non-specific solvation to stabilize the chloride anion. However, since the FeCl<sub>4</sub><sup>-</sup> anion has a lower charge density that Cl<sup>-</sup>, it can be supported by the non-specific solvation of acetonitrile and thus a disproportionation reaction occurs, <link target-id="eip-23234"/>. </para>
+
+<equation id="eip-23234">    <media id="id1170189919841_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-f7b2.jpg" id="id1170189919841__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+    
+
+
+    </section>
+
+
+    <section id="id1170189867111">
+      <title>Interference by the solvent</title>
+      <para id="id1170189867118">Rather than solvating a molecule or ion, the solvent can take an active and detrimental role in the synthesis of a desired compound. </para>
+
+
+      <section id="id1170190479093">
+        <title>Solvolysis</title>
+        <para id="id1170190479100">The archetypal solvolysis reaction is the reaction with water, i.e., hydrolysis, <link target-id="eip-23235"/>. However, solvolysis is a general reaction, involving bond breaking by the solvent. Thus, the reaction with ammonia is ammonolysis, <link target-id="eip-23236"/>, the reaction with acetic acid is acetolysis, <link target-id="eip-23237"/>, and the reaction with an alcohol is alcoholysis, <link target-id="eip-23238"/> where Et = C<sub>2</sub>H<sub>5</sub>. In each case the same general reaction takes place yielding the cation associated with the solvent. </para>
+
+<equation id="eip-23235"><media id="id1170190195623_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-1204.jpg" id="id1170190195623__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+          
+
+
+<equation id="eip-23236"><media id="id1170190520623_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-6d7c.jpg" id="id1170190520623__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+
+<equation id="eip-23237">  <media id="id1170190485667_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-a006.jpg" id="id1170190485667__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        
+
+
+<equation id="eip-23238">
+          <media id="id1170189898075_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-eadc.jpg" id="id1170189898075__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+      </section>
+
+      <section id="id1170190503862">
+        <title>Competition reactions</title>
+        <para id="id1170190177212">Where more than one reaction could occur the reaction involving the solvent can often compete with the desired reaction. </para>
+
+        <para id="id1170190177217">If it is desired to synthesis the Lewis acid-base complex between diethylether (Et<sub>2</sub>O) and boron trifluoride (BF<sub>3</sub>) it is important to choose a solvent that will not compete with the complex formation. For example, pyridine is a poor choice because the nitrogen donor is a stronger Lewis base than the diethylether, <link target-id="eip-23239"/>, and thus no reaction would occur between diethylether and boron trifluoride. In contrast, since acetonitrile (MeCN) is a poor Lewis base, then the reaction will occur. </para>
+
+<equation id="eip-23239">
+          <media id="id1170190524304_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-3b2d.jpg" id="id1170190524304__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+
+
+        <para id="id1170190223441">If the synthesis of GeCl<sub>6</sub><sup>2-</sup> from germanium tetrachloride (GeCl<sub>4</sub>) and a source of chloride anion, then water would be a poor choice of solvent since hydrolysis of GeCl<sub>4</sub> would result. Liquid hydrogen chloride would be equally poor solvent since strong Cl<sup>-...</sup>H-Cl hydrogen bonding would stabilize the chloride anion and preclude reaction. In contrast, nitromethane (CH<sub>3</sub>NO<sub>2</sub>) would be a polar enough solvent to solvate the GeCl<sub>4</sub>, but it will be displaced by the chloride anion, which would be only weakly solvated. </para>
+      </section>
+    </section>
+
+    <section id="id4862635">
+      <title>Salt formation</title>
+      <para id="id1170189870114">The formation of a salt via a double displacement reaction, <link target-id="eip-23240"/>, can be promoted by the choice of solvent by shifting the equilibrium by stabilization of one or more reagent/product. </para>
+
+
+<equation id="eip-23240">      <media id="id1170189870123_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-7e49.jpg" id="id1170189870123__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+  
+
+
+      <section id="id1170190374059">
+        <title>Salt stabilization through relative acidity</title>
+        <para id="id6609245">The attempted formation of nitronium perchlorate from nitric acid and perchloric acid, <link target-id="eip-23241"/>, in water will result in the decomposition of the NO<sub>2</sub><sup>+</sup> cation, <link target-id="eip-23242"/>. However, if the reaction is carried out in a stronger acid, i.e., sulfuric acid, the NO<sub>2</sub><sup>+</sup> cation is stable, and the resulting salt can be recystallized, <link target-id="eip-23241"/>. </para>
+
+
+<equation id="eip-23241">  <media id="id1170190514399_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-aa12.jpg" id="id1170190514399__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+       
+
+<equation id="eip-23242">    <media id="id4966384_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-592a.jpg" id="id4966384__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+      
+
+
+
+
+        <para id="id1170190372622">In a similar manner, the weak basic character of water means the equilibrium reaction, <link target-id="eip-23243"/>, has a very small equilibrium constant, K. However, if the reaction is carried out in a strongly basic solvent such as ammonia the uride anion is stabilized, <link target-id="eip-23244"/>, and can be precipitated by cation exchange. </para>
+
+<equation id="eip-23243">
+          <media id="id1170190372632_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Eq127.jpg" id="id1170190372632__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+
+<equation id="eip-23244">  <media id="id1170189911406_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Eq128.jpg" id="id1170189911406__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        
+
+
+
+      </section>
+      <section id="id1170190169813">
+        <title>Salt stabilization through solvation</title>
+        <para id="id1170190169820">The following observations may be explained by a consideration of the solvation ability of the solvent. </para>
+
+        <list id="id1170190224935" list-type="enumerated" number-style="arabic">
+          <item>The reaction of silver nitrate with barium chloride in water yields silver chloride and barium nitrate, <link target-id="eip-23245"/>. </item>
+
+          <item>The reaction of barium nitrate with silver chloride in ammonia yields barium chloride and silver nitrate, <link target-id="eip-23246"/>. </item>
+
+        </list>
+
+
+<equation id="eip-23245"> <media id="id1170189869656_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-31ed.jpg" id="id1170189869656__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+         
+
+
+<equation id="eip-23246"> <media id="id1170189901039_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics17-e98f.jpg" id="id1170189901039__onlineimage" width="500" print-width="4.5in"/>
+            </media></equation>
+
+           
+
+
+
+
+        <para id="id1170189855103">Since silver nitrate and barium nitrate are soluble in both solvents, the differences must be due to differences in the solubility of the chlorides in each solvent. A consideration of the relative stability of solid silver chloride versus the solvated species (<link target-id="id1170189937822"/>) shows that the enthalpy of solvation in water is less than the lattice energy. Thus, if silver chloride were present as Ag<sup>+</sup> and Cl<sup>-</sup> in water it would spontaneously precipitate. In contrast, the enthalpy of solvation in ammonia is greater than the lattice energy, thus solid AgCl will dissolve readily in liquid ammonia. The reason for the extra stabilization from the specific solvation of the silver cation by the ammonia, i.e., the formation of the covalent complex [Ag(NH<sub>3</sub>)<sub>2</sub>]<sup>+</sup>. </para>
+
+
+        <figure id="id1170189937822">
+          <media id="id1170189937822_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics18-1b44.jpg" id="id1170189937822__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>Enthalpy of solvation of silver chloride in water and ammonia in comparison to the lattice energy. </caption>
+        </figure>
+
+
+
+
+
+
+        <para id="id1170190358837">As may be seen from <link target-id="id1170189896170"/>, the opposite effect occurs for barium chloride. Here the enthalpy of solvation in ammonia is less than the lattice energy. Thus, if barium chloride were present as Ba<sup>2+</sup> and Cl<sup>-</sup> in ammonia it would spontaneously precipitate. In contrast, the enthalpy of solvation in water is greater than the lattice energy, thus solid BaCl<sub>2</sub> will dissolve readily in water. The stabilization of Ba<sup>2+</sup>(aq) occurs because water will have a larger sphere of non-specific solvation as a consequence of having two lone pairs, allowing interaction with the Ba<sup>2+</sup> as well as other water molecules (<link target-id="id1170189907256"/>). </para>
+
+
+
+
+          <figure id="id1170189896170">
+            <media id="id1170189896170_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics19-51f2.jpg" id="id1170189896170__onlineimage" width="400" print-width="4in"/>
+            </media>
+<caption>Enthalpy of solvation of barium chloride in water and ammonia in comparison to the lattice energy. </caption>
+          </figure>
+
+
+
+
+
+
+        <figure id="id1170189907256">
+          <media id="id1170189907256_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics20-bb47.jpg" id="id1170189907256__onlineimage" width="225" print-width="2.25in"/>
+          </media>
+<caption>Schematic representation of the extended water solvation (aquation) sphere about Ba<sup>2+</sup> cation. </caption>
+        </figure>
+
+
+
+
+      </section>
+    </section>
+    <section id="id1170189930141">
+
+
+      <title>Electron transfer reactions </title>
+      <para id="id1170189909793">A consideration of the oxidation, <link target-id="eip-23248"/>, and reduction, <link target-id="eip-23249"/>, reactions that occur for pure water at neutral pH (where [H<sup>+</sup>] = 10<sup>-7</sup>) would suggest that water will not tolerate oxidants whose E<sub>0</sub> is greater than 0.82 V nor tolerate reductants whose E<sub>0</sub> is less than -0.41 V. </para>
+
+<equation id="eip-23248">  <media id="id1170189883380_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics21-e65a.jpg" id="id1170189883380__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+      
+
+
+<equation id="eip-23249"><media id="id1170190406278_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics22-d1f5.jpg" id="id1170190406278__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+        
+
+
+
+      <para id="id1170190219466">Thus, while water has a fair range to support redox reactions it is not very good at the extremes with strong reducing agents or strong oxidizing agents. Liquid ammonia is an excellent solvent for very strong reducing agents because of the stabilization of solvated electrons, i.e., [e<sup>-</sup>(NH<sub>3</sub>)<sub>6</sub>]. In contrast, hydrochloric acid is a good solvent for reactions involving very strong oxidizing agents. </para>
+
+
+    </section>
+  </content>
+</document>

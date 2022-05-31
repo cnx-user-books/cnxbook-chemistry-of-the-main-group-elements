@@ -1,0 +1,271 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Oxides of Nitrogen</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35076</md:content-id>
+  <md:title>Oxides of Nitrogen</md:title>
+  <md:abstract/>
+  <md:uuid>39ed05df-dbef-4151-ae87-0e0646f82462</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1164480466224">A summary of the physical properties of the oxides of nitrogen is given in <link target-id="id1164483680706"/>. </para>
+    <table id="id1164483680706" summary="Physical properties of the oxides of nitrogen.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Oxide</emphasis></entry>
+            <entry><emphasis effect="bold">Formula</emphasis></entry>
+            <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+            <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+          </row>
+          <row>
+            <entry>Nitrous oxide</entry>
+            <entry>N<sub>2</sub>O</entry>
+            <entry>-90.8</entry>
+            <entry>-88.5</entry>
+          </row>
+          <row>
+            <entry>Nitric oxide</entry>
+            <entry>NO</entry>
+            <entry>-163.6</entry>
+            <entry>-161.8</entry>
+          </row>
+          <row>
+            <entry>Dinitrogen trioxide</entry>
+            <entry>N<sub>2</sub>O<sub>3</sub> </entry>
+            <entry>-100.6</entry>
+            <entry>3.5 (dec.)</entry>
+          </row>
+          <row>
+            <entry>Nitrogen dioxide (dinitrogen tetroxide)</entry>
+            <entry>NO<sub>2</sub>/N<sub>2</sub>O<sub>4</sub></entry>
+            <entry>-11.2 (NO<sub>2</sub>)</entry>
+            <entry>21.2 (N<sub>2</sub>O<sub>4</sub>)</entry>
+          </row>
+          <row>
+            <entry>Nitrogen pentoxide</entry>
+            <entry>N<sub>2</sub>O<sub>5</sub></entry>
+            <entry>30</entry>
+            <entry>47</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Physical properties of the oxides of nitrogen. </caption>
+</table>
+    
+    <section id="id1164479391615">
+      <title>Nitrous oxide </title>
+      <para id="id1164482136118">Gaseous nitrous oxide (N<sub>2</sub>O) is prepared by the careful thermal decomposition of ammonium nitrate (NH<sub>4</sub>NO<sub>2</sub>), <link target-id="eip-468"/>. Nitrous oxide is a linear molecule (<link target-id="id1164480488960"/>a) that is isoelectronic (and isostructural) with carbon dioxide. Despite its use as a power enhancement for automobiles, nitrous oxide is actually not very reactive and a major use is as an aerosol propellant. </para>
+      
+      <equation id="eip-468"><media id="id1164479363174_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-a7ec.jpg" id="id1164479363174__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <figure id="id1164480488960"><media id="id1164480488960_media" alt="">
+          <image mime-type="image/jpg" src="../../media/FigNO.jpg" id="id1164480488960__onlineimage" width="300" print-width="3in"/>
+        </media>
+      <caption>Structures of (a) nitrous oxide, (b) nitric oxide, (c) dinitrogen trioxide, (d) nitrogen dioxide, (e) nitrogen tetroxide, and (f) nitrogen pentoxide.</caption></figure>
+      
+      
+      <section id="id1164482119015">
+        <title>Nitrous oxide as an anesthetic drug</title>
+        <para id="id8096101">Nitrous oxide is known as "laughing gas" due to the euphoric effects of inhaling it, a property that has led to its recreational use as a hallucinogen. However, it is as a anesthetic that it has a legitimate application. </para>
+        <para id="id1164479242358">The first use of nitrous oxide as anesthetic drug was when dentist Horace Wells (<link target-id="id1164483664784"/>) with assistance by Gardner Quincy Colton (<link target-id="id1164483459323"/>) and John Mankey Riggs (<link target-id="id1164475490655"/>), demonstrated insensitivity to pain from a dental extraction in December 1844. Wells subsequently treated 12-15 patients, and according to his own record it only failed as an anesthetic in two cases. In spite of these results, the method was not immediately adopted, probably because during his first public demonstration was only partly successful. </para>
+
+
+          <figure id="id1164483664784"><media id="id1164483664784_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3-491b.jpg" id="id1164483664784__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>American dentist Horace Wells (1815 - 1848). </caption></figure>
+
+        
+        <figure id="id1164483459323"><media id="id1164483459323_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-459f.jpg" id="id1164483459323__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>American showman, lecturer, and former medical student Gardner Quincy Colton (1814 - 1898). </caption></figure>
+        
+        <figure id="id1164475490655"><media id="id1164475490655_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-691a.jpg" id="id1164475490655__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>John Mankey Riggs (1811 - 1885) was the leading authority on periodontal disease in the United States, to the point that periodontal disease was known as <emphasis effect="italics">Riggs disease</emphasis>. </caption></figure>
+        
+        <para id="id1164479459476">The method did not come into general use until 1863, when Colton successfully used it for more than 25,000 patients. As such, the usage of nitrous oxide rapidly became the preferred anesthetic method in dentistry. Because the gas is mild enough to keep a patient in a conscious and conversational state, and yet in most cases strong enough to suppress the pain caused by dental work, it remains the preferred gas anesthetic in today's dentistry. </para>
+      </section>
+      <section id="id1164476561521">
+        <title>Nitrous: the secret to more power. </title>
+        <para id="id1164482336425">In motorsports, nitrous oxide (often referred to as <emphasis effect="italics">nitrous</emphasis> or <emphasis effect="italics">NOS</emphasis>) allows the engine to burn more fuel, resulting in a more powerful combustion, and hence greater horsepower. The gas itself is not flammable, but it delivers more oxygen (33%) than atmospheric air (21%) by breaking down at elevated temperatures. When N<sub>2</sub>O breaks down in during fuel combustion, the decomposition of nitrous is exothermic, contributing to the overall power increase.</para>
+        <para id="id1164481113978">Nitrous oxide is stored as a compressed liquid (<link target-id="id1164482280885"/>); the evaporation and expansion of liquid nitrous oxide in the intake manifold causes a large drop in intake charge temperature, resulting in a denser charge, further allowing more air/fuel mixture to enter the cylinder. Nitrous oxide is sometimes injected into (or prior to) the intake manifold, whereas other systems directly inject right before the cylinder (direct port injection) to increase power. </para>
+
+
+
+          <figure id="id1164482280885"><media id="id1164482280885_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-3515.jpg" id="id1164482280885__onlineimage" width="400" print-width="4in"/>
+            </media>
+          <caption>A typical NOS system for automotive use. </caption></figure>
+
+        
+        <para id="id1164484923849">One of the major problems of using nitrous oxide in a reciprocating engine is that it can produce enough power to damage or destroy the engine. Very large power increases are possible, and if the mechanical structure of the engine is not properly reinforced, the engine may be severely damaged or destroyed during this kind of operation. </para><note id="eip-835" type="warning">Automotive-grade liquid nitrous oxide differs slightly from medical-grade nitrous oxide in that a small amount of sulfur is added to prevent substance abuse. </note>
+        
+      </section>
+    </section>
+    <section id="id1164478419934">
+      <title>Nitric oxide </title>
+      <para id="id1164479549956">Nitric oxide (NO) is formed by the high temperature oxidation of nitrogen, <link target-id="eip-22"/>, or the platinum catalyzed oxidation of ammonia at 800 °C, <link target-id="eip-24"/>. </para>
+      
+      <equation id="eip-22"><media id="id1164481216434_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-5b23.jpg" id="id1164481216434__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-24"><media id="id1164484096553_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-fd7e.jpg" id="id1164484096553__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1164477858579">Nitric oxide (<link target-id="id1164480488960"/>b) is electronically equivalent to dinitrogen (N<sub>2</sub>) plus an electron, and as a consequence it is paramagnetic with one unpaired electron. The location of the unpaired electron in the π* orbital (<link target-id="id1164475737898"/>a) results in a bond order of 2.5 rather than the triple bond observed for N<sub>2</sub> (<link target-id="id1164475737898"/>b). The N-O distance of 1.15 Å is intermediate between the triple bond distance in NO<sup>+</sup> (1.06 Å) and the typical double bond distance (<emphasis effect="italics">ca</emphasis>. 1.20 Å). Furthermore, because of the location of the electron it is easy to oxidize nitric oxide to the nitrosonium ion (NO<sup>+</sup>), <link target-id="eip-294"/>. </para>
+      
+      <equation id="eip-294"><media id="id2939314_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-4c40.jpg" id="id2939314__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+<equation id="eip-870"><media id="id1164480714448_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-e4d3.jpg" id="id1164480714448__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+        <figure id="id1164475737898"><media id="id1164475737898_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-2a77.jpg" id="id1164475737898__onlineimage" width="650" print-width="6.5in"/>
+          </media>
+        <caption>Molecular orbital diagrams for (a) nitric oxide and (b) dinitrogen. </caption></figure>
+
+      
+      <para id="id1164482167184">Nitric oxide is unstable to heat, <link target-id="eip-231"/>, and oxidation, <link target-id="eip-870"/>. It will also react with halogens to form the nitrosyl halides, XNO. </para>
+      
+      <equation id="eip-231"><media id="id1164482002148_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-f9eb.jpg" id="id1164482002148__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+    </section>
+    <section id="id1164483447044">
+      <title>Dinitrogen trioxide </title>
+      <para id="id1164482958690">Dinitrogen trioxide (N<sub>2</sub>O<sub>3</sub>) is formed from the stoichiometric reaction between NO and O<sub>2</sub> or NO and N<sub>2</sub>O<sub>4</sub>. Dinitrogen trioxide has an intense blue color in the liquid phase and a pale blue color in the solid state. Thermal dissociation of N<sub>2</sub>O<sub>3</sub>, <link target-id="eip-518"/>, occurs above -30 °C, and some self-ionization of the pure liquid is observed, <link target-id="eip-651"/>. The asymmetric structure of N<sub>2</sub>O<sub>3</sub> (<link target-id="id1164480488960"/>c) results in a polar molecule (<link target-id="id1164478847459"/>). </para>
+      
+      <equation id="eip-518"><media id="id1164478619178_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-559a.jpg" id="id1164478619178__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+      <equation id="eip-651"><media id="id1164483618382_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-30ae.jpg" id="id1164483618382__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <figure id="id1164478847459"><media id="id1164478847459_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics15-b70b.jpg" id="id1164478847459__onlineimage" width="100" print-width="1in"/>
+        </media>
+      <caption>The polarization of the N-N bond in dinitrogen trioxide. </caption></figure>
+      
+    </section>
+    <section id="id1164481185042">
+      <title>Nitrogen dioxide (and tetroxide) </title>
+      <para id="id1164480309248">Formed from the oxidation of nitric oxide, <link target-id="eip-90"/>, brown nitrogen dioxide is actually in equilibrium with its colorless dimeric form, nitrogen tetroxide (N<sub>2</sub>O<sub>4</sub>), <link target-id="eip-571"/>. </para>
+      
+      <equation id="eip-90"><media id="id1164475411024_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-35e3.jpg" id="id1164475411024__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+      <equation id="eip-571"><media id="id3017750_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics17-47f9.jpg" id="id3017750__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+<para id="id1164483872778">Nitrogen dioxide (<link target-id="id1164480488960"/>d) is electronically equivalent to the nitrate anion (NO<sub>2</sub><sup>-</sup>) less one electron, and as such it is paramagnetic with one unpaired electron. The location of the unpaired electron in a nitrogen sp<sup>2</sup> orbital, and a consequently it forms a dimer through a N-N bond (<link target-id="id1164480488960"/>e). Furthermore, it is easy to oxidize nitrogen dioxide to the nitronium ion (NO<sub>2</sub><sup>+</sup>), <link target-id="eip-527"/>. </para>
+      
+      <equation id="eip-527"><media id="id1164479408235_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics18-ba5c.jpg" id="id1164479408235__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+<para id="id1164482363803">Nitrogen dioxide dissolves in water to form a mixture of nitric and nitrous acids, <link target-id="eip-121"/>. Nitrogen dioxide acts as an oxidizing agent with the formation of nitrate anion, <link target-id="eip-377"/>. </para>
+      
+      <equation id="eip-121"><media id="id1164482300969_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics19-21d8.jpg" id="id1164482300969__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+
+
+      </equation>
+      <equation id="eip-377"><media id="id8633532_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics20-67c4.jpg" id="id8633532__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+<para id="id1164483709144">The most common structural form of N<sub>2</sub>O<sub>4</sub> (<link target-id="id1164480488960"/>e) is planar with a long N-N bond (1.78 Å) that is significantly longer than observed in hydrazine (1.47 Å). Rationalization of this structural effect is obtained from a consideration of the molecular orbitals, which show that the electrons in the σ-bond are actually delocalized over the whole molecule. The rotation about the N-N bond is 9.6 kJ/mol. </para>
+    </section>
+    <section id="id1164483655740">
+      <title>Nitrogen pentoxide </title>
+      <para id="id1164481515823">The dehydration of nitric acid, with P<sub>2</sub>O<sub>5</sub>, yields nitrogen pentoxide, <link target-id="eip-117"/>, which is an unstable solid at room temperature (<link target-id="id1164483680706"/>). In the solid state nitrogen pentoxide is actually nitronium nitrate (NO<sub>2</sub><sup>+</sup>NO<sub>3</sub><sup>-</sup>), however, in the vapor phase it exists as a molecular species (<link target-id="id1164480488960"/>f) with a bent N-O-N unit. Nitrogen pentoxide is a very powerful nitrating and oxidation agent. </para><equation id="eip-117"><media id="id1164480594570_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics21-5cb6.jpg" id="id1164480594570__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      
+    </section>
+    <section id="id1164480811110">
+      <title>Nitrogen oxides as precursors to smog and acid rain</title>
+      <para id="id1164479540120">Nitrogen oxides (NO<sub>x</sub>) emissions are estimated to be in the range of 25 - 100 megatonnes of nitrogen per year. Natural sources are thought to make up approximately <sup>1</sup>/<sub>3</sub> of the total. The generations of NO<sub>x</sub> (primarily a mixture of NO<sub>2</sub> and NO) is the main source of smog and a significant contribution to atmospheric pollution; however, NO<sub>x</sub> is also responsible for much of the acidity in acid rain. </para>
+      <section id="id1164483234076">
+        <title>Atmospheric reactions leading to acid rain</title>
+        <para id="id1164482214724">In the dry atmosphere, nitric oxide reacts is oxidized rapidly in sunlight by ozone, <link target-id="eip-641"/>. The nitrogen dioxide reacts with the hydroxide radical, formed by the photochemical decomposition of ozone, <link target-id="eip-374"/> and <link target-id="eip-438"/>, in the presence of a non-reactive gas molecule such as nitrogen to form nitric acid vapor, <link target-id="eip-58"/>. The conversion rate for NO<sub>x</sub> to HNO<sub>3</sub> is approximately ten times faster than the equivalent reaction for sulfur dioxide. For example, conversion is essentially complete for a NO<sub>x</sub> plume by the time it transverses the North Sea from the UK to Scandinavia. </para>
+        
+        <equation id="eip-641"><media id="id8472120_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics22-2ed9.jpg" id="id8472120__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+        <equation id="eip-374"><media id="id1164479335652_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics23-3ac1.jpg" id="id1164479335652__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+        <equation id="eip-438"><media id="id8208843_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics24-f664.jpg" id="id8208843__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+        <equation id="eip-58"><media id="id1164481901338_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics25-1bc0.jpg" id="id1164481901338__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+        <para id="id1164481898509">At night, conversion takes place via the formation of a nitrate radical, <link target-id="eip-35"/>, which subsequently photochemically unstable under sunlight forming nitrogen pentoxide, <link target-id="eip-531"/>, that reacts with water on the surface of aerosol particles to form nitric acid, <link target-id="eip-779"/>. </para>
+        
+        <equation id="eip-35"><media id="id1164476198016_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics26-49cc.jpg" id="id1164476198016__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+        <equation id="eip-531"><media id="id1164480314085_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics27-924f.jpg" id="id1164480314085__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+        <equation id="eip-779"><media id="id1164483005316_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics28-08cf.jpg" id="id1164483005316__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+<para id="id1164483646532">Both NO and NO<sub>2</sub> are only slightly soluble in water and it is therefore more probable that the nitric acid content of rain is more likely due to the dissolution of nitric acid vapor into raindrops, <link target-id="eip-194"/>, rather than a separate reaction. </para>
+
+<equation id="eip-194"><media id="id1164478419698_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics29-5a29.jpg" id="id1164478419698__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        
+      </section>
+    </section>
+  </content>
+</document>

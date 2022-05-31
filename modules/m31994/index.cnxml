@@ -1,0 +1,347 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Semiconductor Grade Silicon</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31994</md:content-id>
+  <md:title>Semiconductor Grade Silicon</md:title>
+  <md:abstract/>
+  <md:uuid>6c6beb3d-3f4b-4383-85d3-9ad52ee84251</md:uuid>
+</metadata>
+
+<content>
+
+
+    
+      <section id="id-13939159388">
+        <title>Introduction</title>
+
+
+        <para id="eip-336">The synthesis and purification of bulk polycrystalline semiconductor material represents the first step towards the commercial fabrication of an electronic device. This polycrystalline material is then used as the raw material for the formation of single crystal material that is processed to semiconductor wafers. The strong influence on the electric characteristics of a semiconductors exhibited by small amounts of some impurities requires that the bulk raw material be of very high purity (&gt; 99.9999%). Although some level of purification is possible during the crystallization process it is important to use as high a purity starting material as possible. </para><para id="id6584279">Following oxygen (46%), silicon (L. silicis flint) is the most abundant element in the earth's crust (28%). However, silicon does not occur in its elemental form, but as its oxide (SiO<sub>2</sub>) or as silicates. Sand, quartz, amethyst, agate, flint, and opal are some of the forms in which the oxide appears. Granite, hornblende, asbestos, feldspar, clay and mica, etc. are a few of the numerous silicate minerals. With such boundless supplies of the raw material, the costs associated with the production of bulk silicon is not one of abstraction and conversion of the oxide(s), but of purification of the crude elemental silicon. While 98% elemental silicon, known as metallurgical-grade silicon (MGS), is readily produced on a large scale, the requirements of extreme purity for electronic device fabrication require additional purification steps in order to produce electronic-grade silicon (EGS). Electronic-grade silicon is also known as semiconductor-grade silicon (SGS). In order for the purity levels to be acceptable for subsequent crystal growth and device fabrication, EGS must have carbon and oxygen impurity levels less than a few parts per million (ppm), and metal impurities at the parts per billion (ppb) range or lower. <link target-id="id6426555"/> and <link target-id="id5926737"/> give typical impurity concentrations in MGS and EGS, respectively. Besides the purity, the production cost and the specifications must meet the industry desires. </para>
+        
+        <table id="id6426555" summary="Typical impurity concentrations found in metallurgical-grade silicon (MGS).">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis> </entry>
+                <entry><emphasis effect="bold">Concentration (ppm)</emphasis></entry>
+                <entry><emphasis effect="bold">Element</emphasis> </entry>
+                <entry><emphasis effect="bold">Concentration (ppm)</emphasis></entry>
+              </row>
+              <row>
+                <entry>aluminum</entry>
+                <entry>1000-4350</entry>
+                <entry>manganese</entry>
+                <entry>50-120</entry>
+              </row>
+              <row>
+                <entry>boron</entry>
+                <entry>40-60</entry>
+                <entry>molybdenum</entry>
+                <entry>&lt; 20</entry>
+              </row>
+              <row>
+                <entry>calcium</entry>
+                <entry>245-500</entry>
+                <entry>nickel</entry>
+                <entry>10-105</entry>
+              </row>
+              <row>
+                <entry>chromium</entry>
+                <entry>50-200</entry>
+                <entry>phosphorus</entry>
+                <entry>20-50</entry>
+              </row>
+              <row>
+                <entry>copper</entry>
+                <entry>15-45</entry>
+                <entry>titanium</entry>
+                <entry>140-300</entry>
+              </row>
+              <row>
+                <entry>iron</entry>
+                <entry>1550-6500</entry>
+                <entry>vanadium</entry>
+                <entry>50-250</entry>
+              </row>
+              <row>
+                <entry>magnesium</entry>
+                <entry>10-50</entry>
+                <entry>zirconium</entry>
+                <entry>20</entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup><caption>Typical impurity concentrations found in metallurgical-grade silicon (MGS).</caption>
+</table>
+        
+        <table id="id5926737" summary="Typical impurity concentrations found in electronic-grade silicon (EGS).">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Concentration (ppb)</emphasis></entry>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Concentration (ppb)</emphasis> </entry>
+              </row>
+              <row>
+                <entry>arsenic</entry>
+                <entry>&lt; 0.001</entry>
+                <entry>gold</entry>
+                <entry>&lt; 0.00001</entry>
+              </row>
+              <row>
+                <entry>antimony</entry>
+                <entry>&lt; 0.001</entry>
+                <entry>iron</entry>
+                <entry>0.1-1.0</entry>
+              </row>
+              <row>
+                <entry>boron</entry>
+                <entry>≤ 0.1</entry>
+                <entry>nickel</entry>
+                <entry>0.1-0.5</entry>
+              </row>
+              <row>
+                <entry>carbon</entry>
+                <entry>100-1000</entry>
+                <entry>oxygen</entry>
+                <entry>100-400</entry>
+              </row>
+              <row>
+                <entry>chromium</entry>
+                <entry>&lt; 0.01</entry>
+                <entry>phosphorus</entry>
+                <entry>≤ 0.3</entry>
+              </row>
+              <row>
+                <entry>cobalt</entry>
+                <entry>0.001</entry>
+                <entry>silver</entry>
+                <entry>0.001</entry>
+              </row>
+              <row>
+                <entry>copper</entry>
+                <entry>0.1</entry>
+                <entry>zinc</entry>
+                <entry>&lt; 0.1</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Typical impurity concentrations found in electronic-grade silicon (EGS).</caption>
+</table>
+  </section>
+     
+
+
+
+
+
+<section id="id-0291196777865">
+        <title>Metallurgical-grade silicon (MGS) </title>
+        <para id="id8047361">The typical source material for commercial production of elemental silicon is quartzite gravel; a relatively pure form of sand (SiO<sub>2</sub>). The first step in the synthesis of silicon is the melting and reduction of the silica in a submerged-electrode arc furnace. An example of which is shown schematically in <link target-id="id7644309"/>, along with the appropriate chemical reactions. A mixture of quartzite gravel and carbon are heated to high temperatures (ca. 1800 °C) in the furnace. The carbon bed consists of a mixture of coal, coke, and wood chips. The latter providing the necessary porosity such that the gases created during the reaction (SiO and CO) are able to flow through the bed. </para>
+
+        <figure id="id7644309"><media id="id1170983992766" alt=""><image src="../../media/graphics1-0a13.png" mime-type="image/png" width="425" print-width="4in"/></media>
+        <caption>Schematic of submerged-electrode arc furnace for the production of metallurgical-grade silicon (MGS). </caption></figure>
+
+        
+        <para id="id7157013">The overall reduction reaction of SiO<sub>2</sub> is expressed in <link target-id="eip-609"/>, however, the reaction sequence is more complex than this overall reaction implies, and involves the formation of SiC and SiO intermediates. The initial reaction between molten SiO<sub>2</sub> and C, <link target-id="eip-907"/>, takes place in the arc between adjacent electrodes, where the local temperature can exceed 2000 °C. The SiO and CO thus generated flow to cooler zones in the furnace where SiC is formed, <link target-id="eip-165"/>, or higher in the bed where they reform SiO<sub>2</sub> and C, <link target-id="eip-907"/>. The SiC reacts with molten SiO<sub>2</sub>, <link target-id="eip-211"/>, producing the desired silicon along with SiO and CO. The molten silicon formed is drawn-off from the furnace and solidified. </para>
+        <equation id="eip-609"><media id="id1111111_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq1.jpg" id=" id1111111__onlineimage" width="450" print-width="4in"/></media></equation><equation id="eip-907"><media id="id1111112_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq2.jpg" id=" id1111112__onlineimage" width="450" print-width="4in"/></media></equation><equation id="eip-165"><media id="id1111113_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq3.jpg" id=" id1111113__onlineimage" width="450" print-width="4in"/></media></equation><equation id="eip-211"><media id="id1111114_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq4.jpg" id=" id1111114__onlineimage" width="450" print-width="4in"/></media></equation>
+        <para id="id6751577">The as-produced MGS is approximately 98-99% pure, with the major impurities being aluminum and iron (<link target-id="id6426555"/>), however, obtaining low levels of boron impurities is of particular importance, because it is difficult to remove and serves as a dopant for silicon. The drawbacks of the above process are that it is energy and raw material intensive. It is estimated that the production of one metric ton (1,000 kg) of MGS requires 2500 - 2700 kg quartzite, 600 kg charcoal, 600 - 700 kg coal or coke, 300 - 500 kg wood chips, and 500,000 kWh of electric power. Currently, approximately 500,000 metric tons of MGS are produced per year, worldwide. Most of the production (ca. 70%) is used for metallurgical applications (e.g., aluminum-silicon alloys are commonly used for automotive engine blocks) from whence its name is derived. Applications in a variety of chemical products such as silicone resins account for about 30%, and only 1% or less of the total production of MGS is used in the manufacturing of high-purity EGS for the electronics industry. The current worldwide consumption of EGS is approximately 5 x 10<sup>6</sup> kg per year. </para>
+
+ </section>
+
+
+
+    
+
+      <section id="id-99102524989">
+        <title>Electronic-grade silicon (EGS) </title>
+        <para id="id8586259">Electronic-grade silicon (EGS) is a polycrystalline material of exceptionally high purity and is the raw material for the growth of single-crystal silicon. EGS is one of the purest materials commonly available, see <link target-id="id5926737"/>. The formation of EGS from MGS is accomplished through chemical purification processes. The basic concept of which involves the conversion of MGS to a volatile silicon compound, which is purified by distillation, and subsequently decomposed to re-form elemental silicon of higher purity (i.e., EGS). Irrespective of the purification route employed, the first step is physical pulverization of MGS followed by its conversion to the volatile silicon compounds. </para>
+        <para id="id9296367">A number of compounds, such as monosilane (SiH<sub>4</sub>), dichlorosilane (SiH<sub>2</sub>Cl<sub>2</sub>), trichlorosilane (SiHCl<sub>3</sub>), and silicon tetrachloride (SiCl<sub>4</sub>), have been considered as chemical intermediates. Among these, SiHCl<sub>3</sub> has been used predominantly as the intermediate compound for subsequent EGS formation, although SiH<sub>4</sub> is used to a lesser extent. Silicon tetrachloride and its lower chlorinated derivatives are used for the chemical vapor deposition (CVD) growth of Si and SiO<sub>2</sub>. The boiling points of silane and its chlorinated products (<link target-id="id8586772"/>) are such that they are conveniently separated from each other by fractional distillation. </para>
+        
+        <table id="id8586772" summary="Boiling points of silane and chlorosilanes at 760 mmHg (1 atmosphere).">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Compound</emphasis> </entry>
+                <entry><emphasis effect="bold">Boiling point (°C)</emphasis></entry>
+              </row>
+              <row>
+                <entry>SiH<sub>4</sub>
+                </entry>
+                <entry>-112.3</entry>
+              </row>
+              <row>
+                <entry>
+SiH<sub>3</sub>Cl
+                </entry>
+                <entry>-30.4</entry>
+              </row>
+              <row>
+                <entry>
+                 SiH<sub>2</sub>Cl<sub>2</sub>
+                </entry>
+                <entry>8.3</entry>
+              </row>
+              <row>
+                <entry>SiHCl<sub>3</sub>
+                </entry>
+                <entry>31.5</entry>
+              </row>
+              <row>
+                <entry>SiCl<sub>4</sub>
+                </entry>
+                <entry>57.6</entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup><caption>Boiling points of silane and chlorosilanes at 760 mmHg (1 atmosphere).</caption>
+</table>
+        <para id="id7876358">The reasons for the predominant use of SiHCl<sub>3</sub> in the synthesis of EGS are as follows:  </para>
+        <list id="eip-976" list-type="enumerated" number-style="arabic"><item>SiHCl<sub>3</sub> can be easily formed by the reaction of anhydrous hydrogen chloride with MGS at reasonably low temperatures (200 - 400 °C); </item>
+<item>it is liquid at room temperature so that purification can be accomplished using standard distillation techniques; </item>
+<item>it is easily handled and if dry can be stored in carbon steel tanks; </item>
+<item>its liquid is easily vaporized and, when mixed with hydrogen it can be transported in steel lines without corrosion; </item>
+<item>it can be reduced at atmospheric pressure in the presence of hydrogen; </item>
+<item>its deposition can take place on heated silicon, thus eliminating contact with any foreign surfaces that may contaminate the resulting silicon; and </item>
+<item>it reacts at lower temperatures (1000 - 1200 °C) and at faster rates than does SiCl<sub>4</sub>.</item>
+</list><section id="id-220874523541">
+          <title>Chlorosilane (Seimens) process </title>
+          <para id="id6288245">Trichlorosilane is synthesized by heating powdered MGS with anhydrous hydrogen chloride (HCl) at around 300 °C in a fluidized-bed reactor, <link target-id="eip-656"/>. </para>
+          
+          <equation id="eip-656"><media id="id1111115_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq5.jpg" id=" id1111115__onlineimage" width="450" print-width="4in"/></media></equation>
+          <para id="id6584977">Since the reaction is actually an equilibrium and the formation of SiHCl<sub>3</sub> highly exothermic, efficient removal of generated heat is essential to assure a maximum yield of SiHCl<sub>3</sub>. While the stoichiometric reaction is that shown in <link target-id="eip-656"/>, a mixture of chlorinated silanes is actually prepared which must be separated by fractional distillation, along with the chlorides of any impurities. In particular iron, aluminum, and boron are removed as FeCl<sub>3</sub> (b.p. = 316 °C), AlCl<sub>3</sub> (m.p. = 190 °C subl.), and BCl<sub>3</sub> (b.p. = 12.65 °C), respectively. Fractional distillation of SiHCl<sub>3</sub> from these impurity halides result in greatly increased purity with a concentration of electrically active impurities of less than 1 ppb. </para>
+          <para id="id7770659">EGS is prepared from purified SiHCl<sub>3</sub> in a chemical vapor deposition (CVD) process similar to the epitaxial growth of Si. The high-purity SiHCl<sub>3</sub> is vaporized, diluted with high-purity hydrogen, and introduced into the Seimens deposition reactor, shown schematically in <link target-id="id9420601"/>. Within the reactor, thin silicon rods called slim rods (ca. 4 mm diameter) are supported by graphite electrodes. Resistance heating of the slim rods causes the decomposition of the SiHCl<sub>3</sub> to yield silicon, as described by the reverse reaction shown in <link target-id="eip-656"/>. </para>
+          <figure id="id9420601"><media id="id1170980571875" alt=""><image src="../../media/graphics4-ba3e.png" mime-type="image/png" width="400" print-width="3.5in"/></media>
+          <caption>Schematic representation of a Seimens deposition reactor. </caption></figure>
+          <para id="id8374542">The shift in the equilibrium from forming SiHCl<sub>3</sub> from Si at low temperature, to forming Si from SiHCl<sub>3</sub> at high temperature is as a consequence of the temperature dependence, <link target-id="eip-686"/>, of the equilibrium constant, <link target-id="eip-559"/> where ρ = partial pressure, for <link target-id="eip-656"/>. Since the formation of SiHCl<sub>3</sub> is exothermic, i.e., ΔH &lt; 0, an increase in the temperature causes the partial pressure of SiHCl<sub>3</sub> to decrease. Thus, the Siemens process is typically run at ca. 1100 °C, while the reverse fluidized bed process is carried out at 300 °C. </para>
+          
+          <equation id="eip-686"><media id="id1111116_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq6.jpg" id=" id1111116__onlineimage" width="450" print-width="4in"/></media></equation><equation id="eip-559"><media id="id1111117_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq7.jpg" id=" id1111117__onlineimage" width="450" print-width="4in"/></media></equation>
+
+<para id="id7731556">The slim rods act as a nucleation point for the deposition of silicon, and the resulting polycrystalline rod consists of columnar grains of silicon (polysilicon) grown perpendicular to the rod axis. Growth occurs at less than 1 mm per hour, and after deposition for 200 to 300 hours high-purity (EGS) polysilicon rods of 150 - 200 mm in diameter are produced. For subsequent float-zone refining the polysilicon EGS rods are cut into long cylindrical rods. Alternatively, the as-formed polysilicon rods are broken into chunks for single crystal growth processes, for example Czochralski melt growth. </para>
+          <para id="id7985732">In addition to the formation of silicon, the HCl coproduct reacts with the SiHCl<sub>3</sub> reactant to form silicon tetrachloride (SiCl<sub>4</sub>) and hydrogen as major byproducts of the process, <link target-id="eip-880"/>. This reaction represents a major disadvantage with the Seimens process: poor efficiency of silicon and chlorine consumption. Typically, only 30% of the silicon introduced into CVD reactor is converted into high-purity polysilicon.</para>
+          
+          <equation id="eip-880"><media id="id1111118_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq8.jpg" id=" id1111118__onlineimage" width="450" print-width="4in"/></media></equation>
+
+<para id="id7730975">In order to improve efficiency the HCl, SiCl<sub>4</sub>, H<sub>2</sub>, and unreacted SiHCl<sub>3</sub> are separated and recovered for recycling. <link target-id="id8042736 "/> illustrates the entire chlorosilane process starting with MGS and including the recycling of the reaction byproducts to achieve high overall process efficiency. As a consequence, the production cost of high-purity EGS depends on the commercial usefulness of the byproduct, SiCl<sub>4</sub>. Additional disadvantages of the Seimens process are derived from its relatively small batch size, slow growth rate, and high power consumption. These issues have lead to the investigation of alternative cost efficient routes to EGS. </para>
+          <figure id="id8042736"><media id="id4194168" alt=""><image src="../../media/graphics7.png" mime-type="image/png" width="450" print-width="4in"/></media><caption>Schematic representation of the reaction pathways for the formation of EGS using the chlorosilane process. </caption></figure>
+        </section>
+        <section id="id-732797626772">
+          <title>Silane process </title>
+          <para id="id8065800">An alternative process for the production of EGS that has begun to receive commercial attention is the pyrolysis of silane (SiH<sub>4</sub>). The advantages of producing EGS from SiH<sub>4</sub> instead of SiHCl<sub>3</sub> are potentially lower costs associated with lower reaction temperatures, and less harmful byproducts. Silane decomposes &lt; 900 °C to give silicon and hydrogen, <link target-id="eip-506"/>. </para>
+          
+          <equation id="eip-506"><media id="id1111119_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq9.jpg" id=" id1111119__onlineimage" width="450" print-width="4in"/></media></equation><para id="id9015925">Silane may be prepared by a number of routes, each having advantages with respect to purity and production cost. The simplest process involves the direct reaction of MGS powders with magnesium at 500 °C in a hydrogen atmosphere, to form magnesium silicide (Mg<sub>2</sub>Si). The magnesium silicide is then reacted with ammonium chloride in liquid ammonia below 0 °C, <link target-id="eip-612"/>. </para>
+          
+          <equation id="eip-612"><media id="id11111110_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq10.jpg" id=" id11111110__onlineimage" width="450" print-width="4in"/></media></equation>
+          <para id="id8326061">This process is ideally suited to the removal of boron impurities (a p-type dopant in Si), because the diborane (B<sub>2</sub>H<sub>6</sub>) produced during the reaction forms the Lewis acid-base complex, H<sub>3</sub>B(NH<sub>3</sub>), whose volatility is sufficiently lower than
+SiH<sub>4</sub>, allowing for the purification of the latter. It is possible to prepare EGS with a boron content of ≤ 20 ppt using SiH<sub>4</sub> synthesized in this manner. However, phosphorus (another dopant) in the form of PH<sub>3</sub> may be present as a contaminant requiring subsequent purification of the SiH<sub>4</sub>. </para>
+
+
+          <para id="id8286244">Alternative routes to SiH<sub>4</sub> involve the chemical reduction of 
+SiCl<sub>4</sub> by either lithium hydride, <link target-id="eip-992"/>, lithium aluminum hydride, <link target-id="eip-537"/>, or via hydrogenation in the presence of elemental silicon, <link target-id="eip-235"/> - <link target-id="eip-597"/>. The hydride reduction reactions may be carried-out on relatively large scales (ca. 50 kg), but only batch processes. In contrast, Union Carbide has adapted the hydrogenation to a continuous process, involving disproportionation reactions of chlorosilanes, <link target-id="eip-182"/> - <link target-id="eip-597"/>, and the fractional distillation of silane, <link target-id="id8586772"/>. </para>
+          
+          <equation id="eip-992"><media id="id11111111_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq11.jpg" id=" id11111111__onlineimage" width="450" print-width="4in"/></media></equation><equation id="eip-537"><media id="id11111112_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq12.jpg" id=" id11111112__onlineimage" width="450" print-width="4in"/></media></equation><equation id="eip-235"><media id="id11111113_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq13.jpg" id=" id11111113__onlineimage" width="450" print-width="4in"/></media></equation><equation id="eip-182"><media id="id11111114_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq14.jpg" id=" id11111114__onlineimage" width="450" print-width="4in"/></media></equation><equation id="eip-601"><media id="id11111115_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq15.jpg" id=" id11111115__onlineimage" width="450" print-width="4in"/></media></equation><equation id="eip-597"><media id="id11111116_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq16.jpg" id=" id11111116__onlineimage" width="450" print-width="4in"/></media></equation><para id="id8312417">Pyrolysis of silane on resistively heated polysilicon filaments at 700 - 800 °C yields polycrystalline EGS. As noted above, the EGS formed has remarkably low boron impurities compared with material prepared from trichlorosilane. Moreover, the resulting EGS is less contaminated with transition metals from the reactor container because SiH<sub>4</sub> decomposition does not cause as much of a corrosion problem as is observed with halide precursor compounds. </para>
+        </section>
+        <section id="id-616560198333">
+          <title>Granular polysilicon deposition</title>
+          <para id="id9297238">Both the chlorosilane (Seimens) and silane processes result in the formation of rods of EGS. However, there has been increased interest in the formation of granular polycrystalline EGS. This process was developed in 1980’s, and relies on the decomposition of SiH<sub>4</sub> in a fluidized-bed deposition reactor to produce free-flowing granular polysilicon. </para>
+          <para id="id9297304">Tiny silicon particles are fluidized in a SiH<sub>4</sub>/H<sub>2</sub> flow, and act as seed crystal onto which polysilicon deposits to form free-flowing spherical particles. The size distribution of the particles thus formed is over the range from 0.1 to 1.5 mm in diameter with an average particle size of 0.7 mm. The fluidized-bed seed particles are originally made by grinding EGS in a ball (or hammer) mill and leaching the product with acid, hydrogen peroxide, and water. This process is time-consuming and costly, and tended to introduce undesirable impurities from the metal grinders. In a new method, large EGS particles are fired at each other by a high-speed stream of inert gas and the collision breaks them down into particles of suitable size for a fluidized bed. This process has the main advantage that it introduces no foreign materials and requires no leaching or other post purification. </para>
+          <para id="id9421759">The fluidized-bed reactors are much more efficient than traditional rod reactors as a consequence of the greater surface area available during CVD growth of silicon. It has been suggested that fluidized-bed reactors require <sup>1</sup>/<sub>5</sub> to <sup>1</sup>/<sub>10</sub> the energy, and half the capital cost of the traditional process. The quality of fluidized-bed polysilicon has proven to be equivalent to polysilicon produced by the conventional methods. Moreover, granular EGS in a free-flowing form, and with high bulk density, enables crystal growers to obtain the high, reproducible production yields out of each crystal growth run. For example, in the Czochralski crystal growth process, crucibles can be quickly and easily filled to uniform loading with granular EGS, which typically exceed those of randomly stacked polysilicon chunks produced by the Siemens silane process. </para>
+        </section>
+      </section>
+      <section id="id-0952754904531">
+        <title>Zone refining </title>
+        <para id="id9354947">The technique of zone refining is used to purify solid materials and is commonly employed in metallurgical refining. In the case of silicon may be used to obtain the desired ultimate purity of EGS, which has already been purified by chemical processes. Zone refining was invented by Pfann, and makes use of the fact that the equilibrium solubility of any impurity (e.g., Al) is different in the solid and liquid phases of a material (e.g., Si). For the dilute solutions, as is observed in EGS silicon, an equilibrium segregation coefficient (k<sub>0</sub>) is defined by k<sub>0</sub> = C<sub>s</sub>/C<sub>l</sub>, where C<sub>s</sub> and C<sub>l</sub> are the equilibrium concentrations of the impurity in the solid and liquid near the interface, respectively. </para>
+        
+        <para id="id8984165">If k<sub>0</sub> is less than 1 then the impurities are left in the melt as the molten zone is moved along the material. In a practical sense a molten zone is established in a solid rod. The zone is then moved along the rod from left to right. If k<sub>0</sub> &lt; 1 then the frozen part left on the trailing edge of the moving molten zone will be purer than the material that melts in on the right-side leading edge of the moving molten zone. Consequently the solid to the left of the molten zone is purer than the solid on the right. At the completion of the first pass the impurities become concentrated to the right of the solid sample. Repetition of the process allows for purification to exceptionally high levels. <link target-id="id8984258"/>. lists the equilibrium segregation coefficients for common impurity and dopant elements in silicon; it should be noted that they are all less than 1. </para>
+        
+        <table id="id8984258" summary="Equilibrium segregation coefficients for common impurity and dopant elements in silicon">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry> <emphasis effect="bold">k<sub>0</sub></emphasis>
+
+
+                </entry>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">k<sub>0</sub></emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>aluminum</entry>
+                <entry>0.002</entry>
+                <entry>iron</entry>
+                <entry>8 x 10<sup>-6</sup></entry>
+              </row>
+              <row>
+                <entry>boron</entry>
+                <entry>0.8</entry>
+                <entry>oxygen</entry>
+                <entry>0.25</entry>
+              </row>
+              <row>
+                <entry>carbon</entry>
+                <entry>0.07</entry>
+                <entry>phosphorus</entry>
+                <entry>0.35</entry>
+              </row>
+              <row>
+                <entry>copper</entry>
+                <entry>4 x 10<sup>-6</sup></entry>
+                <entry>antimony</entry>
+                <entry>0.023</entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup><caption>Segregation coefficients for common impurity and dopant elements in silicon. </caption>
+</table>
+      </section>
+ 
+
+
+
+
+
+
+
+
+<section id="id-77087541871">
+      <title>Bibliography</title>
+      <list id="eip-157"><item>K. G. Baraclough, K. G., in <emphasis effect="italics">The Chemistry of the Semiconductor Industry</emphasis>, Eds. S. J. Moss and A. Ledwith, Blackie and Sons, Glasgow, Scotland (1987).</item>
+<item>L. D. Crossman and J. A. Baker, <emphasis effect="italics">Semiconductor Silicon 1977</emphasis>, Electrochem. Soc., Princeton, New Jersey (1977). </item>
+
+
+<item>W. C. O’Mara, Ed. <emphasis effect="italics">Handbook of Semiconductor Silicon Technology</emphasis>, Noyes Pub., New Jersey (1990).</item>
+<item>W. G. Pfann, <emphasis effect="italics">Zone Melting</emphasis>, John Wiley &amp; Sons, New York, (1966). </item>
+<item>F. Shimura, <emphasis effect="italics">Semiconductor Silicon Crystal Technology</emphasis>, Academic Press (1989). </item>
+
+</list>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </section>
+  </content>
+</document>

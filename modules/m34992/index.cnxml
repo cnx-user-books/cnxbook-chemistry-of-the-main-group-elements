@@ -1,0 +1,333 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Group 15 Elements: The Pnictogens</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34992</md:content-id>
+  <md:title>The Group 15 Elements: The Pnictogens</md:title>
+  <md:abstract/>
+  <md:uuid>9d72b16b-3cd7-4214-a29f-b7257955030a</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id1169975339393">
+      <title>The elements</title>
+      <para id="id1169958421265">The Group 15 elements have a particular name <emphasis effect="italics">pnictogens</emphasis>. Despite the modern IUPAC notation, the Group 15 elements are still referred to as Group V elements in particular by the semiconductor industry. <link target-id="id1169975796330"/> lists the derivation of the names of the Group 15 elements. </para>
+      <table id="id1169975796330" summary="Derivation of the names of each of the Group 15 (V) elements.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Symbol</emphasis></entry>
+              <entry><emphasis effect="bold">Name</emphasis></entry>
+            </row>
+            <row>
+              <entry>Nitrogen</entry>
+              <entry>N</entry>
+              <entry>Latin <emphasis effect="italics">nitrogenium</emphasis>, where <emphasis effect="italics">nitrum</emphasis> (derived from Greek nitron) means <emphasis effect="italics">saltpetre</emphasis></entry>
+            </row>
+            <row>
+              <entry>Phosphorus</entry>
+              <entry>P</entry>
+              <entry>From the Greek <emphasis effect="italics">phosphoros</emphasis> meaning <emphasis effect="italics">bringer of light</emphasis></entry>
+            </row>
+            <row>
+              <entry>Arsenic</entry>
+              <entry>As</entry>
+              <entry>Derived from Syriac <emphasis effect="italics">zarniqa</emphasis> and Persian <emphasis effect="italics">zarnikh</emphasis>, meaning <emphasis effect="italics">yellow orpiment</emphasis></entry>
+            </row>
+            <row>
+              <entry>Antimony </entry>
+              <entry>Sb</entry>
+              <entry>Greek <emphasis effect="italics">anti</emphasis> and <emphasis effect="italics">monos</emphasis> meaning <emphasis effect="italics">not alone</emphasis>. The symbol Sb from Latin <emphasis effect="italics">stibium</emphasis></entry>
+            </row>
+            <row>
+              <entry>Bismuth</entry>
+              <entry>Bi</entry>
+              <entry>New Latin <emphasis effect="italics">bisemutum</emphasis> from German <emphasis effect="italics">Wismuth</emphasis>, meaning <emphasis effect="italics">white mass</emphasis></entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Derivation of the names of each of the Group 15 (V) elements. </caption>
+</table>
+      
+      
+      <note id="eip-391">According to the Oxford English Dictionary, the correct spelling of the element is phosphorus. The word phosphorous is the adjectival form of the P<sup>3+</sup> valence. In the same way that sulfur forms sulfurous and sulfuric compounds, phosphorus forms phosphorous compounds (e.g., phosphorous acid) and P<sup>5+</sup> valency phosphoric compounds (e.g., phosphoric acids and phosphates).</note><section id="id1169982596573">
+        <title>Discovery</title>
+        <section id="id1169963671227"><title>Nitrogen</title><para id="id1169963687221">Nitrogen was discovered by Rutherford (<link target-id="id1169975787287"/>) in 1772. He called it <emphasis effect="italics">noxious air</emphasis> or <emphasis effect="italics">fixed air</emphasis> because there it had been known since the late 18<sup>th</sup> century that there was a fraction of air that did not support combustion. Nitrogen was also studied by Scheele (<link target-id="id1169959376368"/>), Cavendish (<link target-id="id1169970257431"/>), and Priestley (<link target-id="id1169958965763"/>), who referred to it as <emphasis effect="italics">burnt air</emphasis> or <emphasis effect="italics">phlogisticated air</emphasis>. </para>
+
+
+            <figure id="id1169975787287"><media id="id1169975787287_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics1-19cc.jpg" id="id1169975787287__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>Scottish chemist and physician Daniel Rutherford (1749 - 1819). </caption></figure>
+
+
+          
+          <figure id="id1169959376368"><media id="id1169959376368_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics2-4173.png" id="id1169959376368__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Swedish chemist Carl Wilhelm Scheele (1742 – 1786). Isaac Asimov called him "hard-luck Scheele" because he made a number of chemical discoveries before others who are generally given the credit.</caption></figure>
+          
+
+
+            <figure id="id1169970257431"><media id="id1169970257431_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics3-fb88.jpg" id="id1169970257431__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>British scientist Henry Cavendish FRS (1731 - 1810). </caption></figure>
+
+
+          
+          <figure id="id1169958965763"><media id="id1169958965763_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics4-a9a1.jpg" id="id1169958965763__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Portrait (by Ellen Sharples) of British clergyman natural philosopher, educator, and political theorist Joseph Priestley (1733 - 1804).</caption></figure>
+          
+        </section>
+        <section id="id1169958841644"><title>Phosphorus</title><para id="id1169965477276">German alchemist Hennig Brand (<link target-id="id1169959967864"/>) was experimenting with urine (which contains dissolved phosphates) in 1669. While attempting to create the fabled philosopher's stone (the legendary alchemical substance capable of turning base metals, such as lead, into gold) by the distillation of salts from urine, he produced a white material that glowed in the dark and burned with a brilliant light. He gave the substance the name <emphasis effect="italics">phosphorus mirabilis</emphasis> (<emphasis effect="italics">miraculous bearer of light</emphasis>). His process involved letting the urine stand for days then boiling it down to a paste which led to a white waxy substance, white phosphorus. </para>
+          <figure id="id1169959967864"><media id="id1169959967864_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics5-e09b.jpg" id="id1169959967864__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>The discovery of phosphorus by German merchant and alchemist Hennig Brand (1630 - 1710) as depicted by Joseph Wright (with significant artistic license with regard to the brightness of the chemiluminescence). </caption></figure>
+          
+          <para id="id1169971239905">Brand sold the recipe for 200 thaler (a silver coin from whose name the dollar is derived) to D Krafft who toured much of Europe showing it. During his journeys he met Robert Boyle (<link target-id="id1169958676174"/>) who without learning the details of the synthesis recreated and improved it by using sand in the reduction of the phosphate, <link target-id="eip-982"/>. </para>
+          
+          <equation id="eip-982"><media id="id1169965639923_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-d77b.jpg" id="id1169965639923__onlineimage" width="500" print-width="4.5in"/>
+            </media>
+          </equation>
+            <figure id="id1169958676174"><media id="id1169958676174_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics7-127d.jpg" id="id1169958676174__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>British natural philosopher, chemist, physicist, and inventor Robert Boyle (1627 - 1691). </caption></figure>
+
+          
+        </section>
+        <section id="id1169962564709">
+          <title>Arsenic</title>
+          <para id="id1169958718345">Arsenic sulfides and oxides were known since ancient times. Zosimos (<emphasis effect="italics">ca</emphasis>. 300 AD) describes roasting <emphasis effect="italics">sandarach</emphasis> (realgar, α-As<sub>4</sub>S<sub>4</sub>) to obtain cloud of arsenious oxide (As<sub>2</sub>O<sub>3</sub>) that he reduced to metallic arsenic (<link target-id="id1169960389612"/>). </para>
+          <figure id="id1169960389612"><media id="id1169960389612_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics8-cdc5.jpg" id="id1169960389612__onlineimage" width="300" print-width="3in"/>
+            </media>
+          <caption>The distillation apparatus of Zosimos.</caption></figure>
+          
+        </section>
+        <section id="id1169959920636">
+          <title>Antimony</title>
+          <para id="id1169959134065">Antimony(III) sulfide, Sb<sub>2</sub>S<sub>3</sub> was known as early as 3000 BC. Pastes of Sb<sub>2</sub>S<sub>3</sub>  powder in fat were used as eye cosmetics in the Middle East. An artifact made of antimony dating to about 3000 BC was found at Tello (part of present-day Iraq), and copper objects plated with antimony from 2500 - 2200 BC have been found in Egypt. The first European description of a procedure for isolating antimony is in the book <emphasis effect="italics">De la pirotechnia</emphasis> by Vannoccio Biringuccio (1480 - 1539). </para>
+        </section>
+        <section id="id1169980468747">
+          <title>Bismuth</title>
+          <para id="id1169958658972">Since bismuth was known in ancient times, no one person is credited with its discovery. However, the French chemist Claude François Geoffroy (1729 - 1753) demonstrated in 1753 that this metal is distinct from lead and tin. </para>
+        </section>
+      </section>
+      <section id="id1169960724518">
+        <title>Abundance</title>
+        <para id="id1169964267451">The abundance of the Group 15 elements is given in <link target-id="id1169958321002"/>. </para>
+        <table id="id1169958321002" summary="Abundance of the Group 15 elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Terrestrial abundance (ppm)</emphasis></entry>
+              </row>
+              <row>
+                <entry>N</entry>
+                <entry>25 (Earth’s crust), 5 (soil), 0.5 (sea water), 78 x 10<sup>4</sup> (atmosphere)</entry>
+              </row>
+              <row>
+                <entry>P</entry>
+                <entry>1000 (Earth’s crust), 0.65 (soil), 60 x 10<sup>-3</sup> (sea water), trace (atmosphere)</entry>
+              </row>
+              <row>
+                <entry>As</entry>
+                <entry>1.5 (Earth’s crust), 10 (soil), 16 x 10<sup>-3</sup> (sea water), trace (atmosphere)</entry>
+              </row>
+              <row>
+                <entry>Sb</entry>
+                <entry>0.2 (Earth’s crust), 1 (soil), 0.3 x 10<sup>-3</sup> (sea water)</entry>
+              </row>
+              <row>
+                <entry>Bi</entry>
+                <entry>48 x 10<sup>-3</sup> (Earth’s crust), 0.25 (soil), 400 x 10<sup>-6</sup> (sea water)</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Abundance of the Group 15 elements. </caption>
+</table>
+        
+      </section>
+      <section id="id1169971276924">
+        <title>Isotopes</title>
+        <para id="id1169965385291">The naturally abundant isotopes of the Group 15 elements are listed in <link target-id="id1169958183184"/>. </para>
+        <table id="id1169958183184" summary="Abundance of the non-synthetic isotopes of the Group 15 elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Isotope</emphasis></entry>
+                <entry><emphasis effect="bold">Natural abundance (%)</emphasis></entry>
+              </row>
+              <row>
+                <entry>Nitrogen-14</entry>
+                <entry>99.634</entry>
+              </row>
+              <row>
+                <entry>Nitrogen-15</entry>
+                <entry>0.0366</entry>
+              </row>
+              <row>
+                <entry>Phosphorus-31</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>Arsenic-75</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>Antimony-121</entry>
+                <entry>57.36</entry>
+              </row>
+              <row>
+                <entry>Antimony-123</entry>
+                <entry>42.64</entry>
+              </row>
+              <row>
+                <entry>Bismuth-209</entry>
+                <entry>100%</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Abundance of the non-synthetic isotopes of the Group 15 elements. </caption>
+</table>
+        
+        <para id="id1169983992451">Two radioactive isotopes of phosphorus (<sup>32</sup>P and <sup>33</sup>P) have half-lives that make them useful for scientific experiments (14.262 and 25.34 days, respectively). <sup>32</sup>P is a β-emitter (1.71 MeV) and is used to produce radiolabeled DNA and RNA probes. Due to the high energy of the β particles which can penetrate skin and corneas, and because any <sup>32</sup>P ingested, inhaled, or absorbed is incorporated into bone and nucleic acids extreme care needs to be taken in handling. The lower energy β particles emitted from <sup>33</sup>P (0.25 MeV) make it useful for applications such as DNA sequencing. </para>
+        <para id="id1169962844005">While bismuth is traditionally regarded as the element with the heaviest stable isotope, <sup>209</sup>Bi, it had long been suspected to be unstable on theoretical grounds. In 2003 researchers at the Institut d'Astrophysique Spatiale in Orsay, France, measured the alpha emission half-life of <sup>209</sup>Bi to be 1.9 × 10<sup>19</sup> years, over a billion times longer than the current estimated age of the universe! </para>
+      </section>
+    </section>
+    <section id="id1169972786707">
+      <title>Industrial production of the elements</title>
+      <para id="id1169973099414">Nitrogen is the largest constituent of the Earth's atmosphere (78.082% by volume, 75.3% by weight). It is created by fusion processes in stars, and is estimated to be the 7<sup>th</sup> most abundant element by mass in the universe. Industrial gas produced is by the fractional distillation of liquid air, or by mechanical means using gaseous air (i.e., pressurized reverse osmosis membrane or pressure swing adsorption). Commercial nitrogen is often a byproduct of air processing for industrial concentration of oxygen for steelmaking, etc.</para>
+      <para id="id1169965253317">White phosphorus was originally made commercially for the match industry in the 19<sup>th</sup> century, by distilling off phosphorus vapor from precipitated phosphates, mixed with ground coal or charcoal, <link target-id="eip-785"/>. The precipitated phosphates were made from ground-up bones that had been de-greased and treated with strong acids. This process is, however, obsolete due to the submerged-arc furnace for phosphorus production was introduced to reduce phosphate rock. Calcium phosphate (phosphate rock) is heated to 1200 - 1500 °C with SiO<sub>2</sub> and coke (impure carbon) to produce vaporized tetraphosphorus, P<sub>4</sub>. </para>
+      
+      <equation id="eip-785"><media id="id1169964108682_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-85f6.jpg" id="id1169964108682__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation><section id="id1169971614966">
+        <title>Physical properties</title>
+        <para id="id1169973159515">The physical properties of the Group 15 elements (<link target-id="id1169961781873"/>) encompasses a gas (N<sub>2</sub>), a non-metallic solid (P<sub>4</sub>), metalloids (As and Sb), and a metal (Bi). </para>
+        <table id="id1169961781873" summary="Selected physical properties of the Group 15 elements.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+                <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold">Density (g/cm<sup>3</sup>)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>N</entry>
+                <entry>-210.00</entry>
+                <entry>-195.79</entry>
+                <entry>1.251 g/L (0 °C @ 101.325 kPa)</entry>
+              </row>
+              <row>
+                <entry>P</entry>
+                <entry>44.2 (white), 610 (black)</entry>
+                <entry>280.5 (white), 416 - 590 (sub., red), 620 (sub, violet)</entry>
+                <entry>1.823 (white), 2.2 - 2.34 (red), 2.36 (violet), 2.69 (black)</entry>
+              </row>
+              <row>
+                <entry>As</entry>
+                <entry>817</entry>
+                <entry>615 (sub.)</entry>
+                <entry>5.727</entry>
+              </row>
+              <row>
+                <entry>Sb</entry>
+                <entry>630.63</entry>
+                <entry>1587</entry>
+                <entry>6.697 (solid), 6.53 (liquid)</entry>
+              </row>
+              <row>
+                <entry>Bi</entry>
+                <entry>271.5</entry>
+                <entry>1564</entry>
+                <entry>9.78 (solid), 10.05 (liquid)</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>Selected physical properties of the Group 15 elements. </caption>
+</table>
+        
+      </section>
+      <section id="id1169980088301"><title>Vapor phase</title><para id="id1169964088150">Nitrogen forms a dimer in the vapor phase with a triple bond (<link target-id="id1169964099054"/>). In the vapor phase above 800 °C tetraphosphorus (P<sub>4</sub>) is partially dissociated to P<sub>2</sub>. </para>
+
+          <figure id="id1169964099054"><media id="id1169964099054_media" alt="">
+              <image mime-type="image/jpg" src="../../media/FigN2.jpg" id="id1169964099054__onlineimage" width="350" print-width="3.5in"/>
+            </media>
+          <caption>Molecular orbital diagram for the formation of N<sub>2</sub>. </caption></figure>
+
+        
+      </section>
+      <section id="id1169965648843">
+        <title>Solid state</title>
+        <para id="id1169964025763">Phosphorus forms a number of allotropes with very different properties (<link target-id="id1169980827874"/>). Red phosphorus is an intermediate phase between the white and violet forms. Scarlet phosphorus is obtained by allowing a solution of white phosphorus in carbon disulfide to evaporate in sunlight. Black phosphorus is formed by heating white phosphorus under high pressures (<emphasis effect="italics">ca</emphasis>. 12,000 atmospheres). </para>
+        <figure id="id1169980827874"><media id="id1169980827874_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-9941.jpg" id="id1169980827874__onlineimage" width="500" print-width="5in"/>
+          </media>
+        <caption>Images of (left to right) white, red, violet and black allotropes of phosphorus. </caption></figure>
+        
+        <para id="id1169984612185">White phosphorus has two forms, low-temperature β form and high-temperature α form; both of which contain the P4 tetrahedron (<link target-id="id1169958662200"/>). White phosphorus is the least stable, the most reactive, most volatile, less dense, and most toxic of the allotropes. </para>
+
+          <figure id="id1169958662200"><media id="id1169958662200_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics12-caca.jpg" id="id1169958662200__onlineimage" width="200" print-width="2in"/>
+            </media>
+          <caption>The structure of the P<sub>4</sub> molecule in white phosphorus. </caption></figure>
+
+        
+        <para id="id1169964142063">The structural relationship between white and red phosphorus involves breaking one of the P-P bonds in the P<sub>4</sub> unit and forming a bond with a neighboring tetrahedron to give a chain structure (<link target-id="id1169959141989"/>). Red phosphorus is formed by heating white phosphorus to 250 °C or by exposing white phosphorus to sunlight. Actually red phosphorus is not a single allotrope, but rather an intermediate phase between the white and violet phosphorus, and most of its properties have a range of values (<link target-id="id1169961781873"/>). </para>
+        <figure id="id1169959141989"><media id="id1169959141989_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-bb9a.jpg" id="id1169959141989__onlineimage" width="400" print-width="4in"/>
+          </media>
+        <caption>Crystal unit cell of red phosphorus. </caption></figure>
+        
+        <para id="id1169980745111">Violet phosphorus (<link target-id="id1169962289355"/>) is the thermodynamic stable form of phosphorus that is produced by heating red phosphorus above 550 °C. Due to the synthesis being developed by Johann Hittorf (<link target-id="id1169962681350"/>) it is sometimes known as <emphasis effect="italics">Hittorf's phosphorus</emphasis>. </para>
+        <figure id="id1169962289355"><media id="id1169962289355_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-f6bc.jpg" id="id1169962289355__onlineimage" width="500" print-width="5in"/>
+          </media>
+        <caption>Structure of violet (Hittorf’s) phosphorus. </caption></figure>
+        
+
+          <figure id="id1169962681350"><media id="id1169962681350_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics15-9916.jpg" id="id1169962681350__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>German physicist Johann Wilhelm Hittorf (1824 - 1914). </caption></figure>
+
+        
+        <para id="id1169959351084">Black phosphorus is the least reactive allotrope and the thermodynamic stable form below 550 °C. It is also known as β-metallic phosphorus and has a structure somewhat resembling that of graphite (<link target-id="id1169969177492"/>). </para>
+        <figure id="id1169969177492"><media id="id1169969177492_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-dddf.jpg" id="id1169969177492__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>Crystal structure of black phosphorus. </caption></figure>
+        
+        <para id="id1169958279690">In a similar manner to phosphorus, arsenic has several allotropes some of which a structurally related to those of phosphorus. Grey arsenic has a structure similar to black phosphorus (<link target-id="id1169969177492"/>). Yellow arsenic (As<sub>4</sub>) is soft and waxy with a structure similar to too P<sub>4</sub> (<link target-id="id1169958662200"/>). Finally, black arsenic is similar in structure to red phosphorus (<link target-id="id1169959141989"/>). Antimony and bismuth are both traditional metals and have trigonal hexagonal structures (<emphasis effect="italics">a</emphasis> = 4.299, <emphasis effect="italics">c</emphasis> = 11.25 Å, and <emphasis effect="italics">a</emphasis> = 4.537, <emphasis effect="italics">c</emphasis> = 11.838 Å, respectively). </para>
+      </section>
+    </section>
+    <section id="id1169979089089">
+      <title>Bibliography</title>
+      <list id="id1169959105469" list-type="bulleted">
+        <item>V. Biringuccio, <emphasis effect="italics">The Pirotechnia of Vannoccio Biringuccio: The Classic Sixteenth-Century Treatise on Metals and Metallurgy</emphasis>, Dover Publications (1990). </item>
+      </list>
+      
+    </section>
+  </content>
+</document>

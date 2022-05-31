@@ -1,0 +1,73 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Applications for Silica Thin Films</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m24883</md:content-id>
+  <md:title>Applications for Silica Thin Films</md:title>
+  <md:abstract/>
+  <md:uuid>1ff39232-381d-47fa-a311-e66a5aa24996</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id1478049">
+      <title>Introduction</title>
+      <para id="id1172423930207"> While the physical properties of silica make it suitable for use in protective and optical coating applications, the biggest application of insulating SiO<sub>2</sub> thin films is undoubtedly in semiconductor devices, in which the insulator performs a number of specific tasks, including: surface passivation, field effect transistor (FET) gate layer, isolation layers, planarization and packaging. </para>
+      <para id="id1172418633318"> The term insulator generally refers to a material that exhibits low thermal or electrical conductivity; electrically insulating materials are also called dielectrics. It is in regard to the high resistance to the flow of an electric current that SiO<sub>2</sub> thin films are of the greatest commercial importance. The dielectric constant (ε) is a measure of a dielectric materials ability to store charge, and is characterized by the electrostatic energy stored per unit volume across a unit potential gradient. The magnitude of ε is an indication of the degree of polarization or charge displacement within a material. The dielectric constant for air is 1, and for ionic solids is generally in the range of 5 - 10. Dielectric constants are defined as the ratio of the material’s capacitance to that of air, i.e., <link target-id="eip-41"/>. The dielectric constant for silicon dioxide ranges from 3.9 to 4.9, for thermally and plasma CVD grown films, respectively.</para>
+
+
+<equation id="eip-41"><media id="id41_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq41.jpg" id="id37__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+ 
+
+      <para id="id5475522">An insulating layer is a film or deposited layer of dielectric material separating or covering conductive layers. Ideally, in these application an insulating material should have a surface resistivity of greater than 10<sup>13</sup> Ω/cm<sup>2</sup> or a volume resistivity of greater than 10<sup>11</sup> Ω.cm. However, for some applications, lower values are acceptable; an electrical insulator is generally accepted to have a resistivity greater than 10<sup>5</sup> Ω.cm. CVD SiO<sub>2</sub> thin films have a resistivity of 10<sup>6</sup> - 10<sup>16</sup> Ω.cm, depending on the film growth method. </para>
+      <para id="id1172421166429"> As a consequence of its dielectric properties SiO<sub>2</sub>, and related silicas, are used for isolating conducting layers, to facilitate the diffusion of dopants from doped oxides, as diffusion and ion implantation masks, capping doped films to prevent loss of dopant, for gettering impurities, for protection against moisture and oxidation, and for electronic passivation. Of the many methods used for the deposition of thin films, chemical vapor deposition (CVD) is most often used for semiconductor processing. In order to appreciate the unique problems associated with the CVD of insulating SiO<sub>2</sub> thin films it is worth first reviewing some of their applications. Summarized below are three areas of greatest importance to the fabrication of contemporary semiconductor devices: isolation and gate insulation, passivation, and planarization. </para>
+    </section>
+    <section id="id3252668">
+      <title>Device isolation and gate insulation </title>
+      <para id="id1172420255316"> A microcircuit may be described as a collection of devices each consisting of "an assembly of active and passive components, interconnected within a monolithic block of semiconducting material". Each device is required to be isolated from adjacent devices in order to allow for maximum efficiency of the overall circuit. Furthermore within a device, contacts must also be electrically isolated. While there are a number of methods for isolating individual devices within a circuit (reverse-biased junctions, mesa isolation, use of semi-insulating substrates, and oxide isolation), the isolation of the active components in a single device is almost exclusively accomplished by the deposition of an insulator. </para>
+      <para id="id8466195">In <link target-id="id1172418243443"/> is shown a schematic representation of a silicon MOSFET (metal-oxide-semiconductor field effect transistor). The MOSFET is the basic component of silicon-CMOS (complimentary metal-oxide-semiconductor) circuits which, in turn, form the basis for logic circuits, such as those used in the CPU (central processing unit) of a modern personal computer. It can be seen that the MOSFET is isolated from adjacent devices by a reverse-biased junction (p<sup>+</sup>-channel stop) and a thick oxide layer. The gate, source and drain contact are electrically isolated from each other by a thin insulating oxide. A similar scheme is used for the isolation of the collector from both the base and the emitter in bipolar transistor devices. </para>
+      <figure id="id1172418243443"><media id="id1172418243443_media" alt="">
+          <image mime-type="image/jpg" src="../../media/MOSFET.jpg" id="id1172418243443__onlineimage" height="226" width="598"/>
+        </media>
+      <caption>Schematic diagrams of a Si-MOSFET (metal-oxide-semiconductor field effect transistor). </caption></figure>
+      
+      <para id="id4088930">As a transistor, a MOSFET has many advantages over alternate designs. The key advantage is low power dissipation resulting from the high impedance of the device. This is a result of the thin insulation layer between the channel (region between source and drain) and the gate contact, see <link target-id="id1172418243443"/>. The presence of an insulating gate is characteristic of a general class of devices called MISFETs (metal-insulator-semiconductor field effect transistor). MOSFETs are a subset of MISFETs where the insulator is specifically an oxide, e.g., in the case of a silicon MISFET device the insulator is SiO<sub>2</sub>, hence MOSFET. It is the fabrication of MOSFET circuits that has allowed silicon technology to dominate digital electronics (logic circuits). However, increases in computing power and speed require a constant reduction in device size and increased complexity in device architecture. 
+
+</para>
+    </section>
+    <section id="id1172418245051">
+      <title>Passivation</title>
+      <para id="id1172420026602"> Passivation is often defined as a process whereby a film is grown on the surface of a semiconductor to either (a) chemically protect it from the environment, or (b) provide electronic stabilization of the surface. </para>
+      <para id="id4971839"> From the earliest days of solid state electronics it has been recognized that the presence or absence of surface states plays a decisive role in the usefulness of any semiconducting material. On the surface of any solid state material there are sites in which the coordination environment of the atoms is incomplete. These sites, commonly termed "dangling bonds", are the cause of the electronically active states which allow for the recombination of holes and electrons. This recombination occurs at energies below the bulk value, and interferes with the inherent properties of the semiconductor. In order to optimize the properties of a semiconductor device it is desirable to covalently satisfy all these surface bonds, thereby shifting the surface states out of the band gap and into the valence or conduction bands. Electronic passivation may therefore be described as a process which reduces the density of available electronic states present at the surface of a semiconductor, thereby limiting hole and electron recombination possibilities. In the case of silicon both the native oxide and other oxides admirably fulfill these requirements. </para>
+      <para id="id8574667"> Chemical passivation requires a material that inhibits the diffusion of oxygen, water, or other species to the surface of the underlying semiconductor. In addition, the material is ideally hard and resistant to chemical attack. A perfect passivation material would satisfy both electronic and chemical passivation requirements. </para>
+    </section>
+    <section id="id2461197">
+      <title>Planarization</title>
+      <para id="id3942483">For the vast majority of electronic devices, the starting point is a substrate consisting of a flat single crystal wafer of semiconducting material. During processing, which includes the growth of both insulating and conducting films, the surface becomes increasingly non-planar. For example, a gate oxide in a typical MOSFET (see <link target-id="id1172418243443"/>) may be typically 100 - 250 Å thick, while the isolation or field oxide may be 10,000 Å. In order for the successful subsequent deposition of conducting layers (metallization) to occur without breaking metal lines (often due to the difficulty in maintaining step coverage), the surface must be flat and smooth. This process is called planarization, and can be carried out by a technique known as sacrificial etchback. The steps for this process are outlined in <link target-id=" id1172420365670"/>. An abrupt step (<link target-id=" id1172420365670"/>a) is coated with a conformal layer of a low melting dielectric, e.g., borophosphorosilicate glass, BPSG (<link target-id=" id1172420365670"/>b), and subsequently a sacrificial organic resin (<link target-id=" id1172420365670"/>c). The sample is then plasma etched such that the resin and dielectric are removed at the same rate. Since the plasma etch follows the contour of the organic resin, a smooth surface is left behind (<link target-id=" id1172420365670"/>d). The planarization process thus reduces step height differentials significantly. In addition regions or valleys between individual metallization elements (vias) can be completely filled allowing for a route to producing uniformly flat surfaces, e.g., the BPSG film shown in <link target-id="id1172418243443"/>. </para>
+  
+
+
+        <figure id="id1172420365670"><media id="id1172420365670_media" alt="">
+            <image mime-type="image/jpg" src="../../media/planerization.jpg" id="id1172420365670__onlineimage" width="476" print-width="4in"/>
+          </media>
+        <caption>Schematic representation of the planarization process. A metallization feature (a) is CVD covered with silicate glass (b), and subsequently coated with an organic resin (c). After etching the resist a smooth silicate surface is produced (d). </caption></figure>
+  
+
+      
+      <para id="id1172420055111"> The processes of planarization is vital for the development of multilevel structures in VLSI circuits. To minimize interconnection resistance and conserve chip area, multilevel metallization schemes are being developed in which the interconnects run in 3-dimensions. </para>
+    </section>
+    <section id="id1629152">
+      <title>Bibliography</title>
+      <list id="id1172417060854" list-type="bulleted"><item>J. L. Vossen and W. Kern, <emphasis effect="italics">Phys. Today</emphasis>, 1980, <emphasis effect="bold">33</emphasis>, 26.</item>
+        <item>S. K. Ghandhi, <emphasis effect="italics">VLSI Fabrication Principles, Silicon and Gallium Arsenide</emphasis>, Wiley, Chichester, 2nd Ed. (1994).</item>
+        <item>S. M. Sze, <emphasis effect="italics">Physics of Semiconductor Devices</emphasis>, 2nd Edition, John Wiley &amp; Sons, New York (1981). </item>
+        <item>W. E. Beadle, J. C. C. Tsai, R. D. Plummer, <emphasis effect="italics">Quick Reference Manual for Silicon Integrated Cuircuit Technology</emphasis>, Wiley, Chichester (1985).</item>
+        <item>A. C. Adams and C. D. Capio, <emphasis effect="italics">J. Electrochem. Soc.</emphasis>, 1981, <emphasis effect="bold">128</emphasis>, 2630. </item>
+      </list>
+    </section>
+  </content>
+</document>

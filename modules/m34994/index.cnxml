@@ -1,0 +1,516 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Group 17 Elements: The Halogens</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34994</md:content-id>
+  <md:title>The Group 17 Elements: The Halogens</md:title>
+  <md:abstract/>
+  <md:uuid>92097670-66b1-4b35-8a01-dfe01a0b6ad4</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id1166740792989">
+      <title>The elements</title>
+      <para id="id1166741369311">The Group 17 elements have a particular name: the <emphasis effect="italics">halogens</emphasis> meaning <emphasis effect="italics">born of salt</emphasis>. This is due to the formation of salts when they form compounds with a metal. <link target-id="id8830254"/> lists the derivation of the names of the halogens. </para>
+      <table id="id8830254" summary="Derivation of the names of each of the halogens.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Symbol</emphasis></entry>
+              <entry><emphasis effect="bold">Name</emphasis></entry>
+            </row>
+            <row>
+              <entry>Fluorine</entry>
+              <entry>F</entry>
+              <entry>Latin <emphasis effect="italics">fluere</emphasis> meaning <emphasis effect="italics">to flow</emphasis></entry>
+            </row>
+            <row>
+              <entry>Chlorine</entry>
+              <entry>Cl</entry>
+              <entry>Greek <emphasis effect="italics">khlôros</emphasis> meaning <emphasis effect="italics">pale green</emphasis></entry>
+            </row>
+            <row>
+              <entry>Bromine</entry>
+              <entry>Br</entry>
+              <entry>Greek <emphasis effect="italics">brómos</emphasis> meaning <emphasis effect="italics">stench</emphasis></entry>
+            </row>
+            <row>
+              <entry>Iodine </entry>
+              <entry>I </entry>
+              <entry>Greek <emphasis effect="italics">odes</emphasis> meaning <emphasis effect="italics">violet</emphasis> or <emphasis effect="italics">purple</emphasis></entry>
+            </row>
+            <row>
+              <entry>Astatine </entry>
+              <entry>At</entry>
+              <entry>Greek <emphasis effect="italics">astatos</emphasis>, meaning <emphasis effect="italics">unstable</emphasis></entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Derivation of the names of each of the halogens. </caption>
+</table>
+      
+      <section id="id1166731230776">
+        <title>Discovery</title>
+        <section id="id1166741983807"><title>Fluorine</title><para id="id8818632">The mineral <emphasis effect="italics">fluorspar</emphasis> (also known as <emphasis effect="italics">fluorite</emphasis>) consists mainly of calcium fluoride and was described in 1530 by Agricola (<link target-id="id1166737539420"/>) for its use as a flux. Fluxes are used to promote the fusion of metals or minerals, and it was from this use that fluorine derived its name. In 1670 Heinrich Schwanhard found that when he mixed fluorspar with an acid the fumes produced (hydrogen fluoride) etched the glasses he was wearing. Despite many researchers investigating the chemistry of hydrogen fluoride (HF) the elemental form of fluorine was not isolated until 1886 when Henri Moissan (<link target-id=" id5847602"/>) studied the electrolysis of a solution of potassium hydrogen difluoride (KHF<sub>2</sub>) in liquid hydrogen fluoride (HF). The mixture was needed because hydrogen fluoride is a non-conductor. The device was built with platinum/iridium electrodes in a platinum holder and the apparatus was cooled to −50 °C. </para>
+
+            <figure id="id1166737539420"><media id="id1166737539420_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics1-13b6.jpg" id="id1166737539420__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>German author Georg Bauer (1494 - 1555), whose pen-name was the Latinized Georgius Agricola, was most probably the first person to be environmental conscious. </caption></figure>
+
+          
+          <figure id="id5847602"><media id="id5847602_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics2-9e98.jpg" id="id5847602__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>French chemist Ferdinand Frederick Henri Moissan (1852 - 1907) was awarded the Nobel Prize for his work with fluorine. </caption></figure>
+          
+          <para id="id1166750945659">The generation of elemental fluorine from hydrofluoric acid proved to be exceptionally dangerous, killing or blinding several scientists who attempted early experiments on this halogen. The victims became known as <emphasis effect="italics">fluorine martyrs</emphasis>. </para>
+        </section>
+        <section id="id1166739679155"><title>Chlorine</title><para id="id1166754022847">Archaeological evidence has shown that sodium chloride (known as <emphasis effect="italics">table salt</emphasis>) has been used as early as 3000 BC and brine (the saturated water solution) as early as 6000 BC. It is thought that hydrochloric acid was probably known to alchemist Jābir ibn Hayyān (<link target-id="id1166744630062"/>) around 800 AD, while aqua regia (a mixture of nitric acid and hydrochloric acid) began to be used to dissolve gold sometime before 1400 AD. Upon dissolving gold in aqua regia, chlorine gas is released along with other nauseating and irritating gases. </para>
+
+            <figure id="id1166744630062"><media id="id1166744630062_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics3-c817.jpg" id="id1166744630062__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>15<sup>th</sup> century portrait of Abu Musa Jābir ibn Hayyān (721 - 815), also known by his Latinized name “Gerber”. He was a chemist, alchemist, astronomer and astrologer, engineer, geologist, philosopher, physicist, and pharmacist and physician.</caption></figure>
+
+          
+          <para id="id1166740033798">Chlorine was first prepared and studied in 1774 by Carl Wilhelm Scheele (<link target-id="id1166737701281"/>), and therefore he is credited for its discovery despite his failing to establish chlorine as an element, mistakenly thinking that it was the oxide obtained from the hydrochloric acid. Regardless of what he believed, Scheele did isolate chlorine by reacting MnO<sub>2</sub> (as the mineral pyrolusite) with HCl, <link target-id="eip-54"/>. </para>
+
+          <equation id="eip-54"><media id="id1166747945896_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics5-166b.jpg" id="id1166747945896__onlineimage" width="500" print-width="4.5in"/>
+            </media>
+          </equation><figure id="id1166737701281"><media id="id1166737701281_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics4-4173.png" id="id1166737701281__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Swedish chemist Carl Wilhelm Scheele (1742 – 1786). Isaac Asimov called him "hard-luck Scheele" because he made a number of chemical discoveries before others who are generally given the credit.</caption></figure>
+
+          
+
+          
+
+        </section>
+        <section id="id1166740781838"><title>Bromine</title><para id="id1166741165300">Bromine was discovered independently by two chemists Antoine Balard (<link target-id=" id1166731552748"/>) in 1825 and Carl Jacob Löwig (<link target-id="id1166744087064"/>) in 1826.</para>
+
+
+            <figure id="id1166731552748"><media id="id1166731552748_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics6-d48b.jpg" id="id1166731552748__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>French chemist Antoine Jérôme Balard (1802 - 1876). </caption></figure>
+
+          
+          <figure id="id1166744087064"><media id="id1166744087064_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics7-e4af.jpg" id="id1166744087064__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>German chemist Carl Jacob Löwig (1803 - 1890). </caption></figure>
+          
+          <para id="id1166741395463">Balard found bromide salts in the ash of sea weed from the salt marshes of Montpellier. The sea weed was used to produce iodine, but also contained bromine. Balard distilled the bromine from a solution of seaweed ash saturated with chlorine. The properties of the resulting substance resembled that of an intermediate of chlorine and iodine; with those results he tried to prove that the substance was iodine monochloride (ICl), but after failing to do so he was sure that he had found a new element and named it <emphasis effect="italics">muride</emphasis>, derived from the Latin word <emphasis effect="italics">muria</emphasis> for brine.</para>
+          <para id="id1166746748842">In contrast, Löwig isolated bromine from a mineral water spring in Bad Kreuznach. Löwig used a solution of the mineral salt saturated with chlorine and extracted the bromine with Et<sub>2</sub>O. After evaporation a brown liquid remained. Unfortunately, the publication of his results were delayed and Balard published first. </para>
+        </section>
+        <section id="id1166744951154">
+          <title>Iodine</title>
+          <para id="id2145470">Iodine was discovered by Bernard Courtois (<link target-id=" id6097654"/>) in 1811 when he was destroying the waste material from the production of saltpeter (KNO<sub>3</sub>) during gunpowder production. Saltpeter produced from French niter beds required sodium carbonate (Na<sub>2</sub>CO<sub>3</sub>), which could be isolated from seaweed washed up on the coasts of Normandy and Brittany. To isolate the sodium carbonate, seaweed was burned and the ash then washed with water; the remaining waste was destroyed by the addition of sulfuric acid (H<sub>2</sub>SO<sub>4</sub>). After adding too much acid, Courtois observed a cloud of purple vapor that crystallized on cold surfaces making dark crystals. Courtois suspected that this was a new element but lacked the money to pursue his observations. In supplying samples to his friends, Charles Desormes and Nicolas Clément, he hoped his research was to continue. On 29 November 1813, Dersormes and Clément made public Courtois’s discovery, describing the substance to a meeting of the Imperial Institute of France. </para>
+          <figure id="id6097654"><media id="id6097654_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics8-00da.jpg" id="id6097654__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>French chemist Bernard Courtois (1777 - 1838). </caption></figure>
+          
+        </section>
+        <section id="id1166753712773"><title>Astatine</title><para id="id1166750202888">The existence of <emphasis effect="italics">eka-iodine</emphasis> had been predicted by Mendeleev (<link target-id="id1166753484176"/>), but astatine was first synthesized in 1940 by Corson (<link target-id="id5749146"/>), MacKenzie (<link target-id="id1166742009526"/>), and Segrè (<link target-id="id1166740774383"/>) at the University of California, Berkeley by bombarding bismuth with alpha particles.</para>
+          <figure id="id1166753484176"><media id="id1166753484176_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics9-e719.jpg" id="id1166753484176__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Russian chemist Dmitri Mendeleev (1834 - 1907). </caption></figure>
+          
+
+            <figure id="id5749146"><media id="id5749146_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics10-3636.jpg" id="id5749146__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>Physicist and President of Cornell University, Dale R. Corson (1914 -). </caption></figure>
+
+          
+          <figure id="id1166742009526"><media id="id1166742009526_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics11-6e32.jpg" id="id1166742009526__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Physicist Kenneth Ross MacKenzie (1912 - 2002). </caption></figure>
+          
+          <figure id="id1166740774383"><media id="id1166740774383_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics12-65cb.jpg" id="id1166740774383__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Italian physicist Emilio Segrè (1905 - 1989). </caption></figure>
+          
+        </section>
+      </section>
+      <section id="id1166750293335">
+        <title>Abundance</title>
+        <para id="id1166735458428">The abundance of the halogens is given in <link target-id="id1166738310303"/>. </para>
+        <table id="id1166738310303" summary="Abundance of the halogens.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Terrestrial abundance (ppm)</emphasis></entry>
+              </row>
+              <row>
+                <entry>F</entry>
+                <entry>950 (Earth’s crust), 330 (soil), 1.3 (sea water), 6 x 10<sup>-4</sup> (atmosphere)</entry>
+              </row>
+              <row>
+                <entry>Cl</entry>
+                <entry>130 (Earth’s crust), 50 – 2000 (soil), 1.8 x 10<sup>4</sup> (sea water)</entry>
+              </row>
+              <row>
+                <entry>Br</entry>
+                <entry>0.4 (Earth’s crust), 5 – 40 (soil), 65 (sea water)</entry>
+              </row>
+              <row>
+                <entry>I </entry>
+                <entry>0.14 (Earth’s crust), 3 (soil), 0.06 (sea water), 60 x 10<sup>-3</sup> (atmosphere)</entry>
+              </row>
+              <row>
+                <entry>At</entry>
+                <entry>Trace in some minerals</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Abundance of the halogens. </caption>
+</table>
+        
+      </section>
+      <section id="id8099194">
+        <title>Isotopes</title>
+        <para id="id1166735860669">The naturally abundant isotopes of the halogens are listed in <link target-id=" id1166735747556"/>. All 33 isotopes of astatine are radioactive.</para>
+        <table id="id1166735747556" summary="Abundance of the major isotopes of the halogens.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Isotope</emphasis></entry>
+                <entry><emphasis effect="bold">Natural abundance (%)</emphasis></entry>
+              </row>
+              <row>
+                <entry>Fluorine-19</entry>
+                <entry>100</entry>
+              </row>
+              <row>
+                <entry>Chlorine-35</entry>
+                <entry>75.77</entry>
+              </row>
+              <row>
+                <entry>Chlorine-36</entry>
+                <entry>trace</entry>
+              </row>
+              <row>
+                <entry>Chlorine-37</entry>
+                <entry>24.23</entry>
+              </row>
+              <row>
+                <entry>Bromine-79</entry>
+                <entry>50.69</entry>
+              </row>
+              <row>
+                <entry>Bromine-81</entry>
+                <entry>49.31</entry>
+              </row>
+              <row>
+                <entry>Iodine-127</entry>
+                <entry>100%</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Abundance of the major isotopes of the halogens. </caption>
+</table>
+        
+        <para id="id1166743607195">While <sup>19</sup>F is the only naturally abundant isotope of fluorine, the synthetic isotope, <sup>18</sup>F, has half life of about 110 minutes, and is commercially an important source of positrons for positron emission tomography (PET). PET is a nuclear medicine imaging technique that produces a 3-D image of processes within the body. The system detects pairs of γ-rays emitted indirectly by a positron-emitting radionuclide (tracer), which is introduced into the body on a biologically active molecule. </para>
+        <para id="id1166738060271">Trace amounts of radioactive <sup>36</sup>Cl exist in the environment at about 7 x 10<sup>-11</sup>%. <sup>36</sup>Cl is produced in the atmosphere by the interaction of cosmic rays with <sup>36</sup>Ar. In the ground <sup>36</sup>Cl is generated through neutron capture by <sup>35</sup>Cl or muon (an elemental particle similar to an electron) capture by <sup>40</sup>Ca. <sup>36</sup>Cl decays with a half-life of 308,000 years making it suitable for geologic dating in the range of 60,000 to 1 million years. However, due to the large amounts of <sup>36</sup>Cl produced by irradiation of seawater during atmospheric detonations of nuclear weapons between 1952 and 1958, it is also sued as an event marker for 1950s water in soil and ground water. </para>
+        <para id="id1166740817891">Iodine has 37 isotopes of iodine, but only one, <sup>127</sup>I, is stable. Of the radioactive isotopes, <sup>129</sup>I (half-life 15.7 million years) is used for radiometric dating of the first 85 million years of solar system evolution. <sup>129</sup>I is also a product of uranium and plutonium fission, and as a consequence of nuclear fuel reprocessing and atmospheric nuclear weapons tests, the natural signal has been swamped. As a consequence it can now be used as a tracer of nuclear waste dispersion into the environment. <sup>129</sup>I was used in rainwater studies to track fission products following the Chernobyl disaster.</para>
+        <para id="id1166734182459">Due to preferential uptake of iodine by the thyroid, isotopes with short half lives such as <sup>131</sup>I can be used for thyroid ablation, a procedure in which radioactive iodine is administered intravenously or orally following a diagnostic scan. The lower energy isotopes <sup>123</sup>I and <sup>125</sup>I are used as tracers to evaluate the anatomic and physiologic function of the thyroid. </para>
+      </section>
+      <section id="id1166743659876">
+        <title>Industrial production. </title>
+        <para id="id1166737067744">Industrial production of fluorine involves the electrolysis of hydrogen fluoride (HF) in the presence of potassium fluoride (KF) during which fluorine gas is formed at the anode and hydrogen gas is formed at the cathode (<link target-id="id1166752363272"/>). The potassium fluoride (KF) is converted to potassium bifluoride (KHF<sub>2</sub>), <link target-id="eip-349"/>, which is the electrolyte and intermediate to the fluorine and hydrogen, <link target-id=" eip-835"/>. </para>
+        
+        <equation id="eip-349"><media id="id2005976_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-ba57.jpg" id="id2005976__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        <equation id="eip-835"><media id="id4795434_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-ff90.jpg" id="id4795434__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><figure id="id1166752363272"><media id="id1166752363272_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-f00f.jpg" id="id1166752363272__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>The fluorine cell room at F2 Chemicals Ltd, Preston, UK. </caption></figure>
+        
+        <para id="id1166746982001">The HF is formed as a byproduct of the production of phosphoric acid, since phosphate-containing minerals contain significant amounts of calcium fluorides, which upon treatment with sulfuric acid release hydrogen fluoride, <link target-id="eip-127"/>. </para>
+        
+        <equation id="eip-127"><media id="id2124767_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-6fa3.jpg" id="id2124767__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id1166744132384">Chlorine is generally manufactured by electrolysis of a sodium chloride solution (brine). The production of chlorine results in the co-products caustic soda (sodium hydroxide, NaOH) and hydrogen gas (H<sub>2</sub>). Chlorine can also be produced by the electrolysis of a solution of potassium chloride, in which case the co-products are hydrogen and caustic potash (potassium hydroxide). There are three industrial methods for the extraction of chlorine by electrolysis of chloride solutions, all proceeding by the same reaction at the cathode, <link target-id="eip-102"/>, and anode, <link target-id=" eip-637"/>, which lead to the overall reaction, <link target-id=" eip-952"/>, where M = Na or K. </para>
+        
+        <equation id="eip-102"><media id="id2108398_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics17-5a1c.jpg" id="id2108398__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-637"><media id="id2116652_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics18-c4ad.jpg" id="id2116652__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-952"><media id="id6189700_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics19-322d.jpg" id="id6189700__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1166751530739">Bromine exists exclusively as bromide salts in the Earth’s crust, however, due to leaching, bromide salts have accumulated in sea water, but at a lower concentration than chloride. The majority of bromine is isolated from bromine-rich brines, which are treated with chlorine gas, flushing through with air. In this treatment, bromide anions are oxidized to bromine by the chlorine gas, <link target-id="eip-70"/>. </para>
+        
+        <equation id="eip-70"><media id="id1864995_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics20-1783.jpg" id="id1864995__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1166744462528">Two major sources of iodine are used for commercial production: the caliche (a hardened sedimentary deposit of calcium carbonate found in Chile) and the iodine containing brines of gas and oil fields in Japan and the United States. The caliche contains sodium nitrate (NaNO<sub>3</sub>); in which traces of sodium iodate (NaIO<sub>3</sub>) and sodium iodide (NaI) are found. During the production of sodium nitrate the sodium iodate and iodide is extracted. Iodine sourced from brine involves the acidification with sulfuric acid to form hydrogen iodide (HI), which is then oxidized to iodine with chlorine, <link target-id="eip-582"/>. The aqueous iodine solution is concentrated by passing air through the solution causing the iodine to evaporate. The iodine solution is then re-reduced with sulfur dioxide, <link target-id="eip-219"/>. The dry hydrogen iodide (HI) is reacted with chlorine to precipitate the iodine, <link target-id="eip-615"/>. </para>
+        
+        <equation id="eip-582"><media id="id1166748790491_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics21-5d6f.jpg" id="id1166748790491__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-219"><media id="id1166750800902_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics22-a890.jpg" id="id1166750800902__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><equation id="eip-615"><media id="id1905805_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics23-f7d9.jpg" id="id1905805__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+      </section>
+      <section id="id1166750427278">
+        <title>Physical properties</title>
+        <para id="id1166736147841">The physical properties of the halogens (<link target-id=" id1166739844915"/>) encompasses gases (F<sub>2</sub> and Cl<sub>2</sub>), a liquid (Br<sub>2</sub>), a non-metallic solid (I<sub>2</sub>), and a metallic metal (At).</para>
+        <table id="id1166739844915" summary="Selected physical properties of the halogens.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+                <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold">Density (g/cm<sup>3</sup>)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>F</entry>
+                <entry>-219.62</entry>
+                <entry>-188.12 </entry>
+                <entry>1.7 x 10<sup>-3</sup> @ 0 °C, 101 kPa </entry>
+              </row>
+              <row>
+                <entry>Cl</entry>
+                <entry>-101.5 </entry>
+                <entry>-34.04 </entry>
+                <entry>3.2 x 10<sup>-3</sup> @ 0 °C, 101 kPa</entry>
+              </row>
+              <row>
+                <entry>Br</entry>
+                <entry>-7.2 </entry>
+                <entry>58.8</entry>
+                <entry>3.1028 (liquid)</entry>
+              </row>
+              <row>
+                <entry>I </entry>
+                <entry>113.7 </entry>
+                <entry>184.3</entry>
+                <entry>4.933</entry>
+              </row>
+              <row>
+                <entry>At</entry>
+                <entry>302 </entry>
+                <entry>337</entry>
+                <entry><emphasis effect="italics">ca</emphasis>. 7</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Selected physical properties of the halogens. </caption>
+</table>
+        
+      </section>
+      <section id="id4917618">
+        <title>Reactivity</title>
+        <para id="id1166742786316">All the halogens are highly reactive and are as a consequence of the stability of the X<sup>-</sup> ion are strong oxidizing agents (<link target-id="id1166735824489"/>). </para>
+        <table id="id1166735824489" summary="Electrochemical reduction potential for halogens.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Reduction</emphasis></entry>
+                <entry><emphasis effect="bold">Reduction potential (V)</emphasis></entry>
+              </row>
+              <row>
+                <entry>F<sub>2</sub> + 2 e<sup>-</sup> → 2 F<sup>-</sup></entry>
+                <entry>2.87</entry>
+              </row>
+              <row>
+                <entry>Cl<sub>2</sub> + 2 e<sup>-</sup> → 2 Cl<sup>-</sup></entry>
+                <entry>1.36</entry>
+              </row>
+              <row>
+                <entry>Br<sub>2</sub> + 2 e<sup>-</sup> → 2 Br<sup>-</sup></entry>
+                <entry>1.07</entry>
+              </row>
+              <row>
+                <entry>I<sub>2</sub> + 2 e<sup>-</sup> → 2 I<sup>-</sup></entry>
+                <entry>0.53</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Electrochemical reduction potential for halogens. </caption>
+</table>
+        
+        
+        <note id="eip-360" type="warning">Elemental fluorine (fluorine gas) is a highly toxic, corrosive oxidant, which can cause ignition of organic material. Fluorine gas has a characteristic pungent odor that is detectable in concentrations as low as 20 ppb. As it is so reactive, all materials of construction must be carefully selected and metal surfaces must be passivated. In high concentrations, soluble fluoride salts are also toxic and skin or eye contact with high concentrations of many fluoride salts is dangerous.</note><section id="id1166737729204"><title>Use of chlorine as a weapon</title><para id="id1166748110802">Chlorine gas, also known as <emphasis effect="italics">bertholite</emphasis>, was first used as a weapon in World War I by Germany on April 22, 1915 in the Second Battle of Ypres. At around 5:00 pm on April 22, 1915, the German Army released one hundred and sixty eight tons of chlorine gas over a 4 mile front against French and colonial Moroccan and Algerian troops of the French 45<sup>th</sup> and 78<sup>th</sup> divisions (<link target-id=" id1166753484917"/>). The attack involved a massive logistical effort, as German troops hauled 5730 cylinders of chlorine gas, weighing ninety pounds each, to the front by hand. The German soldiers also opened the cylinders by hand, relying on the prevailing winds to carry the gas towards enemy lines. Because of this method of dispersal, a large number of German soldiers were injured or killed in the process of carrying out the attack. Approximately 6,000 French and colonial troops died within ten minutes at Ypres, primarily from asphyxiation and subsequent tissue damage in the lungs. Many more were blinded. Chlorine gas forms hydrochloric acid when combined with water, destroying moist tissues such as lungs and eyes. The chlorine gas, being denser than air, quickly filled the trenches, forcing the troops to climb out into heavy enemy fire. </para>
+          <figure id="id1166753484917"><media id="id1166753484917_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics24-7e15.jpg" id="id1166753484917__onlineimage" width="400" print-width="4in"/>
+            </media>
+          <caption>The gas attack of the Second Battle of Ypres. </caption></figure>
+          
+          <para id="id1166753479879">As described by the soldiers it had a distinctive smell of a mixture between pepper and pineapple. It also tasted metallic and stung the back of the throat and chest. The damage done by chlorine gas can be prevented by a gas mask, or other filtration method, making the fatalities from a chlorine gas attack much lower than those of other chemical weapons. The use as a weapon was pioneered by Fritz Haber (<link target-id="id1166735586319"/>) of the Kaiser Wilhelm Institute in Berlin, in collaboration with the German chemical conglomerate IG Farben, who developed methods for discharging chlorine gas against an entrenched enemy. It is alleged that Haber's role in the use of chlorine as a deadly weapon drove his wife, Clara Immerwahr, to suicide. After its first use, chlorine was used by both sides as a chemical weapon (<link target-id="id1166738766607"/>), but it was soon replaced by the more deadly gases phosgene and mustard gas.</para>
+
+
+            <figure id="id1166735586319"><media id="id1166735586319_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics25-49f3.jpg" id="id1166735586319__onlineimage" width="300" print-width="2in"/>
+              </media>
+            <caption>German scientist and Nobel Prize winner Fritz Haber (1868 - 1934). </caption></figure>
+
+          
+          <figure id="id1166738766607"><media id="id1166738766607_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics26-f407.jpg" id="id1166738766607__onlineimage" width="300" print-width="3in"/>
+            </media>
+          <caption>A poison gas attack, in World War I. </caption></figure>
+          
+        </section>
+      </section>
+      <section id="id1166741947527"><title>Vapor phase</title><para id="id1166742440618">All the halogens form X<sub>2</sub> dimers in the vapor phase in an analogous manner to hydrogen. Unlike dihydrogen, however, the bonding is associated with the molecular orbital combination of the two p-orbitals (<link target-id="id1225950"/>). The bond lengths and energies are given in <link target-id=" id1166753611589"/>. </para>
+
+
+          <figure id="id1225950"><media id="id1225950_media" alt="">
+              <image mime-type="image/jpg" src="../../media/FigF2.jpg" id="id1225950__onlineimage" width="350" print-width="3.5in"/>
+            </media>
+          <caption>Molecular orbital diagram for the formation of F<sub>2</sub>. </caption></figure>
+
+
+        
+        <table id="id1166753611589" summary="Bond lengths and energies for halogens.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Bond length (Å)</emphasis></entry>
+                <entry><emphasis effect="bold">Energy (kJ/mol)</emphasis></entry>
+              </row>
+              <row>
+                <entry>F<sub>2</sub></entry>
+                <entry>1.42</entry>
+                <entry>158</entry>
+              </row>
+              <row>
+                <entry>Cl<sub>2</sub></entry>
+                <entry>1.99</entry>
+                <entry>243</entry>
+              </row>
+              <row>
+                <entry>Br<sub>2</sub></entry>
+                <entry>2.29</entry>
+                <entry>193</entry>
+              </row>
+              <row>
+                <entry>I<sub>2</sub></entry>
+                <entry>2.66</entry>
+                <entry>151</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Bond lengths and energies for halogens. </caption>
+</table>
+        
+      </section>
+      <section id="id1166735734351">
+        <title>Solid state</title>
+        <para id="id1856897">Iodine crystallizes in the orthorhombic space group Cmca (<link target-id="id1166741681172"/>). In the solid state, I<sub>2</sub> molecules still contain short I-I bond (2.70 Å).</para>
+        <figure id="id1166741681172"><media id="id1166741681172_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics28-517a.jpg" id="id1166741681172__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>The solid state structure of I<sub>2</sub>. </caption></figure>
+        
+      </section>
+    </section>
+    <section id="id1166743490803">
+      <title>Compounds of the halogens. </title>
+      <para id="id1668873">The chemistry of the halogens is dominated by the stability of the -1 oxidation state and the noble gas configuration of the X<sup>-</sup> anion. </para>
+      <section id="id1166739804006">
+        <title>Oxidation state</title>
+        <para id="id1166735835489">The use of oxidation state for fluorine is almost meaningless since as the most electronegative element, fluorine exists in the oxidation state of -1 in all its compounds, except elemental fluorine (F<sub>2</sub>) where the oxidation state is zero by definition. Despite the general acceptance that the halogen elements form the associated halide anion (X<sup>-</sup>), compounds with oxidation states of +1, +3, +4, +5, and +7 are common for chlorine, bromine, and iodine (<link target-id="id1166753733619"/>). </para>
+        <table id="id1166753733619" summary="Examples of multiple oxidation states for the halogens.">
+<tgroup cols="7"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">-1</emphasis></entry>
+                <entry><emphasis effect="bold">+1</emphasis></entry>
+                <entry><emphasis effect="bold">+3</emphasis></entry>
+                <entry><emphasis effect="bold">+4</emphasis></entry>
+                <entry><emphasis effect="bold">+5</emphasis></entry>
+                <entry><emphasis effect="bold">+7</emphasis></entry>
+              </row>
+              <row>
+                <entry>Cl</entry>
+                <entry>HCl</entry>
+                <entry>ClF</entry>
+                <entry>ClF<sub>3</sub>, HClO<sub>2</sub> </entry>
+                <entry>ClO<sub>2</sub></entry>
+                <entry>ClF<sub>5</sub>, ClO<sub>3</sub><sup>-</sup></entry>
+                <entry>HClO<sub>4</sub></entry>
+              </row>
+              <row>
+                <entry>Br</entry>
+                <entry>HBr</entry>
+                <entry>BrCl</entry>
+                <entry>BrF<sub>3</sub></entry>
+                <entry>Br<sub>2</sub>O<sub>4</sub></entry>
+                <entry>BrF<sub>5</sub>, BrO<sub>3</sub><sup>-</sup></entry>
+                <entry>BrO<sub>4</sub><sup>-</sup></entry>
+              </row>
+              <row>
+                <entry>I</entry>
+                <entry>HI</entry>
+                <entry>ICl</entry>
+                <entry>IF<sub>3</sub>, ICl<sub>3</sub></entry>
+                <entry>I<sub>2</sub>O<sub>4</sub></entry>
+                <entry>IO<sub>3</sub><sup>-</sup></entry>
+                <entry>IO<sub>4</sub><sup>-</sup></entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup><caption>Examples of multiple oxidation states for the halogens. </caption>
+</table>
+        
+      </section>
+    </section>
+    <section id="id1166737069722">
+      <title>Bibliography</title>
+      <list id="id1166748568639" list-type="bulleted">
+        <item>G. Agricola, <emphasis effect="italics">De Re Metallica</emphasis>, Dover Publications, UK (1950)</item>
+        <item>K. Christe, <emphasis effect="italics">Inorg. Chem.</emphasis>, 1986, <emphasis effect="bold">25</emphasis>, 3721.</item>
+      </list>
+    </section>
+  </content>
+</document>

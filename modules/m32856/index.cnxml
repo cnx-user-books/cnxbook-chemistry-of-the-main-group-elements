@@ -1,0 +1,219 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Boron Compounds with Nitrogen Donors</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32856</md:content-id>
+  <md:title>Boron Compounds with Nitrogen Donors</md:title>
+  <md:abstract/>
+  <md:uuid>d2630ac5-39d3-48b1-8b5c-df8e7c1095e5</md:uuid>
+</metadata>
+<content>
+    
+    <para id="id1168302888964">The “B-N” unit is isoelectronic (3 + 5 valence electrons) to the “C-C” unit (4 + 4 valence electrons). The two moieties are also isolobal, and as such there are many of the compound types formed by carbon have analogous derivatives in the chemistry of boron-nitrogen. </para>
+    <section id="id6432537">
+      <title>Lewis acid-base addition compounds</title>
+      <para id="id7959168">Boron compounds, BX<sub>3</sub>, are strong Lewis acids and as such form stable addition compounds with Lewis bases, in particular those with nitrogen donor ligands. </para>
+      
+      <equation id="eip-255"><media id="id8988772_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-8037.jpg" id="id8988772__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+<para id="id1168302890353">In principle these Lewis acid-base complexes should be similar to their isolobal hydrocarbon analogs, however, whereas the dipole in ethane is zero (by symmetry) the dipole in H<sub>3</sub>NBH<sub>3</sub> is 5.2 D as a consequence of the difference in the Pauling electronegativities (i.e., B = 2.04 and N = 3.04). It is this dipole that generally differentiates the B-N compounds from their C-C analogs. </para>
+
+      <para id="id6221639">Homolytic cleavage of the C-C bond in ethane will yield two neutral methyl radicals, <link target-id="eip-5555"/>. In contrast, heterolytic cleavage will result in the formation of two charged species, <link target-id="eip-5556"/>. Thus, the products either have a net spin, <link target-id="eip-5555"/>, or a net charge, <link target-id="eip-5556"/>. By contrast, cleavage of the B-N bond in H<sub>3</sub>N-BH<sub>3</sub> either yields products with both spin and charge, <link target-id="eip-5557"/>, or neither, <link target-id="eip-5558"/>. Heterolytic cleavage of the B-N bond yields neutral compounds, <link target-id="eip-5557"/>, while hemolytic cleavage results in the formation of radical ions, <link target-id="eip-5558"/>. </para>
+
+
+
+      <equation id="eip-5555"><media id="id888888_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Eq13-fddc.jpg" id="id888888__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+      <equation id="eip-5556"><media id="id888887_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Eq14-6f70.jpg" id="id888887__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+      <equation id="eip-5557"><media id="id888886_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Eq15-6ae7.jpg" id="id888886__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+      <equation id="eip-5558"><media id="id888885_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Eq16-e3ec.jpg" id="id888885__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+
+
+
+
+      <para id="id1168302874388">The difference in bond strength between H<sub>3</sub>N-BH<sub>3</sub> and ethane is reflected in the difference in bond lengths (<link target-id="id2857665"/>). </para>
+
+
+      <table id="id2857665" summary="A comparison of bonding in H3E-E’H3.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Compound</emphasis></entry>
+              <entry><emphasis effect="bold">Bond length (Å)</emphasis></entry>
+              <entry><emphasis effect="bold">Bond strength (kcal/mol)</emphasis></entry>
+            </row>
+            <row>
+              <entry>H<sub>3</sub>C-CH<sub>3</sub></entry>
+              <entry>1.533</entry>
+              <entry>89</entry>
+            </row>
+            <row>
+              <entry>H<sub>3</sub>N-BH<sub>3</sub> </entry>
+              <entry>1.658</entry>
+              <entry>31</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>A comparison of bonding in H<sub>3</sub>E-E’H<sub>3</sub>. </caption>
+</table>
+      
+
+    </section>
+
+
+    <section id="id2799118">
+      <title>Aminoboranes</title>
+      <para id="id1168302881797">The group R’<sub>2</sub>N-BR<sub>2</sub> is isoelectronic and isolobal to the olefin sub-unit R’<sub>2</sub>C=CR<sub>2</sub>, and there is even appreciable π-bonding character (<link target-id="id1168302877151"/>). A measure of the multiple bond character can be seen from a comparison of the calculated B-N bond in H<sub>2</sub>NBN<sub>2</sub> (1.391 Å) as compared to a typical olefin (1.33 Å). It is interesting that a consideration of the possible resonance form (<link target-id="id1168302877151"/>) suggest the dipole in the σ-bond is in the opposite direction of that of the π-bond. </para>
+
+      <figure id="id1168302877151">
+        <media id="id1168302877151_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-353a.jpg" id="id1168302877151__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+<caption>Resonance forms for X<sub>2</sub>N-BX'<sub>2</sub>. </caption>
+      </figure>
+
+
+
+      <para id="id1168313543803">Unlike olefins, borazines oligomerize to form dimmers and trimers (<link target-id="id3830493"/>) in the absence of significant steric hindrance. Analogous structures are also observed for the other Group 13-15 homologs (R<sub>2</sub>AlNR’<sub>2</sub>, R<sub>2</sub>GaPR’<sub>2</sub>, etc.). </para>
+
+
+      <figure id="id3830493">
+        <media id="id3830493_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-a17b.jpg" id="id3830493__onlineimage" width="300" print-width="3in"/>
+        </media>
+<caption>Typical structures of aminoboranes. </caption>
+      </figure>
+
+    </section>
+
+
+    <section id="id7036322">
+      <title>Borazines </title>
+      <para id="id2958034">The condensation of boron hydride with ammonia results in the formation of a benzene analog: borazine, <link target-id="eip-5559"/>. Substituted derivatives are formed by the reaction with primary amines.</para>
+
+      <equation id="eip-5559">
+       <media id="id1168302635399_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-12d3.jpg" id="id1168302635399__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+
+
+
+      <para id="id8927246">Despite the cyclic structure (<link target-id="id3617211"/>), borazine is not a true analog of benzene. Despite all the B-N bond distances being equal (1.44 Å) consistent with a delocalized structure, the difference in electronegativity of boron and nitrogen (2.04 and 3.04, respectively) results in a polarization of the bonds (i.e., B<sup>δ+</sup>-N<sup>δ-</sup>) and hence a limit to the delocalization. The molecular orbitals of the π-system in borazine are lumpy in appearance (<link target-id="id5304162"/>a) compared to benzene (<link target-id="id5304162"/>b). This uneven distribution makes borazine prone to addition reactions, making it as a molecule less stable than benzene.</para>
+
+      <figure id="id3617211">
+        <media id="id3617211_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-c856.jpg" id="id3617211__onlineimage" width="150" print-width="1.5in"/>
+        </media>
+<caption>Structure of borazine, the inorganic analog to benzene. </caption>
+      </figure>
+
+
+
+        <figure id="id5304162">
+          <media id="id5304162_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-e6cf.jpg" id="id5304162__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>Probability distributions for the π-bond orbitals in (a) borazine and (b) benzene. </caption>
+        </figure>
+
+
+
+      <section id="id8900801">
+        <title>Iminoboranes: analogs of acetylene</title>
+        <para id="id1168304074293">Iminoboranes, RB=NR’, are analogs of alkynes, but like aminoboranes are only isolated as monomers with sterically hindered subsistent. In the absence of sufficient steric bulk oligomerization occurs, forming substituted benzene analogs. </para>
+      </section>
+    </section>
+
+
+    <section id="id2202919">
+      <title>Boron nitrides: analogs of elemental carbon</title>
+      <para id="id1168302885174">The fusion of borax, Na<sub>2</sub>[B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub>] with ammonium chloride (NH<sub>4</sub>Cl) results in the formation of hexagonal boron nitride (h-BN). Although h-BN has a planar, layered structure consisting of six-member rings similar to graphite (<link target-id="id7807908"/>), it is a white solid. The difference in color is symptomatic of the more localized bonding in BN than in graphite. </para>
+
+      <figure id="id7807908"><media id="id7807908_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-0471.jpg" id="id7807908__onlineimage" width="400" print-width="3in"/>
+        </media>
+
+      <caption>Structure of h-BN.</caption></figure>
+
+      <para id="id769540">As is found for its carbon analog, hexagonal boron nitride (h-BN or α-BN) is converted at high temperatures (600 – 2000 °C) and pressures (50 – 200 kbar) to a cubic phase (c-BN or β-BN). In a similar manner to diamond, cubic-BN is very hard being actually able to cut diamond, and as a consequence its main use is as an industrial grinding agent. The cubic form has the sphalerite crystal structure (<link target-id="id1168302878765"/>). Finally, a wurtzite form of boron nitride (w-BN) is known that has similar structure as lonsdaleite, rare hexagonal polymorph of carbon. <link target-id="id3012966"/> shows a comparison of the properties of the hexagonal and cubic phases of BN with their carbon analogs. </para>
+
+
+
+
+        <figure id="id1168302878765">
+          <media id="id1168302878765_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-5cd8.jpg" id="id1168302878765__onlineimage" width="400" print-width="3in"/>
+          </media>
+<caption>Structure of c-BN.</caption>
+        </figure>
+
+
+
+
+
+      <table id="id3012966" summary="Comparison of structural and physical properties of carbon and boron nitride analogs.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Phase</emphasis></entry>
+              <entry><emphasis effect="bold">Carbon</emphasis></entry>
+              <entry><emphasis effect="bold">Boron nitride</emphasis></entry>
+            </row>
+            <row>
+              <entry>Cubic</entry>
+              <entry>Colorless, hard, mp = 3550 °C. C-C = 1.514 Å</entry>
+              <entry>Colorless, hard, B-N = 1.56 Å</entry>
+            </row>
+            <row>
+              <entry>Hexagonal</entry>
+              <entry>Black solid, planar layers, conductor, mp = 3652 – 3697 °C (sublimes), C-C = 1.415 Å</entry>
+              <entry>White solid, planar layers, semiconductor (Eg = 5.2 eV), mp = 2973 °C (sublimes), B-N = 1.45 Å</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Comparison of structural and physical properties of carbon and boron nitride analogs. </caption>
+</table>
+      
+      <para id="id2659677">The partly ionic structure of BN layers in h-BN reduces covalency and electrical conductivity, whereas the interlayer interaction increases resulting in higher hardness of h-BN relative to graphite. </para>
+    </section>
+
+
+
+    <section id="id2532961">
+      <title>Bibliography</title>
+      <list id="id1168305156585" list-type="bulleted">
+        <item>K. M. Bissett and T. M. Gilbert, <emphasis effect="italics">Organometallics</emphasis>, 2004, <emphasis effect="bold">23</emphasis>, 850. </item>
+        <item>P. Paetzold, <emphasis effect="italics">Adv. Inorg. Chem.</emphasis>, 1987, <emphasis effect="bold">31</emphasis>, 123. </item>
+        <item>L. R. Thorne, R. D. Suenram, and F. J. Lovas, <emphasis effect="italics">J. Chem. Phys.</emphasis>, 1983, <emphasis effect="bold">78</emphasis>, 167. </item>
+      </list>
+    </section>
+  </content>
+</document>

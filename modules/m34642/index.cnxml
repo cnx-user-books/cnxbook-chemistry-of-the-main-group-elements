@@ -1,0 +1,107 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Chalconide Hydrides</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34642</md:content-id>
+  <md:title>Chalconide Hydrides</md:title>
+  <md:abstract/>
+  <md:uuid>a5777ec5-356b-498a-8b71-be557697048f</md:uuid>
+</metadata>
+
+<content>
+    
+    
+    <section id="eip-349"><title>Dihydrides</title>
+
+
+<para id="eip-22">
+
+The hydrides of sulfur, selenium and tellurium are all extremely toxic gases with repulsive smells. Hydrogen sulfide (H<sub>2</sub>S) is very toxic, in fact it is more than 5x as toxic as HCN (<link target-id="id1171426374496"/>). Hydrogen sulfide is considered a broad-spectrum poison, meaning that it can poison several different systems in the body, although the nervous system is most affected. It forms a complex bond with iron in the mitochondrial cytochrome enzymes, thereby blocking oxygen from binding and stopping cellular respiration. Exposure to low concentrations can result in eye irritation, a sore throat and cough, nausea, shortness of breath, and fluid in the lungs. Long-term, low-level exposure may result in fatigue, loss of appetite, headaches, irritability, poor memory, and dizziness. 
+</para>
+
+<table id="id1171426374496" summary="Toxicity levels for hydrogen sulfide.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Concentration (ppm)</emphasis></entry>
+            <entry><emphasis effect="bold">Biological effect</emphasis></entry>
+          </row>
+          <row>
+            <entry>0.00047</entry>
+            <entry>Threshold. </entry>
+          </row>
+          <row>
+            <entry>10–20</entry>
+            <entry>Borderline concentration for eye irritation.</entry>
+          </row>
+          <row>
+            <entry>50–100</entry>
+            <entry>Eye damage.</entry>
+          </row>
+          <row>
+            <entry>100–150</entry>
+            <entry>Olfactory nerve is paralyzed and the sense of smell disappears, often together with awareness of danger.</entry>
+          </row>
+          <row>
+            <entry>320–530 </entry>
+            <entry>Pulmonary edema with the possibility of death.</entry>
+          </row>
+          <row>
+            <entry>530–1000 </entry>
+            <entry>Stimulation of the central nervous system and rapid breathing, leading to loss of breathing.</entry>
+          </row>
+          <row>
+            <entry>800 </entry>
+            <entry>Lethal concentration for 50% of humans for 5 minutes exposure (LC50).</entry>
+          </row>
+          <row>
+            <entry>+1000</entry>
+            <entry>immediate collapse with loss of breathing, even after inhalation of a single breath.</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Toxicity levels for hydrogen sulfide. </caption>
+</table>
+
+    
+    <para id="id1171433404195">Each of the hydrides is prepared by the reaction of acid on a metal chalcogenide, e.g., <link target-id="eip-32"/> and <link target-id="eip-481"/>. The unstable H<sub>2</sub>Po has been prepared by the reaction of HCl on Po metal. </para>
+    
+    <equation id="eip-32"><media id="id1171431709203_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-5175.jpg" id="id1171431709203__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+    <equation id="eip-481"><media id="id1171425189648_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-276b.jpg" id="id1171425189648__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation><para id="id1171417270038">The thermal stability and bond strength of the dihydrides follows the trend: </para>
+    
+    <equation id="eip-615"><media id="id1171418759439_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-ede9.jpg" id="id1171418759439__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation><para id="id1171422842448">While H<sub>2</sub>Se is thermodynamically stable to 280 °C, H<sub>2</sub>Te and H<sub>2</sub>Po are thermodynamically unstable. </para>
+    <para id="id1171432196285">All the dihydrides behave as weak acids in water. Thus, dissolution of H<sub>2</sub>S is water results in the formation of the conjugate bases, <link target-id="eip-734"/> and <link target-id="eip-443"/>, with dissociation constants of 10<sup>-7</sup> and 10<sup>-17</sup>, respectively. </para>
+    
+    <equation id="eip-734"><media id="id1171421026112_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-7287.jpg" id="id1171421026112__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+    <equation id="eip-443"><media id="id1171454483240_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics5-5965.jpg" id="id1171454483240__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation>
+</section>
+
+<section id="id1171451896224">
+      <title>Sulfanes</title>
+      <para id="id1171431229464">The propensity of sulfur for catenation means that while the hydrides of oxygen are limited to water (H<sub>2</sub>O) and hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>), the compounds H<sub>2</sub>S<sub>n</sub> where n = 2 - 6 may all be isolated. Higher homologs are also known, but only as mixtures. All of the sulfanes are yellow liquids whose viscosity increases with increased chain length. </para>
+      <para id="id1171444955327">A mixture of lower sulfanes is prepared by the reaction of sodium sulfides (Na<sub>2</sub>Sn) with HCl, <link target-id="eip-324"/>. From this mixture the compounds H<sub>2</sub>S<sub>n</sub> where n = 2 - 5 are purified by fractional distillation. However, higher sulfanes are made by the reaction of either H<sub>2</sub>S or H<sub>2</sub>S<sub>2</sub> with sulfur chlorides, <link target-id="eip-152"/> and <link target-id="eip-788"/>. </para>
+      
+      <equation id="eip-324"><media id="id1171425986233_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-1644.jpg" id="id1171425986233__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+      <equation id="eip-152"><media id="id1171432158045_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-30f5.jpg" id="id1171432158045__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><equation id="eip-788"><media id="id1171433642663_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-afa4.jpg" id="id1171433642663__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+    </section>
+  </content>
+</document>

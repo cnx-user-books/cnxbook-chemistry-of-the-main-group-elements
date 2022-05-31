@@ -1,0 +1,265 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Organolithium Compounds</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32444</md:content-id>
+  <md:title>Organolithium Compounds</md:title>
+  <md:abstract/>
+  <md:uuid>823a7bce-4239-4f81-878f-be98f34213ce</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id11003726">One of the major uses of lithium is in the synthesis of organolithium compounds, RLi. They have great importance and utility in industry and chemical research. Their reactivity resembles that of Grignard reagents, but they are generally more reactive. </para>
+    <section id="id11003730">
+      <title>Synthesis</title>
+      <para id="id14328982">The best general method for RLi synthesis involves the reaction of an alkyl or aryl chloride with lithium metal in benzene or an aliphatic hydrocarbon (e.g., hexane), <link target-id="eip-467"/>. </para>
+      
+      <equation id="eip-467"><media id="id14291411_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-7d7d.jpg" id="id14291411__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+<para id="id16176521">While it is possible to use diethyl ether (Et<sub>2</sub>O), the solvent slowly attack the resultant alkyl lithium compound, <link target-id="eip-598"/>. </para>
+      
+      <equation id="eip-598"><media id="id3846910_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-46d2.jpg" id="id3846910__onlineimage" height="29" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id8195032">Metal-hydrogen exchange, <link target-id="eip-834"/>, metal-halogen exchange, <link target-id="eip-816"/>, and metal-metal exchange can also be used, <link target-id="eip-448"/>. </para>
+      
+      <equation id="eip-834"><media id="id15674048_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-b249.jpg" id="id15674048__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-816"><media id="id6104236_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-2714.jpg" id="id6104236__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-448"><media id="id12053382_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-6751.jpg" id="id12053382__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id8310533">All organolithium compounds are produced as solutions and are hence used in synthetic protocols by volume of solution. It is therefore important to know the exact concentration of RLi in solution. The simplest approach to quantify the amount of organolithium is to react a known volume with water, <link target-id="eip-148"/>, and then titrate (with acid) the resultant base that is formed. </para>
+      
+      <equation id="eip-148"><media id="id7421854_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-c689.jpg" id="id7421854__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+<para id="id10557019">However, while the concentration of freshly prepared samples of organolithium reagents can the theoretically measured in this way, real samples always contain some amount of LiOH or other bases. A simple titration inevitably results in an over estimation of the organolithium reagent. To overcome this a <emphasis effect="italics">double titration</emphasis> method is used. </para>
+      <section id="id6292135">
+        <title>Gillman double titration method</title>
+        <para id="id9581782">The careful addition of a known volume of an organolithium reagent solution (between 0.5 and 1.5 mL) to an excess of water yields a solution of LiOH that can be titrated with a standardized solution of hydrochloric acid, using phenolphthalein as the indicator. The presence of any LiOH in the original organolithium solution will be incorporated into this titration, and thus the result will be a measure of the <emphasis effect="italics">total base content</emphasis> in the solution, i.e., <link target-id="eip-880"/>. </para>
+        
+        <equation id="eip-880"><media id="id6300711_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-83be.jpg" id="id6300711__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</equation><para id="id11533612">In order to determine the amount of LiOH present as impurity in the organolithium solution it is necessary to react the RLi without the formation of base, then titrate the resulting solution. To do this, an aliquot (the same amount as used before) of the organolithium is reacted slowly with 1,2-dibromoethane (BrCH<sub>2</sub>CH<sub>2</sub>Br) dissolved in dry diethyl ether (Et<sub>2</sub>O). After 5 min of stirring, the solution is diluted with an excess of water and then titrated with a standardized solution of hydrochloric acid, again using phenolphthalein as the indicator. The difference of the two titrations gives the exact concentration of the organolithium. </para>
+        
+        <example id="eip-928">
+
+<para id="id3289961">An aliquot of <sup>n</sup>BuLi in hexanes (0.50 mL) was added to degassed water (20 mL). After any visible reaction had ceased, a few drops of a phenolphthalein solution in water/methanol are added resulting in a pink color indicative of a basic pH. The resulting mixture is titrated with standardized hydrochloric acid ([HCl] = 0.1034 N) until complete disappearance of the pink color (7.90 mL). </para>
+
+        <para id="id13938545">A second aliquot of <sup>n</sup>BuLi in hexanes (0.50 mL) is added to 1,2-dibromoethane (0.20 mL, Et<sub>2</sub>O). After 5 min of stirring, the mixture was diluted with water (20 mL) and after addition of the phenolphthalein indicator titrated (with vigorous stirring due to the biphasic nature of the system) with standardized hydrochloric acid ([HCl] = 0.1034 N) until complete disappearance of the pink color (0.25 mL). </para>
+
+        <para id="id8396468">The concentration of nBuLi is calculated as follows: </para>
+
+<list id="eip-576" list-type="enumerated" number-style="arabic" class="stepwise">
+<item><media id="id931111_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Eq83.jpg" id=" id931111__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</item>
+<item><media id="id931112_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Eq84.jpg" id=" id931112__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</item>
+<item><media id="id931113_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Eq85.jpg" id=" id931113__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</item>
+
+</list>
+
+</example>
+
+      </section>
+    </section>
+    <section id="id10501830">
+      <title>Properties</title>
+      <para id="id16221886">Alkyl lithium compounds are either low melting solids or liquids, and often with high volatility (depending on the substituent) due to the covalent nature of the bonding. They are soluble in aliphatics, aromatics, and ethers. However, while the reaction with ethers is generally slow, <link target-id="eip-598"/>, alkyl lithium compounds can polymerize tetrahydrofuran (THF). </para>
+      <para id="id10863596">Organolithium compounds react rapidly with air and water (both vapor and liquid). The reaction with water is the basis of the Gillman double titration method for determining the concentration of organolithium reagents in solution. </para>
+    </section>
+    <section id="id10863600">
+      <title>Structure</title>
+      <para id="id16171813">The structure of organolithium compounds is dominated by their highly oligomeric nature as a result of 3-center 2-electron bridging bonds. In all cases the extent of oligomerization is dependant on the identity of the alkyl (or aryl) group. The alkyl-bridged bond is similar to those found for beryllium and aluminum compounds. </para>
+      <para id="id16171817">In the vapor phase any particular organolithium derivative show a range of oligomeric structures. For example, the mass spectrum of EtLi shows ions associated with both tetramers (e.g., [Et<sub>3</sub>Li<sub>4</sub>]<sup>+</sup>) and hexamers (e.g., [Et<sub>5</sub>Li<sub>6</sub>]<sup>+</sup>). The structures of the different oligomers have been predicted by molecular orbital calculations (<link target-id="id15988321"/>). </para>
+      <figure id="id15988321"><media id="id15988321_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-d46d.jpg" id="id15988321__onlineimage" width="300" print-width="3in"/>
+        </media>
+      <caption>Proposed vapor phase structures for various oligomers of RLi. </caption></figure>
+      
+      <para id="id16172522">Solution molecular weight measurements indicate the oligomerization is present (in the absence of a coordinating ligand such as Et<sub>2</sub>O or an amine). The extent of oligomerization depends on the steric bulk of the alkyl group (<link target-id="id5501873"/>). Oligomerization and solution structures have also been investigated by <sup>7</sup>Li and <sup>13</sup>C NMR spectroscopy. </para>
+      <table id="id5501873" summary="Extent of oligomerization (n) for organolithium compounds [RLi]n in benzene solution.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">R</emphasis></entry>
+              <entry><emphasis effect="bold">[RLi]<sub>n</sub></emphasis></entry>
+              <entry><emphasis effect="bold">R</emphasis></entry>
+    <entry><emphasis effect="bold">[RLi]<sub>n</sub></emphasis></entry>
+  </row>
+            <row>
+              <entry>Me</entry>
+              <entry>4</entry>
+              <entry>Et</entry>
+    <entry>6</entry>
+  </row>
+     
+            <row>
+              <entry><sup>n</sup>Bu</entry>
+              <entry>6</entry>
+              <entry><sup>t</sup>Bu</entry>
+    <entry>4</entry>
+  </row>
+   
+          </tbody>
+        
+
+
+</tgroup><caption>Extent of oligomerization (n) for organolithium compounds [RLi]<sub>n</sub> in benzene solution. </caption>
+</table>
+      
+      <para id="id6883215">There are a large number of X-ray crystallographically determined structures for organolithium derivatives. The archetypal example is MeLi, which exists as a tetramer in the solid state (<link target-id="id14277655"/>). The lithium atoms are arranged as a tetrahedron and the carbon atoms are positioned on the center of the facial planes, i.e., the carbon is equidistant from each of the lithium atoms. In contrast, EtLi has a similar tetrahedral structure, but the α-carbon of the ethyl groups are asymmetrically arranged such that it is closer to one lithium atom than the other two. </para>
+
+      <figure id="id14277655"><media id="id14277655_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics12-101f.png" id="id14277655__onlineimage" width="300" print-width="3in"/>
+        </media>
+      <caption>Solid state structure of MeLi. Copyright: Ben Mills (2007). </caption></figure>
+
+      
+      <para id="id14476837">It is possible to prepare monomeric organolithium compounds by the addition of amines, especially chelate ligands such as ethylenediamine (en) and tetramethylethylenediamine (TMED). The reactivity of RLi is increased dramatically by the addition of such Lewis bases. For example, PhCH<sub>2</sub>Li shows an increased reactivity of 10<sup>4</sup> with the addition of TMED. </para>
+      <para id="id8686388">The bonding in organolithium compounds is difficult to describe: </para>
+      <list id="id5507037" list-type="bulleted">
+        <item>Based upon the relative electronegativity of Li (0.98) and C (2.5) it would be expected to have significant ionic character. </item>
+        <item>Organolithium compounds form electron deficient oligomers typical of covalent bonding and clearly not as a result of ionic aggregation. </item>
+        <item>The spin-spin coupling, <emphasis effect="italics">J</emphasis>(C-Li), observed by NMR spectroscopy (10 – 15 Hz) are consistent with a covalent bond. </item>
+        <item>Organolithium compounds undergo radical reactions. </item>
+      </list>
+      <para id="id12405902">However, the overall description of the bonding in RLi is that of a covalent interaction with significant polar (ionic) character, i.e., M<sup>δ</sup><sup>+</sup>-C<sup>δ</sup><sup>-</sup>. </para>
+    </section>
+    <section id="id7390877">
+
+      <title>The use of organolithium compounds in organic synthesis</title>
+      <para id="id13526275">Organolithium compounds perform many of the reactions commonly observed for Grignard reagents. However, lithium reagents are generally more reactive than their Grignard analogs. </para>
+      <section id="id6510406">
+
+        <title>Hydrolysis</title>
+        <para id="id12061239">Organolithium compounds react with water to give the hydrocarbon and lithium hydroxide, <link target-id="eip-718"/>. Lithium alkyls also react with other hydroxylic compounds such as alcohols and carboxylic acids, <link target-id="eip-1111"/>. </para>
+        
+        <equation id="eip-718"><media id="id16226563_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-1c6d.jpg" id="id16226563__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+  <equation id="eip-1111">
+          <media id="id16441255_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-4cca.jpg" id="id16441255__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+    </equation>
+
+
+
+
+        <para id="id14247146">One important use of the hydrolysis reaction is specifically deuteration, <link target-id="eip-1112"/>.</para>
+
+  <equation id="eip-1112">
+          <media id="id6298540_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-4556.jpg" id="id6298540__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+    </equation>
+
+
+      </section>
+      <section id="id15999247">
+        <title>Reaction with carbonyls</title>
+        <para id="id14191374">Organolithium compounds react with organic carbonyls (aldehydes, ketones, and esters) to yield the alcohol on hydrolysis, <link target-id="eip-1113"/>. This synthetic route is particularly useful since lithium reagents are far more reactive than the analogous Grignard, allowing reactions to be carried out at lower temperatures and minimizing enolization side reactions. </para>
+
+
+ <equation id="eip-1113">
+            <media id="id6639983_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics16-1493.jpg" id="id6639983__onlineimage" width="500" print-width="4.5in"/>
+            </media>
+    </equation>
+
+        <para id="id10688666">The high reactivity of alkyl lithium compounds means that they react with carboxylic acids to yield the ketone rather than the lithium carboxylate. </para>
+
+
+ <equation id="eip-1114">
+            <media id="id15899552_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics17-72e9.jpg" id="id15899552__onlineimage" width="500" print-width="4.5in"/>
+            </media>
+    </equation>
+
+
+        <para id="id10982674">Organolithium compounds generally react with α,β-unsaturated ketones to give the 1,2-addition product, <link target-id="eip-1115"/>. However, lithium dialkylcuprates, which are formed from the alkyl lithium and copper(I) iodide, <link target-id="eip-1116"/>, add exclusively by the 1,4-addition, <link target-id="eip-1117"/>. </para>
+
+
+ <equation id="eip-1115">
+          <media id="id16362832_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics18-7118.jpg" id="id16362832__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+    </equation>
+
+
+ <equation id="eip-1116">
+          <media id="id10825552_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics19-e77a.jpg" id="id10825552__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+    </equation>
+
+
+ <equation id="eip-1117">
+          <media id="id7835187_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics20-5001.jpg" id="id7835187__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+    </equation>
+
+
+
+      </section>
+      <section id="id14588056">
+        <title>Transmetallation</title>
+        <para id="id14875506">One of the most useful methods of preparing organometallic compounds is the exchange reaction of one organometallic compound with a salt of a different metal, <link target-id="eip-1118"/>. This is an equilibrium process, whose equilibrium constant is defined by the reduction potential of both metals. In general the reaction will proceed so that the more electropositive metal will form the more ionic salt (usually chloride). </para>
+
+ <equation id="eip-1118">
+          <media id="id7406231_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics21-6240.jpg" id="id7406231__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+    </equation>
+
+
+
+
+
+
+        <para id="id4269226">Lithium reagents may be used to prepare a wide range of organometallic compounds. </para>
+
+
+ <equation id="eip-1119">
+          <media id="id14527270_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics22-d66b.jpg" id="id14527270__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+    </equation>
+
+      </section>
+    </section>
+    <section id="id11741378">
+      <title>Bibliography</title>
+      <list id="id9040977" list-type="bulleted">
+        <item id="id9040980">G. Graham, S. Richtsmeier, D. A. Dixon. <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 1980, <emphasis effect="bold">102</emphasis>, 5759. </item>
+        <item id="id6987383">E. Weiss, E. A. C. Lucken, <emphasis effect="italics">J. Organomet. Chem.,</emphasis> 1964, <emphasis effect="bold">2</emphasis>, 197. </item>
+        <item>H. O. House, <emphasis effect="italics">Acc. Chem. Res.,</emphasis> 1976, <emphasis effect="bold">9</emphasis>, 59. </item>
+      </list>
+    </section>
+  </content>
+</document>

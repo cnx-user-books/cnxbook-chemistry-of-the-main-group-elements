@@ -1,0 +1,68 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Differences for Beryllium and Magnesium</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31919</md:content-id>
+  <md:title>Differences for Beryllium and Magnesium</md:title>
+  <md:abstract/>
+  <md:uuid>9cb04e66-544a-460f-9ebb-6d8801a2ec0d</md:uuid>
+</metadata>
+
+<content>
+    <para id="id3860745">While the chemistry of strontium, barium (and radium) is similar to that of calcium, magnesium and beryllium show marked differences. In both cases these differences are due to the small size of the ions. </para>
+ 
+
+    <section id="id21510443">
+      <title>Beryllium</title>
+      <para id="id20391305">Beryllium can be thought of as being even more covalent than magnesium. The small size (<emphasis effect="italics">ca.</emphasis> 0.3 Å) results in a very high charge density of Be<sup>2+</sup>. In addition, the ionization energy for beryllium is a large positive value (1<sup>st</sup> ionization energy = 899.5 kJ/mol, 2<sup>nd</sup> ionization energy = 14,848.7 kJ/mol). Both of these factors means that the free ion does not exist. Instead, beryllium forms covalent compounds in a similar manner to its diagonal analog aluminum. Both beryllium and aluminum form covalent compounds or strongly solvated cations, and both form polymeric hydrides, chlorides, and alkyls. </para>
+      <para id="id11330762">Beryllium chloride is not a lattice structure with a concomitantly high melting and boiling point as observed for the other Group 2 metals (<link target-id="id12253688"/>). Instead BeCl<sub>2</sub> is a polymer in the solid state (<link target-id="id10386051 "/>a), and an equilibrium between a monomer (<link target-id="id10386051 "/>b) and dimer (<link target-id="id10386051 "/>c) in the vapor phase. </para>
+      <table id="id12253688" summary="Summary of structures for alkaline earth chlorides.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">M</emphasis></entry>
+              <entry><emphasis effect="bold">Structure</emphasis></entry>
+            </row>
+            <row>
+              <entry>Be</entry>
+              <entry>Polymer (4-coordinate Be)</entry>
+            </row>
+            <row>
+              <entry>Mg</entry>
+              <entry>Cadmium chloride structure (6-coordinate Mg)</entry>
+            </row>
+            <row>
+              <entry>Ca</entry>
+              <entry>Deformed rutile structure (6-coordinate Ca)</entry>
+            </row>
+            <row>
+              <entry>Sr</entry>
+              <entry>Deformed rutile structure (6-coordinate Sr)</entry>
+            </row>
+            <row>
+              <entry>Ba</entry>
+              <entry>PbCl<sub>2</sub> structure (9-coordinate Ba) or fluorite structure (8-coordinate Ba)</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Summary of structures for alkaline earth chlorides (MCl<sub>2</sub>). </caption>
+</table>
+      
+
+        <figure id="id10386051"><media id="id10386051_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-b2b5.jpg" id="id10386051__onlineimage" width="400" print-width="3in"/>
+          </media>
+        <caption>Structures of BeCl<sub>2</sub>. </caption></figure>
+
+      
+    </section>
+
+   <section id="id14032064">
+      <title>Magnesium</title>
+      <para id="id12223207">The ionic radius for the +2 cation of magnesium is fairly small (0.65 Å). As a consequence the charge density (z/r) is high, which results in a high polarizing power of the Mg<sup>2+</sup> ion. Thus, magnesium tends to form polar covalent bonds rather than ionic complexes. As with lithium there is a wide range of organometallic derivatives of magnesium, especially the Grignards (RMgX, where X = Cl, Br). </para>
+      <para id="id11547775">A further consequence of the covalent character of the bonding is that magnesium tends to form either 4-coordinate (tetrahedral) or 6-coordinate (octahedral) complexes with well-defined geometries. </para>
+    </section>
+
+
+  </content>
+</document>

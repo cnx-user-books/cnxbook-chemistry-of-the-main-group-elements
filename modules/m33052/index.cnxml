@@ -1,0 +1,343 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Group 12 Elements</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33052</md:content-id>
+  <md:title>The Group 12 Elements</md:title>
+  <md:abstract/>
+  <md:uuid>30259bf7-adab-4a88-816c-41c643e8708c</md:uuid>
+</metadata>
+<content>
+    <para id="id16398714">Although the Group 12 metals (<link target-id="id13396664"/>) are formally part of the d-block elements from their position in the Periodic Table, their electronic configuration in both their elemental form (<emphasis effect="italics">d</emphasis><sup>10</sup><emphasis effect="italics">s</emphasis><sup>2</sup>) and the vast majority of their compounds (<emphasis effect="italics">d</emphasis><sup>10</sup>) is that of the main group elements. The common oxidation state for all the Group 12 elements is +2, and the chemistry of zinc and cadmium compounds in particular is very similar to the analogous magnesium derivatives. </para>
+    <note id="eip-435">The IUPAC (International Union of Pure and Applied Chemistry) definition of a transition metal (or transition element) states that a transition metal is "an element whose atom has an incomplete <emphasis effect="italics">d</emphasis> sub-shell, or which can give rise to cations with an incomplete <emphasis effect="italics">d</emphasis> sub-shell." Thus, Group 12 elements are not transition metals. </note>
+
+    
+
+    <table id="id13396664" summary="Derivation of the names of the Group 12 metals.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Symbol</emphasis></entry>
+            <entry><emphasis effect="bold">Name</emphasis></entry>
+          </row>
+          <row>
+            <entry>Zinc </entry>
+            <entry>Zn</entry>
+            <entry>From German <emphasis effect="italics">zinke</emphasis>, meaning <emphasis effect="italics">tooth-like, pointed or jagged</emphasis> (metallic zinc crystals have a needle-like appearance), or meaning <emphasis effect="italics">tin-like</emphasis> because of its relation to German word <emphasis effect="italics">zinn</emphasis> meaning <emphasis effect="italics">tin</emphasis>, or from Persian <emphasis effect="italics">seng</emphasis> meaning <emphasis effect="italics">stone</emphasis>.</entry>
+          </row>
+          <row>
+            <entry>Cadmium</entry>
+            <entry>Cd</entry>
+            <entry>From the Latin <emphasis effect="italics">cadmia</emphasis>, meaning <emphasis effect="italics">calamine</emphasis></entry>
+          </row>
+          <row>
+            <entry>Mercury</entry>
+            <entry>Hg</entry>
+            <entry>From the Latin <emphasis effect="italics">hydrargyrum</emphasis>, meaning <emphasis effect="italics">watery</emphasis> or <emphasis effect="italics">liquid silver</emphasis></entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Derivation of the names of the Group 12 metals. </caption>
+</table>
+
+
+    <section id="id12923470">
+      <title>Discovery</title>
+      <section id="id16000760">
+        <title>Zinc</title>
+
+        <para id="id14699854">Artifacts with a high zinc content (as much as 90%) have been fond to be over 2500 years old, and possibly older. As such it is clear that several cultures had the knowledge of working with zinc alloys, in particular brass (a zinc/copper alloy). Zinc mines at Zawar, near Udaipur in India, have been active since the late 1<sup>st</sup> millennium BC. However, the smelting of metallic zinc appears to have begun around the 12<sup>th</sup> century AD. </para>
+
+
+        <para id="id15964694">The isolation of purified metallic zinc was reported concurrently by several people. The extraction of zinc from its oxide (ZnO) was reported as early as 1668, while John Lane is supposed to have smelted zinc in 1726. The first Patent for zinc smelting was granted to English metallurgist William Champion in 1738; however, the credit for discovering pure metallic zinc is often given to Andreas Marggraf (<link target-id="id11637695"/>) in 1746. </para>
+
+          <figure id="id11637695">
+            <media id="id11637695_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-1dae.jpg" id="id11637695__onlineimage" width="300" print-width="2in"/>
+            </media>
+<caption>Engraving of German chemist Andreas Sigismund Marggraf (1709 –1782). </caption>
+          </figure>
+
+
+      </section>
+      <section id="id9355193">
+        <title>Cadmium</title>
+        <para id="id10529433">Cadmium was discovered in 1817 by Friedrich Stromeyer (<link target-id="id9856716"/>) as an impurity in calamine (zinc carbonate, ZnCO<sub>3</sub>). Stromeyer observed that impure samples of calamine changed color when heated but pure calamine did not. Eventually he was able to isolate cadmium metal by roasting and reduction of the sulfide.</para>
+
+          <figure id="id9856716">
+            <media id="id9856716_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics2-041d.jpg" id="id9856716__onlineimage" width="300" print-width="2in"/>
+            </media>
+<caption>German chemist Friedrich Stromeyer (1776 - 1835).</caption>
+          </figure>
+
+
+
+      </section>
+      <section id="id12370229">
+        <title>Mercury</title>
+        <para id="id11930793">Mercury was known to the ancient Chinese and was found in Egyptian tombs that date from 1500 BC. In China and Tibet, mercury use was thought to prolong life, heal fractures, and maintain generally good health. The ancient Greeks used mercury in ointments; the ancient Egyptians and the Romans used it in cosmetics that sometimes deformed the face.</para>
+      </section>
+    </section>
+
+
+    <section id="id11970455">
+      <title>Abundance</title>
+      <para id="id11854614">The Group 12 elements mainly occur in sulfide ores, however, as with their Group 2 analogs, carbonate are known, but not as economically viable. The major zinc containing ore is zinc blende (also known as sphalerite), which is zinc sulfide (ZnS). Other important ores include, wurtzite (ZnS), smithsonite (zinc carbonate, ZnCO<sub>3</sub>), and hemimorphite (calamine, Zn<sub>2</sub>SiO<sub>4</sub>). The basic form of zinc carbonate (hydrozincite, Zn<sub>5</sub>(CO<sub>3</sub>)<sub>2</sub>(OH)<sub>6</sub>) is also mined where economically viable. The main source of cadmium is as an impurity in zinc blende; however, there are several other ores known, e.g., cadmoselite (cadmium selenide, CdSe) and otavite (CdCO<sub>3</sub>). Mercury sulfide (cinnabar, HgS) is the major source of mercury, and in fact metallic liquid mercury droplets are often found in the ore. The terrestrial abundance of the Group 12 elements is given in <link target-id="id10918335"/>. </para>
+
+
+      <table id="id10918335" summary="Abundance of Group 12 elements.">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Terrestrial abundance (ppm)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Zn</entry>
+              <entry>75 (Earth’s crust), 64 (soil), 30 x 10<sup>-6</sup> (sea water)</entry>
+            </row>
+            <row>
+              <entry>Cd</entry>
+              <entry>0.1 (Earth’s crust), 1 (soil), 1 x 10<sup>-6</sup> (sea water)</entry>
+            </row>
+            <row>
+              <entry>Hg</entry>
+              <entry>50 x 10<sup>-6</sup> (Earth’s crust), 2 x 10<sup>-8</sup> (soil), 40 x 10<sup>-12</sup> (sea water)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+<caption>Abundance of Group 12 elements.</caption>
+      </table>
+
+
+
+
+    </section>
+    <section id="id6881636">
+      <title>Isotopes</title>
+
+      <para id="id15546297">The naturally abundant isotopes of the Group 12 metals are listed in <link target-id="id9845515"/>. </para>
+
+
+      <table id="id9845515" summary="Abundance of the major (non-synthetic) isotopes of the Group 12 metals. Isotopes labeled with * are radioactive. ">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Isotope</emphasis></entry>
+              <entry><emphasis effect="bold">Natural abundance (%)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Zinc-64</entry>
+              <entry>48.6</entry>
+            </row>
+            <row>
+              <entry>Zinc-66</entry>
+              <entry>27.9</entry>
+            </row>
+            <row>
+              <entry>Zinc-67</entry>
+              <entry>4.1</entry>
+            </row>
+            <row>
+              <entry>Zinc-68</entry>
+              <entry>18.8</entry>
+            </row>
+            <row>
+              <entry>Zinc-70</entry>
+              <entry>0.6</entry>
+            </row>
+            <row>
+              <entry>Cadmium-106 *</entry>
+              <entry>1.25</entry>
+            </row>
+            <row>
+              <entry>Cadmium-108 *</entry>
+              <entry>0.89</entry>
+            </row>
+            <row>
+              <entry>Cadmium-110</entry>
+              <entry>12.49</entry>
+            </row>
+            <row>
+              <entry>Cadmium-111</entry>
+              <entry>12.8</entry>
+            </row>
+            <row>
+              <entry>Cadmium-112</entry>
+              <entry>24.13</entry>
+            </row>
+            <row>
+              <entry>Cadmium-113 *</entry>
+              <entry>12.22</entry>
+            </row>
+            <row>
+              <entry>Cadmium-114 *</entry>
+              <entry>28.73</entry>
+            </row>
+            <row>
+              <entry>Cadmium-116 *</entry>
+              <entry>7.49</entry>
+            </row>
+            <row>
+              <entry>Mercury-196</entry>
+              <entry>0.15</entry>
+            </row>
+            <row>
+              <entry>Mercury-198</entry>
+              <entry>9.97</entry>
+            </row>
+            <row>
+              <entry>Mercury-199</entry>
+              <entry>16.87</entry>
+            </row>
+            <row>
+              <entry>Mercury-200</entry>
+              <entry>23.1</entry>
+            </row>
+            <row>
+              <entry>Mercury-201</entry>
+              <entry>13.18</entry>
+            </row>
+            <row>
+              <entry>Mercury-202</entry>
+              <entry>29.86</entry>
+            </row>
+            <row>
+              <entry>Mercury-204</entry>
+              <entry>6.87</entry>
+            </row>
+          </tbody>
+        </tgroup>
+<caption>Abundance of the major (non-synthetic) isotopes of the Group 12 metals. Isotopes labeled with * are radioactive. </caption>
+      </table>
+
+
+
+
+      <para id="id12942735">Many radioisotopes of zinc have been characterized. Zinc-65 that has a half-life of 244 days, is the most long-lived isotope, followed by <sup>72</sup>Zn with a half-life of 46.5 hours. The most common decay mode of an isotope of zinc with a mass number lower than 64 is electron capture, producing an isotope of copper, <link target-id="eip-3340"/>. </para>
+
+<equation id="eip-3340"> <media id="id12133876_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-dc76.jpg" id="id12133876__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+       
+
+      <para id="id14569426">The most common decay mode of an isotope of zinc with mass number higher than 64 is beta decay (β–), which produces an isotope of gallium, <link target-id="eip-3341"/>. </para>
+
+<equation id="eip-3341">
+        <media id="id7668285_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-24a3.jpg" id="id7668285__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+
+      <para id="id14055950">Naturally occurring cadmium is composed of 8 isotopes. For two of them, natural radioactivity was observed, and three others are predicted to be radioactive but their decay is not observed, due to extremely long half-life times. The two natural radioactive isotopes are <sup>113</sup>Cd (half-life = 7.7 x 10<sup>15</sup> years) and <sup>116</sup>Cd (half-life = 2.9 x 10<sup>19</sup> years). </para>
+
+      <para id="id12876522">There are seven stable isotopes of mercury with the longest-lived radioisotopes being <sup>194</sup>Hg (half-life = 444 years) and <sup>203</sup>Hg (half-life = 47 days). <sup>199</sup>Hg and <sup>201</sup>Hg are the most often studied NMR-active nuclei, having spins of <sup>1</sup>/<sub>2</sub> and <sup>3</sup>/<sub>2</sub> respectively. </para>
+
+    </section>
+    <section id="id6841262">
+      <title>Properties</title>
+
+      <para id="id12592872">A summary of the physical properties of the Group 12 metals is given in <link target-id="id9861103"/>. Because of the n<emphasis effect="italics">s</emphasis> electron in the Group 12 metals are tightly bound, and hence relatively unavailable for metallic bonding, the metals are volatile with low boiling points, as compared to the Group 2 metals. </para>
+
+
+      <table id="id9861103" summary="Selected physical properties of the Group 12 metals.">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Density (g/cm<sup>3</sup>)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Zn</entry>
+              <entry>419.53</entry>
+              <entry>907</entry>
+              <entry>7.14</entry>
+            </row>
+            <row>
+              <entry>Cd</entry>
+              <entry>321.07</entry>
+              <entry>767</entry>
+              <entry>8.65</entry>
+            </row>
+            <row>
+              <entry>Hg</entry>
+              <entry>-38.83</entry>
+              <entry>356.73</entry>
+              <entry>13.534 (liquid)</entry>
+            </row>
+          </tbody>
+        </tgroup>
+<caption>Selected physical properties of the Group 12 metals.</caption>
+      </table>
+
+
+
+      <para id="id7562970">The most notable anomaly in the Group 12 metals is the low melting point of mercury compared to zinc and cadmium. In order to completely understand the reasons for mercury’s low melting point quantum physics is required; however, the key point is that mercury has a unique electronic configuration, i.e., [Xe] 5<emphasis effect="italics">d</emphasis> 6<emphasis effect="italics">s</emphasis>. The stability of the 6<emphasis effect="italics">s</emphasis> shell is due to the presence of a filled 4<emphasis effect="italics">f</emphasis> shell, because an <emphasis effect="italics">f</emphasis> shell poorly screens the nuclear charge that increases the attractive coulomb interaction of the 6<emphasis effect="italics">s</emphasis> shell and the nucleus. Such a configuration strongly resists removal of an electron and as such mercury behaves similarly to noble gas elements, which form weakly bonded and thus easily melting solids (<link target-id="id8065115"/>). </para>
+
+      <figure id="id8065115">
+        <media id="id8065115_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-c860.jpg" id="id8065115__onlineimage" width="300" print-width="2in"/>
+        </media>
+<caption>Liquid mercury.</caption>
+      </figure>
+
+
+
+    </section>
+    <section id="id11756559">
+      <title>Industrial production</title>
+      <para id="id12311457">The vast majority (95%) of zinc is mined from of the zinc sulfide ores. The zinc is most often mixed with copper, lead, and iron. Zinc metal is produced by extraction, in which the ore is ground and then the minerals are separated from the gangue (commercially worthless mineral matter) by froth flotation (a process for selectively separating hydrophobic materials from hydrophilic). Roasting converts the zinc sulfide concentrate produced to zinc oxide, <link target-id="eip-3342"/>. Reduction of the zinc oxide with carbon, <link target-id="eip-3343"/>, or carbon monoxide, <link target-id="eip-3344"/>, at 950 °C into the metal is followed by distillation of the metal. Since cadmium is a common impurity in zinc ores, it is most often isolated during the production of zinc. Cadmium is isolated from the zinc metal by vacuum distillation if the zinc is smelted, or cadmium sulfate is precipitated out of the electrolysis solution.</para>
+
+
+
+<equation id="eip-3342">
+        <media id="id10791941_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-cb61.jpg" id="id10791941__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+<equation id="eip-3343">     <media id="id12559772_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-31ac.jpg" id="id12559772__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+   
+
+<equation id="eip-3344"><media id="id16270777_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-8c99.jpg" id="id16270777__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+          
+
+
+      <para id="id10934826">Mercury is extracted by heating cinnabar (HgS) in a current of air, <link target-id="eip-3345"/>, and condensing the vapor. </para>
+
+<equation id="eip-3345">     <media id="id13509422_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-dd34.jpg" id="id13509422__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+   
+
+
+    </section>
+  </content>
+</document>

@@ -1,0 +1,65 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Trends for the Oxides of the Group 13 Elements</title>
+  <metadata>
+  <md:content-id>m32460</md:content-id><md:title>Trends for the Oxides of the Group 13 Elements</md:title>
+  <md:abstract/>
+  <md:uuid>9db12db5-ac2d-46bb-88fb-8815d36472db</md:uuid>
+</metadata>
+
+<content>
+    <para id="id20188651">All of the Group 13 elements form a trivalent oxide (M<sub>2</sub>O<sub>3</sub>). The chemical properties of the oxides follow the trend acidic to basic going down the Group (<link target-id="id19539987"/>). The physical properties are consistent with the electronegativities and covalent character in the M-O bonds. Thallium oxide is unique in that it decomposes above 100 °C to yield the thalium(I) oxide, Tl<sub>2</sub>O. The other oxides are all stable to high temperatures. </para>
+    <table id="id19539987" summary="Properties of the Group 13 oxides.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Oxide</emphasis></entry>
+            <entry><emphasis effect="bold">Color</emphasis></entry>
+            <entry><emphasis effect="bold">Chemical property</emphasis></entry>
+            <entry><emphasis effect="bold">Melting point (°C)</emphasis></entry>
+          </row>
+          <row>
+            <entry>B<sub>2</sub>O<sub>3</sub></entry>
+            <entry>White/colorless</entry>
+            <entry>Weak acid</entry>
+            <entry>450 (trigonal), 510 (tetrahedral)</entry>
+          </row>
+          <row>
+            <entry>Al<sub>2</sub>O<sub>3</sub></entry>
+            <entry>White/colorless</entry>
+            <entry>Amphoteric</entry>
+            <entry>2072 (α)</entry>
+          </row>
+          <row>
+            <entry>Ga<sub>2</sub>O<sub>3</sub></entry>
+            <entry>White/colorless</entry>
+            <entry>Amphoteric</entry>
+            <entry>1900 (α), 1725 (β)</entry>
+          </row>
+          <row>
+            <entry>In<sub>2</sub>O<sub>3</sub></entry>
+            <entry>Yellow</entry>
+            <entry>Weakly basic</entry>
+            <entry>1910</entry>
+          </row>
+          <row>
+            <entry>Tl<sub>2</sub>O<sub>3</sub></entry>
+            <entry>Brown-black</entry>
+            <entry>Basic, oxidizing</entry>
+            <entry>100 (decomposes)</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Properties of the Group 13 oxides. </caption>
+</table>
+    
+    <section id="id24495328">
+      <title>Bibliography</title>
+      <list id="id20475080" list-type="bulleted">
+        <item>G. E. Jellison, Jr., L. W. Panek, P. J. Bray, and G. B. Rouse, Jr., <emphasis effect="italics">J. Chem. Phys.</emphasis>, 1977, <emphasis effect="bold">66</emphasis>, 802. </item>
+      </list>
+    </section>
+  </content>
+</document>

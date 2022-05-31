@@ -1,0 +1,625 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Group 14 Elements</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32186</md:content-id>
+  <md:title>The Group 14 Elements</md:title>
+  <md:abstract/>
+  <md:uuid>57f9401b-158a-4d1b-b935-8a8f9b186d13</md:uuid>
+</metadata>
+
+<content>
+    <para id="id7482075">The group was once also known as the <emphasis effect="italics">tetrels</emphasis> (from Greek <emphasis effect="italics">tetra</emphasis> meaning <emphasis effect="italics">four</emphasis>), stemming from the earlier naming convention of this group as Group IVA. <link target-id="id1167792784261"/> lists the derivation of the names of the Group 14 elements. </para>
+    <table id="id1167792784261" summary="Derivation of the names of each of the Group 14 elements.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Symbol</emphasis></entry>
+            <entry><emphasis effect="bold">Name</emphasis></entry>
+          </row>
+          <row>
+            <entry>Carbon</entry>
+            <entry>C</entry>
+            <entry>From the Latin <emphasis effect="italics">carbo</emphasis> meaning <emphasis effect="italics">coal</emphasis></entry>
+          </row>
+          <row>
+            <entry>Silicon </entry>
+            <entry>Si</entry>
+            <entry>From the Latin <emphasis effect="italics">silicis</emphasis> meaning <emphasis effect="italics">flints</emphasis></entry>
+          </row>
+          <row>
+            <entry>Germanium</entry>
+            <entry>Ge</entry>
+            <entry>From the Latin <emphasis effect="italics">Germania</emphasis> for <emphasis effect="italics">Germany</emphasis></entry>
+          </row>
+          <row>
+            <entry>Tin </entry>
+            <entry>Sn</entry>
+            <entry>From the Anglo-Saxon and from the Latin <emphasis effect="italics">stannum</emphasis> meaning <emphasis effect="italics">melts easily</emphasis></entry>
+          </row>
+          <row>
+            <entry>Lead</entry>
+            <entry>Pb</entry>
+            <entry>From the Anglo-Saxon, and from the Latin <emphasis effect="italics">plumbum</emphasis> meaning <emphasis effect="italics">soft metal</emphasis></entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Derivation of the names of each of the Group 14 elements. </caption>
+</table>
+    
+    <section id="id1167781284007">
+      <title>Discovery</title>
+      <section id="id1167781253186">
+        <title>Carbon</title>
+        <para id="id1167783891558">Carbon was known in prehistory in the form of soot; while charcoal was made in Roman times (by heating wood while exclude air) and diamonds were known as early as 2500 BC in China. In 1772, Antoine Lavoisier (<link target-id="id1167781053746"/>) showed that diamonds were a form of carbon, when he burned samples of carbon and diamond and showed that both formed the same amount of carbon dioxide per gram of material. Carl Scheele (<link target-id="id1167788269539"/>) showed that graphite was a form of carbon rather a form of lead. </para>
+
+
+        <figure id="id1167781053746"><media id="id1167781053746_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-0021.jpg" id="id1167781053746__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>French chemist and biologist Antoine-Laurent de Lavoisier (1743 – 1794).</caption></figure>
+        
+          <figure id="id1167788269539"><media id="id1167788269539_media" alt="">
+              <image mime-type="image/png" src="../../media/graphics2-aeda.png" id="id1167788269539__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>German-Swedish pharmaceutical chemist Carl Wilhelm Scheele (1742 - 1786). Author Isaac Asimov has called him "hard-luck Scheele" because he made a number of chemical discoveries before others who are generally given the credit.</caption></figure>
+
+        
+        <para id="id7784090">A new allotrope of carbon, fullerene, was discovered in 1985 by Robert Curl, Harry Kroto, and Richard Smalley (<link target-id="id8599625"/>) who subsequently shared the Nobel Prize in Chemistry in 1996. Fullerenes have been reveled to include nanostructured forms such as buckyballs and nanotubes. The renewed interest in new forms lead to the discovery of further exotic allotropes, including glassy carbon, and the realization that <emphasis effect="italics">amorphous carbon</emphasis> is not amorphous. </para>
+
+
+        <figure id="id8599625"><media id="id8599625_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-92e5.jpg" id="id8599625__onlineimage" width="300" print-width="2in"/>
+          </media>
+ 
+<caption>Rice University chemists Richard E. Smalley (1943 - 2005) and Robert F. Curl (1933 - ). </caption></figure>
+
+      </section>
+      <section id="id8992972">
+        <title>Silicon</title>
+        <para id="id1167779164235">Silicon was first identified by Antoine Lavoisier (<link target-id="id1167781053746"/>) in 1787 as a component of flints, and was later mistaken by Humphry Davy (<link target-id="id8114659"/>) for a compound rather than an element. In 1824, Berzelius (<link target-id="id1167772913265"/>) prepared amorphous silicon by the reaction of potassium with silicon tetrafluoride, <link target-id="eip-Eq1"/></para>
+
+        
+<equation id="eip-Eq1"><media id="id1258926_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-a1a5.jpg" id="id1258926__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</equation>
+
+        <figure id="id8114659"><media id="id8114659_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-6e0b.jpg" id="id8114659__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>British chemist and inventor Sir Humphry Davy FRS (1778 - 1829).</caption></figure>
+        
+
+          <figure id="id1167772913265"><media id="id1167772913265_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-f076.jpg" id="id1167772913265__onlineimage" width="300" print-width="2in"/>
+            </media>
+
+          <caption>Swedish chemist Jöns Jacob Berzelius (1779 – 1848).
+</caption></figure>
+
+
+        
+      </section>
+      <section id="id1167772719370">
+        <title>Germanium</title>
+        <para id="id1167785214500">In 1869 Dmitri Mendeleev (<link target-id="id1167773764116"/>) predicted the existence of several unknown elements, including ekasilicon (Es) between silicon and tin. </para>
+
+
+          <figure id="id1167773764116"><media id="id1167773764116_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics7-fd30.jpg" id="id1167773764116__onlineimage" width="300" print-width="2in"/>
+            </media>
+
+
+          <caption>Russian chemist and inventor Dmitri Ivanovich Mendeleev (1834 – 1907).</caption></figure>
+
+
+        <para id="id6990930">In 1885 a new mineral (named <emphasis effect="italics">argyrodite</emphasis> because of its high silver content) was found in a mine near Freiberg, Saxony. Clemens Winkler (<link target-id="id1167772686668"/>) isolated Mendeleev’s missing element. He originally was going to name neptunium because like this element, because like ekasilicon, the planet Neptune had been preceded by mathematical prediction of its existence. However, the name neptunium had already been given to an element and so Winkler named the new metal germanium in honor of his fatherland.</para>
+
+        
+
+
+
+          <figure id="id1167772686668">
+            <media id="id1167772686668_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics8-6363.jpg" id="id1167772686668__onlineimage" width="300" print-width="2in"/>
+            </media>
+<caption>German chemist Clemens Alexander Winkler (1838 –1904). </caption>
+          </figure>
+ 
+
+
+        <para id="eip-246">Winkler was able to isolate sufficient germanium from 500 kg of ore to determine a number properties, including an atomic weight of 72.32 g/mol by analyzing pure germanium tetrachloride (GeCl<sub>4</sub>). Winkler prepared several new compounds of germanium, including the fluorides, chlorides, sulfides, germanium dioxide, and tetraethylgermane (Ge(C<sub>2</sub>H<sub>5</sub>)<sub>4</sub>). The physical data from these compounds, corresponded with Mendeleev's predictions (<link target-id="id1167785296313"/>). </para><table id="id1167785296313" summary="Properties predicted for ekasilicon compared those determined for germanium.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Property</emphasis> </entry>
+                <entry><emphasis effect="bold">Ekasilicon</emphasis> </entry>
+                <entry><emphasis effect="bold">Germanium</emphasis></entry>
+              </row>
+              <row>
+                <entry>Atomic mass </entry>
+                <entry>72 </entry>
+                <entry>72.59</entry>
+              </row>
+              <row>
+                <entry>Density (g/cm<sup>3</sup>) </entry>
+                <entry>5.5 </entry>
+                <entry>5.35</entry>
+              </row>
+              <row>
+                <entry>Melting point (°C) </entry>
+                <entry>High </entry>
+                <entry>947</entry>
+              </row>
+              <row>
+                <entry>Color </entry>
+                <entry>Gray </entry>
+                <entry>Gray</entry>
+              </row>
+              <row>
+                <entry>Oxide type </entry>
+                <entry>Refractory dioxide </entry>
+                <entry>Refractory dioxide</entry>
+              </row>
+              <row>
+                <entry>Oxide density (g/cm<sup>3</sup>) </entry>
+                <entry>4.7 </entry>
+                <entry>4.7</entry>
+              </row>
+              <row>
+                <entry>Oxide activity </entry>
+                <entry>Feebly basic </entry>
+                <entry>Feebly basic</entry>
+              </row>
+              <row>
+                <entry>Chloride boiling point (°C) </entry>
+                <entry>Under 100 </entry>
+                <entry>86 (GeCl<sub>4</sub>)</entry>
+              </row>
+              <row>
+                <entry>Chloride density (g/cm<sup>3</sup>) </entry>
+                <entry>1.9 </entry>
+                <entry>1.9</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Properties predicted for ekasilicon compared those determined for germanium. </caption>
+</table>
+        
+      </section>
+
+
+
+      <section id="id1167780766337">
+        <title>Tin</title>
+        <para id="id1167786356355">Tin is one of the earliest metals known. When the addition of about 5% tim to molten copper produced an alloy (bronze) that was easier to work and much harder than copper, it revolutionized civilization. The widespread use of bronze to make tools and weapons became part of what archaeologists call the Bronze Age. The Bronze Age arrived in Egypt, Mesopotamia and the Indus Valley culture by around 3000 BC. </para>
+      </section>
+
+      <section id="id6286075">
+        <title>Lead</title>
+        <para id="id3958727">Lead has been commonly used for thousands of years because of its ease of extraction, and its ease of smelting. Lead beads dating back to 6400 BC have been found in Çatalhöyük in modern-day Turkey, while lead was used during the Bronze Age. </para>
+      </section>
+    </section>
+
+    <section id="id1167788408909">
+      <title>Abundance</title>
+      <para id="id1167773015167">Carbon and silicon are amongst the most abundant elements (<link target-id="id1167773793319"/>). Silicon is the second most abundant element (after oxygen) in the Earth’s crust, making up 28% of the crust. Carbon is the fourth most abundant chemical element in the universe after hydrogen, helium, and oxygen. In combination with oxygen in carbon dioxide, carbon is found in the Earth's atmosphere (in quantities of approximately 810 gigatonnes) and dissolved in all water bodies (approximately 36,000 gigatons). Around 1,900 gigatons are present in the biosphere. Hydrocarbons (such as coal, petroleum, and natural gas) contain carbon amounts to around 900 gigatons. Natural diamonds occur in the rock kimberlite, found in ancient volcanic "necks," or "pipes". Most diamond deposits are in Africa but there are also deposits in Canada, the Russian Arctic, Brazil, and Australia. </para>
+
+
+      <table id="id1167773793319" summary="Abundance of Group 14 elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Terrestrial abundance (ppm)</emphasis></entry>
+            </row>
+            <row>
+              <entry>C</entry>
+              <entry>480 (Earth’s crust), 28 (sea water), 350 (atmosphere CO<sub>2</sub>), 1.6 (atmosphere, CH<sub>4</sub>), 0.25 (atmosphere, CO)</entry>
+            </row>
+            <row>
+              <entry>Si</entry>
+              <entry>28,000 (Earth’s crust), 2 (sea water)</entry>
+            </row>
+            <row>
+              <entry>Ge</entry>
+              <entry>2 (Earth’s crust), 1 (soil), 5 x 10<sup>-7</sup> (sea water) </entry>
+            </row>
+            <row>
+              <entry>Sn</entry>
+              <entry>2 (Earth’s crust), 1 (soil), 4 x 10<sup>-6</sup> (sea water)</entry>
+            </row>
+            <row>
+              <entry>Pb</entry>
+              <entry>14 (Earth’s crust), 23 (soil), 2 x 10<sup>-6</sup> (sea water)</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Abundance of Group 14 elements.</caption>
+</table>
+      
+    </section>
+
+
+
+
+    <section id="id1167788358766">
+      <title>Isotopes</title>
+      <para id="id8590255"><link target-id="id1167788261960"/> summarizes the naturally occurring isotopes of the Group 14 elements. </para>
+
+      <table id="id1167788261960" summary="Abundance of the major isotopes of the Group 14 elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Isotope</emphasis></entry>
+              <entry><emphasis effect="bold">Natural abundance (%)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Carbon-12</entry>
+              <entry>98.9</entry>
+            </row>
+            <row>
+              <entry>Carbon-13</entry>
+              <entry>1.1</entry>
+            </row>
+            <row>
+              <entry>Carbon-14</entry>
+              <entry>trace</entry>
+            </row>
+            <row>
+              <entry>Silicon-28</entry>
+              <entry>92.23</entry>
+            </row>
+            <row>
+              <entry>Silicon-29</entry>
+              <entry>4.67</entry>
+            </row>
+            <row>
+              <entry>Silicon -30</entry>
+              <entry>3.1</entry>
+            </row>
+            <row>
+              <entry>Germanium-70</entry>
+              <entry>21.23</entry>
+            </row>
+            <row>
+              <entry>Germanium-72</entry>
+              <entry>27.66</entry>
+            </row>
+            <row>
+              <entry>Germanium-73</entry>
+              <entry>7.73</entry>
+            </row>
+            <row>
+              <entry>Germanium-74</entry>
+              <entry>35.94</entry>
+            </row>
+            <row>
+              <entry>Germanium-76</entry>
+              <entry>7.44</entry>
+            </row>
+            <row>
+              <entry>Tin-112</entry>
+              <entry>0.97</entry>
+            </row>
+            <row>
+              <entry>Tin-114</entry>
+              <entry>0.66</entry>
+            </row>
+            <row>
+              <entry>Tin-115</entry>
+              <entry>0.34</entry>
+            </row>
+            <row>
+              <entry>Tin-116</entry>
+              <entry>14.54</entry>
+            </row>
+            <row>
+              <entry>Tin-117</entry>
+              <entry>7.68</entry>
+            </row>
+            <row>
+              <entry>Tin-118</entry>
+              <entry>24.22</entry>
+            </row>
+            <row>
+              <entry>Tin-119</entry>
+              <entry>8.59</entry>
+            </row>
+            <row>
+              <entry>Tin-120</entry>
+              <entry>32.58</entry>
+            </row>
+            <row>
+              <entry>Tin-122</entry>
+              <entry>4.63</entry>
+            </row>
+            <row>
+              <entry>Tin-124</entry>
+              <entry>5.79</entry>
+            </row>
+            <row>
+              <entry>Lead-204</entry>
+              <entry>1.4</entry>
+            </row>
+            <row>
+              <entry>Lead-24.1</entry>
+              <entry>24.1</entry>
+            </row>
+            <row>
+              <entry>Lead-207</entry>
+              <entry>22.1</entry>
+            </row>
+            <row>
+              <entry>Lead-208</entry>
+              <entry>52.4</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Abundance of the major isotopes of the Group 14 elements.</caption>
+</table>
+      
+
+
+
+      <para id="id1167775199660">Although radioactive, carbon-14 is formed in upper layers of the troposphere and the stratosphere, at altitudes of 9–15 km. Thermal neutrons produced by cosmic rays collide with the nuclei of nitrogen-14, forming carbon-14 and a proton. Because of its relatively short half-life of 5730 years, carbon-14 is absent in ancient rocks, but is incorporated in living organisms. </para>
+
+      <section id="id1167792690060">
+        <title>Carbon dating</title>
+        <para id="id1167781424568">Carbon dating is a process whereby the age of a material that contains carbon can be determined by comparing the decay rate of that material with that of living material. </para>
+        <para id="id1167792717084">Carbon-14 has a half life (t<sub>1/2</sub>) of 5.73 x 10<sup>3</sup> years for its decay to nitrogen-14 by the loss of a β particle, <link target-id="eip-Eq2"/>. </para>
+
+<equation id="eip-Eq2">  <media id="id1167785274908_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-2564.jpg" id="id1167785274908__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+
+
+        <para id="id1167777622592">The rate of radioactive decay can be expressed as a rate constant (k): </para>
+
+<equation id="eip-Eq3">    <media id="id1167773633764_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-668c.jpg" id="id1167773633764__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+     
+        <para id="id2295189">For carbon-14, using <link target-id="eip-Eq3"/>, </para>
+
+<equation id="eip-Eq4">     <media id="id1167792800290_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-35e0.jpg" id="id1167792800290__onlineimage" width="500" print-width="4.5in"/>
+          </media> </equation>
+
+
+       
+
+
+
+
+        <para id="id1167784872082">In 1947 samples of the Dead Sea Scrolls were analyzed by carbon dating. It was found that the carbon-14 present had an activity of d/min.g (where d = disintegration); by contrast in living material the activity is 14 d/min.g. Thus, </para>
+
+<equation id="eip-Eq5">     <media id="id1167789550074_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics12-2135.jpg" id="id1167789550074__onlineimage" width="500" print-width="4.5in"/>
+            </media> </equation>
+   
+         
+   
+
+
+        
+
+<equation id="eip-Eq6">        <media id="id1167789681551_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-e380.jpg" id="id1167789681551__onlineimage" width="500" print-width="4.5in"/>
+          </media>  </equation>
+
+   
+
+        <para id="id6422776">From the measurement performed in 1947 the Dead Sea Scrolls were determined to be 2000 years old giving them a date of 53 BC, and confirming their authenticity. This discovery is in contrast to the carbon dating results for the Turin Shroud that was supposed to have wrapped Jesus’ body. Carbon dating has shown that the cloth was made between 1260 and 1390 AD. Thus, the Turin Shroud is clearly a fake having been made over a thousand years after its supposed manufacture. </para>
+
+      </section>
+    </section>
+
+
+    <section id="id1167789781377">
+      <title>Industrial production</title>
+      <para id="id1167775108956">Due to the industrial importance of carbon and silicon, as well as the wide range of fullerene materials, the production of these elements is discussed elsewhere. However, the diamond supply chain is controlled by a limited number of commercial concerns, the largest of which is DeBeers in London (<link target-id="id1167773634314"/>). Diamonds make up only a very small fraction of ore bearing rock. The ore is crushed and subsequently the particles are sorted by density. Diamonds are located in the diamond-rich fraction by X-ray fluorescence, after which the final sorting steps are done by hand. </para>
+
+      <figure id="id1167773634314">
+        <media id="id1167773634314_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-2429.jpg" id="id1167773634314__onlineimage" width="300" print-width="3in"/>
+        </media>
+
+ <caption>The Charterhouse Street Entrance of the offices of De Beers in London, are the venue for the 10 sights that are held during the year. Sightholders, both manufacturers (of polished diamonds) and dealers (in rough diamonds), meet in London, once every 5 weeks, 10 times a year, to inspect their diamond allocations.</caption>
+      </figure>
+
+
+
+
+
+
+      <para id="id1167783966890">Germanium ore concentrates are mostly sulfidic, e.g., as an impurity in zinc blende. They are converted to the oxides by heating under air (roasting), <link target-id="eip-Eq12"/>. </para>
+
+<equation id="eip-Eq12"><media id="id1167783892204_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-048a.jpg" id="id1167783892204__onlineimage" width="500" print-width="4.5in"/>
+          </media>  </equation>   
+
+     
+
+
+      <para id="id8352981">Part of the germanium ends up in the dust produced during this process, while the rest is converted to germanates which are leached together with the zinc by sulfuric acid. After neutralisation the germanium and other metals are precipitated (leaving the Zn<sup>2+</sup> in solution). Germanium dioxide is obtained as a precipitate and converted with chlorine gas or hydrochloric acid to germanium tetrachloride, <link target-id="eip-Eq13"/> <link target-id="eip-Eq14"/>, which has a low boiling point and can be purified by distillation. </para>
+
+<equation id="eip-Eq13">    <media id="id1167784200526_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics16-5c34.jpg" id="id1167784200526__onlineimage" width="500" print-width="4.5in"/>
+        </media>  </equation>
+
+     
+ 
+<equation id="eip-Eq14">     <media id="id1167787465446_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics17-65ee.jpg" id="id1167787465446__onlineimage" width="500" print-width="4.5in"/>
+        </media>  </equation>
+
+    
+
+
+
+
+
+      <para id="id1167788592955">The germanium tetrachloride is hydrolyzed to the give pure oxide (GeO<sub>2</sub>), which is then converted to germanium glass for the semiconductor industry, <link target-id="eip-423"/>. Germanium used in steel production and other applications that do not require the high purity is produced by reduction with carbon, <link target-id="eip-150"/>.</para>
+
+
+
+      
+      
+      
+      <equation id="eip-423"><media id="id1167783904572_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics18-dd20.jpg" id="id1167783904572__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+<equation id="eip-150"><media id="id1167788362604_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics19-4436.jpg" id="id1167788362604__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+
+<para id="id1167789771389">Tin is mined and subsequently smelted, and its production has changed little. In contrast, lead-rich ores contain less than 10% lead, but ores containing as little as 3% lead can be economically exploited. Ores are crushed and concentrated to 70%. Sulfide ores are roasted, producing lead oxide and a mixture of sulfates and silicates of lead. Lead oxide from the roasting process is reduced in a coke-fired blast furnace. This converts most of the lead to its metallic form. Metallic lead that results from the roasting and blast furnace processes still contains significant contaminants of arsenic, antimony, bismuth, zinc, copper, silver, and gold. The melt is treated in a reverberatory furnace (<link target-id="id1167774460461"/>) with air, steam, and sulfur, which oxidizes the contaminants except silver, gold, and bismuth. </para>
+
+
+      <figure id="id1167774460461"><media id="id1167774460461_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics20-bd62.jpg" id="id1167774460461__onlineimage" width="400" print-width="4in"/>
+        </media>
+ 
+      <caption>Schematic of a reverberatory furnace.</caption></figure>
+
+
+
+    </section>
+
+
+
+    <section id="id1167789772877">
+      <title>Physical properties</title>
+      <para id="id1167775123766"><link target-id="id1167775028805"/> provides a summary of the physical properties of the Group 14 elements. </para>
+      <table id="id1167775028805" summary="Selected physical properties of the Group 14 elements.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Density (g/cm<sup>3</sup>)</emphasis></entry>
+            </row>
+            <row>
+              <entry>C</entry>
+              <entry>642 (sublimes)</entry>
+              <entry/>
+              <entry>2.267 (graphite), 3.515 (diamond), 1.8 - 2.1 (amorphous)</entry>
+            </row>
+            <row>
+              <entry>Si</entry>
+              <entry>1414</entry>
+              <entry>3265</entry>
+              <entry>2.3290</entry>
+            </row>
+            <row>
+              <entry>Ge</entry>
+              <entry>938</entry>
+              <entry>2833</entry>
+              <entry>5.323</entry>
+            </row>
+            <row>
+              <entry>Sn</entry>
+              <entry>232</entry>
+              <entry>2602</entry>
+              <entry>7.365 (white), 5.769 (gray)</entry>
+            </row>
+            <row>
+              <entry>Pb</entry>
+              <entry>327</entry>
+              <entry>1749</entry>
+              <entry>11.34</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Selected physical properties of the Group 14 elements. </caption>
+</table>
+
+      
+
+
+      <section id="id1167783964624">
+        <title>Cubic structure</title>
+        <para id="id1167785214835">The elements carbon through tin (in its α form) all exist in diamond cubic structure (<link target-id="id1167788420137"/>a), while lead crystallizes in a cubic close packed structure (<link target-id="id1167788420137"/>b). As expected the lattice parameter (<emphasis effect="italics">a</emphasis>) increases with increased atomic radius (<link target-id="id1167785241611"/>). The switch from diamond cubic to close packed cubic may be rationalized by the relative atomic sizes. The diamond cubic structure comprises of two interpenetrating cubic close packed lattices. As the atomic size increases large interstitial vacancies would result, resulting in an unfavorable low-density structure. </para>
+
+        <figure id="id1167788420137"><media id="id1167788420137_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics21-3da7.jpg" id="id1167788420137__onlineimage" width="400" print-width="4in"/>
+          </media>
+ 
+        <caption>Unit cell structure of (a) the diamond cubic lattice showing the two interpenetrating face-centered cubic lattices, and (b) the cell of cubic close packed structure for comparison. </caption></figure>
+
+
+
+
+
+        <table id="id1167785241611" summary="Lattice parameter and crystal density for Group 14 elements.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Structure</emphasis></entry>
+                <entry><emphasis effect="bold"><emphasis effect="italics">a</emphasis> (Å)</emphasis></entry>
+                <entry><emphasis effect="bold">Atomic radius (Å)</emphasis></entry>
+              </row>
+              <row>
+                <entry>C</entry>
+                <entry>diamond cubic</entry>
+                <entry>3.566</entry>
+                <entry>0.70</entry>
+              </row>
+              <row>
+                <entry>Si</entry>
+                <entry>diamond cubic</entry>
+                <entry>5.431</entry>
+                <entry>1.10</entry>
+              </row>
+              <row>
+                <entry>Ge</entry>
+                <entry>diamond cubic</entry>
+                <entry>5.657</entry>
+                <entry>1.25</entry>
+              </row>
+              <row>
+                <entry>α-Sn (gray)</entry>
+                <entry>diamond cubic</entry>
+                <entry>6.489</entry>
+                <entry>1.45</entry>
+              </row>
+              <row>
+                <entry>Pb</entry>
+                <entry>cubic close packed</entry>
+                <entry>4.951</entry>
+                <entry>1.80</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Lattice parameter and crystal density for Group 14 elements.</caption>
+</table>
+        
+      </section>
+    </section>
+  </content>
+</document>

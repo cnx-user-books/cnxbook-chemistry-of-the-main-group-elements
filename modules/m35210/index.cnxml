@@ -1,0 +1,570 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Group 13 Halides</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35210</md:content-id>
+  <md:title>Group 13 Halides</md:title>
+  <md:abstract/>
+  <md:uuid>816dceb0-86b0-480a-b0f1-7a7648ba42de</md:uuid>
+</metadata>
+
+<content>
+    <section id="id7202894"><title>Trihalides, MX<sub>3</sub></title><para id="id1169499674890">As shown in <link target-id="id6414849"/> all the combinations of Group 13 element (M) and halogen (X) exist for the trihalides (MX<sub>3</sub>), except thallium(III) iodide. It should be noted that while there is a compound with the general formula TlI<sub>3</sub>, it is actually a thallium(I) compound of I<sub>3</sub><sup>-</sup>. </para>
+      <table id="id6414849" summary="Selected physical properties of the Group 13 trihalides.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+            </row>
+            <row>
+              <entry>BF<sub>3</sub></entry>
+              <entry>-126.8</entry>
+              <entry>-100.3</entry>
+            </row>
+            <row>
+              <entry>BCl<sub>3</sub></entry>
+              <entry>-107.3</entry>
+              <entry>12.6</entry>
+            </row>
+            <row>
+              <entry>BBr<sub>3</sub></entry>
+              <entry>-46.3</entry>
+              <entry>91.3</entry>
+            </row>
+            <row>
+              <entry>BI<sub>3</sub></entry>
+              <entry>49.9</entry>
+              <entry>210</entry>
+            </row>
+            <row>
+              <entry>AlF<sub>3</sub></entry>
+              <entry>1291</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>AlCl<sub>3</sub></entry>
+              <entry>192.4 (anhydrous), 0.0 (hexahydrate)</entry>
+              <entry>120 (hexahydrate)</entry>
+            </row>
+            <row>
+              <entry>AlBr<sub>3</sub></entry>
+              <entry>97.8</entry>
+              <entry>265</entry>
+            </row>
+            <row>
+              <entry>AlI<sub>3</sub></entry>
+              <entry>189.4 (anhydrous) 185 dec. (hexahydrate)</entry>
+              <entry>300 subl.</entry>
+            </row>
+            <row>
+              <entry>GaF<sub>3</sub></entry>
+              <entry>800</entry>
+              <entry>1000</entry>
+            </row>
+            <row>
+              <entry>GaCl<sub>3</sub></entry>
+              <entry>77.9</entry>
+              <entry>201</entry>
+            </row>
+            <row>
+              <entry>GaBr<sub>3</sub></entry>
+              <entry>121.5</entry>
+              <entry>278.8</entry>
+            </row>
+            <row>
+              <entry>GaI<sub>3</sub></entry>
+              <entry>212</entry>
+              <entry>345</entry>
+            </row>
+            <row>
+              <entry>InF<sub>3</sub></entry>
+              <entry>1172</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>InCl<sub>3</sub></entry>
+              <entry>586</entry>
+              <entry>800</entry>
+            </row>
+            <row>
+              <entry>InBr<sub>3</sub></entry>
+              <entry>220</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>InI<sub>3</sub></entry>
+              <entry>210 subl.</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>TlF<sub>3</sub></entry>
+              <entry>300 dec.</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>TlCl<sub>3</sub></entry>
+              <entry>40 dec.</entry>
+              <entry>-</entry>
+            </row>
+            <row>
+              <entry>TlBr<sub>3</sub></entry>
+              <entry>40 dec.</entry>
+              <entry>-</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Selected physical properties of the Group 13 trihalides, MX<sub>3</sub>. </caption>
+</table>
+      
+
+
+      <para id="id8333552">The trihalides of boron are all monomers with a coordination number of 3 (<link target-id="id1169513244404"/>), as evidence from their low melting points (<link target-id="id6414849"/>). In contrast, the fluorides and chlorides of the heavier Group 13 elements (except GaCl<sub>3</sub>) are generally ionic or have a high ionic character, with a coordination number of 6 (<link target-id="id1169513244404"/>, <link target-id="id2470430"/> and <link target-id="id5903967"/>). The bromides and iodides (except InBr<sub>3</sub>) are generally dimeric with a coordination number of 4 (<link target-id="id1169513244404"/>) and have molecular structures involving halide bridging ligands (<link target-id="id1733596"/> and <link target-id="id8692220"/>). AlCl<sub>3</sub> is unusual in that in the solid state it has an ionic structure, but it is readily sublimed, and in the vapor phase (and liquid phase) it has a dimeric structure (<link target-id="id1733596"/>). </para>
+
+
+
+      <table id="id1169513244404" summary="The Group 13 element coordination numbers for the trihalides.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Fluoride</emphasis></entry>
+              <entry><emphasis effect="bold">Chloride</emphasis></entry>
+              <entry><emphasis effect="bold">Bromide</emphasis></entry>
+              <entry><emphasis effect="bold">Iodide</emphasis></entry>
+            </row>
+            <row>
+              <entry>B</entry>
+              <entry>3</entry>
+              <entry>3</entry>
+              <entry>3</entry>
+              <entry>3</entry>
+            </row>
+            <row>
+              <entry>Al</entry>
+              <entry>6</entry>
+              <entry>6 (4)</entry>
+              <entry>4</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>Ga</entry>
+              <entry>6</entry>
+              <entry>4</entry>
+              <entry>4</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>In</entry>
+              <entry>6</entry>
+              <entry>6</entry>
+              <entry>6</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>Tl</entry>
+              <entry>6</entry>
+              <entry>6 </entry>
+              <entry>4</entry>
+              <entry>-</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>The Group 13 element coordination numbers for the trihalides, MX<sub>3</sub>. </caption>
+</table>
+      
+
+
+
+        <figure id="id2470430"><media id="id2470430_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-aec8.jpg" id="id2470430__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>Solid state structure of MF<sub>3</sub> (M = Al, Ga, In). Grey spheres represent the metal, while pale blue spheres represent fluorine.</caption></figure>
+
+
+      
+
+      <figure id="id5903967"><media id="id5903967_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-91bd.png" id="id5903967__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+      <caption>Solid state structure of MCl<sub>3</sub> (M = Al, In, Tl) and MBr<sub>3</sub> (M = In). Grey spheres represent the metal, while green spheres represent the halogen. </caption></figure>
+      
+
+
+      <figure id="id1733596"><media id="id1733596_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics3-2b42.png" id="id1733596__onlineimage" width="300" print-width="3in"/>
+        </media>
+      <caption>Structure of GaCl<sub>3</sub>, MBr<sub>3</sub> (M = Al, Ga, Tl), and MI<sub>3</sub> (M = Al, Ga, In). Grey spheres represent the metal, while green spheres represent the halogen. </caption></figure>
+
+
+      
+
+
+      <table id="id8692220" summary="Selected bond lengths and angles for dimeric compounds.">
+<tgroup cols="6"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Compound</emphasis></entry>
+              <entry>
+                <emphasis effect="bold">M-X<sub>t</sub> (Å)<sup>a</sup> </emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">M-X<sub>b</sub> (Å)<sup>a</sup> </emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">X<sub>t</sub>-M-X<sub>t</sub> (°)<sup>a</sup></emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">X<sub>b</sub>-M-X<sub>b</sub> (°)<sup>a</sup></emphasis>
+              </entry>
+              <entry><emphasis effect="bold">M-X-M (°)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Al<sub>2</sub>Br<sub>6</sub></entry>
+              <entry>2.21</entry>
+              <entry>2.33</entry>
+              <entry>115</entry>
+              <entry>93</entry>
+              <entry>87</entry>
+            </row>
+            <row>
+              <entry>In<sub>2</sub>I<sub>6</sub></entry>
+              <entry>2.64</entry>
+              <entry>2.84</entry>
+              <entry>125.1</entry>
+              <entry>93.7</entry>
+              <entry>86.3</entry>
+            </row>
+          </tbody>
+        
+
+
+</tgroup><caption>Selected bond lengths and angles for dimeric M<sub>2</sub>X<sub>6</sub> compounds. <sup>a</sup>X<sub>t</sub> and X<sub>b</sub> indicate terminal and bridging halides, respectfully. </caption>
+</table>
+      
+      <section id="id1169502871136">
+        <title>Synthesis</title>
+        <para id="id1169522148671">Boron trifluoride (BF<sub>3</sub>) is manufactured commercially by the reaction of boron oxides with hydrogen fluoride, <link target-id="eip-221"/>. The HF is produced <emphasis effect="italics">in-situ</emphasis> from sulfuric acid and fluorite (CaF<sub>2</sub>). On smaller scales, BF<sub>3</sub> is prepared by the thermal decomposition of diazonium salts, <link target-id="eip-456"/>. </para>
+        
+        <equation id="eip-221"><media id="id1169522005085_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-2937.jpg" id="id1169522005085__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-456"><media id="id5148340_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-00da.jpg" id="id5148340__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id7961617">Boron trichloride is also made from boron oxide, but in the presence of carbon, <link target-id="eip-175"/>. </para>
+        
+        <equation id="eip-175"><media id="id1629210_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-17e2.jpg" id="id1629210__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1169520150656">Many of the trihalides are readily prepared by either the direct reaction of the metal with the appropriate halogen, <link target-id="eip-282"/> - <link target-id="eip-880"/>, or the acid, <link target-id="eip-494"/> and <link target-id="eip-958"/>. Thallium tribromide can be prepared in CH<sub>3</sub>CN by treating a solution of the monobromide with bromine gas, <link target-id="eip-397"/>.</para>
+        
+        <equation id="eip-282"><media id="id1169515351225_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-e21e.jpg" id="id1169515351225__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-689"><media id="id2052989_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-7f38.jpg" id="id2052989__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-880"><media id="id1169500012298_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-f75c.jpg" id="id1169500012298__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-494"><media id="id4598058_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-2547.jpg" id="id4598058__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-958"><media id="id6677383_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-f35b.jpg" id="id6677383__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><equation id="eip-397"><media id="id8694893_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-8616.jpg" id="id8694893__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+      </section>
+      <section id="id6927349">
+        <title>Reactivity</title>
+        <para id="id1169519028600">The reaction chemistry of the Group 13 trihalides tends to fall into two categories: </para>
+        <list id="id1169518671497" list-type="bulleted">
+          <item>Lewis acid-base complex formation. </item>
+          <item>Hydrolysis. </item>
+        </list>
+        <para id="id1169518522084">There are, however, a number of reactions involving halide exchange reactions. Aluminum tribromide reacts with carbon tetrachloride at 100 °C to form carbon tetrabromide, <link target-id="eip-829"/>, and with phosgene yields carbonyl bromide and aluminum chlorobromide, <link target-id="eip-520"/>. </para>
+        
+        <equation id="eip-829"><media id="id7151851_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-d5c3.jpg" id="id7151851__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-520"><media id="id1169505543110_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-751f.jpg" id="id1169505543110__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id6261398">Group 13 halides are used as synthons for their organometallic derivatives, <link target-id="eip-923"/> and <link target-id="eip-731"/>. </para>
+
+        
+
+        <equation id="eip-923"><media id="id1169518700590_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-2317.jpg" id="id1169518700590__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+        <equation id="eip-731"><media id="id7676709_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-f06c.jpg" id="id7676709__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><section id="id6357650">
+          <title>Lewis acid-base complexes</title>
+          <para id="id3258416">All of the trihalides are strong Lewis acids, and as such react with Lewis base compounds to form Lewis acid-base complexes, <link target-id="eip-717"/>. The extent of the equilibrium is dependant on the Lewis acidity of the trihalide and the basicity of the Lewis base. For example, with BCl<sub>3</sub>, oxygen donor ligands result in approximately 50:50 ratio of BCl<sub>3</sub> and BCl<sub>3</sub>L, while for nitrogen donor ligands the equilibrium is shifted to the formation of the complex. </para>
+
+
+            
+
+
+
+          <equation id="eip-717"><media id="id1169518950964_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics17-5032.jpg" id="id1169518950964__onlineimage" width="500" print-width="4.5in"/>
+              </media>
+            </equation><para id="id1169516271216">The general structure of the Lewis acid-base complexes is such that the Group 13 element is close to tetrahedral (<link target-id="idAlCl"/>). However, for aluminum and the heavier Group 13 elements, more than one ligand can coordinate (<link target-id="idAlBr"/>) up to a maximum of six. </para>
+
+     <figure id="idAlCl"><media id="idAlCl_media" alt="">
+          <image mime-type="image/jpg" src="../../media/AlCl.jpg" id="idAlCl__onlineimage" width="275" print-width="2.75in"/>
+        </media>
+      <caption>Molecular structure of a typical Group 13 metal trihalide Lewis acid-base complex: AlBr<sub>3</sub>(9-fluorenone). Adapted from C. S. Branch, S. G. Bott, and A. R. Barron, <emphasis effect="italics">J. Organomet. Chem</emphasis>., 2003, <emphasis effect="bold">666</emphasis>, 23. </caption></figure>
+
+
+
+
+
+
+     <figure id="idAlBr"><media id="idAlBr_media" alt="">
+          <image mime-type="image/jpg" src="../../media/AlBr.jpg" id="idAlBr__onlineimage" width="400" print-width="4in"/>
+        </media>
+      <caption>Molecular structure of AlBr<sub>3</sub>(9-fluorenone)<sub>2</sub>. Adapted from C. S. Branch, S. G. Bott, and A. R. Barron, <emphasis effect="italics">J. Organomet. Chem</emphasis>., 2003, <emphasis effect="bold">666</emphasis>, 23. </caption></figure>
+
+
+
+
+
+
+
+          <para id="id7413027">It should be noted that the dimeric form of MX<sub>3</sub> (<link target-id="id1733596"/>) can be thought of as mutual Lewis acid-base complexes, in which a Lewis basic lone pair of a halide on one MX<sub>3</sub> unit donates to the Lewis acidic metal on another MX<sub>3</sub> unit. </para>
+        </section>
+
+        <section id="id8422427">
+          <title>Hydrolysis</title>
+          <para id="id1169522031102">Generally the fluorides are insoluble in water while the heavier halides are more soluble. However, BF<sub>3</sub>, BCl<sub>3</sub>, and BBr<sub>3</sub> all decompose in the presence of water, <link target-id="eip-124"/>. In the case of the fluoride, the HF formed reacts with BF<sub>3</sub> to form fluoroboric acid, <link target-id="eip-589"/>. However, there is also a minor equilibrium (2-3%) resulting in the formation of the BF<sub>3</sub> complex of OH<sup>-</sup> and H<sub>3</sub>O<sup>+</sup>, <link target-id="eip-291"/>. </para>
+          
+          <equation id="eip-124"><media id="id1169509843180_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics18-51d2.jpg" id="id1169509843180__onlineimage" width="500" print-width="4.5in"/>
+            </media>
+          </equation>
+          <equation id="eip-589"><media id="id1169521839349_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics19-bdfb.jpg" id="id1169521839349__onlineimage" width="500" print-width="4.5in"/>
+            </media>
+          </equation>
+          <equation id="eip-291"><media id="id8942818_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics20-34b3.jpg" id="id8942818__onlineimage" width="500" print-width="4.5in"/>
+            </media>
+          </equation><para id="id1169522175728">While the boron compounds (and AlBr<sub>3</sub>) decompose even in moist air, AlCl<sub>3</sub> reacts more slowly to make aluminum chlorohydrate (ACH) which has the general formula Al<sub>n</sub>Cl<sub>3n-m</sub>(OH)<sub>m</sub>. While ACH has been proposed to exist as a number of cluster species, it is actually a range of nanoparticles. </para>
+          <para id="id5609157">ACH is also known as polyaluminum chloride (PAC). The latter name is often used in water purification, where ACH is preferred over alum derivatives (Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub>). The combination of ACH and a high molecular weight quaternized ammonium polymer (e.g., dially dimethyl ammonium chloride (DADMAC)), has been known as an effective combination as a flocculant in water treatment process to remove dissolved organic matter and colloidal particles present in suspension. </para>
+          <para id="id1169522148321">Aluminum chlorohydrate (ACH) and aluminum-zirconium compounds, are frequently used as the active ingredient in antiperspirants. The mode of action of most aluminum-based compounds involves the dramatic change in the particle size from nano to micro as a function of pH and electrolyte changes on the skin (as compared to the antiperspirant stick or suspension) and hence forming a gel plug in the duct of the sweat gland. The plugs prevent the gland from excreting liquid and are removed over time by the natural sloughing of the skin. A further mechanism of action involves the absorption of 3-methyl-2-hexenoic acid (<link target-id="idsweat"/>). Human perspiration is odorless until bacteria ferment it. Bacteria thrive in hot, humid environments such as the underarm. When adult armpits are washed with alkaline pH soaps, the skin loses its acid mantel (pH = 4.5 - 6), raising the skin pH and disrupting the skin barrier. The bacteria thrive in the basic environment, and feed on the sweat from the apocrine glands and on dead skin and hair cells, releasing 3-methyl-2-hexenoic acid, which is the primary cause of body odor. As with all carboxylic acids, 3-methyl-2-hexenoic acid, reacts in a facile manner with the surface of the alumina nanoparticles. Aluminum chloride salts also have a slight astringent effect on the pores; causing them to contract, further preventing sweat from reaching the surface of the skin. </para>
+
+      <figure id="idsweat"><media id="idsweat_media" alt="">
+          <image mime-type="image/jpg" src="../../media/sweat.jpg" id="idsweat__onlineimage" width="200" print-width="2in"/>
+        </media>
+      <caption>The structure of 3-methyl-2-hexenoic acid. </caption></figure>
+
+
+
+
+
+
+
+        </section>
+      </section>
+      <section id="id3042463">
+        <title>Boron trihalides: a special case</title>
+        <para id="id7656124">The three lighter boron trihalides, BX<sub>3</sub> (X = F, Cl, Br) form stable adducts with common Lewis bases. Their relative Lewis acidities can be evaluated in terms of the relative exothermicity of the adduct-forming reaction:</para>
+        
+        <equation id="eip-621"><media id="id1169520024590_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics21-7b8e.jpg" id="id1169520024590__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1169505513637">This trend is opposite to that expected based upon the electronegativity of the halogens. The best explanation of this trend takes into account the extent of π-donation that occurs between the filled lone pair orbital on the halogens and the empty p-orbital on the planar boron (<link target-id="idpi"/>). As such, the greater the π-bonding the more stable the planar BX<sub>3</sub> configuration as opposed to the pyramidalization of the BX<sub>3</sub> moiety upon formation of a Lewis acid-base complex, <link target-id="eip-717"/>. </para>
+
+
+      <figure id="idpi"><media id="idpi_media" alt="">
+          <image mime-type="image/jpg" src="../../media/pi.jpg" id="idpi__onlineimage" width="350" print-width="3.5in"/>
+        </media>
+      <caption>Schematic representation of π-donation from filled halogen p-orbitals into empty p-orbital in the halides BX<sub>3</sub>. </caption></figure>
+
+
+
+<para id="id7747627">The criteria for evaluating the relative strength of π-bonding are not clear, however, one suggestion is that the F atom is small compared to the Cl atom, and the lone pair electron in p<sub>z</sub> of F is readily and easily donated and overlapped to empty p<sub>z</sub> orbital of boron (<link target-id="idpi"/>a). In contrast, the overlap for the large (diffuse) p-orbitals on the chlorine is poorer (<link target-id="idpi"/>b). As a result, the π-donation of F is greater than that of Cl. Interestingly, as may be seen from <link target-id="id1169522037308"/>, any difference in B-X bond length does not follow the expected trend associated with shortening of the B-X bond with stronger π-bonding. In fact the B-Br distance is the most shortened as compared to that expected from the covalent radii (<link target-id="id1169522037308"/>). </para>
+        <table id="id1169522037308" summary="The B-X bond distances in the boron trihalides as compared to the sum of the covalent radii.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Compound</emphasis></entry>
+                <entry><emphasis effect="bold">B-X (Å)</emphasis></entry>
+                <entry><emphasis effect="bold">X covalent radius (Å)</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold">Sum of covalent radii (Å)<sup>a</sup></emphasis>
+                </entry>
+                <entry>
+                  <emphasis effect="bold">Δ (Å)</emphasis>
+                </entry>
+              </row>
+              <row>
+                <entry>BF<sub>3</sub></entry>
+                <entry>1.313</entry>
+                <entry>0.57(3)</entry>
+                <entry>1.41</entry>
+                <entry>0.097</entry>
+              </row>
+              <row>
+                <entry>BCl<sub>3</sub></entry>
+                <entry>1.75</entry>
+                <entry>1.02(4)</entry>
+                <entry>1.86</entry>
+                <entry>0.11</entry>
+              </row>
+              <row>
+                <entry>BBr<sub>3</sub></entry>
+                <entry>1.898</entry>
+                <entry>1.20(3)</entry>
+                <entry>2.04</entry>
+                <entry>0.142</entry>
+              </row>
+              <row>
+                <entry>BI<sub>3</sub></entry>
+                <entry>2.125</entry>
+                <entry>1.39(3)</entry>
+                <entry>2.23</entry>
+                <entry>0.105</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>The B-X bond distances in the boron trihalides, BX<sub>3</sub>, as compared to the sum of the covalent radii. <sup>a</sup>Covalent radius of B = 0.84(3) Å. </caption>
+</table>
+        
+        
+        <para id="id1169517746023">At the simplest level the requirements for bonding to occur based upon the molecular or atomic orbital are: </para>
+        <list id="id8816998" list-type="bulleted">
+          <item>Directional relationship of the orbitals. </item>
+          <item>Relative symmetry of the orbitals. </item>
+          <item>Relative energy of the orbitals. </item>
+          <item>Extent of orbital overlap</item>
+        </list>
+        <para id="id4468674">In the case of the boron trihalides, the direction (parallel) and symmetry (p-orbitals) are the same, and the only significant difference will be the relative energy of the donor orbitals (i.e., the lone pair on the halogen) and the extent of the overlap. The latter will be dependant on the B-X bond length (the shorter the bond the greater the potential overlap) and the diffusion of the orbitals (the less diffuse the orbitals the better the overlap). Both of these factors will benefit B-F over B-Cl and B-Br. Thus, the extent of potential overlap would follow the order: <link target-id="eip-621"/>. Despite these considerations, it is still unclear of the exact details of the rationalization of the low Lewis basicity of BF<sub>3</sub> as compared to BCl<sub>3</sub> and BBr<sub>3</sub>. </para>
+      </section>
+      <section id="id8279340">
+        <title>Anionic halides</title>
+        <para id="id7001218">The trihalides all form Lewis acid-base complexes with halide anions, <link target-id="eip-664"/>, and as such salts of BF<sub>4</sub><sup>-</sup>, AlCl<sub>4</sub><sup>-</sup>, GaCl<sub>4</sub><sup>-</sup>, and InCl<sub>4</sub><sup>-</sup> are common. </para>
+        
+        <equation id="eip-664"><media id="id1169512094314_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics22-bdf2.jpg" id="id1169512094314__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id5119464">In the case of gallium the Ga<sub>2</sub>Cl<sub>7</sub><sup>-</sup> anion (<link target-id="idMXM"/>) is formed from the equilibrium: </para>
+        
+        <equation id="eip-93"><media id="id7390477_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics23-4f3f.jpg" id="id7390477__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+      <figure id="idMXM"><media id="idMXM_media" alt="">
+          <image mime-type="image/jpg" src="../../media/MXM.jpg" id="idMXM__onlineimage" width="350" print-width="3.5in"/>
+        </media>
+      <caption>Structures of the (a) M<sub>2</sub>X<sub>7</sub><sup>-</sup> and (b) M<sub>2</sub>X<sub>9</sub><sup>3-</sup> anions. </caption></figure>
+
+
+
+
+
+
+        <para id="id8402043">As a consequence of its larger size indium forms a wide range of anionic halides addition compounds with trigonal bipyramidal, square pyramidal, and octahedral coordination geometries. For example, salts of InCl<sub>5</sub><sup>2-</sup>, InBr<sub>5</sub><sup>2-</sup>, InF<sub>6</sub><sup>3-</sup>, InCl<sub>6</sub><sup>3-</sup> and InBr<sub>6</sub><sup>3-</sup> have all been made. The InCl<sub>5</sub><sup>2-</sup> ion has been found to be square pyramidal in the salt [NEt<sub>4</sub>]<sub>2</sub>InCl<sub>5</sub>, but is trigonal bipyramidal in the acetonitrile solvate of [Ph<sub>4</sub>P]<sub>2</sub>InCl<sub>5</sub>. The oligomeric anionic halides In<sub>2</sub>X<sub>7</sub><sup>-</sup> and In<sub>2</sub>X<sub>9</sub><sup>3-</sup> (X = Cl and Br) contain binuclear anions with tetrahedral and octahedrally coordinated indium atoms, respectively (<link target-id="idMXM"/>). </para>
+      </section>
+    </section>
+    <section id="id1169515354437">
+      <title>Low valent halides</title>
+      <section id="id8561402"><title>Oxidation state +2</title><para id="id3449698">Boron forms a series of low oxidation halides containing B-B bonds a formal oxidation state of +2. Passing an electric discharge through BCl<sub>3</sub> using mercury electrodes results in the synthesis of B<sub>2</sub>Cl<sub>4</sub>, <link target-id="eip-949"/>. An alternative route is by the co-condensation of copper as a reducing agent with BCl<sub>3</sub>, <link target-id="eip-237"/>. </para>
+        
+        <equation id="eip-949"><media id="id1169521187504_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics24-6255.jpg" id="id1169521187504__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        <equation id="eip-237"><media id="id1169513316808_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics25-3b58.jpg" id="id1169513316808__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id4578533">B<sub>2</sub>F<sub>4</sub> has a planar structure (<link target-id="id5597778"/>) with D2h symmetry, while B<sub>2</sub>Cl<sub>4</sub> has the same basic structure it has a staggered geometry (<link target-id="id1169512181958"/>). The energy for bond rotation about the B-B bond is very low (5 kJ/mol) that can be compared to ethane (12.5 kJ/mol). The bromide, B<sub>2</sub>Br<sub>4</sub>, is also observed to be staggered in the solid state. The staggered conformation is favorable on steric grounds, however, for B<sub>2</sub>F<sub>4</sub> the planar geometry is stabilized by the smaller size of the halide, and more importantly the presence of strong delocalized π-bonding. </para>
+
+          <figure id="id5597778"><media id="id5597778_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics26-dd28.jpg" id="id5597778__onlineimage" width="200" print-width="2in"/>
+            </media>
+          <caption>The planar structure of B<sub>2</sub>F<sub>4</sub>. </caption></figure>
+
+        
+        <figure id="id1169512181958"><media id="id1169512181958_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics27-3237.jpg" id="id1169512181958__onlineimage" width="200" print-width="2in"/>
+          </media>
+        <caption>The staggered structure of B<sub>2</sub>Cl<sub>4</sub>. </caption></figure>
+        
+      </section>
+      <section id="id1169512264590">
+        <title>Oxidation state +1 </title>
+        <para id="id1169513206146">Boron forms a number of halides with cluster structures, B<sub>n</sub>Cl<sub>n</sub> where n = 4 (<link target-id="id8473364"/>), 8, 9, 10, 11, and 12. Each compound is made by the decomposition of B<sub>2</sub>Cl<sub>4</sub>. For gallium, none of the monohalides are stable at room temperature, but GaCl and GaBr have been produced in the gas form from the reaction of HX and molten gallium. The stability of thallium(I) as compared to thallium(III) results in the monohalides, TlCl, TlBr, and TlI being stable. Each compound is insoluble in water, and photosensitive. </para>
+        <figure id="id8473364"><media id="id8473364_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics28-fbba.jpg" id="id8473364__onlineimage" width="250" print-width="2.5in"/>
+          </media>
+        <caption>Structure of B<sub>4</sub>Cl<sub>4</sub>. </caption></figure>
+        
+      </section>
+    </section>
+    <section id="id1169521993201">
+      <title>Intermediate halides</title>
+      <para id="id1169521995063">The dihalides (MX<sub>2</sub>) of gallium, indium, and thallium do not actually contain the metal in the +2 oxidation state. Instead they are actually mixed valence compound, i.e., M<sup>+</sup>[MX<sub>4</sub>]<sup>-</sup>. The dihalides of gallium are unstable in the presence of water disproportionating to gallium metal and gallium(III) entities. They are soluble in aromatic solvents, where arene complexes have been isolated and the arene is η<sup>6</sup>-coordinated to the Ga<sup>+</sup> ion. InBr<sub>2</sub> and InI<sub>2</sub> are greenish and yellow crystalline solids, respectively, which are formulated In(I)[In(III)X<sub>4</sub>]. TlCl<sub>2</sub> and TlBr<sub>2</sub> both are of similar formulations. </para>
+      <para id="id1169515519213">Ga<sub>2</sub>X<sub>3</sub> (X = Br, I) and In<sub>2</sub>Br<sub>3</sub> are formulated M(I)<sub>2</sub>[M(II)<sub>2</sub>X<sub>6</sub>]. Both anions contain a M-M bond where the metal has a formal oxidation state of +2. The Ga<sub>2</sub>Br<sub>6</sub><sup>2-</sup> anion is eclipsed like the In2Br6<sup>2</sup><sup>-</sup> anion, whereas the Ga<sub>2</sub>I<sub>6</sub><sup>2-</sup> anion is isostructural with Si<sub>2</sub>Cl<sub>6</sub> with a staggered conformation. In<sub>2</sub>Cl<sub>3</sub> is colorless and is formulated In(I)<sub>3</sub>[In(III)Cl<sub>6</sub>]. </para>
+      <para id="id1169509902743">Ga<sub>3</sub>Cl<sub>7</sub> contains the Ga<sub>2</sub>Cl<sub>7</sub><sup>-</sup> ion, which has a structure similar to the dichromate, Cr<sub>2</sub>O<sub>7</sub><sup>2-</sup>, ion with two tetrahedrally coordinated gallium atoms sharing a corner (<link target-id="id8690790"/>). The compound can be formulated as gallium(I) heptachlorodigallate(III), Ga(I)[Ga(III)<sub>2</sub>Cl<sub>7</sub>]. </para>
+      <figure id="id8690790"><media id="id8690790_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics29.png" id="id8690790__onlineimage" width="300" print-width="3in"/>
+        </media>
+      <caption>The crystal structure of Ga<sub>3</sub>Cl<sub>7</sub>, better described as gallium(I) heptachlorodigallate(III), Ga(I)[Ga(III)<sub>2</sub>Cl<sub>7</sub>]. Grey spheres represent the gallium, while green spheres represent the chlorine. </caption></figure>
+      
+      <para id="id1169511183277">In<sub>4</sub>Br<sub>7</sub> is light sensitive (like TlCl and TlBr) decaying to InBr<sub>2</sub> and In metal. It is a mixed salt containing the InBr<sub>4</sub><sup>-</sup> and InBr<sub>6</sub><sup>3-</sup> anions balanced by In<sup>+</sup> cations. It is formulated In(I)<sub>5</sub>[In(III)Br<sub>4</sub>]<sub>2</sub>[In(III)Br<sub>6</sub>]. In<sub>5</sub>Br<sub>7</sub> is a pale yellow solid formulated as In(I)<sub>3</sub>[In(II)<sub>2</sub>Br<sub>6</sub>]Br. The In(II)<sub>2</sub>Br<sub>6</sub><sup>2-</sup> anion has an eclipsed ethane like structure with an In-In bond length of 2.70 Å. In<sub>5</sub>Cl<sub>9</sub> is formulated In(I)<sub>3</sub>[In(III)<sub>2</sub>Cl<sub>9</sub>], with the In<sub>2</sub>Cl<sub>9</sub><sup>2-</sup> anion having two 6 coordinate indium atoms with 3 bridging chlorine atoms, face sharing bioctahedra. Finally, In<sub>7</sub>Cl<sub>9</sub> and In<sub>7</sub>Br<sub>9</sub> have a structure formulated as InX<sub>6</sub>[In(III)X<sub>6</sub>]X<sub>3</sub>. </para>
+    </section>
+    <section id="id6558666">
+      <title>Bibliography</title>
+      <list id="id1169520997097" list-type="bulleted">
+        <item>P. M. Boorman and D. Potts, <emphasis effect="italics">Can. J. Chem.</emphasis>, 1974, <emphasis effect="bold">52</emphasis>, 2016. </item>
+        <item>A. Borovik and A. R. Barron, <emphasis effect="italics">J. Am. Chem. Soc</emphasis>., 2002, <emphasis effect="bold">124</emphasis>, 3743. </item>
+        <item>A. Borovik, S. G. Bott, and A. R. Barron, <emphasis effect="italics">J. Am. Chem. Soc</emphasis>., 2001, <emphasis effect="bold">123</emphasis>, 11219. </item>
+        <item>C. S. Branch, S. G. Bott, and A. R. Barron, <emphasis effect="italics">J. Organomet. Chem</emphasis>., 2003, <emphasis effect="bold">666</emphasis>, 23. </item>
+        <item>W. M. Brown and M. Trevino, <emphasis effect="italics">US Patent</emphasis> 5,395,536 (1995). </item>
+        <item>S. K. Dentel, <emphasis effect="italics">CRC Critical Reviews in Environmental Control</emphasis>, 1991, <emphasis effect="bold">21</emphasis>, 41. </item>
+        <item>D. E. Hassick and J. P. Miknevich, <emphasis effect="italics">US Patent</emphasis> 4,800,039 (1989). </item>
+        <item>M. D. Healy, P. E. Laibinis, P. D. Stupik and A. R. Barron, <emphasis effect="italics">J. Chem. Soc.</emphasis>, <emphasis effect="italics">Chem. Commun.</emphasis>, 1989, 359. </item>
+        <item>K. Hedberg and R. Ryan, <emphasis effect="italics">J. Chem. Phys.</emphasis>, 1964, <emphasis effect="bold">41</emphasis>, 2214. </item>
+        <item>Y. Koide and A. R. Barron, Organometallics, 1995, <emphasis effect="bold">14</emphasis>, 4026. </item>
+        <item>G. Santiso-Quiñones and I. Krossing, <emphasis effect="italics">Z. Anorg. Allg. Chem.</emphasis>, 2008, <emphasis effect="bold">634</emphasis>, 704. </item>
+      </list>
+    </section>
+  </content>
+</document>

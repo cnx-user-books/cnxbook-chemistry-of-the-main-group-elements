@@ -1,0 +1,251 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11124</md:content-id>
+    <md:title>Chemistry of the Main Group Elements</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>f46e8679-ee00-4073-9f5e-a87ca9955a9e</md:uuid>
+<md:slug>chemistry-of-the-main-group-elements</md:slug>
+</metadata>
+  <col:content>
+    <col:module document="m33078"/>
+    <col:subcollection>
+      <md:title>General Concepts and Trends</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Fundamental Properties </md:title>
+          <col:content>
+            <col:module document="m31475"/>
+            <col:module document="m31450"/>
+            <col:module document="m31451"/>
+            <col:module document="m31452"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Structure and Bonding</md:title>
+          <col:content>
+            <col:module document="m31949"/>
+            <col:module document="m16927"/>
+            <col:module document="m34480"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Acids, Bases, and Solvents</md:title>
+          <col:content>
+            <col:module document="m33076"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Chemical Reactivity</md:title>
+          <col:content>
+            <col:module document="m33088"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m31489"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Hydrogen</md:title>
+      <col:content>
+        <col:module document="m31897"/>
+        <col:module document="m31908"/>
+        <col:module document="m31442"/>
+        <col:module document="m16928"/>
+        <col:module document="m31441"/>
+        <col:module document="m31549"/>
+        <col:module document="m31896"/>
+        <col:module document="m31520"/>
+        <col:module document="m31443"/>
+        <col:module document="m32176"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Group 1: The Alkali Metals</md:title>
+      <col:content>
+        <col:module document="m31909"/>
+        <col:module document="m31917"/>
+        <col:module document="m31918"/>
+        <col:module document="m32444"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Group 2: The Alkaline Earth Metals</md:title>
+      <col:content>
+        <col:module document="m31948"/>
+        <col:subcollection>
+          <md:title>Calcium the Archetypal Alkaline Earth Metal</md:title>
+          <col:content>
+            <col:module document="m31937"/>
+            <col:module document="m31935"/>
+            <col:subcollection>
+              <md:title>Portland Cement</md:title>
+              <col:content>
+                <col:module document="m16445"/>
+                <col:module document="m16448"/>
+                <col:module document="m16447"/>
+                <col:module document="m16446"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m31919"/>
+        <col:module document="m32494"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Group 12</md:title>
+      <col:content>
+        <col:module document="m33052"/>
+        <col:subcollection>
+          <md:title>Group 12 Chalcogenides</md:title>
+          <col:content>
+            <col:module document="m22374"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Organometallic Chemistry</md:title>
+          <col:content>
+            <col:module document="m32446"/>
+            <col:module document="m32520"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m32333"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Group 13</md:title>
+      <col:content>
+        <col:module document="m32149"/>
+        <col:module document="m32522"/>
+        <col:module document="m32447"/>
+        <col:subcollection>
+          <md:title>Hydrides</md:title>
+          <col:content>
+            <col:module document="m35228"/>
+            <col:module document="m32846"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Oxides, Hydroxides, and Oxygen Donor Ligands</md:title>
+          <col:content>
+            <col:module document="m32460"/>
+            <col:module document="m32461"/>
+            <col:module document="m32521"/>
+            <col:module document="m22376"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m32856"/>
+        <col:subcollection>
+          <md:title>Gallium Arsenide</md:title>
+          <col:content>
+            <col:module document="m22970"/>
+            <col:module document="m32000"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m33044"/>
+        <col:module document="m35210"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Group 14</md:title>
+      <col:content>
+        <col:module document="m32186"/>
+        <col:subcollection>
+          <md:title>Carbon</md:title>
+          <col:content>
+            <col:module document="m32173"/>
+            <col:subcollection>
+              <md:title>Carbon Nanomaterials</md:title>
+              <col:content>
+                <col:module document="m22580"/>
+                <col:module document="m29187"/>
+              </col:content>
+            </col:subcollection>
+            <col:module document="m33075"/>
+            <col:subcollection>
+              <md:title>Oxides of Carbon</md:title>
+              <col:content>
+                <col:module document="m32939"/>
+                <col:module document="m32935"/>
+                <col:module document="m32934"/>
+              </col:content>
+            </col:subcollection>
+            <col:module document="m32944"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Silicon</md:title>
+          <col:content>
+            <col:module document="m32945"/>
+            <col:subcollection>
+              <md:title>Silicon and Silica as Electronic Materials</md:title>
+              <col:content>
+                <col:module document="m31994"/>
+                <col:module document="m24908"/>
+                <col:module document="m24883"/>
+              </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Group 15: The Pnictogens</md:title>
+      <col:content>
+        <col:module document="m34992"/>
+        <col:module document="m35169"/>
+        <col:subcollection>
+          <md:title>Hydrides</md:title>
+          <col:content>
+            <col:module document="m32951"/>
+            <col:module document="m32956"/>
+            <col:module document="m33060"/>
+            <col:module document="m33048"/>
+            <col:module document="m33041"/>
+            <col:module document="m33043"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Oxides and Oxoacids</md:title>
+          <col:content>
+            <col:module document="m35076"/>
+            <col:module document="m35056"/>
+            <col:module document="m35000"/>
+            <col:module document="m35001"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m35020"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Group 16</md:title>
+      <col:content>
+        <col:module document="m34993"/>
+        <col:module document="m33089"/>
+        <col:module document="m33813"/>
+        <col:module document="m34995"/>
+        <col:module document="m34996"/>
+        <col:module document="m34977"/>
+        <col:module document="m34642"/>
+        <col:module document="m34990"/>
+        <col:module document="m34973"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Group 17: The Halogens</md:title>
+      <col:content>
+        <col:module document="m34994"/>
+        <col:module document="m33815"/>
+        <col:module document="m34967"/>
+        <col:module document="m34842"/>
+        <col:module document="m33061"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Group 18: The Noble Gases</md:title>
+      <col:content>
+        <col:module document="m34653"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

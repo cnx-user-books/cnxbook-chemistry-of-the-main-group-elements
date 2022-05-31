@@ -1,0 +1,320 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Oxidation of Silicon</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m24908</md:content-id>
+  <md:title>Oxidation of Silicon</md:title>
+  <md:abstract/>
+  <md:uuid>e0eabd11-2cab-4837-9ba7-26c51c594512</md:uuid>
+</metadata>
+
+<content>
+    <note id="eip-135">This module was developed as part of the Rice University course CHEM-496: <emphasis effect="italics">Chemistry of Electronic Materials</emphasis>. This module was prepared with the assistance of Andrea Keys. </note><section id="id6604927">
+      <title>Introduction </title>
+      <para id="id7668867">In the fabrication of integrated circuits (ICs), the oxidation of silicon is essential, and the production of superior ICs requires an understanding of the oxidation process and the ability to form oxides of high quality. Silicon dioxide has several uses: </para>
+      <list id="id1688114" list-type="enumerated" number-style="arabic"><item>Serves as a mask against implant or diffusion of dopant into silicon. </item>
+        <item>Provides surface passivation. </item>
+        <item>Isolates one device from another (dielectric isolation). </item>
+        <item>Acts as a component in MOS structures. </item>
+        <item>Provides electrical isolation of multi-level metallization systems. </item>
+      </list>
+      <para id="id6701980">Methods for forming oxide layers on silicon have been developed, including thermal oxidation, wet anodization, chemical vapor deposition (CVD), and plasma anodization or oxidation. Generally, CVD is used when putting the oxide layer on top of a metal surface, and thermal oxidation is used when a low-charge density level is required for the interface between the oxide and the silicon surface. </para>
+    </section>
+    <section id="id5975960">
+      <title>Oxidation of silicon</title>
+      <para id="id6566180"> Silicon's surface has a high affinity for oxygen and thus an oxide layer rapidly forms upon exposure to the atmosphere. The chemical reactions which describe this formation are:</para>
+
+
+<equation id="eip-1144"><media id="id1144_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq27.jpg" id="id1144__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+<equation id="eip-11455"><media id="id11455_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq28.jpg" id="id11455__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+
+      <para id="id6475418">In the first reaction a dry process is utilized involving oxygen gas as the oxygen source and the second reaction describes a wet process which uses steam. The dry process provides a "good" silicon dioxide but is slow and mostly used at the beginning of processing. The wet procedure is problematic in that the purity of the water used cannot be guaranteed to a suitable degree. This problem can be easily solved using a pyrogenic technique which combines hydrogen and oxygen gases to form water vapor of very high purity. Maintaining reagents of high quality is essential to the manufacturing of integrated circuits, and is a concern which plagues each step of this process.</para>
+      <para id="id6563190">The formation of the oxide layer involves shared valence electrons between silicon and oxygen, which allows the silicon surface to rid itself of "dangling" bonds, such as lone pairs and vacant orbitals, <link target-id=" id5848860"/>. These vacancies create mid-gap states between the valence and conduction bands, which prevents the desired band gap of the semiconductor. The Si-O bond strength is covalent (strong), and so can be used to achieve the loss of mid-gap states and passivate the surface of the silicon.</para>
+      <figure id="id5848860"><media id="id5848860_media" alt="">
+          <image mime-type="image/jpg" src="../../media/dangling bonds.jpg" id="id5848860__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      <caption>Removal of dangling bonds by oxidation of surface. </caption></figure>
+      
+      <para id="id6503569"> The oxidation of silicon occurs at the silicon-oxide interface and consists of four steps: </para>
+      <list id="id6364256" list-type="enumerated" number-style="arabic" class="stepwise"><item>Diffusive transport of oxygen across the diffusion layer in the vapor phase adjacent to the silicon oxide-vapor interface. </item>
+        <item>Incorporation of oxygen at the outer surface into the silicon oxide film. </item>
+        <item>Diffusive transport across the silicon oxide film to its interface with the silicon lattice.  </item>
+        <item>Reaction of oxygen with silicon at this inner interface. </item>
+      </list>
+      <para id="id1852414">As the Si-SiO<sub>2</sub> interface moves into the silicon its volume expands, and based upon the densities and molecular weights of Si and SiO<sub>2</sub>, 0.44 Å Si is used to obtain 1.0 Å SiO<sub>2</sub>. </para>
+      <section id="id1891581">
+        <title>Pre-oxidation cleaning</title>
+        <para id="id6351415"> The first step in oxidizing a surface of silicon is the removal of the native oxide which forms due to exposure to open air. This may seem redundant to remove an oxide only to put on another, but this is necessary since uncertainty exists as to the purity of the oxide which is present. The contamination of the native oxide by both organic and inorganic materials (arising from previous processing steps and handling) must be removed to prevent the degradation of the essential electrical characteristics of the device. A common procedure uses a H<sub>2</sub>O-H<sub>2</sub>O<sub>2</sub>-NH<sub>4</sub>OH mixture which removes the organics present, as well as some group I and II metals. Removal of heavy metals can be achieved using a H<sub>2</sub>O-H<sub>2</sub>O<sub>2</sub>-HCl mixture, which complexes with the ions which are formed. After removal of the native oxide, the desired oxide can be grown. This growth is useful because it provides: chemical protection, conditions suitable for lithography, and passivation. The protection prevents unwanted reactions from occurring and the passivation fills vacancies of bonds on the surface not present within the interior of the crystal. Thus the oxidation of the surface of silicon fulfills several functions in one step. </para>
+      </section>
+      <section id="id6150046">
+        <title>Thermal oxidation</title>
+        <para id="id5863428">The growth of oxides on a silicon surface can be a particularly tedious process, since the growth must be uniform and pure. The thickness wanted usually falls in the range 50 - 500 Å, which can take a long time and must be done on a large scale. This is done by stacking the silicon wafers in a horizontal quartz tube while the oxygen source flows over the wafers, which are situated vertically in a slotted paddle (boat), see <link target-id=" id6064541"/>. This procedure is performed at 1 atm pressure, and the temperature ranges from 700 to 1200 °C, being held to within ±1 °C to ensure uniformity. The choice of oxidation technique depends on the thickness and oxide properties required. Oxides that are relatively thin and those that require low charge at the interface are typically grown in dry oxygen. When thick oxides are required (&gt; 0.5 mm) are desired, steam is the source of choice. Steam can be used at wide range of pressures (1 atm to 25 atm), and the higher pressures allow thick oxide growth to be achieved at moderate temperatures in reasonable amounts of time.</para>
+        <figure id="id6064541"><media id="id6064541_media" alt="">
+            <image mime-type="image/jpg" src="../../media/oxidation tube.jpg" id="id6064541__onlineimage" width="350" print-width="3in"/>
+          </media>
+        <caption>Horizontal diffusion tube showing the oxidation of silicon wafers at 1 atm pressure.</caption></figure>
+        
+        <para id="id6852754">The thickness of SiO<sub>2</sub> layers on a Si substrate is readily determined by the color of the film. <link target-id=" id6652301"/> provides a guidline for thermal grown oxides. </para>
+        
+        <table id="id6652301" summary="Color chart for thermally grown silica films observed under daylight fluorescent lighting.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>
+                  <emphasis effect="bold">Film thickness (μm)</emphasis>
+                </entry>
+                <entry><emphasis effect="bold">Color</emphasis></entry>
+                <entry>
+                  <emphasis effect="bold">Film thickness (μm)</emphasis>
+                </entry>
+                <entry><emphasis effect="bold">Color</emphasis></entry>
+              </row>
+              <row>
+                <entry>0.05</entry>
+                <entry>tan</entry>
+                <entry>0.63</entry>
+                <entry>violet-red</entry>
+              </row>
+              <row>
+                <entry>0.07</entry>
+                <entry>brown</entry>
+                <entry>0.68</entry>
+                <entry>"bluish"</entry>
+              </row>
+              <row>
+                <entry>0.10</entry>
+                <entry>dark violet to red-violet</entry>
+                <entry>0.72</entry>
+                <entry>blue-green to gree</entry>
+              </row>
+              <row>
+                <entry>0.12</entry>
+                <entry>royal blue</entry>
+                <entry>0.77</entry>
+                <entry>"yellowish"</entry>
+              </row>
+              <row>
+                <entry>0.15</entry>
+                <entry>light blue to metallic blue</entry>
+                <entry>0.80</entry>
+                <entry>orange</entry>
+              </row>
+              <row>
+                <entry>0.17</entry>
+                <entry>metallic to light yellow-green</entry>
+                <entry>0.82</entry>
+                <entry>salmon</entry>
+              </row>
+              <row>
+                <entry>0.20</entry>
+                <entry>light gold</entry>
+                <entry>0.85</entry>
+                <entry>light red-violet</entry>
+              </row>
+              <row>
+                <entry>0.22</entry>
+                <entry>gold</entry>
+                <entry>0.86</entry>
+                <entry>violet</entry>
+              </row>
+              <row>
+                <entry>0.25</entry>
+                <entry>orange to melon</entry>
+                <entry>0.87</entry>
+                <entry>blue violet</entry>
+              </row>
+              <row>
+                <entry>0.27</entry>
+                <entry>red-violet</entry>
+                <entry>0.89</entry>
+                <entry>blue</entry>
+              </row>
+              <row>
+                <entry>0.30</entry>
+                <entry>blue to violet blue</entry>
+                <entry>0.92</entry>
+                <entry>blue-green</entry>
+              </row>
+              <row>
+                <entry>0.31 </entry>
+                <entry>blue</entry>
+                <entry>0.95</entry>
+                <entry>yellow-green</entry>
+              </row>
+              <row>
+                <entry>0.32</entry>
+                <entry>blue to blue-green</entry>
+                <entry>0.97</entry>
+                <entry>yellow</entry>
+              </row>
+              <row>
+                <entry>0.34</entry>
+                <entry>light green</entry>
+                <entry>0.99</entry>
+                <entry>orange</entry>
+              </row>
+              <row>
+                <entry>0.35</entry>
+                <entry>green to yellow-green</entry>
+                <entry>1.00</entry>
+                <entry>carnation pink</entry>
+              </row>
+              <row>
+                <entry>0.36</entry>
+                <entry>yellow-green</entry>
+                <entry>1.02 </entry>
+                <entry>violet red</entry>
+              </row>
+              <row>
+                <entry>0.37</entry>
+                <entry>green-yellow</entry>
+                <entry>1.05</entry>
+                <entry>red-violet</entry>
+              </row>
+              <row>
+                <entry>0.39</entry>
+                <entry>yellow</entry>
+                <entry>1.06</entry>
+                <entry>violet</entry>
+              </row>
+              <row>
+                <entry>0.41</entry>
+                <entry>light orange</entry>
+                <entry>1.07</entry>
+                <entry>blue-violet</entry>
+              </row>
+              <row>
+                <entry>0.42</entry>
+                <entry>carnation pink</entry>
+                <entry>1.10</entry>
+                <entry>green</entry>
+              </row>
+              <row>
+                <entry>0.44</entry>
+                <entry>violet-red</entry>
+                <entry>1.11</entry>
+                <entry>yellow-green</entry>
+              </row>
+              <row>
+                <entry>0.46</entry>
+                <entry>red-violet</entry>
+                <entry>1.12</entry>
+                <entry>green</entry>
+              </row>
+              <row>
+                <entry>0.47</entry>
+                <entry>violet</entry>
+                <entry>1.18</entry>
+                <entry>violet</entry>
+              </row>
+              <row>
+                <entry>0.48</entry>
+                <entry>blue-violet</entry>
+                <entry>1.19</entry>
+                <entry>red-violet</entry>
+              </row>
+              <row>
+                <entry>0.49</entry>
+                <entry>blue</entry>
+                <entry>1.21</entry>
+                <entry>violet-red</entry>
+              </row>
+              <row>
+                <entry>0.50</entry>
+                <entry>blue green</entry>
+                <entry>1.24</entry>
+                <entry>carnation pink to salmon</entry>
+              </row>
+              <row>
+                <entry>0.52</entry>
+                <entry>green</entry>
+                <entry>1.25</entry>
+                <entry>orange</entry>
+              </row>
+              <row>
+                <entry>0.54</entry>
+                <entry>yellow-green</entry>
+                <entry>1.28</entry>
+                <entry>"yellowish"</entry>
+              </row>
+              <row>
+                <entry>0.56</entry>
+                <entry>green-yellow</entry>
+                <entry>1.32</entry>
+                <entry>sky blue to green-blue</entry>
+              </row>
+              <row>
+                <entry>0.57</entry>
+                <entry>"yellowish"</entry>
+                <entry>1.40</entry>
+                <entry>orange</entry>
+              </row>
+              <row>
+                <entry>0.58</entry>
+                <entry>light orange to pink</entry>
+                <entry>1.46</entry>
+                <entry>blue-violet</entry>
+              </row>
+              <row>
+                <entry>0.60</entry>
+                <entry>carnation pink</entry>
+                <entry>1.50</entry>
+                <entry>blue</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Color chart for thermally grown SiO<sub>2</sub> films observed under daylight fluorescent lighting. </caption>
+</table>
+      </section>
+      <section id="id2948978">
+        <title>High pressure oxidation </title>
+        <para id="id7830285"> High pressure oxidation is another method of oxidizing the silicon surface which controls the rate of oxidation. This is possible because the rate is proportional to the concentration of the oxide, which in turn is proportional to the partial pressure of the oxidizing species, according to Henry's law, <link target-id="eip-11456"/>, where C is the equilibrium concentration of the oxide, H is Henry's law constant, and p<sub>O</sub> is the partial pressure of the oxidizing species. </para>
+
+
+<equation id="eip-11456"><media id="id11456_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq29.jpg" id="id11456__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+        <para id="id6085923"> This approach is fast, with a rate of oxidation ranging from 100 to 1000 mm/h, and also occurs at a relatively low temperature. It is a useful process, preventing dopants from being displaced and also forms a low number of defects, which is most useful at the end of processing. </para>
+      </section>
+      <section id="id6754397">
+        <title>Plasma oxidation</title>
+        <para id="id3096153"> Plasma oxidation and anodization of silicon is readily accomplished by the use of activated oxygen as the oxidizing species. The highly reactive oxygen is formed within an electrical discharge or plasma. The oxidation is carried out in a low pressure (0.05 - 0.5 Torr) chamber, and the the plasma is produced either by a DC electron source or a high-frequency discharge. In simple plasma oxidation the sample (i.e., the silicon wafer) is held at ground potential. In contrast, aniodization systems usually have a DC bias between the sample and an electrode with the sample biased positively with respect to the cathode. Platinum electrodes are commonly used as the cathodes. </para>
+        <para id="id7656842"> There have been at least 34 different reactions reported to occur in an oxygen plasma, however, the vast majority of these are inconsequential with respect to the formation of active species. Furthermore, many of the potentially active species are sufficiently short lived that it is unlikely that they make a significant contribution. The primary active species within the oxygen plasma are undoubtedly O<sup>-</sup> and O<sup>2+</sup>. Both being produced in near equal quantities, although only the former is relevant to plasma aniodization. While these species may be active with respect to surface oxidation, it is more likely that an electron transfer occurs from the semiconductor surface yields activated oxygen species, which are the actual reactants in the oxidation of the silicon. </para>
+        <para id="id6420030">The significant advatage of plasma processes is that while the electron temperature of the ionized oxygen gas is in excess of 10,000 K, the thermal temperatures required are significantly lower than required for the high pressure method, i.e., &lt; 600 °C. The advantages of the lower reaction temperatures include: the minimization of dopant diffusion and the impediment of the generation of defects. Despite these advantages there are two primary disadvantages of any plasma based process. First, the high electric fields present during the processes cause damage to the resultant oxide, in particular, a high density of interface traps often result. However, post annealing may improve film quality. Second, the growth rates of plasma oxidation are low, typically 1000 Å/h. This growth rate is increased by about a factor of 10 for plasma aniodization, and further improvements are observed if 1 - 3% chlorine is added to the oxygen source. </para>
+      </section>
+      <section id="id7687936">
+        <title>Masking</title>
+        <para id="id6542993"> A selective mask against the diffusion of dopant atoms at high temperatures can be found in a silicon dioxide layer, which can prove to be very useful in integrated circuit processing. A predeposition of dopant by ion implantation, chemical diffusion, or spin-on techniques typically results in a dopant source at or near the surface of the oxide. During the initial high-temperature step, diffusion in the oxide must be slow enough with respect to diffusion in the silicon that the dopants do not diffuse through the oxide in the masked region and reach the silicon surface. The required thickness may be determined by experimentally measuring, at a particular temperature and time, the oxide thickness necessary to prevent the inversion of a lightly doped silicon substrate of opposite conductivity. To this is then added a safety factor, with typical total values ranging from 0.5 to 0.7 mm. The impurity masking properties result when the oxide is partially converted into a silica impurity oxide "glass" phase, and prevents the impurities from reaching the SiO<sub>2</sub>-Si interface.</para>
+      </section>
+    </section>
+    <section id="id1854613">
+      <title>Bibliography</title>
+      <list id="id6362995" list-type="bulleted">
+        <item>M. M. Atalla, in <emphasis effect="italics">Properties of Elemental and Compound Semiconductors</emphasis>, Ed. H. Gatos, Interscience: New York (1960).</item>
+        <item>S. K. Ghandhi, <emphasis effect="italics">VLSI Fabrication Principles, Silicon and Gallium Arsenide</emphasis>, Wiley, Chichester, 2nd Ed. (1994).</item>
+        <item>S. M. Sze, <emphasis effect="italics">Physics of Semiconductor Devices</emphasis><emphasis effect="underline">,</emphasis> 2nd Edition, John Wiley &amp; Sons, New York (1981). </item>
+        <item>D. L. Lile, <emphasis effect="italics">Solid State Electron.</emphasis>, 1978, <emphasis effect="bold">21</emphasis>, 1199. </item>
+        <item>W. E. Spicer, P. W. Chye, P. R. Skeath, and C. Y. Su, I. Lindau, <emphasis effect="italics">J. Vac. Sci. Technol.</emphasis>, 1979, <emphasis effect="bold">16</emphasis>, 1422. </item>
+        <item>V. Q. Ho and T. Sugano, <emphasis effect="italics">IEEE Trans. Electron Devices</emphasis>, 1980, <emphasis effect="bold">ED-27</emphasis>, 1436.</item>
+        <item>J. R. Hollanhan and A. T. Bells, <emphasis effect="italics">Techniques and Applications of Plasma Chemistry</emphasis>, Wiley, New York (1974).</item>
+        <item>R. P. H. Chang and A. K. Sinha, <emphasis effect="italics">Appl. Phys. Lett</emphasis>., 1976, <emphasis effect="bold">29</emphasis>, 56.</item>
+      </list>
+    </section>
+  </content>
+</document>

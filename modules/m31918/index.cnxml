@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>The Anomalous Chemistry of Lithium</title>
+  <metadata>
+  <md:content-id>m31918</md:content-id><md:title>The Anomalous Chemistry of Lithium</md:title>
+  <md:abstract/>
+  <md:uuid>7c6e0cd3-b939-46ea-827c-824140dffaa8</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1170744463884">While lithium shows many properties that are clearly consistent with its position in Group 1, it also has key differences to the other alkali metals. In fact, in many ways it is more similar to its diagonal neighbor magnesium (Mg) than the other Group 1 metals. </para>
+    <section id="id1170744257047">
+      <title>Charge/radius</title>
+      <para id="id1170745328715">The ionic radius for the +1 cation of lithium is very small in comparison with its next highest homolog, sodium (<link target-id="id1170746795191"/>). This results in a correspondingly high value for the charge density (z/r). As may be seen from <link target-id="id1170746795191"/> the charge density for lithium is significantly higher than that of its Group 1 relations. </para>
+      <table id="id1170746795191" summary="Comparison of charge densities for lithium, sodium, potassium, and magnesium.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">z</emphasis></entry>
+              <entry><emphasis effect="bold">r (Å)</emphasis></entry>
+              <entry><emphasis effect="bold">z/r (Å<sup>-1</sup>)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Li</entry>
+              <entry>+1</entry>
+              <entry>0.68</entry>
+              <entry>1.47</entry>
+            </row>
+            <row>
+              <entry>Na</entry>
+              <entry>+1</entry>
+              <entry>0.97</entry>
+              <entry>1.03</entry>
+            </row>
+            <row>
+              <entry>K</entry>
+              <entry>+1</entry>
+              <entry>1.33</entry>
+              <entry>0.75</entry>
+            </row>
+            <row>
+              <entry>Mg</entry>
+              <entry>+2</entry>
+              <entry>0.66</entry>
+              <entry>3.03</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Comparison of charge densities for lithium, sodium, potassium, and magnesium. </caption>
+</table>
+      
+      <para id="id1170748775642">As a result of the high charge density, the Li<sup>+</sup> ion is a highly polarizing ion. One of the main consequences of this is that lithium tends to form polar covalent bonds rather than ionic interactions. For example, alkyl lithium compounds (RLi) contain covalent Li-C bonds in a similar manner to the Mg-C bonds in Grignards (RMgX, where X = Cl, Br). </para>
+    </section>
+    <section id="id1170741747556">
+      <title>Lattice energy</title>
+      <para id="id1170743207897">Lithium compounds have high lattice energies as compared to the other Group 1 metals (<link target-id="id1170740767484"/>). As a consequence Li<sub>2</sub>O, Li<sub>3</sub>N, and LiF are all insoluble in water, whereas their sodium compounds are highly soluble. </para>
+      <table id="id1170740767484" summary="Comparison of lattice energies for compounds of lithium, sodium, potassium, and magnesium.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Compound</emphasis></entry>
+              <entry><emphasis effect="bold">Lattice energy (kJ/mol)</emphasis></entry>
+            </row>
+            <row>
+              <entry>LiF</entry>
+              <entry>-1046</entry>
+            </row>
+            <row>
+              <entry>NaF</entry>
+              <entry>-923</entry>
+            </row>
+            <row>
+              <entry>KF</entry>
+              <entry>-821</entry>
+            </row>
+            <row>
+              <entry>MgF<sub>2</sub></entry>
+              <entry>-2957</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Comparison of lattice energies for compounds of lithium, sodium, potassium, and magnesium. </caption>
+</table>
+      
+    </section>
+    <section id="id1170742052409">
+      <title>Coordination number</title>
+      <para id="id1170742857529">The small size of lithium results in a lower coordination number (4) for compounds and complexes than observed for the other Group 1 metals. However, lithium and magnesium complexes and organometallic compounds both have most commonly four-coordinate metal centers (in the absence of large steric constraints). </para>
+    </section>
+    <section id="id1170742710784">
+      <title>Chemical reactivity</title>
+      <para id="id1170744605313">A review of some of the reactions of lithium, magnesium and the other Group 1 metals shows the anomalous behavior of lithium and its similarity to magnesium. Both lithium and magnesium reacts with carbon or nitrogen to form the corresponding carbide and nitride. Whereas sodium and the other Group 1 metals show no reaction under ambient conditions. The combustion of either lithium or magnesium in air results in the formation of the oxides, Li<sub>2</sub>O and MgO, respectively. In contrast, sodium forms the peroxide, Na<sub>2</sub>O<sub>2</sub>. </para>
+      <para id="id1170744695538">It is not only in the reactivity of the elements that this relationship between lithium and its diagonal neighbor exists. Many of the compounds of lithium have a similar reactivity to those of magnesium rather than sodium. For example, the carbonates of lithium and magnesium decompose under thermolysis to yield the oxides, <link target-id="eip-213"/> and <link target-id="eip-526 "/>, in contrast, sodium carbonate (Na<sub>2</sub>CO<sub>3</sub>) is stable to thermolysis. </para>
+      <equation id="eip-213"><media id="id1170743295588_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-6ca2.jpg" id="id1170743295588__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><equation id="eip-526"><media id="id1170746629230_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-e5b6.jpg" id="id1170746629230__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      
+    </section>
+  </content>
+</document>

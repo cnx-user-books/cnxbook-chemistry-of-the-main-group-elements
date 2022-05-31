@@ -1,0 +1,226 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Carbon Dioxide</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32935</md:content-id>
+  <md:title>Carbon Dioxide</md:title>
+  <md:abstract/>
+  <md:uuid>cd1205e1-8edd-4b12-aff5-ecdbdfddf4fc</md:uuid>
+</metadata>
+<content>
+    <para id="id6623459">Carbon dioxide (CO<sub>2</sub>) is the most stable oxide of carbon and is formed from the burning of carbon or carbon containing compounds in air or an excess of oxygen, <link target-id="eip-1111"/>. For industrial applications it is usually prepared from the decomposition of calcium carbonate (limestone), <link target-id="eip-1112"/>, rather than separation from combustion products. </para>
+
+<equation id="eip-1111">
+      <media id="id4443778_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-c887.jpg" id="id4443778__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+</equation>
+
+<equation id="eip-1112">
+    <media id="id3286036_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-7ae7.jpg" id="id3286036__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+</equation>
+
+
+  
+    <section id="id7104528">
+      <title>Phase chemistry of carbon dioxide </title>
+      <para id="id3542637">Carbon dioxide does not exists as a liquid under normal atmospheric pressure, but solid CO<sub>2</sub> (also known as <emphasis effect="italics">dry ice</emphasis>) sublimes at -78.5 °C (<link target-id="id4571604"/>). Dry ice (<link target-id="id5410382"/>) is commonly used as a refrigerant for food or biological sample preservation. </para>
+
+
+      <figure id="id4571604">
+        <media id="id4571604_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-cdc7.jpg" id="id4571604__onlineimage" width="300" print-width="3in"/>
+        </media>
+<caption>The phase diagram for carbon dioxide. </caption>
+      </figure>
+
+      <figure id="id5410382">
+        <media id="id5410382_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-3a8b.jpg" id="id5410382__onlineimage" width="300" print-width="3in"/>
+        </media>
+<caption>Photograph of a solid block of <emphasis effect="italics">dry ice</emphasis>.</caption>
+      </figure>
+
+
+      <note id="eip-228">     <para id="id6673987">When dry ice is placed in water (especially heated) sublimation is accelerated, and a low-sinking dense cloud of fog (smoke-like) is created. This is used in fog machines, at theaters, concerts, haunted houses, and nightclubs for dramatic effects (<link target-id="id6852287"/>). Fog from dry ice hovers above the ground unlike other artificial fog machines (that use partial combustion of oil) where the fog rises like smoke. </para>
+
+      <figure id="id6852287">
+        <media id="id6852287_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-566c.jpg" id="id6852287__onlineimage" width="300" print-width="3in"/>
+        </media>
+<caption>Dry ice generated smoke being used during Iron Maiden’s <emphasis effect="italics">Somewhere Back in Time World Tour</emphasis>. Copyright: Pyrotek. </caption>
+      </figure>
+
+</note>
+
+
+
+ 
+
+
+
+
+      <section id="id6736817">
+        <title>Supercritical carbon dioxide</title>
+        <para id="id3590429">As noted above carbon dioxide usually behaves as a gas in air at standard temperature and pressure (STP = 25 °C and 1 atm) or as a solid when frozen. However, if the temperature and pressure are both increased from STP to be at or above the critical point (<link target-id="id4571604"/>), carbon dioxide adopts properties midway between a gas and a liquid (T<sub>c</sub> = 31.1 °C and P<sub>c</sub> = 72.9 atm). </para>
+        <para id="id4601688">Supercritical CO<sub>2</sub> has become an important industrial solvent due to its role in chemical extraction in addition to its low toxicity and environmental impact. In this regard it is seen as a promising green solvent. One of the biggest applications is the decaffeination of coffee and tea without leaving any residue and allowing the caffeine to be separated and used in other beverage products. </para>
+      </section>
+    </section>
+
+
+
+    <section id="id6824324">
+      <title>Structure and bonding</title>
+      <para id="id6619061">Carbon dioxide is a linear molecule due to π-localization. The bonding in CO<sub>2</sub> involves 2 σ-bond and 2 sets of 3 center π-bonds (<link target-id="id6975087"/>). The C-O bond length of 1.2 Å should be compared to the value observed for organic carbonyls (e.g., ketones, esters, aldehydes) of 1.2 – 1.3 Å. </para>
+
+
+        <figure id="id6975087">
+          <media id="id6975087_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-5402.jpg" id="id6975087__onlineimage" width="500" print-width="5in"/>
+          </media>
+<caption>The carbon dioxide molecular orbital diagram. </caption>
+        </figure>
+
+
+
+    </section>
+
+
+    <section id="id6972060">
+      <title>Dissolution and reaction with water</title>
+      <para id="id5407783">Although CO<sub>2</sub> has no dipole moment it is very polar (dielectric constant = 1.60 at 0 °C, 50 atm) and consequently dissolves in polar solvents such as water up to a concentration of 0.18% (0.04 M). Most of it (+99%) is present as solvated CO<sub>2</sub> (<link target-id="id6974045"/>), and only ca. 0.2% is reacted to form carbonic acid, <link target-id="eip-1113"/>, with subsequent equilibria resulting in the formation of bicarbonate (HCO<sub>3</sub><sup>-</sup>) and carbonate (CO<sub>3</sub><sup>2-</sup>). </para>
+
+<equation id="eip-1113"> <media id="id6991811_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-5651.jpg" id="id6991811__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+
+
+        <figure id="id6974045">
+          <media id="id6974045_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-d0d3.jpg" id="id6974045__onlineimage" width="125" print-width="1in"/>
+          </media>
+<caption>Typical water solvation of carbon dioxide. </caption>
+        </figure>
+
+
+
+
+
+
+      <para id="id6061569">The overall reaction involves a series of equilibria. The first equilibrium is the formation of carbonic acid, <link target-id="eip-1137"/>. The reaction rates, <link target-id="eip-1138"/>, are on the magnitude of 1 second (i.e., slow), and as a consequence when carbon dioxide is carried in the body an enzyme is present to speed up the reaction.</para>
+
+<equation id="eip-1137">      <media id="id6722885_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-1227.jpg" id="id6722885__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+  
+
+
+<equation id="eip-1138">        <media id="id4731354_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-14af.jpg" id="id4731354__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+
+
+
+      <para id="id4550988">The 2<sup>nd</sup> equilibrium is as a consequence of first ionization of carbonic acid to form bicarbonate (HCO<sub>3</sub><sup>-</sup>), <link target-id="eip-1136"/>. In contrast to the first reaction, <link target-id="eip-1137"/>, this reaction is very fast with a K<sub>eq</sub> = 1.6 x 10<sup>-4</sup> @ 25 °C. </para>
+
+<equation id="eip-1136">          <media id="id7064831_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-400d.jpg" id="id7064831__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</equation>
+
+
+
+
+
+      <para id="id6878472">The 3<sup>rd</sup> equilibrium involves the formation of the carbonate ion<link target-id="eip-1135"/>, and has a K<sub>eq</sub> = 4.84 x 10<sup>-11</sup>. Carbonate (CO<sub>3</sub><sup>2-</sup>) is a delocalized ligand, which can act as a mono or bidentate or bridging group. </para>
+
+
+<equation id="eip-1135">      <media id="id6879475_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-18fd.jpg" id="id6879475__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+
+      <para id="id3697643">The formation of carbonic acid is the reason that even in the absence of pollutants (such as SO<sub>2</sub>) natural rain water is slightly acidic due to dissolved CO<sub>2</sub>. The equilibrium associated with carbonic acid is also responsible for the buffering of the pH in blood. </para>
+    </section>
+
+    <section id="id3620568">
+      <title>Reaction chemistry</title>
+      <para id="id5652918">Photosynthesis in plants reduces CO<sub>2</sub> to organic matter but similar reactions have yet to be developed in non-living systems. </para>
+
+      <para id="id3593757">Grignards react readily with carbon dioxide to form the carboxylate, which yields the associated carboxylic acid upon hydrolysis, <link target-id="eip-1133"/>. Similar reactions occur with other organometallic compounds. In addition, CO<sub>2</sub> reacts with alkali metal salts of phenols (phenolates) to yield the hydroxy-carboxylate, <link target-id="eip-1134"/>. </para>
+
+<equation id="eip-1133">  <media id="id3577515_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-8068.jpg" id="id3577515__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+<equation id="eip-1134"><media id="id5703621_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-52ea.jpg" id="id5703621__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+      <para id="id7043634">A number of complexes of CO<sub>2</sub> with transition metals are known in which the coordination can occur via the central carbon (<link target-id="id3915724"/>a) or the C=O bond (<link target-id="id3915724"/>b). Alternatively, CO<sub>2</sub> can bridge two metal centers. </para>
+
+      <figure id="id3915724">
+        <media id="id3915724_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics15-679d.jpg" id="id3915724__onlineimage" width="200" print-width="1.75in"/>
+        </media>
+<caption>Bonding modes of CO<sub>2</sub> to transition metals.</caption>
+      </figure>
+
+    </section>
+
+
+
+    <section id="id4577508">
+      <title>Global warming and carbon dioxide</title>
+      <para id="id6713842">Global warming is the process of the observed increase in the average temperature of the Earth's near-surface air and oceans since the mid-20<sup>th</sup> century. Global surface temperature increased 0.74 °C (1.33 °F) between the start and the end of the 20<sup>th</sup> century (<link target-id="id5427599"/>). It is generally agreed that the majority of this temperature increase has occurred since the middle of the 20<sup>th</sup> century and was caused by increasing concentrations of greenhouse gases resulting from burning fossil fuels (the generation of additional CO<sub>2</sub>) and deforestation (the loss of a mechanism for the consumption of CO<sub>2</sub>), see <link target-id="id5427599"/>. While it is appreciated that natural phenomena (including solar radiation and volcanoes) produced most of the warming from pre-industrial times, the magnitude of the changes brought on by global industrialization is more significant. </para>
+
+
+        <figure id="id5427599">
+          <media id="id5427599_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-e339.jpg" id="id5427599__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>Correlation of Earth average temperature with carbon dioxide and global population. </caption>
+        </figure>
+
+
+
+
+
+      <para id="id6743188">The Earth’s atmosphere has two functions. First, the ozone (O<sub>3</sub>) in the upper atmosphere screens harmful UV from reaching the surface of the Earth. Second, as solar radiation penetrates the atmosphere a portion of the heat is then retained as a consequence of the CO<sub>2</sub> in the atmosphere. It is this process that modulates the surface temperature and provides a stable environment for life. The failure or alteration of either of these processes can have a dramatic effect on the livability of a planet. </para>
+
+      <para id="id7018608">Consider the relative position of Venus, Earth, and Mars to the Sun (<link target-id="id3578085"/>). The closer a planet is to the sun the greater the UV radiation and the greater the heating of the planet; however, the temperature is also greatly modulated by the atmosphere. Venus has an atmosphere comprising 95% CO<sub>2</sub> and has a surface temperature of approximately 450 °C. In contrast, while Mars’ atmosphere is also 95% CO<sub>2</sub>, it is only 1% as dense as that of Earth’s, and thus the surface temperatures range from 40 °C during the day (due to radiative heating) to –80 °C at night (due to the lack of retained heat because of the thin atmosphere). These should be compared to Earth’s atmosphere which is 0.038% CO<sub>2</sub>, which allows for the correct amount of heat to be retained to sustain life. Clearly any significant change in the CO<sub>2</sub> content of the atmosphere will change the global temperatures of a planet.</para>
+
+        <figure id="id3578085">
+          <media id="id3578085_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics17-2576.jpg" id="id3578085__onlineimage" width="500" print-width="5in"/>
+          </media>
+<caption>The relative size and position of the planets from the sun.</caption>
+        </figure>
+
+
+
+    </section>
+
+
+    <section id="id6599808">
+      <title>Bibliography</title>
+      <list id="id6715481" list-type="bulleted">
+        <item>N. Stern, <emphasis effect="italics">The Stern Review: The Economics of Climate Change</emphasis>, HM Treasury, London. </item>
+        <item>R. B. Gupta and J.-J. Shim, <emphasis effect="italics">Solubility in Supercritical Carbon Dioxide</emphasis>, CRC Press (2006). </item>
+        <item><emphasis effect="italics">Carbon Dioxide Capture and Storage: Special Report of the Intergovernmental Panel on Climate Change</emphasis>, Cambridge University Press (2005). </item>
+      </list>
+    </section>
+  </content>
+</document>

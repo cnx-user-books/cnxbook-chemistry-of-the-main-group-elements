@@ -1,0 +1,84 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Phosphorous Oxides</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35000</md:content-id>
+  <md:title>Phosphorous Oxides</md:title>
+  <md:abstract/>
+  <md:uuid>dfca7c87-1179-4ee9-beed-80e837a54b22</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id1166669787285">
+      <title>Phosphorous trioxide</title>
+      <para id="id6688798">The stoichiometric oxidation of white phosphorus yields phosphorous trioxide, <link target-id="eip-387"/>. </para>
+
+      
+
+      <equation id="eip-387"><media id="id1166677822634s_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-e634.jpg" id="id1166677822634s__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+<para id="id1166669798198">Several structural forms of phosphorous trioxide are known, but P<sub>4</sub>O<sub>6</sub> is a stable molecule structure (<link target-id="oxide"/>), while the rest are polymers. </para>
+
+<figure id="oxide"><media id="id1166661064962x_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-6376.jpg" id="id1166661064962x__onlineimage" width="200" print-width="2in"/>
+          </media>
+
+<caption>The structure of P<sub>4</sub>O<sub>6</sub>. Phosphorus atoms are represented by the large spheres, and oxygen atoms by the small spheres (Copyright: Karl Harrison, 2005).</caption></figure>
+
+      
+
+
+
+    </section>
+    <section id="id1166673726139">
+      <title>Phosphorous pentoxide</title>
+      <para id="id1166677836630">The reaction of white phosphorus with excess oxygen (or the oxidation of phosphorous trioxide) yields phosphorous pentoxide, <link target-id="eip-71"/>. </para>
+
+        
+
+      <equation id="eip-71"><media id="id1166660256268_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-6839.jpg" id="id1166660256268__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id6683450">The structure of hexagonal phosphorous pentoxide is actually that of the dimeric form, P<sub>4</sub>O<sub>10</sub>, and is based upon the structure of P<sub>4</sub>O<sub>6</sub>, but with P=O units instead of lone pairs (<link target-id="id1166661064962"/>). The structure is maintained in the vapor phase; however, other crystalline and glassy forms comprise of a sheet-like structure (<link target-id="id1166665005025"/>). </para>
+
+
+        <figure id="id1166661064962"><media id="id1166661064962_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-9013.jpg" id="id1166661064962__onlineimage" width="250" print-width="2.5in"/>
+          </media>
+
+        <caption>The structure of hexagonal P<sub>4</sub>O<sub>10</sub>. Phosphorus atoms are represented by the large spheres, and oxygen atoms by the small spheres (Copyright: Karl Harrison, 2005).</caption></figure>
+
+
+      <figure id="id1166665005025">
+        <media id="id1166665005025_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-ffd6.jpg" id="id1166665005025__onlineimage" width="200" print-width="2in"/>
+        </media>
+<caption>The structure of a sheet in glassy P<sub>4</sub>O<sub>10</sub>. </caption>
+      </figure>
+
+
+
+      <para id="id1166660710440">Phosphorous pentoxide is an excellent drying agent below 100 °C. It reacts with water to form various phosphoric acids, and it will extract water from other ‘drying agents’, e.g., <link target-id="eip-816 "/> and <link target-id="eip-629 "/>. Phosphorous pentoxide will dehydrate amides to give nitriles, <link target-id="eip-943"/>. </para>
+
+      
+
+      <equation id="eip-816"><media id="id1166667115749_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-4380.jpg" id="id1166667115749__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+        <equation id="eip-629"><media id="id1166661219691_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-41a7.jpg" id="id1166661219691__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><equation id="eip-943"><media id="id1166660719837_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-17d9.jpg" id="id1166660719837__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+    </section>
+  </content>
+</document>

@@ -1,0 +1,198 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Compounds of Fluorine</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33815</md:content-id>
+  <md:title>Compounds of Fluorine</md:title>
+  <md:abstract/>
+  <md:uuid>20364a84-2651-4da8-bc7e-7c654a21c6bf</md:uuid>
+</metadata>
+<content>
+    <para id="id1170254220218">Elemental fluorine (F<sub>2</sub>) is the most reactive element. Fluorine combines directly with all other elements, except nitrogen and the lighter noble gases. It also reacts with many compounds forming fluorides, and many organic compounds inflame and burn in the gas. The highly reactive nature is due to the weak F-F bond (thermodynamically unstable), which provides a low activation energy to reactions (kinetically unstable). The ΔG for reactions is often large due to the strength of the resulting X-F bonds. The weak F-F bond (158 kJ/mol) is due to the small size (0.5 Å) and high nuclear charge of fluorine that result in a small overlap of the bonding orbitals and a repulsion between the non-bonding orbitals (lone pairs) on the two fluorine atoms. </para>
+    <section id="id1170254141184">
+      <title>Ionic salts</title>
+      <para id="id4771029">The ease of formation of F<sup>-</sup> anion is due to the high electron affinity of fluorine (-322 kJ/mol). Since the fluoride ion is small (1.33 Å) and the least polarizable anion (i.e., <emphasis effect="italics">hard</emphasis>) it is stable in ionic lattices with metal cations in a high oxidation state (high charge), e.g., MnF<sub>4</sub> and CrF<sub>5</sub>. In general the highest oxidation states for any metal are found with the fluoride salts. The large ionization energies needed to produce the cations are recovered by the high lattice energies. </para>
+    </section>
+    <section id="id7647803">
+      <title>Covalent compounds</title>
+      <para id="id1170252390060">The high electronegativity of fluorine means that it forms a single electron pair bond polar bond with a high ionic character. The polar nature of the bond means that there is a large inductive effect within a molecule. For example, perfluoroethanol (CF<sub>3</sub>CF<sub>2</sub>OH) has an acidity comparable to acetic acid. </para>
+      <para id="id1170253352964">The high strength of X-F bonds (<link target-id="id1170253452379"/>) is also due to the high ionic character (up to 50%) that results in a high activation energy for bond breaking. In contrast, the low polarizability of the fluorine means that the inter-molecular van der Waals bonds are very weak. Thus, even with very high molecular weights the boiling point can be very low, e.g, WF<sub>6</sub>, Bp = 17 °C, Mw = 297.84 g/mol. </para>
+
+
+      <table id="id1170253452379" summary="Typical bond energies for X-F bonds.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Bond</emphasis></entry>
+              <entry><emphasis effect="bold">Bond energy (kJ/mol)</emphasis></entry>
+            </row>
+            <row>
+              <entry>C-F</entry>
+              <entry>486</entry>
+            </row>
+            <row>
+              <entry>N-F</entry>
+              <entry>272</entry>
+            </row>
+            <row>
+              <entry>P-F</entry>
+              <entry>490</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Typical bond energies for X-F bonds. </caption>
+</table>
+      
+      <para id="id1170254115452">A wide range of fluoride complexes may be prepared from both metal (FeF<sub>6</sub><sup>3-</sup>, RuF<sub>6</sub><sup>-</sup>, PtF<sub>6</sub><sup>2-</sup>, and SnF<sub>6</sub><sup>2-</sup>) and non-metal (BF<sub>4</sub><sup>-</sup>, SiF<sub>6</sub><sup>2-</sup>, and PF<sub>6</sub><sup>-</sup>) fluorides. While many fluorides are salts, when the metal is in its higher oxidation states (e.g., OsF<sub>6</sub> and WF<sub>6</sub>), the formation of an ionic lattice with the appropriate cation (i.e., Os<sup>6+</sup> and W<sup>6+</sup> respectively) is energetically unfavorable. </para>
+
+      <section id="id1170251739874">
+        <title>Hydrogen fluoride</title>
+        
+
+
+        <note id="eip-998" type="warning">Hydrogen fluoride (HF) is converted to highly corrosive hydrofluoric acid upon contact with moisture. Pure hydrogen fluoride must be handled in metal or polythene vessels, while aqueous solutions will readily etch and dissolve standard laboratory glassware requiring the use of fluorinated polymer (e.g., Teflon) containers. </note><para id="id1170253244163">Hydrogen fluoride is synthesized by the reaction of a fluoride salt with a concentrated acid, <link target-id="eip-61"/>. The HF vapor may be condensed, and then subsequently purified by distillation. </para>
+
+
+<equation id="eip-61"><media id="id61_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics1-93c3.jpg" id="id61__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+        <para id="id1170253414741">The H-F bonding in hydrogen fluoride involves an electron pair bond with a high degree of ionic character. This results in a very polar H-F bond and a large dipole moment (1.86 D). </para>
+
+        <para id="id1170253258701">In the vapor phase, hydrogen fluoride is monomeric above 80 °C, but at lower temperatures it associates into oligomers and small polymers, e.g., cyclic (HF)<sub>6</sub>, as a consequence of strong intermolecular hydrogen bonds. As a pure liquid (Mp = -83 °C, Bp = 19.5 °C) hydrogen fluoride is extensively associated by strong hydrogen bonding to form zig-zag polymers (<link target-id=" id1170250952143"/>). </para>
+
+        <figure id="id1170250952143"><media id="id1170250952143_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-cdb9.jpg" id="id1170250952143__onlineimage" width="250" print-width="2.5in"/>
+          </media>
+        <caption>The hydrogen bonding in HF. </caption></figure>
+        
+        <para id="id6519885">Hydrogen fluoride has a high dielectric constant (84.2) and as such is a good solvent for polar molecules. However, it is not a good solvent for salts (even fluorides) because it does not solvate cations too well. Despite this, it is useful as a solvent because it is non-oxidizing and easy to evaporate off products. </para>
+
+        <para id="id6804415">In a similar manner to water, hydrogen fluoride self-ionizes, <link target-id="eip-63"/>. Salts of H<sub>2</sub>F<sup>+</sup> are known and the F- anion is further solvated by the HF to form a series of salts, <link target-id="eip-64"/>. The complex anion HF<sub>2</sub><sup>-</sup> is also formed in aqueous solutions of hydrogen fluoride (pK = 0.7). </para>
+
+
+<equation id="eip-63"><media id="id63_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics3-a921.jpg" id="id63__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+<equation id="eip-64"><media id="id64_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics4-8d67.jpg" id="id64__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+
+        <para id="id1170251641014">Hydrogen fluoride is actually a weak acid in aqueous solution with a low pK = 3.5. In fact, HF is a weaker acid that the other halogen analogs: </para>
+
+
+<equation id="eip-65"><media id="id65_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics5-ba40.jpg" id="id65__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+        <para id="id1170253670069">This trend is despite the fluorine being more electronegative than the other halogens, but is consistent with the strength of the H-F bond (568 kJ/mol). </para>
+
+        <para id="id6496731">Hydrogen fluoride is used as a non-oxidizing acid for the hydrolysis of proteins and acid catalyzed condensation reaction. The stability of its salt (HF<sub>2</sub><sup>-</sup>) allow for the study of very strong acids, <link target-id="eip-66"/> and <link target-id="eip-67"/>. </para>
+
+<equation id="eip-66"><media id="id66_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics6-6edb.jpg" id="id66__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+<equation id="eip-67"><media id="id67_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics7-1799.jpg" id="id67__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+        <para id="id6368357">The acidity of HF may be increased sufficiently by the addition of a fluoride acceptor (e.g., SbF<sub>5</sub>) to facilitate the reaction with a weak base such as benzene, <link target-id="eip-68"/>. </para>
+
+
+<equation id="eip-68"><media id="id68_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics8-d11e.jpg" id="id68__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+        <para id="id1170253573624">Finally, hydrogen fluoride can be used in the synthesis of other fluorine-containing compounds: </para>
+
+
+  <equation id="eip-69"><media id="id69_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics9-9a45.jpg" id="id69__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+
+ <equation id="eip-610"><media id="id610_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics10-9563.jpg" id="id610__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+      </section>
+      <section id="id1170251083228">
+        <title>Organic fluorine compounds</title>
+        <para id="id1170253704911">Organic compounds in which some or all of the hydrogen atoms are replaced by fluorine have unique (and often important) properties. The high stability of fluorocarbon compounds is a consequence of the C-F bond energy (486 kJ/mol) in comparison with that of C-H (415 kJ/mol); however, while kinetically stable, fluorocarbons are not necessarily particularly thermodynamically stable. </para>
+
+        <para id="id1170256346524">Replacement of hydrogen with fluorine results in an increased density; since the small size of fluorine means that the minimal distortion or structural change occurs as a result of the substitution. As with metal salts, the weak inter-molecular forces means that completely fluorinated organic compounds have low boiling points. One attribute of the low inter-molecular forces is the low coefficient of friction for fluoropolymers such as polytetrafluoroethylene, commonly known as Teflon (<link target-id=" id1170253376256"/>). </para>
+
+        <figure id="id1170253376256"><media id="id1170253376256_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-287d.jpg" id="id1170253376256__onlineimage" width="125" print-width="1.25in"/>
+          </media>
+        <caption>The structure of polytetrafluoroethylene (Teflon). </caption></figure>
+        
+        <section id="id1170256354839">
+          <title>Synthetic routes to fluorocarbon compounds</title>
+          <para id="id6464975">The simplest route to a fluorocarbon compounds involves the direct replacement of another halogen by a metal fluoride, <link target-id="eip-612"/>. The driving force for this reaction depends on the free-energy difference of MF and MCl, which is related to the difference in lattice energies. Thus, the larger the metal cation, the more favored the reaction. In this regard, AgF and CsF are the most effective fluorination agent. </para>
+
+
+<equation id="eip-612"><media id="id612_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics12-1369.jpg" id="id612__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+          <para id="id1170250975406">Anhydrous hydrogen fluoride (HF) reacts with chlorocarbon compounds in the presence of a catalyst such as SbCl<sub>5</sub> or CrF<sub>4</sub>, <link target-id="eip-613"/>. However, elevated temperatures (50 – 150 °C) and high pressures (50 – 500 psi) are required. </para>
+
+<equation id="eip-613"><media id="id613_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics13-22b9.jpg" id="id613__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+          <para id="id1170252332013">The direct replacement of hydrogen with fluorine is possible if the reaction is carried out under dilute conditions in the presence of a catalyst, <link target-id="eip-614"/>. </para>
+
+   <equation id="eip-614"><media id="id614_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics14-8a49.jpg" id="id614__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+          <para id="id6545140">Sulfur tetrafluoride (SF<sub>4</sub>) is a particularly selective fluorination agent. It can be used to convert ketones to difluoro compounds, <link target-id="eip-615"/>. </para>
+
+
+       <equation id="eip-615"><media id="id615_media" alt="">
+<image mime-type="image/jpg" src="../../media/graphics15-555c.jpg" id="id615__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+
+        </section>
+      </section>
+    </section>
+  </content>
+</document>

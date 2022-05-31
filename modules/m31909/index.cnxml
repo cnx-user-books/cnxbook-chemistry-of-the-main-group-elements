@@ -1,0 +1,435 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Alkali Metal Elements</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31909</md:content-id>
+  <md:title>The Alkali Metal Elements</md:title>
+  <md:abstract/>
+  <md:uuid>f6f11514-f5ab-4b32-9d05-8dff0c68ce31</md:uuid>
+</metadata>
+
+<content>
+    <para id="id8549003">The Group 1 metals have a particular name: the alkali metals. This is due to the formation of alkali (basic) solutions upon their reaction with water. <link target-id="id1170867062372"/> lists the derivation of the names of the alkali metals. </para>
+    <table id="id1170867062372" summary="Derivation of the names of each of the alkali metal elements.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Symbol</emphasis></entry>
+            <entry><emphasis effect="bold">Name</emphasis></entry>
+          </row>
+          <row>
+            <entry>Lithium</entry>
+            <entry>Li</entry>
+            <entry>Greek <emphasis effect="italics">lithos</emphasis> meaning <emphasis effect="italics">stone</emphasis></entry>
+          </row>
+          <row>
+            <entry>Sodium</entry>
+            <entry>Na</entry>
+            <entry>Latin <emphasis effect="italics">natrium</emphasis> or Arabic <emphasis effect="italics">natrun</emphasis> meaning <emphasis effect="italics">soda</emphasis></entry>
+          </row>
+          <row>
+            <entry>Potassium</entry>
+            <entry>K</entry>
+            <entry>From the Latin <emphasis effect="italics">kalium</emphasis>, and from Arabic <emphasis effect="italics">al-qali</emphasis> meaning <emphasis effect="italics">plant ashes</emphasis></entry>
+          </row>
+          <row>
+            <entry>Rubidium </entry>
+            <entry>Rb </entry>
+            <entry>Latin <emphasis effect="italics">rubidus</emphasis> meaning <emphasis effect="italics">deepest red</emphasis></entry>
+          </row>
+          <row>
+            <entry>Caesium</entry>
+            <entry>Cs</entry>
+            <entry>Latin <emphasis effect="italics">caesius</emphasis> meaning <emphasis effect="italics">blueish grey</emphasis></entry>
+          </row>
+          <row>
+            <entry>Francium</entry>
+            <entry>Fr</entry>
+            <entry>Named after France</entry>
+          </row>
+        </tbody>
+      
+
+
+
+</tgroup><caption>Derivation of the names of each of the alkali metal elements. </caption>
+</table>
+    
+    
+    <note id="eip-905">Caesium is the international spelling standardized by the IUPAC, but in the United States it is more commonly spelled as cesium. </note><section id="id1170865124012">
+      <title>Discovery</title>
+      <section id="id1170884384920">
+        <title>Lithium</title>
+        <para id="id6025331">Petalite (Li<sub>2</sub>O.Al<sub>2</sub>O<sub>3</sub>.8SiO<sub>2</sub>) was first discovered in 1800 by José Bonifácio de Andrade e Silva (<link target-id="id1170887531808"/>), who discovered the mineral in a Swedish mine on the island of Utö. However, it was not until 1817 that Johan August Arfwedson (<link target-id=" id1170869148385"/>) working in the laboratory of Jöns Jakob Berzelius (<link target-id=" id1170869646274"/>), discovered the presence of a new element while analyzing petalite ore. Named from the Greek <emphasis effect="italics">lithos</emphasis> meaning <emphasis effect="italics">stone</emphasis> reflected its discovery in a mineral, as opposed to sodium and potassium, which had been discovered in plant tissue; its name was later standardized as lithium. The element was not isolated until 1821, when William Brande (<link target-id=" id1170890328251"/>) isolated the element by performing electrolysis on lithium oxide, a process previously employed by Sir Humphry Davy to isolate potassium and sodium. </para>
+
+          <figure id="id1170887531808"><media id="id1170887531808_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics1-0c67.jpg" id="id1170887531808__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Portuguese statesman and naturalist José Bonifácio de Andrada e Silva (1763 - 1838). </caption></figure>
+
+        
+        <figure id="id1170869148385"><media id="id1170869148385_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-4ff4.jpg" id="id1170869148385__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>Swedish chemist Johan August Arfwedson (1792 - 1841). </caption></figure>
+        
+          <figure id="id1170869646274"><media id="id1170869646274_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3-668f.jpg" id="id1170869646274__onlineimage" width="300" print-width="2in"/>
+            </media> 
+          <caption>Swedish chemist Friherre Jöns Jacob Berzelius (1779 - 1848).</caption></figure>
+
+        
+        <figure id="id1170890328251"><media id="id1170890328251_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-04c4.jpg" id="id1170890328251__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>English chemist William Thomas Brande FRS (1788 - 1866).</caption></figure>
+        
+      </section>
+      <section id="id1170867697569">
+        <title>Sodium</title>
+        <para id="id1170884589239">Elemental sodium was first isolated by Sir Humphry Davy (<link target-id=" id1170857131279"/>) in 1806 by passing an electric current through molten sodium hydroxide. </para>
+
+
+          <figure id="id1170857131279"><media id="id1170857131279_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics5-d6da.jpg" id="id1170857131279__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>British chemist and inventor Sir Humphry Davy FRS (1778 - 1829). </caption></figure>
+
+        
+      </section>
+      <section id="id7424788">
+        <title>Potassium</title>
+        <para id="id1170888271464">The name <emphasis effect="italics">kalium</emphasis> was taken from the word <emphasis effect="italics">alkali</emphasis>, which came from Arabic <emphasis effect="italics">al qali</emphasis> meaning <emphasis effect="italics">the calcined ashes</emphasis>. The name potassium was made from the English word <emphasis effect="italics">potash</emphasis>, meaning an alkali extracted in a pot from the ash of burnt wood or tree leaves. Potassium metal was discovered in 1807 by Sir Humphry Davy (<link target-id="id1170857131279"/>), who derived it from caustic potash (KOH), by the use of electrolysis of the molten salt. </para>
+      </section>
+      <section id="id1170868155388">
+        <title>Rubidium</title>
+        <para id="id1170857126364">Rubidium was discovered using spectroscopy in 1861 by Robert Bunsen (<link target-id="id1170892900250"/>) and Gustav Kirchhoff (<link target-id=" id1170862661033"/>) in the mineral lepidolite. The first rubidium metal was produced by Bunsen from the reaction of rubidium chloride (RbCl) with potassium.</para>
+
+
+
+
+
+
+
+
+
+          <figure id="id1170892900250"><media id="id1170892900250_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-3b8d.jpg" id="id1170892900250__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>German chemist Robert Wilhelm Eberhard Bunsen (1811 - 1899). </caption></figure>
+
+
+
+        <figure id="id1170862661033"><media id="id1170862661033_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-4481.jpg" id="id1170862661033__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>German physicist Gustav Robert Kirchhoff (1824 - 1887). </caption></figure>
+
+      </section>
+
+
+
+      <section id="id1170883265637">
+        <title>Caesium</title>
+        <para id="id1170894970861">Like Rubidium, caesium was discovered spectroscopically by Bunsen (<link target-id="id1170892900250"/>) and Kirchhoff (<link target-id=" id1170862661033"/>) in 1860 in mineral water from Dürkheim, Germany. The residues of 44,000 liters of mineral water yielded several grams of a caesium salt. Its identification was based upon the bright blue lines in its spectrum and it was the first element discovered by spectral analysis. The first caesium metal was subsequently produced in 1882 by electrolysis of caesium chloride. </para>
+      </section>
+      <section id="id1170890468541">
+        <title>Francium</title>
+        <para id="id8642665">Originally known as eka-caesium, francium was discovered in 1939 by Marguerite Perey (<link target-id="id1170857995147"/>) of the Curie Institute in Paris, France when she purified a sample of actinium-227, which had been reported to have a decay energy of 220 keV. However, Perey noticed decay particles with an energy level below 80 keV. Perey thought this decay activity was caused by a previously unidentified element, which exhibited chemical properties of an alkali metal. This led Perey to believe that it was element 87, caused by the alpha decay of actinium-227. Perey named the new isotope actinium-K (now referred to as francium-223) and in 1946, she proposed the name catium for her newly discovered element, however, she subsequently suggested francium, after France. </para>
+
+
+        <figure id="id1170857995147"><media id="id1170857995147_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-d23e.jpg" id="id1170857995147__onlineimage" width="300" print-width="2in"/>
+          </media>
+
+        <caption>French physicist Marguerite Catherine Perey (1909 - 1975), a student of Marie Curie, and the first woman to be elected to the French Académie des Sciences. </caption></figure>
+
+      </section>
+    </section>
+    <section id="id1170864280846">
+      <title>Abundance</title>
+      <para id="id1170866204533">The abundance of the alkali metals is given in <link target-id="id1170878280298"/>. Sodium’s high abundance is due mainly to large underground deposits of rock salt (NaCl). However, sodium is also more abundant in seawater (10,800 ppm) as compared to potassium (380 ppm). </para>
+      <table id="id1170878280298" summary="Abundance of alkali metal elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Terrestrial abundance (ppm)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Li</entry>
+              <entry>20 (Earth’s crust), 40 (soil), 0.17 (sea water)</entry>
+            </row>
+            <row>
+              <entry>Na</entry>
+              <entry>23,000 (Earth’s crust), 10,500 (sea water)</entry>
+            </row>
+            <row>
+              <entry>K</entry>
+              <entry>21,000 (Earth’s crust), 14 (soil), 380 (sea water)</entry>
+            </row>
+            <row>
+              <entry>Rb </entry>
+              <entry>90 (Earth’s crust), 30 - 250 (soil), 0.1 (sea water)</entry>
+            </row>
+            <row>
+              <entry>Cs</entry>
+              <entry>3 (Earth’s crust), 0.0001 (soil), 0.0003 (sea water)</entry>
+            </row>
+            <row>
+              <entry>Fr</entry>
+              <entry>Essentially nil</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Abundance of alkali metal elements. </caption>
+</table>
+      
+    </section>
+    <section id="id6284176">
+      <title>Isotopes</title>
+      <para id="id6252313">The naturally abundant isotopes of the alkali metals are listed in <link target-id="id1170896090392"/>. All of the isotopes of francium are radioactive. Lithium-7 and sodium-23 are both useful NMR nucleus having I = <sup>1</sup>/<sub>2</sub>. </para>
+      <table id="id1170896090392" summary="Abundance of the major isotopes of the alkali metals.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Isotope</emphasis></entry>
+              <entry><emphasis effect="bold">Natural abundance (%)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Lithium-6</entry>
+              <entry>7.5</entry>
+            </row>
+            <row>
+              <entry>Lithium-7</entry>
+              <entry>92.5</entry>
+            </row>
+            <row>
+              <entry>Sodium-23</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Potassium-39</entry>
+              <entry>93</entry>
+            </row>
+            <row>
+              <entry>Potassium-40</entry>
+              <entry>0.0118</entry>
+            </row>
+            <row>
+              <entry>Potassium-41</entry>
+              <entry>6.9</entry>
+            </row>
+            <row>
+              <entry>Caesium-133</entry>
+              <entry>100</entry>
+            </row>
+
+
+</tbody>
+        
+</tgroup><caption>Abundance of the major isotopes of the alkali metals. </caption>
+</table>
+      
+      <para id="id1170873124773">Potassium has three isotopes (<link target-id="id1170896090392"/>), of which potassium-40 is radioactive and provides the basis for the determination of the age of rocks between 10<sup>5</sup> and 10<sup>9</sup> years old, i.e., those formed in proterozoic and cenozoic periods of geological time. The decay of potassium-40 occurs with a half life of 1.31 x 10<sup>9</sup> years, by two routes. That associated with a beta particle decay accounts for 89% of the decay: </para>
+
+      
+
+      <equation id="eip-723"><media id="id1170865033066_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-6440.jpg" id="id1170865033066__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation><para id="id1170881084486">While that associated with an electron capture and by positron emission decay accounts for 11% of the decay to give argon-40. Since many rocks contain potassium containing minerals the decay of potassium-40 after solidification of the rock will result in the formation of argon trapped in the rock. The argon-40 content is determined by mass spectrometry, while the potassium content is determined by flame spectrophotometry. The ratio of the two, <link target-id="eip-868"/>, will allow for the determination of the elapsed time since the rock solidified. </para>
+
+      
+
+      <equation id="eip-868"><media id="id1170868560057_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-d3a4.jpg" id="id1170868560057__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1170876416325">Caesium has at least 39 known isotopes (more than any other element except francium) ranging from caesium-112 caesium-151; however, caesium-133 is the only naturally occurring stable isotope. The other isotopes have half-lives from a few days to fractions of a second. The radiogenic isotope caesium-137 is produced from the detonation of nuclear weapons and is produced in nuclear power plants, and was released to the atmosphere most notably from the 1986 Chernobyl accident. </para>
+    </section>
+    <section id="id8244398">
+      <title>Physical properties</title>
+      <para id="id1170879701916">Many of the physical properties of the alkali metals (<link target-id="id1170869110788"/>) are typical of metals, e.g., thermal and electrical conductivity. However, due to the relatively weak inter-atomic forces (weak M-M bonding) they are soft and readily cut with a knife. </para>
+      <table id="id1170869110788" summary="Selected physical properties of the alkali metal elements.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Density (g/cm<sup>3</sup>)</emphasis></entry>
+              <entry><emphasis effect="bold">Electrical resistivity (Ω·cm)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Li</entry>
+              <entry>453 </entry>
+              <entry>1615 </entry>
+              <entry>0.534 </entry>
+              <entry>12.17 @ 86 °C </entry>
+            </row>
+            <row>
+              <entry>Na</entry>
+              <entry>370 </entry>
+              <entry>1156 </entry>
+              <entry>0.968 </entry>
+              <entry>5.23 @ 29 °C</entry>
+            </row>
+            <row>
+              <entry>K</entry>
+              <entry>336 </entry>
+              <entry>1032 </entry>
+              <entry>0.89 </entry>
+              <entry>7.01 @ 22.8 °C</entry>
+            </row>
+            <row>
+              <entry>Rb </entry>
+              <entry>312 </entry>
+              <entry>961 </entry>
+              <entry>1.532 </entry>
+              <entry>12.53 @ 53 °C</entry>
+            </row>
+            <row>
+              <entry>Cs</entry>
+              <entry>301 </entry>
+              <entry>944 </entry>
+              <entry>1.93 </entry>
+              <entry>37.38 @ 28.1 °C</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Selected physical properties of the alkali metal elements. </caption>
+</table>
+      
+    </section>
+    <section id="id1170863950955">
+      <title>Reactivity</title>
+      <para id="id6527143">All the alkali metals are highly reactive and are as a consequence of the stability of the M<sup>+</sup> ion are strong reducing agents (<link target-id="id1170880242224"/>). The metals react readily with hydrogen and oxygen. </para>
+
+      
+
+
+      <equation id="eip-35"><media id="id1170884421831_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-8316.jpg" id="id1170884421831__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+      <equation id="eip-233"><media id="id6165006_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-89bd.jpg" id="id6165006__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation><table id="id1170880242224" summary="Electrochemical reduction potential for alkali metals.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Reduction</emphasis></entry>
+              <entry><emphasis effect="bold">Reduction potential (V)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Li<sup>+</sup> + e<sup>-</sup> → Li</entry>
+              <entry>-3.045</entry>
+            </row>
+            <row>
+              <entry>Na<sup>+</sup> + e<sup>-</sup> → Na</entry>
+              <entry>-2.7109</entry>
+            </row>
+            <row>
+              <entry>K<sup>+</sup> + e<sup>-</sup> → K</entry>
+              <entry>-2.924</entry>
+            </row>
+            <row>
+              <entry>Rb<sup>+</sup> + e<sup>-</sup> → Rb</entry>
+              <entry>-2.925</entry>
+            </row>
+            <row>
+              <entry>Cs<sup>+</sup> + e<sup>-</sup> → Cs</entry>
+              <entry>-2.923</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Electrochemical reduction potential for alkali metals. </caption>
+</table>
+      
+      <para id="id1170868970877">All of the alkali metals react with water to liberate hydrogen. </para>
+
+      
+
+      <equation id="eip-453"><media id="id1170867245265_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-a728.jpg" id="id1170867245265__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+      <note id="eip-553" type="warning">The reactions of alkali metals with water are exothermic and the heat generated is sufficient to ignite the hydrogen. In addition the solutions formed are highly alkaline. Caution should be taken when handling alkali metals and storage should always be under mineral oil.</note><para id="id1170866033463">A similar, but less violent, reaction is also observed with ammonia when catalyzed by transition metal ions. </para>
+      
+      <equation id="eip-426"><media id="id2442685_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-fed3.jpg" id="id2442685__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><para id="id1170869979190">In the absence of a catalyst, the Group 1 metals dissolve in liquid ammonia to form solutions with characteristic properties. </para>
+      <list id="id1170864609674" list-type="bulleted">
+        <item>Highly reducing. </item>
+        <item>Blue color. </item>
+        <item>ESR signal due to solvated electrons. </item>
+      </list>
+      <para id="id3422390">As an example, the dissolution of sodium in liquid ammonia results in the formation of solvated Na<sup>+</sup> cations and electrons. </para>
+      
+      
+      <equation id="eip-712"><media id="id1170877235657_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics15-a1a1.jpg" id="id1170877235657__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+      <para id="eip-27">The solvated electrons are stable in liquid ammonia and form a complex: [e<sup>-</sup>(NH<sub>3</sub>)<sub>6</sub>]. It is this solvated electron that gives the strong reducing properties of the solution as well as the characteristic signal in the ESR spectrum associated with a single unpaired electron. The blue color of the solution is often ascribed to these solvated electrons; however, their absorption is in the far infra-red region of the spectrum. A second species, Na<sup>-</sup><sub>(solv)</sub>, is actually responsible for the blue color of the solution.</para>
+
+<equation id="eip-584"><media id="id1170877015719_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics16-5c81.jpg" id="id1170877015719__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+<para id="id1170880909950">The formation of the sodium anion is confirmed by complexation of the cation with a cryptan ligand (“C”) such as a crown ether. </para>
+      
+      <equation id="eip-939"><media id="id1170884628662_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics17-8824.jpg" id="id1170884628662__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+<para id="id1170881032707">The resulting complex is found to be isostructural to the iodide analog in the solid state. </para>
+
+
+      <equation id="eip-111">
+<media id="id2459202_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics18-f422.jpg" id="id2459202__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+
+
+
+
+      
+    </section>
+    <section id="id1170867058720">
+      <title>Vapor phase</title>
+      <para id="id1170891839160">All the alkali metals form M<sub>2</sub> dimers in the vapor phase in an analogous manner to hydrogen. As with dihydrogen the bonding is associated with the molecular orbital combination of the two valence s-orbitals (<link target-id="id1170888188895"/>). </para>
+
+      <figure id="id1170888188895"><media id="id1170888188895_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics19-8a6d.jpg" id="id1170888188895__onlineimage" width="400" print-width="3in"/>
+        </media>
+
+      <caption>Molecular orbital diagram for the formation of M<sub>2</sub>. </caption></figure>
+
+
+
+
+      <para id="id1170864054937">Sodium vapor is commonly used for lighting in a gas discharge lamp, which uses sodium in an excited state to produce light (<link target-id="id1170880334639"/>). There are two varieties of such lamps: low pressure and high pressure.</para>
+
+      <figure id="id1170880334639">
+        <media id="id1170880334639_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics20-3ded.jpg" id="id1170880334639__onlineimage" width="350" print-width="3in"/>
+        </media>
+<caption>A low pressure sodium streetlamp.</caption>
+      </figure>
+
+    </section>
+  </content>
+</document>

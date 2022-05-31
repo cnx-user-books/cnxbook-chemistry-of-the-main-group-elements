@@ -1,0 +1,427 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Alkaline Earth Elements</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31948</md:content-id>
+  <md:title>The Alkaline Earth Elements</md:title>
+  <md:abstract/>
+  <md:uuid>bc6f679a-1fd3-40fe-b992-2271cc323456</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id5134860">The Group 2 metals have a particular name: the alkaline earth metals. The name is derived from the observation that they have such high melting points (<link target-id="id1608451"/>) that they remain solids (“earths”) in a fire. <link target-id="id1171922699540"/> lists the derivation of the names of the alkali metals. </para>
+    <table id="id1608451" summary="Melting points of the alkaline earth metals in comparison with the alkali metals.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Alkali metal </emphasis></entry>
+            <entry><emphasis effect="bold">Melting point (°C)</emphasis></entry>
+            <entry><emphasis effect="bold">Alkaline earth metal </emphasis></entry>
+            <entry><emphasis effect="bold">Melting point (°C)</emphasis></entry>
+          </row>
+          <row>
+            <entry>Li</entry>
+            <entry>180.54</entry>
+            <entry>Be</entry>
+            <entry>1287</entry>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>97.72</entry>
+            <entry>Mg</entry>
+            <entry>650</entry>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>63.38</entry>
+            <entry>Ca</entry>
+            <entry>842</entry>
+          </row>
+          <row>
+            <entry>Rb</entry>
+            <entry>39.31</entry>
+            <entry>Sr</entry>
+            <entry>777</entry>
+          </row>
+          <row>
+            <entry>Cs</entry>
+            <entry>28.44</entry>
+            <entry>Ba</entry>
+            <entry>727</entry>
+          </row>
+          <row>
+            <entry>Fr</entry>
+            <entry>27 (estimated)</entry>
+            <entry>Ra</entry>
+            <entry>700</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Melting points of the alkaline earth metals in comparison with the alkali metals. </caption>
+</table>
+    
+    
+
+
+
+<table id="id1171922699540" summary="Derivation of the names of the alkaline earth metals.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Symbol</emphasis></entry>
+            <entry><emphasis effect="bold">Name</emphasis></entry>
+          </row>
+          <row>
+            <entry>Beryllium </entry>
+            <entry>Be</entry>
+            <entry>From the Greek <emphasis effect="italics">bērullos </emphasis>meaning<emphasis effect="italics"> to become pale</emphasis>, in reference to the pale semiprecious gemstone beryl</entry>
+          </row>
+          <row>
+            <entry>Magnesium</entry>
+            <entry>Mg</entry>
+            <entry>From the <emphasis effect="italics">Magnesia</emphasis> district in Greece </entry>
+          </row>
+          <row>
+            <entry>Calcium</entry>
+            <entry>Ca</entry>
+            <entry>From the Latin <emphasis effect="italics">calcis</emphasis> meaning <emphasis effect="italics">lime</emphasis></entry>
+          </row>
+          <row>
+            <entry>Strontium </entry>
+            <entry>Sr </entry>
+            <entry>From the mineral <emphasis effect="italics">strontianite</emphasis> named after the Scottish village of <emphasis effect="italics">Strontian</emphasis></entry>
+          </row>
+          <row>
+            <entry>Barium</entry>
+            <entry>Ba</entry>
+            <entry>From the Greek <emphasis effect="italics">bary</emphasis>, meaning <emphasis effect="italics">heavy</emphasis></entry>
+          </row>
+          <row>
+            <entry>Radium</entry>
+            <entry>Ra</entry>
+            <entry>From the Latin <emphasis effect="italics">radius</emphasis> meaning <emphasis effect="italics">ray</emphasis></entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Derivation of the names of the alkaline earth metals. </caption>
+</table>
+    
+    <section id="id1171924485784">
+      <title>Discovery</title>
+      <section id="id4435399">
+        <title>Beryllium</title>
+        <para id="id1171924024358">Beryllium was discovered by Louis-Nicolas Vauquelin (<link target-id="id1171922777389"/>) in 1798 as a component in beryls and emeralds; however, Fredrich Wöhler (<link target-id=" id1613776"/>) and Antoine Bussy (<link target-id="id1171922957799"/>) independently isolated the metal in 1828 by reacting potassium with beryllium chloride, <link target-id="eip-131"/>. </para>
+        
+        <equation id="eip-131"><media id="id1171924476944_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-a457.jpg" id="id1171924476944__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+          <figure id="id1171922777389"><media id="id1171922777389_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics2-897a.jpg" id="id1171922777389__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>French pharmacist and chemist Louis Nicolas Vauquelin (1763 - 1829). </caption></figure>
+        
+        <figure id="id1613776"><media id="id1613776_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-23ed.jpg" id="id1613776__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>German chemist Friedrich Wöhler (1800 - 1882) also known for his synthesis of urea and, thus, the founding of the field of natural products synthesis. </caption></figure>
+        
+   
+          <figure id="id1171922957799"><media id="id1171922957799_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics4-0bd9.jpg" id="id1171922957799__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>French chemist Antoine Alexandre Brutus Bussy (1794 - 1882). </caption></figure>
+   
+        
+      </section>
+      <section id="id3676659">
+        <title>Magnesium</title>
+        <para id="id1171924104590">Magnesium is found in large deposits of magnesite and dolomite, and in mineral waters where the Mg<sup>2+</sup> ion is soluble. In 1618 a farmer at Epsom in England attempted to give his cows water from a well. The farmer noticed that the water seemed to heal scratches and rashes. These <emphasis effect="italics">Epsom salts</emphasis> were recognized to be hydrated magnesium sulfate, MgSO<sub>4</sub>. The metal was first isolated in 1808 by Sir Humphry Davy (<link target-id="id1171929585956"/>) via the electrolysis of a mixture of magnesia and mercury oxide. </para>
+        <figure id="id1171929585956"><media id="id1171929585956_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-ff13.jpg" id="id1171929585956__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>British chemist and inventor Sir Humphry Davy FRS (1778 - 1829). </caption></figure>
+        
+        <para id="id8892815">Antoine Bussy (<link target-id=" id1171922957799"/>) subsequently prepared magnesium by heating magnesium chloride and potassium in a glass tube, <link target-id="eip-322"/>. When the potassium chloride was washed out, small globules of magnesium remained. </para>
+
+<equation id="eip-322"><media id="id1171926432887_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-c1f3.jpg" id="id1171926432887__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+        
+      </section>
+      <section id="id3714062">
+        <title>Calcium</title>
+        <para id="id1171923601901">Calcium oxide or lime was known in ancient Rome, while even in 975 AD, Plaster of Paris (calcium sulphate) was reported to be useful for setting broken bones. The element itself was not isolated until 1808 when Sir Humphry Davy (<link target-id="id1171929585956"/>) electrolyzed a mixture of lime and mercuric oxide (HgO). His work was based upon prior work by Jöns Berzelius (<link target-id="id1171923689283"/>) who had prepared calcium amalgam (an alloy of calcium and mercury) by electrolyzing lime in mercury. </para>
+        <figure id="id1171923689283"><media id="id1171923689283_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-d1a0.jpg" id="id1171923689283__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>Swedish chemist Jöns Jacob Berzelius (1779 – 1848). </caption></figure>
+        
+      </section>
+      <section id="id1171923314952">
+        <title>Strontium</title>
+        <para id="id1171928473472">Discovered in lead mines in 1787 the mineral strontianite was named after the Scottish village of Strontian. Although it was realized that this mineral was different from others that contained barium, it wasn’t until 1798 that Thomas Hope (<link target-id="id1171923786380"/>) suggested the presence of a new element. As with calcium, metallic strontium was first isolated by Sir Humphry Davy (<link target-id="id1171929585956"/>) in 1808 using electrolysis of a mixture containing strontium chloride and mercuric oxide. </para>
+    
+          <figure id="id1171923786380"><media id="id1171923786380_media" alt="">
+              <image mime-type="image/jpg" src="../../media/hope.jpg" id="id1171923786380__onlineimage" width="300" print-width="2in"/>
+            </media>
+          <caption>Scottish chemist Thomas Charles Hope (1766 - 1844). </caption></figure>
+       
+        
+      </section>
+      <section id="id1171924470962">
+        <title>Barium</title>
+        <para id="id1171924986687">Barium minerals were known by alchemists in the early Middle Ages. Stones of the mineral barite found in Bologna, Italy (also known as <emphasis effect="italics">Bologna stones</emphasis>), were known to glow after exposure to light. Carl Scheele (<link target-id="id1171923550834"/>) identified barite in 1774, but did not isolate barium. Barium was first isolated as Ba<sup>2+</sup> in solution by Sir Humphry Davy (<link target-id="id1171929585956"/>) in 1808. The oxidized barium was at first called <emphasis effect="italics">barote</emphasis>, by Guyton de Morveau, (<link target-id="id1171923040127"/>) which was changed by Antoine Lavoisier (<link target-id="id1171923250553"/>) to <emphasis effect="italics">baryta</emphasis>, from which <emphasis effect="italics">barium</emphasis> was derived to describe the metal. </para>
+        <figure id="id1171923550834"><media id="id1171923550834_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics9-aeda.png" id="id1171923550834__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>German-Swedish pharmaceutical chemist Carl Wilhelm Scheele (1742 - 1786). Author Isaac Asimov has called him "hard-luck Scheele" because he made a number of chemical discoveries before others who are generally given the credit. </caption></figure>
+        
+        <figure id="id1171923040127"><media id="id1171923040127_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-c27e.jpg" id="id1171923040127__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>French chemist and politician Louis-Bernard Guyton de Morveau (1737 - 1816) changed his name to Guyton-Morveau after the French Revolution. </caption></figure>
+        
+        <figure id="id1171923250553"><media id="id1171923250553_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-983b.jpg" id="id1171923250553__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>French chemist and biologist Antoine-Laurent de Lavoisier (1743 – 1794).</caption></figure>
+        
+      </section>
+      <section id="id1171923714953">
+        <title>Radium</title>
+        <para id="id1171924315576">Radium was discovered by Marie Curie (<link target-id="id5330560"/>) and her husband Pierre (<link target-id="id1171924890092"/>) in 1898 while studying pitchblende. After removing uranium they found that the remaining material was still radioactive. They then separated out a radioactive mixture consisting mostly of barium and an element that gave crimson spectral lines that had never been documented before. In 1910, radium was isolated as a pure metal by Curie and André-Louis Debierne (<link target-id="id1171928602074"/>) through the electrolysis of a radium chloride solution by using a mercury cathode and distilling in an atmosphere of hydrogen gas. </para>
+        <figure id="id5330560"><media id="id5330560_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-5c23.jpg" id="id5330560__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>Marie Curie (1867-1934). Copyright Academy of Achievement.</caption></figure>
+        
+        <figure id="id1171924890092"><media id="id1171924890092_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-5386.jpg" id="id1171924890092__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>French physicist Pierre Curie (1859 – 1906). </caption></figure>
+        
+        <figure id="id1171928602074"><media id="id1171928602074_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-6c08.jpg" id="id1171928602074__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>French chemist André-Louis Debierne (1874 - 1949). </caption></figure>
+        
+      </section>
+    </section>
+    <section id="id1171928395009">
+      <title>Abundance</title>
+      <para id="id1171929523976">The abundance of the alkaline earth elements is given in <link target-id="id1171929517262"/>. Beryllium is rare, but found in the mineral beryl (Be<sub>3</sub>Al<sub>2</sub>Si<sub>6</sub>O<sub>18</sub>). While magnesium is widespread within the Earth's crust, commercial sources tend to be from sea water as well as the carbonate minerals magnesite (MgCO<sub>3</sub>) and dolomite [(Ca,Mg)CO<sub>3</sub>]. Calcium is also commonly found as the carbonate, however, strontium and barium are present as the sulphates celestine (SrSO<sub>4</sub>) and barites (BaSO<sub>4</sub>), respectively. </para>
+      <table id="id1171929517262" summary="Abundance of alkaline earth elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Terrestrial abundance (ppm)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Be</entry>
+              <entry>2.6 (Earth’s crust), 6 (soil), 2 x 10<sup>-7</sup> (sea water)</entry>
+            </row>
+            <row>
+              <entry>Mg</entry>
+              <entry>23,000 (Earth’s crust), 10,000 (soil), 1,200 (sea water)</entry>
+            </row>
+            <row>
+              <entry>Ca</entry>
+              <entry>41,000 (Earth’s crust), 20,000 (soil), 400 (sea water)</entry>
+            </row>
+            <row>
+              <entry>Sr </entry>
+              <entry>370 (Earth’s crust), 200 (soil), 8 (sea water)</entry>
+            </row>
+            <row>
+              <entry>Ba</entry>
+              <entry>500 (Earth’s crust), 500 (soil), 0.001 (sea water)</entry>
+            </row>
+            <row>
+              <entry>Ra</entry>
+              <entry>6 x 10<sup>-7</sup> (Earth’s crust), 8 x 10<sup>-7</sup> (soil), 1 x 10<sup>-10</sup> (sea water)</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Abundance of alkaline earth elements. </caption>
+</table>
+      
+      <para id="id1171925288426">Calcium is a key element for living. Not only is it present as the skeletal material for shell fish and crabs (CaCO<sub>3</sub>) its phosphate derivative, hydroxyapetite [Ca<sub>5</sub>(OH)(PO<sub>4</sub>)<sub>3</sub>] is the structural material of bones and teeth. Calcium is also present in soft tissue at a level of ca. 22g/kg. Calcium is a vital metal for the following:  </para>
+      <list id="id1171924691052" list-type="bulleted">
+        <item>Links large molecules together. </item>
+        <item>Used in the activation of muscles</item>
+        <item>Used in enzyme activation by stabilization of particular conformations of proteins to be acted upon by enzymes. </item>
+      </list>
+    </section>
+    <section id="id8961324">
+      <title>Isotopes</title>
+      <para id="id1171923031698">The naturally abundant isotopes of the alkaline earth elemets are listed in <link target-id="id1171923700931"/>. All of the 25 isotopes of radium are radioactive, and while radium-223, radium-224, and radium-228 are found in nature as decay products of either uranium or thorium, they are only present in trace amounts. 
+
+</para>
+      <table id="id1171923700931" summary="Abundance of the major isotopes of the alkaline earth elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Isotope</emphasis></entry>
+              <entry><emphasis effect="bold">Natural abundance (%)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Beryllium-9</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>Magnesium-24</entry>
+              <entry>78.99</entry>
+            </row>
+            <row>
+              <entry>Magnesium-25</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>Magnesium-26</entry>
+              <entry>11.01</entry>
+            </row>
+            <row>
+              <entry>Calcium-40</entry>
+              <entry>96.941</entry>
+            </row>
+            <row>
+              <entry>Calcium-42</entry>
+              <entry>0.647</entry>
+            </row>
+            <row>
+              <entry>Calcium-43</entry>
+              <entry>0.135</entry>
+            </row>
+            <row>
+              <entry>Calcium-44</entry>
+              <entry>2.086</entry>
+            </row>
+            <row>
+              <entry>Calcium-46</entry>
+              <entry>0.004</entry>
+            </row>
+            <row>
+              <entry>Calcium-48</entry>
+              <entry>0.187</entry>
+            </row>
+            <row>
+              <entry>Strontium-84</entry>
+              <entry>0.56</entry>
+            </row>
+            <row>
+              <entry>Strontium-86</entry>
+              <entry>9.86</entry>
+            </row>
+            <row>
+              <entry>Strontium-87</entry>
+              <entry>7.0</entry>
+            </row>
+            <row>
+              <entry>Strontium-88</entry>
+              <entry>82.58</entry>
+            </row>
+            <row>
+              <entry>Barium-130</entry>
+              <entry>0.106</entry>
+            </row>
+            <row>
+              <entry>Barium-132</entry>
+              <entry>0.101</entry>
+            </row>
+            <row>
+              <entry>Barium-134</entry>
+              <entry>2.417</entry>
+            </row>
+            <row>
+              <entry>Barium-135</entry>
+              <entry>6.592</entry>
+            </row>
+            <row>
+              <entry>Barium-136</entry>
+              <entry>7.854</entry>
+            </row>
+            <row>
+              <entry>Barium-137</entry>
+              <entry>11.23</entry>
+            </row>
+            <row>
+              <entry>Barium-138</entry>
+              <entry>71.7</entry>
+            </row>
+            <row>
+              <entry>Radium-226</entry>
+              <entry>100</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Abundance of the major isotopes of the alkaline earth elements. </caption>
+</table>
+      
+      <para id="id1171923356246">Although beryllium-7 and beryllium-10 are found as trace isotopes, they are so rare beryllium is considered mononuclidic element (a chemical element which is found essentially as a single nuclide, of only one atomic mass). Calcium has four stable isotopes plus two more isotopes (calcium-46 and calcium-48) that have such long half-lives (2.8 x 10<sup>15</sup> and 4 x 10<sup>19</sup> years, respectively) that for all practical purposes they can be considered stable. </para>
+      <para id="id8897133">Measurement of the <sup>87</sup>Sr/<sup>86</sup>Sr ratio allows for geological dating of minerals and rocks. Strontium-90 (half-life = 28.9 years) is a by-product of nuclear fission and found in nuclear fallout. For example, the 1986 Chernobyl nuclear accident contaminated released a large amount of strontium-90. Since strontium substitutes for calcium in bones it prevents excretion from the body and thus presents a significant health risk, however, strontium-89 is a short-lived artificial radioisotope that is used in the treatment of bone cancer. </para>
+      <para id="id1171924184550">Naturally occurring barium is a mix of seven stable isotopes (<link target-id="id1171923700931"/>), but there are a total twenty-two isotopes known, most of which are highly radioactive and have half-lives in the several millisecond to several day range. The only notable exception is barium-133 which has a half-life of 10.51 years. </para>
+    </section>
+    <section id="id1171921941402">
+      <title>Industrial production</title>
+      <para id="id1171923654518">The industrial production of beryllium is usually from the reaction of beryl (Be<sub>3</sub>Al<sub>2</sub>Si<sub>6</sub>O<sub>18</sub>) with Na<sub>2</sub>(SiF<sub>6</sub>) which yields the beryllium fluoride, Na<sub>2</sub>(BeF<sub>4</sub>). Subsequent reactions with base give the hydroxide. </para>
+      
+      <equation id="eip-603"><media id="id1171923410897_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics15-e6ce.jpg" id="id1171923410897__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1171922965478">Reaction of the hydroxide with the ammonium salt of HF<sub>2</sub><sup>-</sup>, followed by thermolysis gives beryllium fluoride (BeF<sub>2</sub>). Finally, reduction of the fluoride with magnesium yields beryllium. </para>
+      
+      <equation id="eip-134"><media id="id1171923395357_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics16-f894.jpg" id="id1171923395357__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+<para id="id1171928402469">Although magnesium is an abundant metal in dozens of mineral the majority of commercial production comes from sea water, where it is present at about a level of 12% that of sodium. Calcium hydroxide is added to seawater to form magnesium hydroxide precipitate.</para>
+      
+      <equation id="eip-442"><media id="id3512182_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics17-42a1.jpg" id="id3512182__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation><para id="id1171926108496">Subsequent reaction with hydrochloric acid yields concentrated magnesium chloride solution.</para>
+      
+      <equation id="eip-798"><media id="id1171923588140_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics18-52b6.jpg" id="id1171923588140__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation><para id="id1171926512296">Electrolysis of the magnesium chloride produces magnesium. At the cathode, the Mg<sup>2+</sup> ion is reduced to magnesium metal, <link target-id="eip-601"/>, while at the anode chlorine gas is formed, <link target-id="eip-418"/>. </para>
+      
+      <equation id="eip-601"><media id="id1171923984084_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics19-41c6.jpg" id="id1171923984084__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+      <equation id="eip-418"><media id="id1171923267872_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics20-5bc7.jpg" id="id1171923267872__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation><para id="id1171923331274">Strontium metal is produced in an analogous manner; however, it may also be prepared from strontium oxide by reduction with aluminum in vacuum at a temperature at which strontium distills off.</para><equation id="eip-583"><media id="id1171923464843_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics21-d7e0.jpg" id="id1171923464843__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+      
+    </section>
+    <section id="id1171922015298">
+      <title>Reactivity and toxicity</title>
+      <para id="id1171922986706">The chemistry of the Group 2 elements is dominated by the +2 oxidation state and the noble gas configuration of the M<sup>2+</sup> cation. </para>
+      <para id="id1171928427043">Calcium, strontium, and barium react with water on contact to produce the hydroxide and hydrogen gas. Although the lighter alkaline earth metals do not react violently with water, they do burn in air. </para>
+      <para id="id1171923248286">Magnesium burns with a very bright white flame such that caution should be taken not to look at the flame directly. Magnesium is capable of reducing water, <link target-id="eip-911"/>, and as a result, water cannot be used to extinguish magnesium fires; the hydrogen gas produced will only intensify the fire. In addition, magnesium also reacts with carbon dioxide, <link target-id="eip-23"/>, precluding the use of carbon dioxide fire extinguishers. Class D dry chemical fire extinguisher or sand are used for magnesium fires. </para>
+      
+      <equation id="eip-911"><media id="id1171923660484_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics22-0840.jpg" id="id1171923660484__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+      <equation id="eip-23"><media id="id1171924908240_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics23-e5cc.jpg" id="id1171924908240__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+<para id="id1171928484753">Strontium and barium burn in air to produce both the oxide and the nitride, but since the metals do not react with nitrogen except at high temperatures they only form the oxide spontaneously at room temperature. </para>
+      <para id="id1171928372684">Beryllium is a class 1 carcinogen, i.e., it is carcinogenic to both animals and humans. Beryllium is harmful if inhaled; if the concentration in air is high enough (greater than 100 µg/m<sup>3</sup>) an acute condition can result, called acute beryllium disease, which resembles pneumonia. Acute beryllium disease was reported as being associated with the manufacture of fluorescent lighting tubes (a practice that ceased in 1949). </para>
+      <para id="id1219549">The human body absorbs strontium as if it were calcium, and while stable isotopes have pose no significant health threat, the uptake of radioactive strontium-90 can lead to various bone disorders and diseases, including bone cancer. All water or acid soluble barium compounds are extremely poisonous. At low doses, barium acts as a muscle stimulant, while higher doses affect the nervous system. Radium is highly radioactive and its decay product, radon gas, is also radioactive. </para>
+    </section>
+  </content>
+</document>

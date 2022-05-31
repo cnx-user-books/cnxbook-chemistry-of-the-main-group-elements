@@ -1,0 +1,380 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Organometallic Compounds of Magnesium</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32494</md:content-id>
+  <md:title>Organometallic Compounds of Magnesium</md:title>
+  <md:abstract/>
+  <md:uuid>1927489f-c820-4cc7-b1c4-d0c611f1c2a5</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1164759946527">While beryllium makes a range of organometallic compounds, their hazardous nature has limited their study. In contrast, the ionic nature of calcium, strontium, and barium compounds limits the number of stable organometallic derivatives. However, the organometallic chemistry of magnesium is rich and extensive. The importance of Grignards (RMgX, where X = halide) and dialkyl magnesium compounds (R<sub>2</sub>Mg) is due to their use in organic synthesis and as synthons for a range of organometallic compounds. </para>
+    <section id="id1164750157647">
+      <title>Grignard reagents</title>
+      <para id="id1164755581576">Grignard reagents (and the Grignard reaction using these compounds) are named after Victor Grignard (<link target-id="id6557141"/>). After studying mathematics at Lyon he transferred to chemistry, becoming a professor at the University of Nancy in 1910. During World War I, he was involved in the field of chemical warfare; however, it is for his major contribution to organic chemistry he is remembered. </para>
+
+      <figure id="id6557141">
+        <media id="id6557141_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-8557.jpg" id="id6557141__onlineimage" width="300" print-width="2in"/>
+        </media>
+<caption>French chemist and Nobel Prize winner François Auguste Victor Grignard (1871 – 1935).</caption>
+      </figure>
+
+
+
+
+
+
+      <section id="id1164754933825">
+        <title>Preparation</title>
+        <para id="id1164760380521">The general the synthesis of a Grignard reagent involves the reaction of an alkyl halide (RX, where X = Cl, Br, I) with magnesium metal in a suitable ether solvent, <link target-id="eip-11111"/>. </para>
+
+<equation id="eip-11111">  <media id="id1164750709919_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-6173.jpg" id="id1164750709919__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+        
+
+        <para id="id1164750765597">While diethyl ether (Et<sub>2</sub>O) and tetrahydrofuran (THF) are commonly used as solvents, other polar non-protic solvents are suitable, including: triethylamine (NEt<sub>3</sub>), dimethylsulphide (Me<sub>2</sub>S), dimethylselenide (Me<sub>2</sub>Se), and dimethyltelluride (Me<sub>2</sub>Te). </para>
+
+
+        <para id="id1164750436968">In general the alkyl halide is added to an excess of magnesium suspended in the solvent. In most cases it is necessary to activate the magnesium, by the addition of iodine (I<sub>2</sub>), 1,2-dibromoethane, or sonication. If the halide is very inert reaction can be promoted by the co-condensation of magnesium and THF under vacuum. </para>
+
+        <para id="id3177889">There is often an induction period after the initial addition of alkyl halide. However, since the reaction, <link target-id="eip-11111"/>, is highly exothermic care should be taken to ensure that the reaction does not run-away. For this reason it is normal to initially add a small quantity of the alkyl halide to ensure the reaction initiates. Once reaction is initiated, the addition of alkyl halide is maintained at a suitable rate to ensure the reaction is maintained until all the alkyl halide is consumed. The excess reaction magnesium is removed from the reaction mixture by filtration. </para>
+
+        <para id="id1164752913251">It is not always necessary to use a liquid or solid halide dissolved in the solvent. Bubbling methyl chloride (MeCl) through an Et<sub>2</sub>O suspension of magnesium yields MeMgCl. The advantage of a gaseous alkyl halide is that the reaction is very clean as all the magnesium is consumed and the excess alkyl halide is bubbled away. </para>
+
+        <para id="id6860846">The purity of the magnesium is very important. For his original experiments Grignard used magnesium of a purity of 99.2%. However, it is now more typical to use 99.8% pure magnesium. It is important that the magnesium not be too pure since it is thought that the transition metal impurities catalyze the reaction. </para>
+
+        <para id="id1164750114143">The relative order of reactivity of the alkyl halide follows the trend: </para>
+
+
+<equation id="eip-11112">    <media id="id6723086_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics3-d6c6.jpg" id="id6723086__onlineimage" width="500" print-width="4.5in"/>
+            </media></equation>
+        
+
+   
+
+        <para id="id5237583">In fact alkyl fluorides are sufficiently inert that highly coordinating polar solvents such as THF or dimethylformamide (DMF) must be used. </para>
+
+        <para id="id1164760692652">If the reaction is allowed to get too hot then several possible side reactions can occur. In THF reaction with the solvent occurs: </para>
+
+<equation id="eip-11113">   <media id="id1164750136987_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics4-205b.jpg" id="id1164750136987__onlineimage" width="500" print-width="4.5in"/>
+            </media></equation>
+         
+
+
+        <para id="id1164750584713">Alternatively, a transition metal catalyzed radical coupling between the Grignard and unreacted alkyl halide is observed irrespective of the identity of the solvent, <link target-id="eip-11114"/>. </para>
+
+
+<equation id="eip-11114">         <media id="id1164760825694_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-1f16.jpg" id="id1164760825694__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+ 
+
+
+        <para id="id1164759924301">The mechanism for Grignard formation is thought to be radical in nature; however, a study of the surface of the magnesium during the reaction has shown the presence of corrosion pits. It is generally agreed that initiation occurs at surface dislocations, but the major reaction occurs at a polished surface. </para>
+
+        <para id="id1164754603688">The kinetics of the reaction is 1<sup>st</sup> order with respect to the alkyl halide concentration, but it has also been claimed to be 1<sup>st</sup> order with respect to the solvent concentration. It has therefore been concluded that the rate-determining step involves the metal solvent interface. </para>
+
+        <para id="id6573035">The reaction of magnesium with aryl bromides has been studied and is proposed to occur by two reactions. The first involves electron transfer between the aryl halide and the metal, while the second involves aryl radical formation. </para>
+
+
+<equation id="eip-11115">          <media id="id1164755025392_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-c415.jpg" id="id1164755025392__onlineimage" width="500" print-width="4.5in"/>
+            </media></equation>
+  
+
+
+
+        <para id="id1164759899605">A number of alternative synthetic routes are used with polyhalogenated hydrocarbons, <link target-id="eip-11116"/> and <link target-id="eip-11117"/>, and where the alkyl radical is unstable, <link target-id="eip-11118"/>. </para>
+
+<equation id="eip-11116">          <media id="id6334359_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-accf.jpg" id="id6334359__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+
+<equation id="eip-11117">          <media id="id1164756717107_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-3323.jpg" id="id1164756717107__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+
+<equation id="eip-11118">        <media id="id1164758750708_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-dc3f.jpg" id="id1164758750708__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+  
+
+      </section>
+
+      <section id="id6738538">
+        <title>Structure</title>
+        <para id="id8649293">The solid state structure of Grignard reagents is controlled by the presence and identity of the solvent used in the synthesis. In this regard the size and the basicity of the solvent is important. For example, the structure of EtMgBr crystallized from diethyl ether exists as a 4-ccordinate monomer (<link target-id="id6736658"/>a), while the use of the sterically less demanding THF results in a 5-coordinate monomeric structure (<link target-id="id6736658"/>b). In contrast, the use of triethylamine yields a dimeric bromide bridged structure (<link target-id="id6736658"/>c), and the use of a chelate bidentate amine gives a structure (<link target-id="id6736658"/>d) similar to that observed with diethyl ether (<link target-id="id6736658"/>a). </para>
+
+        <figure id="id6736658">
+          <media id="id6736658_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-72bd.jpg" id="id6736658__onlineimage" width="300" print-width="3in"/>
+          </media>
+<caption>Molecular structure of EtMgBr in (a) diethyl ether, (b) THF, (c) triethyl amine, and (d) tetramethyletheylenediamine (TMED). </caption>
+        </figure>
+
+
+
+
+
+        <para id="id1164749352129">In solution, Grignards are fluxional such that no single defined structure is present. The series of exchange reactions are known as an extended Schlenk equilibrium (<link target-id="id1164758031297"/>). </para>
+
+<figure id="id1164758031297">
+<media id="id1164758031297_media" alt=""><image mime-type="image/jpg" src="../../media/graphics11-e60a.jpg" id="id1164758031297__onlineimage" width="400" print-width="4in"/></media>
+<caption>Schematic representation of the extended Schlenk equilibrium observed for Grignard compounds in solution. </caption>
+
+</figure>
+
+
+        <para id="id1164750872072">It is observed that Grignard solutions are also slightly conducting, and magnesium is deposited at both the anode and cathode suggesting the formation of RMg<sup>+</sup> and [RMgX<sub>2</sub>]<sup>-</sup>. The alkyl/halide exchange is thought to occur through a bridging intermediate (<link target-id="id1164758086440"/>). </para>
+
+
+        <figure id="id1164758086440">
+          <media id="id1164758086440_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-3036.jpg" id="id1164758086440__onlineimage" width="150" print-width="1.25in"/>
+          </media>
+<caption>Proposed structure for the alkyl/halide exchange bridging intermediate. </caption>
+        </figure>
+
+
+
+      </section>
+    </section>
+    <section id="id1164750620022"><title>Dialkyl magnesium (R<sub>2</sub>Mg)</title><para id="id1164750155153">Dialkyl magnesium compounds are involatile white solids. They generally have similar reactivity to their Grignard analogs. </para>
+      <section id="id1164750483718">
+        <title>Synthesis</title>
+        <para id="id1164756295942">The most common synthesis of R<sub>2</sub>Mg is by the reaction of a Grignard with dioxane (C<sub>4</sub>H<sub>8</sub>O<sub>2</sub>), <link target-id="eip-11119"/>, where the precipitation of the dihalide is the reaction driving force. </para>
+
+
+<equation id="eip-11119">    <media id="id8292740_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-d713.jpg" id="id8292740__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+      
+
+
+        <para id="id1164750218240">This method is useful for the synthesis of cyclic compounds, <link target-id="eip-11120"/>. </para>
+
+
+<equation id="eip-11120">  <media id="id5406172_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-595b.jpg" id="id5406172__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        
+
+
+
+        <para id="id1164753176865">An alternative synthesis that does not require dioxane involves the metal exchange reaction between magnesium metal and a dialkyl mercury compound. </para>
+
+<equation id="eip-11121">  <media id="id5938059_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics15-8508.jpg" id="id5938059__onlineimage" width="500" print-width="4.5in"/>
+            </media></equation>
+          
+
+
+
+
+        <para id="id1164752850962">Finally, in selected cases, magnesium will react with acidic hydrocarbons such as cyclopentadienyl at high temperatures (600 °C). </para>
+      </section>
+
+      <section id="id1164750437099">
+        <title>Structure</title>
+        <para id="id1164752939274">In the vapor phase dialkyl magnesium compounds are generally monomeric linear compounds. In solution, in the absence of coordinating solvents R<sub>2</sub>Mg form a variety of oligomers (<link target-id="id1164752922013"/>a-c) in solution as determined by molecular weight measurements. In the presence of coordinating solvents 4-coordinate monomers predominate (<link target-id="id1164752922013"/>d). </para>
+
+        <figure id="id1164752922013">
+          <media id="id1164752922013_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-fa6d.jpg" id="id1164752922013__onlineimage" width="350" print-width="3.5in"/>
+          </media>
+<caption>Solution structure of R<sub>2</sub>Mg (R = Me, Et) in (a – c) non-coordinating solvents, and (d) diethyl ether. </caption>
+        </figure>
+
+
+
+
+        <para id="id1164750139597">As similar trend is observed in the solid state, where polymers have been characterized in the absence of coordinating solvents (<link target-id="id1164750748931"/>a), while monomers or dimmers are generally observed when crystallized from a coordinating solvent (<link target-id="id1164750748931"/>b and c). </para>
+
+        <figure id="id1164750748931">
+          <media id="id1164750748931_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics17-b6bd.jpg" id="id1164750748931__onlineimage" width="200" print-width="2in"/>
+          </media>
+<caption>Solid state structure of R<sub>2</sub>Mg (R = Me, Et) crystallized in (a) the absence and (b and c) the presence of a coordinating solvents. </caption>
+        </figure>
+
+
+
+      </section>
+    </section>
+
+    <section id="id1164750100095">
+      <title>The use of organomagnesium compounds in organic synthesis</title>
+      <section id="id6255748">
+        <title>Hydrolysis and related reactions</title>
+        <para id="id1164750436485">Grignard compounds react with water to give the hydrocarbon, <link target-id="eip-11122"/>, they also react with other hydroxylic compounds such as alcohols and carboxylic acids. One important use of the hydrolysis reaction is specifically deuteration, <link target-id="eip-11123"/>.</para>
+
+
+<equation id="eip-11122">      <media id="id5902478_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics18-8f7d.jpg" id="id5902478__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+    
+
+
+<equation id="eip-11123">    <media id="id1164750558190_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics19-e8ac.jpg" id="id1164750558190__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+      
+
+
+        <para id="id1164750084964">The hydrogen atom on a terminal alkyne is sufficiently acidic that the reaction with Grignards occurs in an analogous manner to that of hydrolysis. </para>
+
+
+<equation id="eip-11124">   <media id="id8300666_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics20-b27b.jpg" id="id8300666__onlineimage" width="500" print-width="4.5in"/>
+            </media></equation>
+         
+
+        <para id="id1164750147652">Once formed the alkynyl Grignard undergoes the same hydrolysis reaction. </para>
+
+<equation id="eip-11125">      <media id="id1164750912237_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics21-6d8c.jpg" id="id1164750912237__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+    
+
+
+      </section>
+      <section id="id1164752895617">
+        <title>Reaction with CO<sub>2</sub></title>
+        <para id="id1164755761286">Grignards react readily with carbon dioxide to form the carboxylate, which yields the associated carboxylic acid upon hydrolysis, <link target-id="eip-11126"/>. </para>
+
+<equation id="eip-11126">          <media id="id5801149_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics22-0365.jpg" id="id5801149__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+      </section>
+
+      <section id="id1164752683434">
+        <title>Reaction with carbonyls</title>
+        <para id="id3957057">Organomagnesium compounds react with organic carbonyls (aldehydes, ketones, and esters) to yield the alcohol on hydrolysis, <link target-id="eip-11127"/>. This synthetic route is useful for the formation of primary, secondary and terminal alcohols. </para>
+
+
+<equation id="eip-11127">  <media id="id6149620_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics23-9be3.jpg" id="id6149620__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        
+
+
+
+        <para id="id1164750864309">Unfortunately, for some carbonyls there is a competing side reaction of enolization, where the starting ketone is reformed upon hydrolysis. </para>
+
+
+<equation id="eip-11128">   <media id="id1164760730724_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics24-058b.jpg" id="id1164760730724__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+       
+
+
+
+
+        <para id="id1164750161881">When the Grignard reagent has a β-hydrogen another side reaction occurs in which the carbonyl group is reduced and an alkene is formed. </para>
+
+
+<equation id="eip-11129">       <media id="id1164754586043_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics25-a068.jpg" id="id1164754586043__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+   
+
+
+
+        <para id="id1164750881135">Both the enolization and reduction occur via similar 6-membered cyclic transition states (<link target-id="id1164757623454"/>). </para>
+
+        <figure id="id1164757623454">
+          <media id="id1164757623454_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics26-5c76.jpg" id="id1164757623454__onlineimage" width="150" print-width="1.25in"/>
+          </media>
+<caption>Representation of the 6-membered transition state reaction for enolization of a ketone. </caption>
+        </figure>
+
+
+
+        <para id="id5844561">Grignards react with α,β-unsaturated ketones to give either the 1,2-addition product or the 1,4-addition product, or both. </para>
+
+
+<equation id="eip-11130">          <media id="id1164750681207_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics27-7c31.jpg" id="id1164750681207__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+
+      </section>
+      <section id="id6095419">
+        <title>Reaction with acyl halides</title>
+        <para id="id1164756481712">Acyl halides react with Grignards to give ketones, <link target-id="eip-11131"/>. Best results are obtained if the reaction is carried out at low temperature and in the presence of a Lewis acid catalysts (e.g., FeCl<sub>3</sub>). </para>
+ 
+<equation id="eip-11131">  <media id="id1164750731647_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics28-fcd1.jpg" id="id1164750731647__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        
+
+
+      </section>
+
+
+      <section id="id1164749809585">
+        <title>Reaction with epoxides</title>
+        <para id="id1164755586050">Oxirane (epoxide) rings are opened by Grignards, <link target-id="eip-11132"/>, in a useful reaction that extends the carbon chain of the Grignard by two carbon atoms. This reaction is best performed with ethylene oxide since the magnesium halide formed is a Lewis acid catalyst for further reactions in the case of substituted oxiranes. </para>
+
+
+
+<equation id="eip-11132">      <media id="id5779755_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics29-0f17.jpg" id="id5779755__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+    
+
+
+      </section>
+      <section id="id1164750078153">
+        <title>Reaction with salts</title>
+        <para id="id1164758733841">One of the most useful methods of preparing organometallic compounds is the exchange reaction of one organometallic compound with a salt of a different metal, <link target-id="eip-11133"/>. This is an equilibrium process, whose equilibrium constant is defined by the reduction potential of both metals. In general the reaction will proceed so that the more electropositive metal will form the more ionic salt (usually chloride). </para>
+
+
+<equation id="eip-11133">       <media id="id1164750222416_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics30-fddb.jpg" id="id1164750222416__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+   
+
+        <para id="id1164750871666">Grignard reagents are particularly useful in this regard, and may be used to prepare a wide range of organometallic compounds. For example: </para>
+
+
+<equation id="eip-11134">       <media id="id1164750189351_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics31.jpg" id="id1164750189351__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+   
+
+
+<equation id="eip-11135">  <media id="id6764730_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics32.jpg" id="id6764730__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        
+
+
+        <para id="id1164753653194">The reaction with a Grignard is milder than the analogous reaction with lithium reagents, and leads to a lower incident of side-products. </para>
+      </section>
+    </section>
+    <section id="id1164755813224">
+      <title>Bibliography</title>
+      <list id="id1164750633404" list-type="bulleted"><item id="id1164755645037">H. Bader and N. M. Smyth, <emphasis effect="italics">J. Org. Chem</emphasis><emphasis effect="italics">.</emphasis>, 1964, <emphasis effect="bold">29</emphasis>, 953. </item>
+        <item>C. L. Hill, J. B. Vander Sande, G. M. Whitesides, <emphasis effect="italics">J. Org. Chem.</emphasis>, 1980, <emphasis effect="bold">45</emphasis>, 1020. </item>
+        <item>E. Weiss, <emphasis effect="italics">J. Organomet. Chem.</emphasis>, 1964, <emphasis effect="bold">2</emphasis>, 314. </item>
+<item>A. R. Barron, <emphasis effect="italics">J. Chem. Soc., Dalton Trans.</emphasis>, 1989, 1625.</item>
+      </list>
+   
+    </section>
+  </content>
+</document>

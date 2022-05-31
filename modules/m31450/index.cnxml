@@ -1,0 +1,106 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Ionization Energy</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31450</md:content-id>
+  <md:title>Ionization Energy</md:title>
+  <md:abstract/>
+  <md:uuid>438bd339-8d1b-4565-8a70-050da8063304</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1168178203529">The ionization energy (IE), or more properly the ionization enthalpy, is defined as the energy required to loose an electron from a gaseous atom or ion. </para>
+    
+    <equation id="eip-796"><media id="id1168178257217_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-7397.jpg" id="id1168178257217__onlineimage" width="550" print-width="4.5in"/>
+      </media></equation><para id="id1168178389309">Each subsequent ionization energy is greater than the previous one because of the increase in charge on the ion. For example, for any given atom or ion the 1<sup>st</sup> ionization energy is less than the 2<sup>nd</sup> ionization energy, and so on. This is shown in <link target-id="id1168178194732"/>. </para>
+    <table id="id1168178194732" summary="The first three ionization energies for aluminum.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Ionization</emphasis> </entry>
+            <entry><emphasis effect="bold">Ionization energy (kJ/mol)</emphasis> </entry>
+          </row>
+          <row>
+            <entry>Al<sup>0</sup> → Al<sup>+</sup> + e<sup>-</sup></entry>
+            <entry>548</entry>
+          </row>
+          <row>
+            <entry>Al<sup>+</sup> → Al<sup>2+</sup> + e<sup>-</sup></entry>
+            <entry>1823</entry>
+          </row>
+          <row>
+            <entry>Al<sup>2+</sup> → Al<sup>3+</sup> + e<sup>-</sup></entry>
+            <entry>2751</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>The first three ionization energies for aluminum. </caption>
+</table>
+    
+    <para id="id1168178177752">How does the ionization energy vary with elements in the periodic table? If we consider the 1<sup>st</sup> ionization potential of the elements in a particular group of the periodic table we note that there is a decrease in ionization potential as you go down the Group. The reason for this trend is due to the increased shielding of the outer shell electrons (ns<sup>1</sup>) by the completed (filled) inner shells. The ns<sup>1</sup> electron thus exhibits a lower effective nuclear charge and makes it easier to remove. For example, <link target-id="id1168178370822"/> shows the 1<sup>st</sup> ionization potential for the Group 1 alkali metals. </para>
+    <table id="id1168178370822" summary="Variation of the first ionization potential for the Group 1 (IA) elements.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Ionization energy (kJ/mol)</emphasis></entry>
+          </row>
+          <row>
+            <entry>Li</entry>
+            <entry>526</entry>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>502</entry>
+          </row>
+          <row>
+            <entry>K</entry>
+            <entry>425</entry>
+          </row>
+          <row>
+            <entry>Rb</entry>
+            <entry>409</entry>
+          </row>
+          <row>
+            <entry>Cs</entry>
+            <entry>382</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Variation of the first ionization potential (M<sup>0</sup> → M<sup>+</sup>) for the Group 1 (IA) elements. </caption>
+</table>
+    
+    <para id="id1168179521106">In contrast, to individual Groups, moving across a particular Period results in a general increase in the ionization potential as is shown in <link target-id="id1168178282814"/>. The lack of additional screening of filled shells across the Period means that the ionization energy for the outer shell electrons is dominated by the increase in nuclear charge (number of protons) with increased atomic number. </para>
+  
+      <figure id="id1168178282814"><media id="id1168178282814_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-e723.jpg" id="id1168178282814__onlineimage" width="350" print-width="3in"/>
+        </media>
+      <caption>Plot of the first ionization potential for the elements Li to Ne. </caption></figure>
+    
+    <para id="id1168178206224">From <link target-id="id1168178282814"/> it can be seen that the Periodic trend is not linear, there are significant steps in the plot. Boron, for example, has a lower first ionization potential than beryllium, why? A consideration of the electron configuration for the elements provides in answer (<link target-id="id1168182816679"/>). Beryllium has a 2s<sup>2</sup> outer shell configuration, while boron has a 2s<sup>2</sup> 2p<sup>1</sup> configuration. The 2p<sup>1</sup> electron is easy to remove because it exhibits increased shielding from the nucleus due to the filled 2s orbital. </para>
+
+    <figure id="id1168182816679"><media id="id1168182816679_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-72e0.jpg" id="id1168182816679__onlineimage" width="175" print-width="1.75in"/>
+      </media>
+    <caption>Outer shell electron configuration of beryllium through oxygen. </caption></figure>
+    
+    <para id="id1168178196469">As we move from, boron to nitrogen, the 2p shell is filled (<link target-id="id1168182816679"/>) without additional shielding and the effect of the increased nuclear charge dominates. Finally, the 2p<sup>4</sup> configuration for oxygen (<link target-id="id1168182816679"/>) results in an electron pair, which repel each other, thus making it easier to remove an electron (lower ionization potential) that expected from the increased nuclear charge. From Figure 1 we can see that the effect of electron pairing is less than that of a filled shell. </para>
+    <para id="id1168178194532">The trend for the 2<sup>nd</sup> ionization potential is similar, but different, to that of the 1<sup>st</sup> ionization potential. As may be seen in <link target-id="id1168178205220"/> the steps observed for the 1<sup>st</sup> ionization energy plot (i.e., between Be/B and N/O have moved one element to the right. A view of the electron configuration for the E<sup>+</sup> ions (<link target-id="id1168178205013"/>) shows that the rational for the trend in the 1<sup>st</sup> ionization potential trends still applies but to the ion of the lement to the right in the Periodic table. Now B<sup>+</sup> has a 2s<sup>2</sup> outer shell configuration, while C<sup>+</sup> has a 2s<sup>2</sup> 2p<sup>1</sup> configuration. A similar plot for the 3<sup>rd</sup> ionization energy would move the steps another element to the right.</para>
+
+    <figure id="id1168178205220"><media id="id1168178205220_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics4-44e6.jpg" id="id1168178205220__onlineimage" width="350" print-width="3in"/>
+      </media>
+    <caption>A plot of 2<sup>nd</sup> ionization energy (enthalpy) for elements Li to Na (blue with square data points) showing the relative trend to the 1<sup>st</sup> ionization potential (red line – not to scale). </caption></figure>
+
+    
+    <figure id="id1168178205013"><media id="id1168178205013_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics5-b497.jpg" id="id1168178205013__onlineimage" width="175" print-width="1.75in"/>
+      </media>
+    <caption>Outer shell electron configuration of E<sup>+</sup> for beryllium through oxygen.</caption></figure>
+    
+    
+    <para id="id1168178281214">The other observation to be made from <link target-id="id1168178205220"/> is the very large 2<sup>nd</sup> ionization potential for lithium associated with the ionization of Li<sup>+</sup> to Li<sup>2+</sup>. The large increase is due to the removal of an electron from the filled 1s<sup>2</sup> shell. </para>
+  </content>
+</document>

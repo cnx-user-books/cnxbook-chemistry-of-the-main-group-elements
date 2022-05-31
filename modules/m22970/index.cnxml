@@ -1,0 +1,282 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Properties of Gallium Arsenide</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m22970</md:content-id>
+  <md:title>Properties of Gallium Arsenide</md:title>
+  <md:abstract/>
+  <md:uuid>6a79915c-0c6f-4168-96a4-9727a6412cb9</md:uuid>
+</metadata>
+
+<content>
+
+      <section id="eip-304"><title>Gallium: the element</title><para id="eip-998">The element gallium was predicted, as eka-aluminum, by Mendeleev in 1870, and subsequently discovered by Lecoq de Boisbaudran in 1875; in fact de Boisbaudran had been searching for the missing element for some years, based on his own independent theory. The first experimental indication of gallium came with the observation of two new violet lines in the spark spectrum of a sample deposited on zinc. Within a month of these initial results de Boisbaudran had isolated 1 g of the metal starting from several hundred kilograms of crude zinc blende ore. The new element was named in honor of France (Latin <emphasis effect="italics">Gallia</emphasis>), and the striking similarity of its physical and chemical properties to those predicted by Mendeleev (<link target-id="eip-473"/>) did much to establish the general acceptance of the periodic Law; indeed, when de Boisbaudran first stated that the density of Ga was 4.7 g/cm<sup>3</sup> rather than the predicted 5.9 g/cm<sup>3</sup>, Mendeleev wrote to him suggesting that he redetermine the value (the correct value is 5.904 g/cm<sup>3</sup>).</para><table id="eip-473" summary="Comparison of predicted and observed properties of gallium.">
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis effect="bold">Property</emphasis> </entry>
+    <entry><emphasis effect="bold">Mendeleev's prediction (1871) for eka-aluminum, M </emphasis> </entry>
+    <entry><emphasis effect="bold">Observed properties of gallium (discovered 1875)</emphasis> </entry>
+  </row>
+  <row>
+    <entry>Atomic weight</entry>
+    <entry>ca. 68</entry>
+    <entry>69.72</entry>
+  </row>
+  <row>
+    <entry>Density, g.cm<sup>-3</sup></entry>
+    <entry>5.9</entry>
+    <entry>5.904</entry>
+  </row>
+  <row>
+    <entry>Melting point</entry>
+    <entry>Low</entry>
+    <entry>29.78</entry>
+  </row>
+  <row>
+    <entry>Vapor pressure</entry>
+    <entry>Non-volatile</entry>
+    <entry>10<sup>-3</sup> mmHg, 1000 °C</entry>
+  </row>
+  <row>
+    <entry>Valence</entry>
+    <entry>3</entry>
+    <entry>3</entry>
+  </row>
+  <row>
+    <entry>Oxide</entry>
+    <entry>M<sub>2</sub>O<sub>3</sub></entry>
+    <entry>Ga<sub>2</sub>O<sub>3</sub></entry>
+  </row>
+  <row>
+    <entry>Density of oxide (g/cm<sup>3</sup>) </entry>
+    <entry>5.5</entry>
+    <entry>5.88 </entry>
+  </row>
+  <row>
+    <entry>Properties of metal</entry>
+    <entry>M should dissolve slowly in acids and alkalis and be stable in air</entry>
+    <entry>Ga metal dissolves slowly in acids and alkalis and is stable in air</entry>
+  </row>
+  <row>
+    <entry>Properties of hydroxide</entry>
+    <entry>M(OH)<sub>3</sub> should dissolve in both acids and alkalis</entry>
+    <entry>Ga(OH)<sub>3</sub> dissolves in both acids and alkalis</entry>
+  </row>
+  <row>
+    <entry>Properties of salts</entry>
+    <entry>M salts will tend to form basic salts; the sulfate should form alums; M<sub>2</sub>S<sub>3</sub> should be precipitated by H<sub>2</sub>S or (NH<sub>4</sub>)<sub>2</sub>S; anhydrous MCl<sub>3</sub> should be more volatile than ZnCl<sub>2</sub></entry>
+    <entry>Ga salts readily hydrolyze and form basic salts; alums are known; Ga<sub>2</sub>S<sub>3</sub> can be precipitated under special conditions by H<sub>2</sub>S or (NH<sub>4</sub>)<sub>2</sub>S, anhydrous GaCl<sub>3</sub> is more volatile than ZnCl<sub>2</sub>.</entry>
+  </row>
+</tbody>
+
+
+</tgroup><caption>Comparison of predicted and observed properties of gallium. </caption>
+</table><para id="eip-507">Gallium has a beautiful silvery blue appearance; it wets glass, porcelain, and most other surfaces (except quartz, graphite, and Teflon<sup>®</sup>) and forms a brilliant mirror when painted on to glass. The atomic radius and first ionization potential of gallium are almost identical with those of aluminum and the two elements frequently resemble each other in chemical properties. Both are amphoteric, but gallium is less electropositive as indicated by its lower electrode potential. Differences in the chemistry of the two elements can be related to the presence of a filled set of 3d orbitals in gallium.</para><para id="eip-501">Gallium is very much less abundant than aluminum and tends to occur at low concentrations in sulfide minerals rather than as oxides, although gallium is also found associated with aluminum in bauxite. The main source of gallium is as a by-product of aluminum refining. At 19 ppm of the earth's crust, gallium is about as abundant as nitrogen, lithium and lead; it is twice as abundant as boron (9 ppm), but is more difficult to extract due to the lack of any major gallium-containing ore. Gallium always occurs in association either with zinc or germanium, its neighbors in the periodic table, or with aluminum in the same group. Thus, the highest concentrations (0.1 - 1%) are in the rare mineral germanite (a complex sulfide of Zn, Cu, Ge, and As); concentrations in sphalerite (ZnS), bauxite, or coal, are a hundred-fold less. </para></section>
+      
+      <section id="eip-96"><title>Gallium pnictides</title><para id="eip-893">Gallium's main use is in semiconductor technology. For example, GaAs and related compounds can convert electricity directly into coherent light (laser diodes) and is employed in electroluminescent light-emitting diodes (LED's); it is also used for doping other semiconductors and in solid-state devices such as heterojunction bipolar transistors (HBTs) and high power high speed metal semiconductor field effect transistors (MESFETs). The compound MgGa<sub>2</sub>O<sub>4</sub> is used in ultraviolet-activated powders as a brilliant green phosphor used in Xerox copying machines. Minor uses are as high-temperature liquid seals, manometric fluids and heat-transfer media, and for low-temperature solders. </para><para id="eip-825">Undoubtedly the binary compounds of gallium with the most industrial interest are those of the Group 15 (V) elements, GaE (E = N, P, As, Sb). The compounds which gallium forms with nitrogen, phosphorus, arsenic, and antimony are isoelectronic with the Group 14 elements. There has been considerable interest, particularly in the physical properties of these compounds, since 1952 when Welker first showed that they had semiconducting properties analogous to those of silicon and germanium.</para><para id="eip-375">Gallium phosphide, arsenide, and antimonide can all be prepared by direct reaction of the elements; this is normally done in sealed silica tubes or in a graphite crucible under hydrogen. Phase diagram data is hard to obtain in the gallium-phosphorus system because of loss of phosphorus from the bulk material at elevated temperatures. Thus, GaP has a vapor pressure of more than 13.5 atm at its melting point; as compared to 0.89 atm for GaAs. The physical properties of these three compounds are compared with those of the nitride in <link target-id="id1166036083905"/>. All three adopt the zinc blende crystal structure and are more highly conducting than gallium nitride. </para>
+
+      
+      
+      
+      <table id="id1166036083905" summary="Physical properties of 13-15 compound semiconductors.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Property</emphasis> </entry>
+              <entry><emphasis effect="bold">GaN</emphasis> </entry>
+              <entry><emphasis effect="bold">GaP</emphasis> </entry>
+              <entry><emphasis effect="bold">GaAs</emphasis> </entry>
+              <entry><emphasis effect="bold">GaSb</emphasis></entry>
+            </row>
+            <row>
+              <entry>Melting point (°C)</entry>
+              <entry>&gt; 1250 (dec)</entry>
+              <entry>1350</entry>
+              <entry>1240</entry>
+              <entry>712</entry>
+            </row>
+            <row>
+              <entry>Density (g/cm<sup>3</sup>)</entry>
+              <entry>ca. 6.1</entry>
+              <entry>4.138</entry>
+              <entry>5.3176</entry>
+              <entry>5.6137</entry>
+            </row>
+            <row>
+              <entry>Crystal structure</entry>
+              <entry>Würtzite</entry>
+              <entry>zinc blende</entry>
+              <entry>zinc blende</entry>
+              <entry>zinc blende</entry>
+            </row>
+            <row>
+              <entry>Cell dimen. (Å)<sup>a</sup></entry>
+              <entry><emphasis effect="italics">a</emphasis> = 3.187, <emphasis effect="italics">c</emphasis> = 5.186</entry>
+              <entry><emphasis effect="italics">a</emphasis> = 5.4505</entry>
+              <entry><emphasis effect="italics">a</emphasis> = 5.6532</entry>
+              <entry><emphasis effect="italics">a</emphasis> = 6.0959</entry>
+            </row>
+            <row>
+              <entry>Refractive index<sup>b</sup></entry>
+              <entry>2.35</entry>
+              <entry>3.178</entry>
+              <entry>3.666</entry>
+              <entry>4.388</entry>
+            </row>
+            <row>
+              <entry>k (ohm<sup>-1</sup>cm<sup>-1</sup>)</entry>
+              <entry>10<sup>-9</sup> - 10<sup>-7</sup></entry>
+              <entry>10<sup>-2</sup> - 10<sup>2</sup></entry>
+              <entry>10<sup>-6</sup> - 10<sup>3</sup></entry>
+              <entry>6 - 13</entry>
+            </row>
+            <row>
+              <entry>Band gap (eV)<sup>c</sup></entry>
+              <entry>3.44</entry>
+              <entry>2.24</entry>
+              <entry>1.424</entry>
+              <entry>0.71</entry>
+            </row>
+          </tbody>
+        
+
+
+
+
+</tgroup><caption>Physical properties of 13-15 compound semiconductors. <sup>a</sup> Values given for 300 K. <sup>b</sup> Dependent on photon energy; values given for 1.5 eV incident photons. <sup>c</sup> Dependent on temperature; values given for 300 K.</caption>
+</table>
+
+
+
+    </section>
+    <section id="id1166035680192">
+      <title>Gallium arsenide versus silicon</title>
+      <para id="id1166036823768">Gallium arsenide is a compound semiconductor with a combination of physical properties that has made it an attractive candidate for many electronic applications. From a comparison of various physical and electronic properties of GaAs with those of Si (<link target-id="id1166036815687"/>) the advantages of GaAs over Si can be readily ascertained. Unfortunately, the many desirable properties of gallium arsenide are offset to a great extent by a number of undesirable properties, which have limited the applications of GaAs based devices to date. </para>
+      
+      <table id="id1166036815687" summary="Comparison of physical and semiconductor properties of GaAs and Si.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Properties</emphasis> </entry>
+              <entry><emphasis effect="bold">GaAs</emphasis> </entry>
+              <entry><emphasis effect="bold">Si</emphasis> </entry>
+            </row>
+
+            <row>
+              <entry>Formula weight</entry>
+              <entry>144.63</entry>
+              <entry>28.09</entry>
+            </row>
+            <row>
+              <entry>Crystal structure</entry>
+              <entry>zinc blende</entry>
+              <entry>diamond</entry>
+            </row>
+            <row>
+              <entry>Lattice constant</entry>
+              <entry>5.6532</entry>
+              <entry>5.43095</entry>
+            </row>
+            <row>
+              <entry>Melting point (°C)</entry>
+              <entry>1238</entry>
+              <entry>1415</entry>
+            </row>
+            <row>
+              <entry>Density (g/cm<sup>3</sup>)</entry>
+              <entry>5.32</entry>
+              <entry>2.328</entry>
+            </row>
+            <row>
+              <entry>Thermal conductivity (W/cm.K)</entry>
+              <entry>0.46</entry>
+              <entry>1.5</entry>
+            </row>
+            <row>
+              <entry>Band gap (eV) at 300 K</entry>
+              <entry>1.424</entry>
+              <entry>1.12</entry>
+            </row>
+            <row>
+              <entry>Intrinsic carrier conc. (cm<sup>-3</sup>)</entry>
+              <entry>1.79 x 10<sup>6</sup></entry>
+              <entry>1.45 x 10<sup>10</sup></entry>
+            </row>
+            <row>
+              <entry>Intrinsic resistivity (ohm.cm)</entry>
+              <entry>10<sup>8</sup></entry>
+              <entry>2.3 x 10<sup>5</sup></entry>
+            </row>
+            <row>
+              <entry>Breakdown field (V/cm)</entry>
+              <entry>4 x 10<sup>5</sup></entry>
+              <entry>3 x 10<sup>5</sup></entry>
+            </row>
+            <row>
+              <entry>Minority carrier lifetime (s)</entry>
+              <entry>10<sup>-8</sup></entry>
+              <entry>2.5 x 10<sup>-3</sup></entry>
+            </row>
+            <row>
+              <entry>Mobility (cm<sup>2</sup>/V.s)</entry>
+              <entry>8500</entry>
+              <entry>1500</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Comparison of physical and semiconductor properties of GaAs and Si. </caption>
+</table>
+      <section id="id1166037686638">
+        <title>Band gap</title>
+        <para id="id1166038605416">The band gap of GaAs is 1.42 eV; resulting in photon emission in the infra-red range. Alloying GaAs with Al to give Al<sub>x</sub>Ga<sub>1-x</sub>As can extend the band gap into the visible red range. Unlike Si, the band gap of GaAs is direct, i.e., the transition between the valence band maximum and conduction band minimum involves no momentum change and hence does not require a collaborative particle interaction to occur. Photon generation by inter-band radiative recombination is therefore possible in GaAs. Whereas in Si, with an indirect band-gap, this process is too inefficient to be of use. The ability to convert electrical energy into light forms the basis of the use of GaAs, and its alloys, in optoelectronics; for example in light emitting diodes (LEDs), solid state lasers (light amplification by the stimulated emission of radiation).</para>
+        <para id="id1166038881125">A significant drawback of small band gap semiconductors, such as Si, is that electrons may be thermally promoted from the valence band to the conduction band. Thus, with increasing temperature the thermal generation of carriers eventually becomes dominant over the intentionally doped level of carriers. The wider band gap of GaAs gives it the ability to remain 'intentionally' semiconducting at higher temperatures; GaAs devices are generally more stable to high temperatures than a similar Si devices.</para>
+      </section>
+      <section id="id1166036071099">
+        <title>Carrier density</title>
+        <para id="id1166037503605">The low intrinsic carrier density of GaAs in a pure (undoped) form indicates that GaAs is intrinsically a very poor conductor and is commonly referred to as being semi-insulating. This property is usually altered by adding dopants of either the p- (positive) or n- (negative) type. This semi-insulating property allows many active devices to be grown on a single substrate, where the semi-insulating GaAs provides the electrical isolation of each device; an important feature in the miniaturization of electronic circuitry, i.e., VLSI (very-large-scale-integration) involving over 100,000 components per chip (one chip is typically between 1 and 10 mm square). </para>
+      </section>
+      <section id="id1166038804400">
+        <title>Electron mobility</title>
+        <para id="id1166036993101">The higher electron mobility in GaAs than in Si potentially means that in devices where electron transit time is the critical performance parameter, GaAs devices will operate with higher response times than equivalent Si devices. However, the fact that hole mobility is similar for both GaAs and Si means that devices relying on cooperative electron and hole movement, or hole movement alone, show no improvement in response time when GaAs based. </para>
+        
+      </section>
+      <section id="id1166038803993">
+        <title>Crystal growth</title>
+        <para id="id1166036828805">The bulk crystal growth of GaAs presents a problem of stoichiometric control due the loss, by evaporation, of arsenic both in the melt and the growing crystal (&gt; <emphasis effect="italics">ca.</emphasis> 600 °C). Melt growth techniques are, therefore, designed to enable an overpressure of arsenic above the melt to be maintained, thus preventing evaporative losses. The loss of arsenic also negates diffusion techniques commonly used for wafer doping in Si technology; since the diffusion temperatures required exceed that of arsenic loss. </para>
+      </section>
+      <section id="id1166036681593">
+        <title>Crystal Stress</title>
+        <para id="id1166035651043">The thermal gradient and, hence, stress generated in melt grown crystals have limited the maximum diameter of GaAs wafers (currently 6" diameter compared to over 12" for Si), because with increased wafer diameters the thermal stress generated dislocation (crystal imperfections) densities eventually becomes unacceptable for device applications.</para>
+      </section>
+      <section id="id1166038880156">
+        <title>Physical strength</title>
+        <para id="id1166036715950">Gallium arsenide single crystals are very brittle, requiring that considerably thicker substrates than those employed for Si devices.</para>
+      </section>
+      <section id="id1166035541650">
+        <title>Native oxide</title>
+        <para id="id1166037392169">Gallium arsenide's native oxide is found to be a mixture of non-stoichiometric gallium and arsenic oxides and elemental arsenic. Thus, the electronic band structure is found to be severely disrupted causing a breakdown in 'normal' semiconductor behavior on the GaAs surface. As a consequence, the GaAs MISFET (metal-insulator-semiconductor-field-effect-transistor) equivalent to the technologically important Si based MOSFET (metal-oxide-semiconductor-field-effect-transistor) is, therefore, presently unavailable.</para>
+        <para id="id1166036714188">The passivation of the surface of GaAs is therefore a key issue when endeavoring to utilize the FET technology using GaAs. Passivation in this discussion means the reduction in mid-gap band states which destroy the semiconducting properties of the material. Additionally, this also means the production of a chemically inert coating which prevents the formation of additional reactive states, which can effect the properties of the device.</para>
+      </section>
+    </section>
+
+
+
+
+
+
+    <section id="id1166035542559">
+      <title>Bibliography</title>
+      <list id="id1166036764305" list-type="bulleted">
+<item>S. K. Ghandhi, <emphasis effect="italics">VLSI Fabrication Principles: Silicon and Gallium Arsenide.</emphasis> Wiley-Interscience, New York, (1994).</item>
+
+        <item><emphasis effect="italics">Properties of Gallium Arsenide.</emphasis> Ed. M. R. Brozel and G. E. Stillman. 3rd Ed. Institution of Electrical Engineers, London (1996).</item>
+      </list>
+    </section>
+  </content>
+</document>

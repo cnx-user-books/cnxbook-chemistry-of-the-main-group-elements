@@ -1,0 +1,216 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Sulfur Halides</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34973</md:content-id>
+  <md:title>Sulfur Halides</md:title>
+  <md:abstract/>
+  <md:uuid>10ca5e3e-3fb3-4d8e-aa74-57d2245dcf9c</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id1166866939926">
+      <title>Sulfur hexafluoride</title>
+      <para id="id1166870942659">Sulfur hexafluoride (SF<sub>6</sub>) is a gas at standard temperature and pressure (25 °C, 1 atm). The most common synthesis involves the direct reaction of sulfur with fluorine yields SF<sub>6</sub>. </para>
+
+      
+
+
+      <equation id="eip-696"><media id="id1166868451939_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-966f.jpg" id="id1166868451939__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1166874322281">It should be noted that while SF<sub>6</sub> is highly stable, SCl<sub>6</sub> is not formed. The explanation of this difference may be explained by a consideration of the Born-Haber cycle shown in <link target-id="id1166864028020"/>. A similar cycle may be calculated for SCl<sub>6</sub>; however, a combination of a higher dissociation energy for Cl<sub>2</sub> and a lower S-Cl bond energy (<link target-id="id1166876618280"/>) provide the rational for why SCl<sub>6</sub> is not formed.</para>
+
+      <figure id="id1166864028020"><media id="id1166864028020_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-f343.jpg" id="id1166864028020__onlineimage" width="325" print-width="3.25in"/>
+        </media>
+
+      <caption>Born-Haber cycle for the formation (ΔH<sub>f</sub>) of SF<sub>6</sub>: where D<sub>(X-Y)</sub> = dissociation energy for X-Y bond, E<sub>(S-F)</sub> = S-F bond energy, and S* indicates 6 coordinate sulfur. </caption></figure>
+
+
+
+
+      <table id="id1166876618280" summary="Comparison of diatomic bond dissociation and S-X bond energy for the fluorine and chlorine analogs.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>
+                <emphasis effect="bold">Bond dissociation energy</emphasis>
+              </entry>
+              <entry><emphasis effect="bold">kJ/mol</emphasis></entry>
+              <entry><emphasis effect="bold">Bond energy</emphasis></entry>
+              <entry><emphasis effect="bold">kJ/mol</emphasis></entry>
+            </row>
+            <row>
+              <entry>D<sub>(F-F)</sub></entry>
+              <entry>158 </entry>
+              <entry>E<sub>(S-F)</sub></entry>
+              <entry>362</entry>
+            </row>
+            <row>
+              <entry>D<sub>(Cl-Cl)</sub></entry>
+              <entry>262</entry>
+              <entry>E<sub>(S-Cl)</sub></entry>
+              <entry>235</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Comparison of diatomic bond dissociation and S-X bond energy for the fluorine and chlorine analogs. </caption>
+</table>
+
+      
+
+      <para id="id1166869800039">The S-F bond length (1.56 Å) is very short and consistent with π-bonding in addition to σ-bonding. Like SiF<sub>6</sub><sup>2-</sup>, SF<sub>6</sub> is an example of a hypervalent molecule (<link target-id="id1166869794150"/>). </para>
+
+
+
+        <figure id="id1166869794150">
+          <media id="id1166869794150_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-f0f1.jpg" id="id1166869794150__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>Molecular orbital bonding in SF<sub>6</sub>. </caption>
+        </figure>
+
+
+
+      <para id="id1166870819484">Sulfur hexafluoride is an unreactive, non toxic compound. Its inert nature provides one of its applications, as a spark suppressor. The hexafluoride is generally resistant to chemical attack, e.g., no reaction is observed with potassium hydroxide (KOH) at 500 °C. The low reactivity is due to SF<sub>6</sub> being kinetically inert due to: </para>
+
+
+      <list id="id1166865949512" list-type="bulleted" bullet-style="bullet"><item>Coordination saturation precluding associative reactions with nucleophiles. </item>
+        <item>Strong S-F bond (360 kJ/mol) limiting dissociative reactions. </item>
+      </list>
+
+
+      <para id="id1166874219517">Thermodynamically SF<sub>6</sub> should react with water (ΔH = -460 kJ/mol), but the rate factors are too great. Sulfur hexafluoride can be reduced with sodium in liquid ammonia, <link target-id="eip-53"/>, or with LiAlH<sub>4</sub>. In each of these reactions the mechanism involves the formation of a radical, <link target-id="eip-326"/>. The reaction with sulfur trioxide yields SO<sub>2</sub>F<sub>2</sub>, <link target-id="eip-406"/>, however, the reactions with carbon or CS<sub>2</sub> only occur at elevated temperatures (500 °C) and pressure (4000 atm). </para>
+
+        
+
+        <equation id="eip-53"><media id="id1166866827073_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-017a.jpg" id="id1166866827073__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+      <equation id="eip-326"><media id="id1166864363952_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-d60e.jpg" id="id1166864363952__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><equation id="eip-406"><media id="id1166876774907_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-402d.jpg" id="id1166876774907__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+    </section>
+
+
+    <section id="id1166875775064">
+      <title>Sulfur monochloride pentafluoride</title>
+      <para id="id1166874954417">Although the hexachloride is unknown, it is possible to isolate the monochloride derivative (SF<sub>5</sub>Cl) by the oxidative addition of Cl-F across SF<sub>4</sub>. </para>
+
+        
+
+      <equation id="eip-447"><media id="id8297905_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-ddff.jpg" id="id8297905__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1166870220863">Sulfur monochloride pentafluoride is a gas (Bp = -21 °C), but unlike SF<sub>6</sub> it is fairly reactive due to the polarization of the S-Cl bond (<link target-id="id1166873822824"/>), and as a consequence it reacts with water, <link target-id="eip-905"/>. </para>
+
+
+      
+
+
+      <equation id="eip-905"><media id="id1166866041106_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-bf29.jpg" id="id1166866041106__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><figure id="id1166873822824">
+        <media id="id1166873822824_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-abc3.jpg" id="id1166873822824__onlineimage" width="100" print-width="1in"/>
+        </media>
+<caption>Polarization of the S-Cl bond in SF<sub>5</sub>Cl.</caption>
+      </figure>
+
+
+    </section>
+
+    <section id="id1166871815963">
+      <title>Sulfur pentafluoride</title>
+
+      <para id="id1166865197927">Although SF<sub>5</sub> does not exist as a stable molecule, the gaseous dimmer S<sub>2</sub>F<sub>10</sub> (Bp = 29 °C) may be isolated from the photochemical hydrogen reduction of SF<sub>5</sub>Cl, <link target-id="eip-268"/>. </para>
+
+      
+
+      <equation id="eip-268"><media id="id1166876415101_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-95fd.jpg" id="id1166876415101__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1166876883600">While the sulfur is octahedral in S<sub>2</sub>F<sub>10</sub> (<link target-id="id1166865286461"/>a) the S-S bond is weak and long (2.21 Å versus an expected 2.08 Å for a single S-S bond). Despite the apparently weak S-S bond, S<sub>2</sub>F<sub>10</sub> shows almost no reactivity at room temperature; however, the S-S bond undergoes homoleptic cleavage at high temperatures. The resultant SF<sub>5</sub><sup>.</sup> radicals disproportionate to give highly reactive fluoride radicals, <link target-id="eip-397"/>, which is the source of the highly oxidative properties of S<sub>2</sub>F<sub>10</sub>. </para>
+
+        
+
+
+      <equation id="eip-397"><media id="id1166871703073_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-4eb9.jpg" id="id1166871703073__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><figure id="id1166865286461">
+        <media id="id1166865286461_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-4a60.jpg" id="id1166865286461__onlineimage" width="300" print-width="3in"/>
+        </media>
+<caption>Structures of (a) S<sub>2</sub>F<sub>10</sub> and (b) SF<sub>4</sub>. </caption>
+      </figure>
+
+
+
+
+      <para id="id1166875124666">The SF<sub>5</sub><sup>.</sup> fragment is stabilized by the addition of an alkyl radical, and thus, there are a large number of RSF<sub>5</sub> derivatives known. Unlike, the chloride analog, these are very stable. </para>
+
+    </section>
+
+    <section id="id1166870382455">
+      <title>Sulfur tetrafluoride</title>
+      <para id="id7378287">Sulfur tetrafluoride (SF<sub>4</sub>) is prepared from sulfur dichloride and sodium fluoride in acetonitrile solution at 70 - 80 °C. </para>
+
+        
+
+
+      <equation id="eip-945"><media id="id1166872142563_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-f6bf.jpg" id="id1166872142563__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1166871875962">The structure of SF<sub>4</sub> (and its substituted derivatives RSF<sub>3</sub>) is based upon a trigonal bipyramidal structure with one of the equatorial sites being occupied by a lone pair (<link target-id="id1166865286461"/>b). Unlike the hexafluoride, sulfur tetrachloride is a highly reactive compound. It hydrolyzes readily, <link target-id="eip-149"/>, and is a useful fluorinating agent (<link target-id="id1166870720067"/>). </para>
+
+      
+
+      <equation id="eip-149"><media id="id1166870436679_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-a01d.jpg" id="id1166870436679__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><figure id="id1166870720067"><media id="id1166870720067_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics15-f0e8.jpg" id="id1166870720067__onlineimage" width="300" print-width="3in"/>
+        </media>
+
+      <caption>Examples of the use of SF<sub>4</sub> as a fluorinating agent.</caption></figure>
+
+
+
+    </section>
+    <section id="id1166878397032">
+      <title>Sulfur chlorides </title>
+      <para id="id1166864450653">The chlorination of molten sulfur yields the fowl smelling disulfur dichloride (S<sub>2</sub>Cl<sub>2</sub>). If the reaction is carried out with a catalyst such as FeCl<sub>3</sub>, SnI<sub>4</sub> or I<sub>2</sub>, an equilibrium mixture containing sulfur dichloride (SCl<sub>2</sub>) is formed. However, the dichloride dissociates readily, <link target-id="eip-550"/>, although it can be isolated as a dark red liquid if it distilled in the presence of PCl<sub>5</sub>. The reaction of chlorine at -80 °C with SCl<sub>2</sub> or S<sub>2</sub>Cl<sub>2</sub> allows for the formation of SCl<sub>4</sub> as a yellow crystalline compound which dissociates above -31 °C. Sulfur chlorides are readily hydrolyzed. Sulfur chlorides are used to dissolve sulfur (giving species up to S<sub>100</sub>Cl<sub>2</sub>) for the vulcanization of rubber. </para>
+
+        
+
+      <equation id="eip-550"><media id="id1166866440516_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-d4b3.jpg" id="id1166866440516__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1166876673305">In the vapor phase S<sub>2</sub>Cl<sub>2</sub> has C<sub>2</sub> symmetry (<link target-id="id1166870643374"/>a) while that of SCl<sub>2</sub> has C<sub>2v</sub> symmetry (<link target-id="id1166870643374"/>b). </para>
+
+      <figure id="id1166870643374">
+        <media id="id1166870643374_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics17-627e.jpg" id="id1166870643374__onlineimage" width="300" print-width="3in"/>
+        </media>
+<caption>Structures of (a) S<sub>2</sub>Cl<sub>2</sub> and (b) SCl<sub>2</sub>.</caption>
+      </figure>
+
+
+
+    </section>
+  </content>
+</document>

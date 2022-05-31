@@ -1,0 +1,308 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Electronic Grade Gallium Arsenide</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32000</md:content-id>
+  <md:title>Electronic Grade Gallium Arsenide</md:title>
+  <md:abstract/>
+  <md:uuid>bbe0373c-eb45-4d40-8abd-3e6e077547c3</md:uuid>
+</metadata>
+
+<content>
+
+
+    
+      
+<section id="id-796416736495">
+      <title>Introduction </title>
+      <para id="eip-945">The synthesis and purification of bulk polycrystalline semiconductor material represents the first step towards the commercial fabrication of an electronic device. This polycrystalline material is then used as the raw material for the formation of single crystal material that is processed to semiconductor wafers. </para><para id="id9281881">In contrast to electronic grade silicon (EGS), whose use is a minor fraction of the global production of elemental silicon, gallium arsenide (GaAs) is produced exclusively for use in the semiconductor industry. However, arsenic and its compounds have significant commercial applications. The main use of elemental arsenic is in alloys of Pb, and to a lesser extent Cu, while arsenic compounds are widely used in pesticides and wood preservatives and the production of bottle glass. Thus, the electronics industry represents a minor user of arsenic. In contrast, although gallium has minor uses as a high-temperature liquid seal, manometric fluids and heat transfer media, and for low temperature solders, its main use is in semiconductor technology. </para>
+    </section>
+
+
+      <section id="id-489047095031">
+        <title>Isolation and purification of gallium metal </title>
+        <para id="id9281907">At 19 ppm gallium (L. <foreign>Gallia</foreign>, France) is about as abundant as nitrogen, lithium and lead; it is twice as abundant as boron (9 ppm), but is more difficult to extract due to the lack of any major gallium-containing ore. Gallium always occurs in association either with zinc or germanium, its neighbors in the periodic table, or with aluminum in the same group. Thus, the highest concentrations (0.1-1%) are in the rare mineral germanite (a complex sulfide of Zn, Cu, Ge, and As), while concentrations in sphalerite (ZnS), diaspore [AlO(OH)], bauxite, or coal, are a hundred-fold less. Industrially, gallium was originally recovered from the flue dust emitted during sulfide roasting or coal burning (up to 1.5% Ga), however, it is now obtained as side product of vast aluminum industry and in particular from the Bayer process for obtaining alumina from bauxite. </para>
+        <para id="id9281932">The Bayer process involves dissolution of bauxite, AlO<sub>x</sub>OH<sub>3-2x</sub>, in aqueous NaOH, separation of insoluble impurities, partial precipitation of the trihydrate, Al(OH)<sub>3</sub>, and calcination at 1,200 °C. During processing the alkaline solution is gradually enriched in gallium from an initial weight ratio Ga/Al of about 1/5000 to about 1/300. Electrolysis of these extracts with a Hg cathode results in further concentration, and the solution of sodium gallate thus formed is then electrolyzed with a stainless steel cathode to give Ga metal. Since bauxite contains 0.003-0.01% gallium, complete recovery would yield some 500-1000 tons per annum, however present consumption is only 0.1% of this about 10 tons per annum. </para>
+        <para id="id9282086">A typical analysis of the 98-99% pure gallium obtained as a side product from the Bayer process is shown in <link target-id="id9282228"/>. This material is further purified to 99.99% by chemical treatment with acids and O<sub>2</sub>
+ at high temperatures followed by crystallization. This chemical process results in the reduction of the majority of metal impurities at the ppm level, see <link target-id="id9282228"/>. Purification to seven nines 99.9999% is possible through zone refining, however, since the equilibrium distribution coefficient of the residual impurities k<sub>0</sub> ≈ 1, multiple passes are required, typically &gt; 500. The low melting point of gallium ensures that contamination from the container wall (which is significant in silicon zone refining) is minimized. In order to facilitate the multiple zone refining in a suitable time, a simple modification of zone refining is employed shown in <link target-id="id8318829"/>. The gallium is contained in a plastic tube wrapped around a rotating cylinder that is half immersed in a cooling bath. A heater is positioned above the gallium plastic coil. Thus, establishing a series of molten zones that pass upon rotation of the drum by one helical segment per revolution. In this manner, 500 passes may be made in relatively short time periods. The typical impurity levels of gallium zone refined in this manner are given in <link target-id="id9282228"/>. </para>
+        <table id="id9282228" summary="Typical analysis of gallium obtained as a side product from the Bayer process.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis></entry>
+                <entry><emphasis effect="bold">Bayer process (ppm)</emphasis></entry>
+                <entry><emphasis effect="bold">After acid/base leaching (ppm)</emphasis></entry>
+                <entry><emphasis effect="bold">500 zone passes (ppm)</emphasis></entry>
+              </row>
+              <row>
+                <entry>aluminum</entry>
+                <entry>100-1,000</entry>
+                <entry>7</entry>
+                <entry>&lt; 1</entry>
+              </row>
+              <row>
+                <entry>calcium</entry>
+                <entry>10-100</entry>
+                <entry>not detected</entry>
+                <entry>not detected</entry>
+              </row>
+              <row>
+                <entry>copper</entry>
+                <entry>100-1,000</entry>
+                <entry>2</entry>
+                <entry>&lt; 1</entry>
+              </row>
+              <row>
+                <entry>iron</entry>
+                <entry>100-1,000</entry>
+                <entry>7</entry>
+                <entry>&lt; 1</entry>
+              </row>
+              <row>
+                <entry>lead</entry>
+                <entry>&lt; 2000</entry>
+                <entry>30</entry>
+                <entry>not detected</entry>
+              </row>
+              <row>
+                <entry>magnesium</entry>
+                <entry>10-100</entry>
+                <entry>1</entry>
+                <entry>not detected</entry>
+              </row>
+              <row>
+                <entry>mercury</entry>
+                <entry>10-100</entry>
+                <entry>not detected</entry>
+                <entry>not detected</entry>
+              </row>
+              <row>
+                <entry>nickel</entry>
+                <entry>10-100</entry>
+                <entry>not detected</entry>
+                <entry>not detected</entry>
+              </row>
+              <row>
+                <entry>silicon</entry>
+                <entry>10-100</entry>
+                <entry>≈ 1</entry>
+                <entry>not detected</entry>
+              </row>
+              <row>
+                <entry>tin</entry>
+                <entry>10-100</entry>
+                <entry>≈ 1</entry>
+                <entry>not detected</entry>
+              </row>
+              <row>
+                <entry>titanium</entry>
+                <entry>10-100</entry>
+                <entry>1</entry>
+                <entry>&lt; 1</entry>
+              </row>
+              <row>
+                <entry>zinc</entry>
+                <entry>30,000</entry>
+                <entry>≈ 1</entry>
+                <entry>not detected</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>Typical analysis of gallium obtained as a side product from the Bayer process. </caption>
+</table>
+        <figure id="id8318829"><media id="id1170982444777" alt=""><image src="../../media/graphics12-5eb5.png" mime-type="image/png" width="425" print-width="4.5in"/></media>
+        <caption>Schematic representation of a zone refining apparatus. </caption></figure>
+      </section>
+      <section id="id-549920023136">
+        <title>Isolation and purification of elemental arsenic </title>
+        <para id="id8318861">Elemental arsenic (L. arsenicum, yellow orpiment) exists in two forms: yellow (cubic, As<sub>4</sub>) and gray or metallic (rhombohedral). At a natural abundance of 1.8 ppm arsenic is relatively rare, however, this is offset by its presence in a number of common minerals and the relative ease of isolation. Arsenic containing minerals are grouped into three main classes: the sulfides realgar (As<sub>4</sub>S<sub>4</sub>) and orpiment (As<sub>2</sub>S<sub>3</sub>), the oxide arsenolite (As<sub>2</sub>O<sub>3</sub>), and the arsenides and sulfaresenides of the iron, cobalt, and nickel. Minerals in this latter class include: loellinginite (FeAs<sub>2</sub>), safforlite (CoAs), niccolite (NiAs), rammelsbergite (NiAs<sub>2</sub>), ansenopyrite or mispickel (FeAsS), cobaltite (CoAsS), enargite (Cu<sub>3</sub>AsS<sub>4</sub>), gerdsorfite (NiAsS), and the quarturnary sulfide glaucodot [(Co,Fe)AsS]. <link target-id="id8063588"/> shows the typical impurities in arsenopyrite. </para>
+        <table id="id8063588" summary="Typical impurities in arsenopyrite.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis> </entry>
+                <entry><emphasis effect="bold">Concentration (ppm)</emphasis> </entry>
+                <entry><emphasis effect="bold">Element</emphasis> </entry>
+                <entry><emphasis effect="bold">Concentration (ppm)</emphasis></entry>
+              </row>
+              <row>
+                <entry>silver</entry>
+                <entry>90</entry>
+                <entry>nickel</entry>
+                <entry>&lt; 3,000</entry>
+              </row>
+              <row>
+                <entry>gold</entry>
+                <entry>8</entry>
+                <entry>lead</entry>
+                <entry>50</entry>
+              </row>
+              <row>
+                <entry>cobalt</entry>
+                <entry>30,000</entry>
+                <entry>platinum</entry>
+                <entry>0.4</entry>
+              </row>
+              <row>
+                <entry>copper</entry>
+                <entry>200</entry>
+                <entry>rhenium</entry>
+                <entry>50</entry>
+              </row>
+              <row>
+                <entry>germanium</entry>
+                <entry>30</entry>
+                <entry>selenium</entry>
+                <entry>50</entry>
+              </row>
+              <row>
+                <entry>manganese</entry>
+                <entry>3,000</entry>
+                <entry>vanadium</entry>
+                <entry>300</entry>
+              </row>
+              <row>
+                <entry>molybdenum</entry>
+                <entry>60</entry>
+                <entry>zinc</entry>
+                <entry>400</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>Typical impurities in arsenopyrite.</caption>
+</table>
+        <para id="id8063948">Arsenic is obtained commercially by smelting either FeAs<sub>2</sub> or FeAsS at 650-700 °C in the absence of air and condensing the sublimed element (T<sub>sub</sub> = 613 °C), <link target-id="eip-759"/>. </para>
+        
+        <equation id="eip-759"><media id="id11111117_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq17.jpg" id=" id11111117__onlineimage" width="450" print-width="4in"/></media></equation><para id="id8064138">The arsenic thus obtained is combined with lead and then sublimed (T<sub>sub</sub> = 614 °C) which binds any sulfur impurities more strongly than arsenic. Any residual arsenic that remains trapped in the iron sulfide is separated by forming the oxide (As<sub>2</sub>O<sub>3</sub>) by roasting the sulfide in air. The oxide is sublimed into the flue system during roasting from where it is collected and reduced with charcoal at 700-800 °C to give elemental arsenic. Semiconductor grade arsenic (&gt; 99.9999%) is formed by zone refining. </para>
+      </section>
+      <section id="id-634930688483">
+        <title>Synthesis and purification of gallium arsenide. </title>
+        <para id="id8268832">Gallium arsenide can be prepared by the direct reaction of the elements, <link target-id="eip-426"/>. However, while conceptually simple the synthesis of GaAs is complicated by the different vapor pressures of the reagents and the highly exothermic nature of the reaction. Furthermore, since the synthesis of GaAs at atmospheric pressure is accompanied by its simultaneous decomposes due to the loss by sublimation, of arsenic, the synthesis must be carried out under an overpressure of arsenic in order to maintain a stoichiometric composition of the synthesized GaAs. </para>
+        
+        <equation id="eip-426"><media id="id11111118_media" alt="">        <image mime-type="image/jpg" src="../../media/SiEq18.jpg" id=" id11111118__onlineimage" width="450" print-width="4in"/></media></equation><para id="id8268874">In order to overcome the problems associated with arsenic loss, the reaction is usually carried out in a sealed reaction tube. However, if a stoichiometric quantity of arsenic is used in the reaction a constant temperature of 1238 °C must be employed in order to maintain the desired arsenic overpressure of 1 atm. Practically, it is easier to use a large excess of arsenic heated to a lower temperature. In this situation the pressure in the tube is approximately equal to the equilibrium vapor pressure of the volatile component (arsenic) at the lower temperature. Thus, an over pressure of 1 atm arsenic may be maintained if within a sealed tube elemental arsenic is heated to 600-620 °C while the GaAs is maintained at 1240-1250 °C. </para>
+        <para id="id8269042"><link target-id="id8269064"/> shows the sealed tube configuration that is typically used for the synthesis of GaAs. The tube is heated within a two-zone furnace. The boats holding the reactants are usually made of quartz, however, graphite is also used since the latter has a closer thermal expansion match to the GaAs product. If higher purity is required then pyrolytic boron nitride (PBN) is used. One of the boats is loaded with pure gallium the other with arsenic. A plug of quartz wool may be placed between the boats to act as a diffuser. The tube is then evacuated and sealed. Once brought to the correct reaction temperatures (<link target-id="id8269064"/>), the arsenic vapor is transported to the gallium, and they react to form GaAs in a controlled manner. <link target-id="id8269088"/> gives the typical impurity concentrations found in polycrystalline GaAs. </para>
+        <figure id="id8269064"><media id="id1170980536908" alt=""><image src="../../media/graphics15-d2b6.png" mime-type="image/png" width="400" print-width="4in"/></media>
+        <caption>Schematic representation of a sealed tube synthesis of GaAs. </caption></figure>
+        <table id="id8269088" summary="Impurity concentrations found in polycrystalline GaAs.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Element</emphasis> </entry>
+                <entry><emphasis effect="bold">Concentration (ppm)</emphasis> </entry>
+                <entry><emphasis effect="bold">Element</emphasis> </entry>
+                <entry><emphasis effect="bold">Concentration (ppm)</emphasis> </entry>
+              </row>
+              <row>
+                <entry>boron</entry>
+                <entry>0.1</entry>
+                <entry>silicon</entry>
+                <entry>0.02</entry>
+              </row>
+              <row>
+                <entry>carbon</entry>
+                <entry>0.7</entry>
+                <entry>phosphorus</entry>
+                <entry>0.1</entry>
+              </row>
+              <row>
+                <entry>nitrogen</entry>
+                <entry>0.1</entry>
+                <entry>sulfur</entry>
+                <entry>0.01</entry>
+              </row>
+              <row>
+                <entry>oxygen</entry>
+                <entry>0.5</entry>
+                <entry>chlorine</entry>
+                <entry>0.08</entry>
+              </row>
+              <row>
+                <entry>fluorine </entry>
+                <entry>0.2</entry>
+                <entry>nickel</entry>
+                <entry>0.04</entry>
+              </row>
+              <row>
+                <entry>magnesium</entry>
+                <entry>0.02</entry>
+                <entry>copper</entry>
+                <entry>0.01</entry>
+              </row>
+              <row>
+                <entry>aluminum</entry>
+                <entry>0.02</entry>
+                <entry>zinc</entry>
+                <entry>0.05</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Impurity concentrations found in polycrystalline GaAs. </caption>
+</table>
+        <para id="id8269449">Polycrystalline GaAs, formed in from the direct reaction of the elements is often used as the starting material for single crystal growth <foreign>via</foreign> Bridgeman or Czochralski crystal growth. It is also possible to prepare single crystals of GaAs directly from the elements using in-situ, or direct, compounding within a high-pressure liquid encapsulated Czochralski (HPLEC) technique. </para>
+      </section>
+
+
+   <section id="id1166037595778">
+      <title>Growth of gallium arsenide crystals</title>
+      <para id="id1166038855704">When considering the synthesis of Group 13-15 compounds for electronic applications, the very nature of semiconductor behavior demands the use of high purity single crystal materials. The polycrystalline materials synthesized above are, therefore, of little use for 13-15 semiconductors but may, however, serve as the starting material for melt grown single crystals. For GaAs, undoubtedly the most important 13-15 (III - V) semiconductor, melt grown single crystals are achieved by one of two techniques: the Bridgman technique, and the Czochralski technique. </para>
+      <section id="id1166037565456">
+        <title>Bridgman growth</title>
+        <para id="id1166036065006">The Bridgman technique requires a two-zone furnace, of the type shown in <link target-id="id1166036010522"/>. The left hand zone is maintained at a temperature of <emphasis effect="italics">ca</emphasis>. 610 °C, allowing sufficient overpressure of arsenic within the sealed system to prevent arsenic loss from the gallium arsenide. The right hand side of the furnace contains the polycrystalline GaAs raw material held at a temperature just above its melting point (<emphasis effect="italics">ca</emphasis>. 1240 °C). As the furnace moves from left to right, the melt cools and solidifies.</para>
+        <figure id="id1166036010522"><media id="id4525928_media" alt=""><image mime-type="image/jpg" src="../../media/Bridgman.jpg" id="id4525928__onlineimage" width="425" print-width="4in"/></media>
+
+        <caption>A schematic diagram of a Bridgman two-zone furnace used for melt growths of single crystal GaAs.</caption></figure>
+        
+        <para id="id1166037066421">If a seed crystal is placed at the left hand side of the melt (at a point where the temperature gradient is such that only the end melts), a specific orientation of single crystal may be propagated at the liquid-solid interface eventually to produce a single crystal. </para>
+      </section>
+      <section id="id1166036702176">
+        <title>Czochralski growth</title>
+        <para id="id1166032610674">The Czochralski technique, which is the most commonly used technique in industry, is shown in <link target-id="id1166038840670"/>. The process relies on the controlled withdrawal of a seed crystal from a liquid melt. As the seed is lowered into the melt, partial melting of the tip occurs creating the liquid solid interface required for crystal growth. As the seed is withdrawn, solidification occurs and the seed orientation is propagated into the grown material. The variable parameters of rate of withdrawal and rotation rate can control crystal diameter and purity. As shown in <link target-id="id1166038840670"/> the GaAs melt is capped by boron trioxide (B<sub>2</sub>O<sub>3</sub>). The capping layer, which is inert to GaAs, prevents arsenic loss when the pressure on the surface is above atmospheric pressure. The growth of GaAs by this technique is thus termed liquid encapsulated Czochralski (LEC) growth. </para>
+        
+        <figure id="id1166038840670"><media id="id4525929_media" alt=""><image mime-type="image/jpg" src="../../media/Czochralski.jpg" id="id4525929__onlineimage" width="425" print-width="4in"/></media><caption>A schematic diagram of the Czochralski technique as used for growth of GaAs single crystal bond.</caption></figure>
+        <para id="eip-273">While the Bridgman technique is largely favored for GaAs growth, larger diameter wafers can be obtained by the Czochralski method. Both of these melt techniques produce materials heavily contaminated by the crucible, making them suitable almost exclusively as substrate material. Another disadvantage of these techniques is the production of defects in the material caused by the melt process. </para>
+      </section>
+    </section>
+
+
+
+    <section id="id-77087541871">
+      <title>Bibliography</title>
+      <list id="eip-157">
+
+<item>S. K. Ghandhi, <emphasis effect="italics">VLSI Fabrication Principles: Silicon and Gallium Arsenide.</emphasis> Wiley-Interscience, New York, (1994).</item>
+
+<item>J. Krauskopf, J. D. Meyer, B. Wiedemann, M. Waldschmidt, K. Bethge, G. Wolf, and W. Schültze, <emphasis effect="italics">5th Conference on Semi-insulating III-V Materials</emphasis>, Malmo, Sweden, 1988, Eds. G. Grossman and L. Ledebo, Adam-Hilger, New York (1988).</item>
+
+
+<item>W. G. Pfann, <emphasis effect="italics">Zone Melting</emphasis>, John Wiley &amp; Sons, New York (1966). </item>
+
+
+
+<item>R. E. Williams, <emphasis effect="italics">Gallium Arsenide Processing Techniques.</emphasis> Artech House (1984). </item>
+
+<item><emphasis effect="italics">Properties of Gallium Arsenide.</emphasis> Ed. M. R. Brozel and G. E. Stillman. 3rd Ed. Institution of Electrical Engineers, London (1996).</item>
+
+</list>
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+    </section>
+  </content>
+</document>

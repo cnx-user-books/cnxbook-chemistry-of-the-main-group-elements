@@ -1,0 +1,285 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Boron Oxides, Hydroxides, and Oxyanions</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32461</md:content-id>
+  <md:title>Boron Oxides, Hydroxides, and Oxyanions</md:title>
+  <md:abstract/>
+  <md:uuid>3e34c618-09b0-4aa6-8708-2f830381d0f0</md:uuid>
+</metadata>
+
+<content>
+    <section id="id9079700">
+      <title>Oxides</title>
+      <para id="id9079707">Boron oxide, B<sub>2</sub>O<sub>3</sub>, is made by the dehydration of boric acid, <link target-id="eip-1111"/>. It is a glassy solid with no regular structure, but can be crystallized with extreme difficulty. The structure consists of infinite chains of triangular BO<sub>3</sub> unit (<link target-id="id9079796"/>). Boron oxide is acidic and reacts with water to reform boric acid, <link target-id="eip-1111"/>. </para>
+
+<equation id="eip-1111">
+        <media id="id9079769_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-6f40.jpg" id="id9079769__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+        </equation>
+
+
+
+      <figure id="id9079796"><media id="id9079796_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-ea50.jpg" id="id9079796__onlineimage" width="225" print-width="2.25in"/>
+        </media>
+
+      <caption>Glassy structure of B<sub>2</sub>O<sub>3</sub>. </caption></figure>
+
+
+
+      <para id="id9079836">The reaction of B<sub>2</sub>O<sub>3</sub> with hydroxide yields the metaborate ion, <link target-id="eip-1112"/>, whose planar structure (<link target-id="id9079916"/>) is related to metaboric acid. Boron oxide fuses with a wide range of metal and non-metal oxides to give borate glasses. </para>
+
+<equation id="eip-1112">
+        <media id="id9079889_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-8815.jpg" id="id9079889__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+        </equation>
+
+
+
+      <figure id="id9079916"><media id="id9079916_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-b35c.jpg" id="id9079916__onlineimage" width="125" print-width="1.25in"/>
+        </media>
+
+      <caption>Structure of the metaborate anion, [B<sub>3</sub>O<sub>6</sub>]<sup>3-</sup>. </caption></figure>
+
+
+
+
+
+    </section>
+    <section id="id9079962">
+      <title>Boric acid </title>
+      <para id="id9079970">Boric acid, B(OH)<sub>3</sub>, usually obtained from the dissolution of borax, Na<sub>2</sub>[B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub>], is a planar solid with intermolecular hydrogen bonding forming a near hexagonal layered structure, broadly similar to graphite (<link target-id="id9080030"/>). The inter layer distance is 3.18 Å. </para>
+
+      <figure id="id9080030"><media id="id9080030_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-a0b2.jpg" id="id9080030__onlineimage" width="300" print-width="3in"/>
+        </media>
+
+      <caption>The hydrogen bonded structure of boric acid.</caption></figure>
+
+
+
+      <para id="id9080058">A summary of reactions of the reactivity of boric acid is shown in <link target-id="id9080074"/>. </para>
+
+        <figure id="id9080074">
+          <media id="id9080074_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-1d0b.jpg" id="id9080074__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>Selected reactions of boric acid. Adapted from F. A. Cotton and G. Wilkinson, <emphasis effect="italics">Advanced Inorganic Chemistry</emphasis>, 4<sup>th</sup> Ed. Wiley Interscience (1980). </caption>
+        </figure>
+
+
+      <para id="id9080122">Upon dissolution of boric acid in water, boric acid does not act as a proton acid, but instead reacts as a Lewis acid, <link target-id="eip-1113"/>. </para>
+
+<equation id="eip-1113">       <media id="id9080148_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-eec5.jpg" id="id9080148__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+   
+
+      <para id="id9080172">The reaction may be followed by <sup>11</sup>B NMR spectroscopy from the change in the chemical shift (<link target-id="id9080187"/>). </para>
+ 
+     <figure id="id9080187"><media id="id9080187_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-732d.jpg" id="id9080187__onlineimage" width="300" print-width="3in"/>
+        </media>
+
+      <caption>The <sup>11</sup>B NMR chemical shift (ppm) of boric acid as a function of pH. Adapted from M. Bishop, N. Shahid, J. Yang, and A. R. Barron, <emphasis effect="italics">Dalton Trans</emphasis>., 2004, 2621.</caption></figure>
+
+
+
+
+      <para id="id9080234">Since the <sup>11</sup>B NMR shift is directly proportional to the mole fraction of the total species present as the borate anion (e.g., [B(OH)<sub>4</sub>]<sup>-</sup>) the <sup>11</sup>B NMR chemical shift at a given temperature, δ<sub>(obs)</sub>, may be used to calculate both the mole fraction of boric acid and the borate anion, i.e., <link target-id="eip-1114"/> and <link target-id="eip-1115"/>, respectively. Using these equations the relative speciation as a function of pH may be calculated for both boric acid (<link target-id="id9080393"/>). The pH at which a 50:50 mixture of acid and anion for boric acid is <emphasis effect="italics">ca</emphasis>. 9.4. </para>
+
+<equation id="eip-1114">        <media id="id9080338_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-009c.jpg" id="id9080338__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+<equation id="eip-1115">        <media id="id9080365_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-19a2.jpg" id="id9080365__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+
+
+        <figure id="id9080393"><media id="id9080393_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-9932.jpg" id="id9080393__onlineimage" width="300" print-width="3in"/>
+          </media>
+
+        <caption>The mole fraction of acid (black squares) and anion (white squares) forms of boric acid as a function of pH. Adapted from M. Bishop, N. Shahid, J. Yang, and A. R. Barron, <emphasis effect="italics">Dalton Trans</emphasis>., 2004, 2621. </caption></figure>
+
+
+
+
+      <para id="id9080452">In concentrated solutions, the borate ion reacts further to form polyborate ions. The identity of the polyborate is dependent on the pH. With increasing pH, B<sub>5</sub>O<sub>6</sub>(OH)<sub>4</sub><sup>-</sup>, <link target-id="eip-1116"/>, B<sub>3</sub>O<sub>3</sub>(OH)<sub>4</sub><sup>-</sup>, <link target-id="eip-1117"/>, and B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub><sup>2</sup><sup>-</sup>, <link target-id="eip-1118"/>, are formed. The structure of each borate is shown in <link target-id="id9080649"/>. Once the ratio of B(OH)<sub>3</sub> to B(OH)<sub>4</sub><sup>-</sup> is greater than 50%, only the mono-borate is observed. </para>
+
+<equation id="eip-1116">        <media id="id9080567_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-39a7.jpg" id="id9080567__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+<equation id="eip-1117">        <media id="id9080594_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-d791.jpg" id="id9080594__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+<equation id="eip-1118">        <media id="id9080621_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-9c34.jpg" id="id9080621__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+
+
+        <figure id="id9080649"><media id="id9080649_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-fb09.jpg" id="id9080649__onlineimage" width="400" print-width="4in"/>
+          </media>
+
+        <caption>The structures of the borate anions (a) B<sub>5</sub>O<sub>6</sub>(OH)<sub>4</sub><sup>-</sup>, (b) B<sub>3</sub>O<sub>3</sub>(OH)<sub>4</sub><sup>-</sup>, and (c) B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub><sup>2</sup><sup>-</sup>. </caption></figure>
+
+
+
+
+      <para id="id9080750">Borax, the usual mineral form of boric acid, is the sodium salt, Na<sub>2</sub>[B<sub>4</sub>O<sub>5</sub>(OH)<sub>4</sub>], which upon dissolution in water re-equilibrates to B(OH)<sub>3</sub>. </para>
+
+
+
+
+
+
+      <section id="id90909090">
+        <title>Enough to make your hair curl</title>
+
+     <para id="id9080790">In 1906, a German hairdresser, Charles Nessler who was living in London, decided to help his sister who was fed-up with having to put her straight hair in curlers. While looking for a solution, Nessler noticed that a clothesline contracted in a wavy shape when it was wet. Nessler wound his sister’s hair on cardboard tubes; then he covered the hair with borax paste. After wrapping the tubes with paper (to exclude air) he heated the entire mass for several hours. Removing the paper and tubes resulted in curly hair. After much trial and error (presumably at his sisters discomfort) Nessler perfected the method by 1911, and called the process a <emphasis effect="italics">permanent wave</emphasis> (or perm). The process involved the alkaline borax softening the hair sufficiently to be remodeled, while the heating stiffened the borax to hold the hair into shape. The low cost of borax meant that Nessler’s methods was an immediate success. </para>
+      </section>
+
+
+     <section id="id9080874">
+        <title>Metaboric acid</title>
+        <para id="id9080882">Heating boric acid results in the partial dehydration to yield metaboric acid, HBO<sub>2</sub>, <link target-id="eip-1122"/>. Metaboric acid is also formed from the partial hydrolysis of B<sub>2</sub>O<sub>3</sub>. </para>
+
+<equation id="eip-1122">         <media id="id9080925_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-335f.jpg" id="id9080925__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+ 
+
+
+
+        <para id="id9080949">If the heating is carried out below 130 °C, HBO<sub>2</sub>-III is formed in which B<sub>3</sub>O<sub>3</sub> rings are joined by hydrogen bonding to the hydroxide on each boron atom (<link target-id="id9081013"/>). Continued heating to 150 °C results in HBO<sub>2</sub>-II, whose structure consists of BO<sub>4</sub> tetrahedra and B<sub>2</sub>O<sub>5</sub> groups chain linked by hydrogen bonding. Finally, heating above 150 °C yields cubic HBO<sub>2</sub>-I with all the boron atoms tetrahedral. </para>
+
+        <figure id="id9081013"><media id="id9081013_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics17-fce2.jpg" id="id9081013__onlineimage" width="400" print-width="4in"/>
+          </media>
+
+        <caption>Structure of the layered structure of HBO<sub>2</sub>-III. </caption></figure>
+
+     </section>
+
+
+    </section>
+
+
+
+
+
+
+
+    <section id="id9081049">
+      <title>Borate esters</title>
+      <para id="id9081056">Boric acid reacts with alcohols in the presence of sulfuric acid to form B(OR)<sub>3</sub> (<link target-id="id9080074"/>). This is the basis for a simple flame test for boron. Treatment of a compounds with methanol/sulfuric acid, followed by placing the reaction product in a flame results in a green flame due to B(OMe)<sub>3</sub>. </para>
+
+      <para id="id9081109">In the presence of diols, polyols, or polysaccharides, boric acid reacts to form alkoxide complexes. In the case of diols, the mono-diol [B(OH)<sub>2</sub>L]<sup>-</sup> (<link target-id="id9081162"/>a) and the <emphasis effect="italics">bis</emphasis>-diol [BL<sub>2</sub>]<sup>-</sup> (<link target-id="id9081162"/>b) complexes. </para>
+
+      <figure id="id9081162"><media id="id9081162_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics18-75fa.jpg" id="id9081162__onlineimage" width="300" print-width="3in"/>
+        </media>
+
+      <caption>Structure of (a) the [B(OH)<sub>2</sub>L]<sup>-</sup> and (b) the [BL<sub>2</sub>]<sup>-</sup> anions formed by the reaction of boric acid (or borate) with a diol. </caption></figure>
+
+
+
+
+
+      <para id="id9081221">Originally it was proposed that diols react with the anion rather than boric acid, <link target-id="eip-1123"/>. In contrast, it was suggested that the optimum pH for the formation of carboxylic acid complexes is under the condition where pK<sub>a</sub> (carboxylic acid) &lt; pH &lt; pK<sub>a</sub> (boric acid). Under these conditions it is the boric acid, B(OH)<sub>3</sub>, not the borate anion, [B(OH)<sub>4</sub>]<sup>-</sup>, that reacts to form the complex. </para>
+
+<equation id="eip-1123">        <media id="id9081263_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics19-289e.jpg" id="id9081263__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+      <para id="id9081287">The conversion of boric acid to borate (<link target-id="eip-1113"/>) must occur through attack of hydroxide or the deprotonation of a coordinated water ligand, either of which is related to the pKa of water. The formation of [B(OH)<sub>2</sub>L]<sup>-</sup> from B(OH)<sub>3</sub> would be expected therefore to occur via a similar initial reaction (attack by RO<sup>-</sup> or deprotonation of coordinated ROH) followed by a subsequent elimination of H<sub>2</sub>O and the formation of a chelate coordination, and would therefore be related to the pKa of the alcohol. Thus the pH at which [B(OH)<sub>2</sub>L]<sup>-</sup> is formed relative to [B(OH)<sub>4</sub>]<sup>-</sup> will depend on the relative acidity of the alcohol. The pK<sub>a</sub> of a simple alcohol (e.g., MeOH = 15.5, EtOH = 15.9) are close to the value for water (15.7) and the lowest pH at which [B(OH)<sub>2</sub>L]<sup>-</sup> is formed should be comparable to that at which [B(OH)<sub>4</sub>]<sup>-</sup> forms. Thus, the formation of [B(OH)<sub>2</sub>L]<sup>-</sup> as compared to [B(OH)<sub>4</sub>]<sup>-</sup> is a competition between the reaction of B(OH)<sub>3</sub> with RO<sup>-</sup> and OH<sup>-</sup> (<link target-id="id9081468"/>), and as with carboxylic acids it is boric acid not borate that reacts with the alcohol, <link target-id="eip-1124"/>. </para>
+
+
+<equation id="eip-1124"><media id="id9081442_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics20-b612.jpg" id="id9081442__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+      <figure id="id9081468">
+        <media id="id9081468_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics21-f3a0.jpg" id="id9081468__onlineimage" width="500" print-width="5in"/>
+        </media>
+<caption>Competition between hydroxide and 1,2-diol for complexation to boron in the aqueous boric acid/diol system. </caption>
+      </figure>
+
+
+
+
+      <para id="id9081499">A key issue in the structural characterization and understanding of the diol/boric acid system is the assignment of the <sup>11</sup>B NMR spectral shifts associated with various complexes. A graphical representation of the observed shift ranges for boric acid chelate systems is shown in <link target-id="id9081519"/>. </para>
+
+      <figure id="id9081519">
+        <media id="id9081519_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics22-643c.jpg" id="id9081519__onlineimage" width="500" print-width="5in"/>
+        </media>
+<caption><sup>11</sup>B NMR spectroscopic shifts of chelate alkoxide compounds in comparison with boric acid and borate anion. The acronyms [B5] and [B6] are used to denote a borate complex of a 1,2-diol and 1,3-diol forming a chelate 5-membered and 6-membered ring cycle, respectively. Similarly, [B5<sub>2</sub>] and [B6<sub>2</sub>] denotes a borate complex of two 1,2-diols or 1,3-diols both forming [BL<sub>2</sub>]<sup>-</sup>. Adapted from M. Bishop, N. Shahid, J. Yang, and A. R. Barron, <emphasis effect="italics">Dalton Trans</emphasis>., 2004, 2621. </caption>
+      </figure>
+
+
+
+      <section id="id9081592">
+
+
+
+        <title>Boric acid cross-linking of guar gum for hydraulic fracturing fluids</title>
+        <para id="id9081600">Thick gels of guar gum cross-linked with borax or a transition metal complex are used in the oil well drilling industry as hydraulic fracturing fluids. The polysaccharide guaran (M<sub>w</sub> ≈ 10<sup>6</sup> Da) is the major (&gt;85 wt%) component of guar gum, and consists of a (1→4)-<emphasis effect="italics">β</emphasis>-D-mannopyranosyl backbone with <emphasis effect="italics">α</emphasis>-D-galactopyranosyl side chain units attached via (1→6) linkages. Although the exact ratio varies between different crops of guar gum the general structure is consistent with about one galactose to every other mannose (<link target-id="id9081664"/>). </para>
+
+
+        <figure id="id9081664">
+          <media id="id9081664_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics23-44b5.jpg" id="id9081664__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>The repeat unit of guaran, a naturally occurring polysaccharide, consisting of (1→4)-<emphasis effect="italics">β</emphasis>-D-mannopyranosyl units with α-D-galactopyranosyl side chains attached to about every other mannose via (1→6) linkages. </caption>
+
+        </figure>
+
+
+
+
+
+        <para id="id9081748">The synthesis of a typical boric acid cross-linked guar gel, with viscosity properties suitable for use as a fracturing fluid, involves mixing guar gum, water and boric acid, B(OH)<sub>3</sub>, in a 10:2000:1 wt/wt ratio. Adjusting the pH to between 8.5 and 9 results in a viscous gel. The boron:guaran ratio corresponds to almost 2 boron centers per 3 monosaccharide repeat units. Such a large excess of boric acid clearly indicates that the system is not optimized for cross-linking, i.e., a significant fraction of the boric acid is ineffective as a cross-linking agent.</para>
+
+        <para id="id9081770">The reasons for the inefficiency of boric acid to cross-link guaran (almost 2 borate ions per 3 monosaccharide repeat unit are required for a viscous gel suitable as a fracturing fluid): the most reactive sites on the component saccharides (mannose and galactose) are precluded from reaction by the nature of the guar structure; the comparable acidity (pK<sub>a</sub>) of the remaining guaran alcohol substituents and the water solvent, results in a competition between cross-linking and borate formation; a significant fraction of the boric acid is ineffective in cross-linking guar due to the modest equilibrium (K<sub>eq</sub>). </para>
+
+      </section>
+    </section>
+    <section id="id9081798">
+      <title>Bibliography</title>
+      <list id="id9081806" list-type="bulleted"><item>F. A. Cotton and G. Wilkinson, <emphasis effect="italics">Advanced Inorganic Chemistry</emphasis>, 4<sup>th</sup> Ed. Wiley Interscience (1980). </item>
+        <item>M. Bishop, N. Shahid, J. Yang, and A. R. Barron, <emphasis effect="italics">Dalton Trans</emphasis>., 2004, 2621. </item>
+        <item>M. Van Duin, J. A. Peters, A. P. G. Kieboom, and H. Van Bekkum, <emphasis effect="italics">Tetrahedron</emphasis>, 1984, <emphasis effect="bold">40</emphasis>, 2901. </item>
+        <item><emphasis effect="italics">Zonal Isolation</emphasis>, “Borate Crosslinked Fluids,” by R. J. Powell and J. M Terracina, Halliburton, Duncan, OK (1998). </item>
+<item>R. Schechter, <emphasis effect="italics">Oil Well Stimulation</emphasis>, Prentice-Hall Inc., Englewood Cliffs, NJ (1992). </item>
+        <item>S. Kesavan and R. K. Prud'homme, <emphasis effect="italics">Macromolecules</emphasis>, 1992, <emphasis effect="bold">25</emphasis>, 2026. </item>
+      </list>
+    </section>
+  </content>
+</document>

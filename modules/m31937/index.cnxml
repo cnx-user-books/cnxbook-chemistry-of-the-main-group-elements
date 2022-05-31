@@ -1,0 +1,138 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Solid State and Solution Chemistry</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31937</md:content-id>
+  <md:title>Solid State and Solution Chemistry</md:title>
+  <md:abstract/>
+  <md:uuid>ae596b60-b3d5-44e2-9f5f-a66aae8206e4</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id13210403">Calcium represents the typical Group 2 metal. The chemical properties of its compounds can be applied to all the heavier homologs. </para>
+    <section id="id12867296">
+      <title>Solid state </title>
+      <para id="id11432919">In the solid state the compounds of the alkaline metals generally form ionic lattices. In fact (except for beryllium and to a lesser extend magnesium) the lattice parameters calculated from the ionic radii of Group 2 metals are within 1% of the experimentally determined values, indicating the highly ionic character. </para>
+      <para id="id8670937">Due to the increased ionic charge the cations of the alkaline earths are less than that of their alkali metal neighbors. Thus, the ionic radius of Ca<sup>2+</sup> (0.99 Å) is less than that of K<sup>+</sup> (1.33 Å), but more similar to Na<sup>+</sup> (0.97 Å). This diagonal relationship is seen for the other metals in Group 2. </para>
+      <section id="id8307989">
+        <title>Oxides</title>
+        <para id="id3527967">Combustion of the Group 2 metals gives the monoxide, MO. In the case of SrO and BaO further reaction occurs by the absorption of oxygen under pressure to give the peroxides, MO<sub>2</sub>. The peroxide and superoxides are not stable for the lighter homologs because the smaller M<sup>2+</sup> ions are more polarizing and cause the peroxide and superoxides to decompose to the monoxide. Calcium peroxide can be prepared by the reaction of the hydroxide with hydrogen peroxide. </para>
+        
+        <equation id="eip-932"><media id="id13689573_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-2230.jpg" id="id13689573__onlineimage" width="500" print-width="4.5in"/>
+
+          </media></equation>
+
+
+<para id="id9746059">As typical for the Group 2 oxides, calcium monoxide is basic and reacts with water to give the hydroxide, <link target-id="eip-251 "/>. In fact, thin films of the Group 2 oxides of calcium, barium and strontium will readily absorb water and form the hydroxides. </para><equation id="eip-251"><media id="id13744270_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-16a7.jpg" id="id13744270__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        
+      </section>
+      <section id="id11428007">
+        <title>Carbonate</title>
+        <para id="id8248627">Calcium carbonate (CaCO<sub>3</sub>) is a common substance found in rock in all parts of the world, and is the main component of shells of marine organisms, snails, pearls, and eggshells. Calcium carbonate is usually the principal cause of hard water. Most calcium carbonate used is extracted by quarrying or mining. However, pure calcium carbonate (e.g., for pharmaceutical use) can be produced from a pure quarried source (usually marble) or manufactured by the sequential reaction involving the thermal decomposition of the carbonate to the monoxide, <link target-id="eip-939"/>, followed by the reaction with water to give the hydroxide, <link target-id="eip-251 "/>, and finally, the reaction with carbon dioxide to reform the carbonate, <link target-id="eip-210"/>. </para>
+        
+        <equation id="eip-939"><media id="id12557324_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-f8d3.jpg" id="id12557324__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+        <equation id="eip-210"><media id="id13075111_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-8b9e.jpg" id="id13075111__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+<para id="id13798451">Calcium carbonate crystallizes as a variety of mineral forms. </para>
+        <list id="id14796606" list-type="bulleted"><item>Aragonite</item>
+          <item>Calcite (<link target-id="id13421585"/>)</item>
+          <item>Vaterite</item>
+          <item>Chalk</item>
+        <item>Travertine</item>
+        <item>Limestone</item>
+          <item>Marble</item>
+        </list>
+        
+        
+        <figure id="id13421585"><media id="id13421585_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics5.png" id="id13421585__onlineimage" width="300" print-width="3in"/>
+          </media>
+        <caption>Unit cell of calcite a common form of calcium carbonate (CaCO<sub>3</sub>). </caption></figure>
+        
+        <para id="id13554881">Calcium carbonate is one of the most widely used mineral materials, the following represents a list of some of the main applications. </para>
+        <list id="id8580904" list-type="bulleted"><item>Construction industry as a building material (marble) or as an ingredient of cement.</item>
+          <item>Purification of iron from iron ore in a blast furnace. </item>
+          <item>A drilling fluids in the oil industry.</item>
+          <item>Filler material for latex gloves. </item>
+          <item>Filler (extender) in paints. </item>
+          <item>Filler in plastics.</item>
+          <item>Babies' diapers.</item>
+          <item>DIY adhesives, sealants, and decorating fillers.</item>
+          <item>Whiting in ceramics/glazing application. </item>
+          <item>The filler in glossy paper. </item>
+          <item>The production of blackboard chalk (CaSO<sub>4</sub>). </item>
+          <item>An abrasive in household cleaning products. </item>
+          <item>Dietary calcium supplement. </item>
+          <item>Inert filler for tablets and pharmaceuticals. </item>
+          <item>Toothpaste.</item>
+        </list>
+      </section>
+      <section id="id12388949">
+        <title>Halides</title>
+        <para id="id3503525">Calcium chloride, bromide, and iodide are all ionic, water-soluble salts. In contrast, due to its high lattice energy for the small fluoride ion, CaF<sub>2</sub> is only slightly soluble (<link target-id="id13355519"/>). The <emphasis effect="italics">fluorite</emphasis> structure typified for CaF<sub>2</sub> (<link target-id="id10271426"/>) is found for most of the MX<sub>2</sub> ionic solids. </para>
+        <table id="id13355519" summary="Solubility of calcium halides in water.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Compound</emphasis></entry>
+                <entry><emphasis effect="bold">Solubility @ 20 °C (g/100 mL)</emphasis></entry>
+                <entry><emphasis effect="bold">Solubility @ 100 °C (g/100 mL)</emphasis></entry>
+              </row>
+              <row>
+                <entry>CaF<sub>2</sub></entry>
+                <entry>0.0016</entry>
+                <entry>0.0017</entry>
+              </row>
+              <row>
+                <entry>CaCl<sub>2</sub></entry>
+                <entry>74.5 </entry>
+                <entry>159</entry>
+              </row>
+              <row>
+                <entry>CaBr<sub>2</sub></entry>
+                <entry>142</entry>
+                <entry>312</entry>
+              </row>
+              <row>
+                <entry>CaI<sub>2</sub></entry>
+                <entry>209</entry>
+                <entry>426</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Solubility of calcium halides in water. </caption>
+</table>
+        
+   
+          <figure id="id10271426"><media id="id10271426_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics6-c54d.jpg" id="id10271426__onlineimage" width="300" print-width="2.5in"/>
+            </media>
+          <caption>Unit cell for the fluorite (CaF<sub>2</sub>) structure. Calcium atoms are shown in green (small), fluorine atoms are shown in red (large), and the dashed lines show the unit cell. </caption></figure>
+      
+        
+      </section>
+    </section>
+    <section id="id9916101">
+      <title>Complexes </title>
+      <para id="id12390276">The coordination complexes of the alkaline earth metal cations (M<sup>2</sup><sup>+</sup>) involve electrostatic, or ion-dipole, interactions that have no preferred direction of interaction. Calcium will tolerate a wide range of coordination numbers, however, 6 and 8 are the most common. Complexes generally form with oxygen donors in a wide range of ligands, including: ROH, R<sub>2</sub>O, R<sub>2</sub>C=O, RCO<sub>2</sub><sup>-</sup>, and PO<sub>4</sub><sup>2-</sup>. While complexes with nitrogen donor ligands are known they are usually present with oxygen donors as well. As with the Group 1 metals, the aquo complex readily exchanges the water for other ligands, however, since the bond energy is larger for Ca<sup>2+</sup> than for Na<sup>+</sup>, the equilibrium constants are larger for analogous complexes. </para>
+      
+      
+    </section>
+    <section id="id12414214">
+      <title>Bibliography </title>
+      <list id="id13726800" list-type="bulleted"><item>J. M. Buriak, L. K. Cheatham, R. G. Gordon, J. J. Graham, and A. R. Barron, <emphasis effect="italics">Euro J. Solid State Inorg. Chem.</emphasis>, 1992, <emphasis effect="bold">29</emphasis>, 43. </item>
+        <item>R. E. Anderson and A. R. Barron, <emphasis effect="italics">Main Group Chem.</emphasis>, 2005, <emphasis effect="bold">4</emphasis>, 279. </item>
+        <item>C, Lupu, R. S. Arvidson, A. Lüttge and A. R. Barron, <emphasis effect="italics">Chem. Commun.</emphasis>, 2005, 2354.</item>
+      </list>
+    </section>
+  </content>
+</document>

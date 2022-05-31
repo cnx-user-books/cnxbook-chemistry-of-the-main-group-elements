@@ -1,0 +1,169 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Comparison Between Silicon and Carbon</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32945</md:content-id>
+  <md:title>Comparison Between Silicon and Carbon</md:title>
+  <md:abstract/>
+  <md:uuid>0faa7d38-879d-45ba-8f0f-caadd5a60968</md:uuid>
+</metadata>
+<content>
+    <para id="id16326807">An understanding of the differences between carbon and silicon is important in understanding the relative chemistry of these Group 14 elements. </para>
+    <section id="id16326814">
+      <title>Size</title>
+      <para id="id16326821">As expected silicon is larger than carbon due to the presence of a second shell: i.e., C = 1<emphasis effect="italics">s</emphasis><sup>2</sup> 2<emphasis effect="italics">s</emphasis><sup>2</sup> 2<emphasis effect="italics">p</emphasis><sup>2</sup> while Si = 1<emphasis effect="italics">s</emphasis><sup>2</sup> 2<emphasis effect="italics">s</emphasis><sup>2</sup> 2<emphasis effect="italics">p</emphasis><sup>6</sup> 3<emphasis effect="italics">s</emphasis><sup>2</sup> 3<emphasis effect="italics">p</emphasis><sup>2</sup>. A comparison of the relative sizes of carbon and silicon are given in <link target-id="id16326908"/>. </para><table id="id16326908" summary="Atomic, covalent, and van der Waals radii of carbon and silicon.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Atomic radius (Å)</emphasis></entry>
+              <entry><emphasis effect="bold">Covalent radius sp<sup>3</sup> (Å)</emphasis></entry>
+              <entry><emphasis effect="bold">van der Waal radius (Å) </emphasis></entry>
+            </row>
+            <row>
+              <entry>C</entry>
+              <entry>0.91</entry>
+              <entry>1.11</entry>
+              <entry>0.77</entry>
+            </row>
+            <row>
+              <entry>Si</entry>
+              <entry>1.46</entry>
+              <entry>0.76</entry>
+              <entry>1.17</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Atomic, covalent, and van der Waals radii of carbon and silicon. </caption>
+</table>
+
+
+      
+
+
+    </section>
+    <section id="id16327080">
+
+
+
+      <title>Coordination number</title>
+      <para id="id16327087">Carbon is known to have a coordination number of 2, 3, and 4 in its compounds depending on the hybridization. A coordination number of 1 can also be considered for CO and CN<sup>-</sup>. Four-coordinate carbon may be considered to be coordinatively saturated. In contrast, in the absence of overwhelming steric bulk, silicon is observed to have coordination numbers of 3, 4, 5, and 6. Examples of five and six-coordinate silicon include Si(acac)<sub>2</sub>Cl and SiF<sub>6</sub><sup>2-</sup>, respectively. Coordination numbers of higher than 4 have been ascribed to the use of low-lying <emphasis effect="italics">d</emphasis> orbitals; however, calculations show these are not significant. Instead, hypervalent silicon is better described by the formation of 3-center molecular orbitals, e.g., <link target-id="id16327244"/>. </para>
+
+      <note id="eip-654">A hypervalent molecule is a molecule that contains one or more typical elements (Group 1, 2, 13-18) formally bearing more than eight electrons in their valence shells. </note>
+
+
+
+        <figure id="id16327244">
+          <media id="id16327244_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-e5ff.jpg" id="id16327244__onlineimage" width="500" print-width="5in"/>
+          </media>
+<caption>Molecular orbital diagram for SiF<sub>6</sub><sup>2-</sup>. </caption>
+        </figure>
+
+
+    </section>
+
+
+
+    <section id="id16327290">
+      <title>Electronegativity</title>
+      <para id="id16327310">The electronegativities of silicon and carbon are given in Table along with hydrogen. Since carbon is more electronegative than hydrogen the C-H bond is polarized towards carbon resulting in a more protic hydrogen (<link target-id="id16327460"/>a). In contrast, the lower electronegativity of silicon results in a more hydridic hydrogen (<link target-id="id16327460"/>b). This difference is reflected in the reaction chemistry of SiH<sub>4</sub> versus CH<sub>4</sub>. </para>
+
+
+      <table id="id16327342" summary="Selected Pauling electronegativity values.">
+        <tgroup cols="2">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Pauling scale</emphasis></entry>
+            </row>
+            <row>
+              <entry>C</entry>
+              <entry>2.5</entry>
+            </row>
+            <row>
+              <entry>H</entry>
+              <entry>2.1</entry>
+            </row>
+            <row>
+              <entry>Si</entry>
+              <entry>1.8</entry>
+            </row>
+          </tbody>
+        </tgroup>
+<caption>Selected Pauling electronegativity values.  </caption>
+      </table>
+      
+
+
+
+      <figure id="id16327460">
+        <media id="id16327460_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-ee5c.jpg" id="id16327460__onlineimage" width="200" print-width="2in"/>
+        </media>
+<caption>Relative polarization of C-H and Si-H bonds. </caption>
+      </figure>
+
+
+
+    </section>
+    <section id="id16327490">
+      <title>Bond energies</title>
+      <para id="id16327497">The E-E and E-O bond energies for carbon and silicon are given in <link target-id="id16327537"/>. The bond energy for a C-C bond is slightly greater than for a C-O bond, while the Si-O bond is significantly stronger than the Si-Si bond. This difference is reflected in the chemistry of silicon versus carbon compounds. The chemistry of carbon is dominated by catenation: the ability of a chemical element to form a long chain-like structure via a series of covalent bonds. Although silicon does form Si-Si bonds, they are far more reactive than their C-C analogs, and polymers of silicon are predominantly comprised of Si-O chains (as a result of the very strong bond). </para>
+
+
+      <table id="id16327537" summary="Selected bond energies for carbon and silicon. ">
+        <tgroup cols="3">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">E-E bond energy (kJ/mol)</emphasis></entry>
+              <entry><emphasis effect="bold">E-O bond energy (kJ/mol)</emphasis></entry>
+            </row>
+            <row>
+              <entry>C</entry>
+              <entry>356</entry>
+              <entry>335</entry>
+            </row>
+            <row>
+              <entry>Si</entry>
+              <entry>230</entry>
+              <entry>370</entry>
+            </row>
+          </tbody>
+        </tgroup>
+<caption>Selected bond energies for carbon and silicon.  </caption>
+      </table>
+
+
+
+
+    </section>
+
+    <section id="id16327661">
+      <title>Multiple bonds</title>
+      <para id="id16327668">While unsaturated compounds for carbon (i.e., alkenes and alkynes) are common, the analogous silicon compounds (disilenes) were only reported in 1981, and disilynes in 2004. The Si=Si double bond lengths are 2.14 - 2.29 Å which is 5 - 10% shorter than the Si-Si single bond lengths. This bond shortening is less than <emphasis effect="italics">ca</emphasis>. 13% in carbon compounds. </para>
+
+
+      <note id="eip-576">The traditional lack of multiple bonds for the Period 3 elements and lower led to the formulation of the double bond rule which states that <emphasis effect="italics">chemical elements with a principal quantum number greater than 2 do not form multiple bonds (e.g., double bonds and triple bonds) with themselves or with other elements</emphasis>. This rule was made obsolete starting from 1981 with the discovery of silicon and phosphorus double bonds. Double bonds that would ordinarily not form can be stabilized with proper functional groups through kinetic stabilization, i.e., either electronically or sterically. </note>
+
+
+
+
+    </section>
+    <section id="id16327760">
+      <title>Bibliography</title>
+      <list id="id16327767" list-type="bulleted">
+        <item>R. West, M. J. Fink, and J. Michl, <emphasis effect="italics">Science</emphasis>, 1981, <emphasis effect="bold">214</emphasis>, 1343. </item>
+        <item>A. Sekiguchi, R. Kinjo, and M. Ichinohe, <emphasis effect="italics">Science</emphasis>, 2004, <emphasis effect="bold">305</emphasis>, 1755. </item>
+      </list>
+    </section>
+  </content>
+</document>

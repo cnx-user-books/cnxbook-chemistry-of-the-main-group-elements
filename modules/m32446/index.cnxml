@@ -1,0 +1,103 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Organometallic Chemistry of Zinc</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32446</md:content-id>
+  <md:title>Organometallic Chemistry of Zinc</md:title>
+  <md:abstract/>
+  <md:uuid>72f99c02-bea2-44da-b49e-4d9800687729</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1170893523323">The first dialkyl zinc derivatives, Me<sub>2</sub>Zn and Et<sub>2</sub>Zn, were prepared in 1848 by Edward Franklin (<link target-id="id2569422"/>). He also prepared the monoalkyl derivatives, RZnX. </para>
+    <figure id="id2569422"><media id="id2569422_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-ab94.jpg" id="id2569422__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>British chemist Sir Edward Franklin FRS (1825 –1899). </caption></figure>
+    
+    <para id="id3267447">Initially alkyl zinc compounds were used in organic synthesis, however, their use diminished significantly once Grignard reagents had been discovered. Little further was investigated of their chemistry until their use in the growth of electronic materials developed in the 1980’s. </para>
+    <section id="id8712459">
+      <title>RZnX</title>
+      <para id="id4502146">The monoalkyl derivatives are not widely used, but were historically the first to be prepared, <link target-id="eip-166"/>. </para>
+      
+      <equation id="eip-166"><media id="id1170887935399_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-93bb.jpg" id="id1170887935399__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id2693133">While the iodide derivatives can be isolated as unsolvated derivatives, the chloride and bromides need to be prepared in the presence of dimethylformamide (DMF) or dimethyl sulfoxide (DMSO). Alternative methods of synthesis involve the reaction with a Grignard reagent, <link target-id="eip-707"/>, or electrochemical synthesis with a zinc electrode. </para>
+      
+      <equation id="eip-707"><media id="id1170887582398_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-3dee.jpg" id="id1170887582398__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1170874892199">In the solid state RZnI exists as cage oligomers or polymeric chain structures. These structures are broken by the addition of strong Lewis bases to form Lewis acid-base complexes. In solution there exists a Schlenk equilibrium, <link target-id="eip-450"/>, whose presence has been determined by IR and Raman spectroscopy (<link target-id="id1170878938408"/>). </para>
+      
+      <equation id="eip-450"><media id="id1170896808973_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-8959.jpg" id="id1170896808973__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><table id="id1170878938408" summary="IR and Raman spectroscopic characterization of the components of the Schlenk equilibrium.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Stretch</emphasis></entry>
+              <entry>
+                <emphasis effect="bold">IR (cm<sup>-1</sup>)</emphasis>
+              </entry>
+              <entry>
+                <emphasis effect="bold">Raman (cm<sup>-1</sup>)</emphasis>
+              </entry>
+            </row>
+            <row>
+              <entry>symmetric C-Zn-C</entry>
+              <entry>Not observed</entry>
+              <entry>477</entry>
+            </row>
+            <row>
+              <entry>asymmetric C-Zn-C</entry>
+              <entry>551</entry>
+              <entry>Not observed</entry>
+            </row>
+            <row>
+              <entry>C-Zn-I</entry>
+              <entry>510</entry>
+              <entry>510</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>IR and Raman spectroscopic characterization of the components of the Schlenk equilibrium, <link target-id="eip-450"/>. </caption>
+</table>
+      
+    </section>
+    <section id="id1170874482101">
+      <title>R<sub>2</sub>Zn</title>
+      <para id="id1170883437183">Dialkyl zinc compounds are prepared via the monoalkyl derivatives, <link target-id="eip-322"/>. The Schlenk equilibrium is shifted at high temperatures by the distillation of the volatile R<sub>2</sub>Zn derivative. The zinc is usually alloyed with copper (10%) to improve the reaction rate. </para>
+      
+      <equation id="eip-322"><media id="id1170872864948_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-ccc6.jpg" id="id1170872864948__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation><para id="id1170871150587">Alternative preparation methods include the reaction of ZnX2 with a Grignard, <link target-id="eip-608"/>, or by metal-metal exchange, <link target-id="eip-6081"/>.</para>
+      
+      <equation id="eip-608">
+<media id="id1170882139264_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-6957.jpg" id="id1170882139264__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+
+      <equation id="eip-6081">
+       <media id="id6714905_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-552f.jpg" id="id6714905__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+
+    </section>
+
+
+    <section id="id1170878759949">
+      <title>Bibliography</title>
+      <list id="id1170874888623" list-type="bulleted">
+        <item id="id6959288">E. von Frankland. <emphasis effect="italics">Justus</emphasis><emphasis effect="italics"> Liebigs Ann. Chem.</emphasis>, 1849, <emphasis effect="bold">71</emphasis>, 171. </item>
+        <item>J. J. Habeeb, A. Osman, and D. G. Tuck. <emphasis effect="italics">J. Organomet. Chem.</emphasis>, 1980, <emphasis effect="bold">185</emphasis>, 117. </item>
+      </list>
+    </section>
+  </content>
+</document>

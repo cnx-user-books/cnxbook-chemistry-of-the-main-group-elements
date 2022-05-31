@@ -1,0 +1,315 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Valence Shell Electron Pair Repulsion (VSEPR) Theory</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31949</md:content-id>
+  <md:title>Valence Shell Electron Pair Repulsion (VSEPR) Theory</md:title>
+  <md:abstract/>
+  <md:uuid>a9ca7d16-945e-462e-8731-2617fb5a821c</md:uuid>
+</metadata>
+
+<content>
+    <para id="id7287270">The idea of a correlation between molecular geometry and the number of valence electrons was first presented in 1940 by Sidgwick and Powell; however, in 1957, Ronald Gillespie (<link target-id="id7398134"/>) and Sir Ronald Nyholm (<link target-id="id7409907"/>) refined this concept to build a more detailed theory. It is their work that provides the basis of the <emphasis effect="italics">valence shell electron pair repulsion</emphasis> (VSEPR) theory, and as such it is also known as the Gillespie-Nyholm theory. </para>
+    <figure id="id7398134"><media id="id7398134_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-a428.jpg" id="id7398134__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>Chemist Ronald J. Gillespie (1924 -). </caption></figure>
+    
+    <figure id="id7409907"><media id="id7409907_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-b39e.jpg" id="id7409907__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>Australian chemist Sir Ronald Sydney Nyholm (1917 -). </caption></figure>
+    
+    <para id="id2499411">One attribute of VSEPR is that with the ability to predict the shape of a molecule for a compound comes the ability to predict some of the physical and chemical properties of that compound. </para>
+    <para id="id3996955">The formal definition that is the basis for VSEPR is as follows: <emphasis effect="italics">Pairs of electrons in the valence shell of a central atom of a molecule repel each other and take up positions as far apart as possible. </emphasis></para>
+    
+    <para id="id2263558">Within this definition it is implicitly assumed that the core shells are not polarized and therefore take no part in bonding, and therefore can be ignored. Since the maximum repulsion of the electron pairs (be they associated with a bonding interaction or a lone pair) control the shape of a molecule, for each number of electron pairs we can define the geometric optimum position that maximizes the distance between the electron pairs (<link target-id="id4092835"/>). The number of electron pairs surrounding an atom, both bonding and nonbonding, is called its steric number.</para>
+    <table id="id4092835" summary="Shapes of molecules and ions">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Number of central atom electron pairs</emphasis></entry>
+            <entry><emphasis effect="bold">Bonding pairs</emphasis></entry>
+            <entry><emphasis effect="bold">Non-bonding pairs</emphasis></entry>
+            <entry><emphasis effect="bold">Shape</emphasis></entry>
+            <entry><emphasis effect="bold">Example</emphasis></entry>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>2</entry>
+            <entry>0</entry>
+            <entry>Linear</entry>
+            <entry>BeCl<sub>2</sub></entry>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry>3</entry>
+            <entry>0</entry>
+            <entry>Triangular</entry>
+            <entry>BF<sub>3</sub></entry>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry>2</entry>
+            <entry>1</entry>
+            <entry>Bent</entry>
+            <entry>SnCl<sub>2</sub></entry>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry>4</entry>
+            <entry>0</entry>
+            <entry>Tetrahedral</entry>
+            <entry>CCl<sub>4</sub></entry>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry>3</entry>
+            <entry>1</entry>
+            <entry>Pyramidal</entry>
+            <entry>NH<sub>3</sub></entry>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry>2</entry>
+            <entry>2</entry>
+            <entry>Bent</entry>
+            <entry>H<sub>2</sub>O</entry>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry>5</entry>
+            <entry>0</entry>
+            <entry>Trigonal bipyramidal (tbp)</entry>
+            <entry>PF<sub>5</sub></entry>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry>4</entry>
+            <entry>1</entry>
+            <entry>Pseudo-tdp</entry>
+            <entry>BrF<sub>4</sub><sup>-</sup></entry>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry>3</entry>
+            <entry>2</entry>
+            <entry>T-shaped</entry>
+            <entry>BrF<sub>3</sub></entry>
+          </row>
+          <row>
+            <entry>5</entry>
+            <entry>2</entry>
+            <entry>3</entry>
+            <entry>Linear</entry>
+            <entry>XeF<sub>2</sub></entry>
+          </row>
+          <row>
+            <entry>6</entry>
+            <entry>6</entry>
+            <entry>0</entry>
+            <entry>Octahedral</entry>
+            <entry>SF<sub>6</sub>,PF<sub>6</sub><sup>-</sup></entry>
+          </row>
+          <row>
+            <entry>6</entry>
+            <entry>5</entry>
+            <entry>1</entry>
+            <entry>Square pyramidal</entry>
+            <entry>IF<sub>5</sub></entry>
+          </row>
+          <row>
+            <entry>6</entry>
+            <entry>4</entry>
+            <entry>2</entry>
+            <entry>Square planar</entry>
+            <entry>XeF<sub>4</sub>,IF<sub>4</sub><sup>-</sup></entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Shapes of molecules and ions</caption>
+</table>
+    
+    <para id="id1171212675432">The steps for defining the molecular shape are as follows: </para>
+    <list id="id2737887" list-type="enumerated" number-style="arabic" class="stepwise"><item id="id1171216988777">Draw a simple Lewis structure including single, double, and triple bonds where appropriate. </item>
+      <item>Count the number of electrons on the central atom assuming it is neutral. </item>
+      <item>Add one electron for each σ-bond. </item>
+      <item>Subtract one electron for each π-bond. </item>
+      <item>Subtract one electron for each positive (+) charge. </item>
+      <item>Add one electron for each negative (-) charge. </item>
+      <item>Divide the number of electrons by two to give the number of electron pairs. </item>
+      <item>Use the list in <link target-id="id4092835"/> to predict the structure of the molecule. </item>
+    </list>
+    <example id="eip-134"><para id="eip-568">What is the shape of NH<sub>4</sub><sup>+</sup>? </para><list id="eip-403" list-type="enumerated" number-style="arabic" class="stepwise"><item>Nitrogen has 5 valence electrons</item>
+      <item>Add 4 electrons for the four σ-bonds: 5 + 4 = 9</item>
+      <item>Subtract one electron for the positive (+) charge: 9 – 1 = 8</item>
+      <item>Divide the number of electrons by two to give the number of electron pairs: 8/2 = 4</item>
+      <item>Four bonding pairs and no lone pairs = tetrahedral geometry</item>
+    </list>
+</example>
+    
+    
+    
+    
+    <exercise id="eip-752"><problem id="eip-372">
+  <para id="eip-258">What is the shape of HgCl<sub>2</sub>? 
+  </para>
+</problem>
+
+<solution id="eip-722">
+
+    <list id="id7930240" list-type="enumerated" number-style="arabic" class="stepwise"><item>Mercury has 2 valence electrons</item>
+      <item>Add 2 electrons for the two σ-bonds: 2 + 2 = 4</item>
+      <item>Divide the number of electrons by two to give the number of electron pairs: 4/2 = 2</item>
+      <item>Two bonding pairs and no lone pairs = linear geometry</item>
+    </list>
+
+</solution>
+</exercise>
+
+
+    
+    
+    <exercise id="eip-135"><problem id="eip-679">
+  <para id="eip-598">
+    What is the shape of H<sub>2</sub>CO? 
+  </para>
+</problem>
+
+<solution id="eip-486">
+
+    <list id="id3480652" list-type="enumerated" number-style="arabic" class="stepwise"><item>Carbon has 4 valence electrons</item>
+      <item>Add 3 electrons for the three σ-bonds: 4 + 3 = 7</item>
+      <item>Subtract one electron for each π-bond: 7 – 1 = 6</item>
+      <item>Divide the number of electrons by two to give the number of electron pairs: 6/2 = 3</item>
+      <item>Two bonding pairs and no lone pairs = triangular geometry</item>
+    </list>
+
+</solution>
+</exercise>
+
+
+    <section id="id2325053">
+      <title>Lone pairs versus bonding pairs</title>
+      <para id="id1171209199207">The prediction of the detailed molecular structure (including bond angles) is not as simple as shown in <link target-id="id4092835"/>. In molecules with either lone pair electrons or multiple (double or triple) bonds the angles about the central atom are distorted due to the increased electron repulsion (<link target-id="id3667619"/>). The differences in repulsion caused by a lone pair or a bonding pair may be rationalized in a simple manner by a lone pair taking up more space than a bonding pair (<link target-id="id36666677"/>). </para>
+
+
+
+      <figure id="id3667619"><media id="id3667619_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-cec7.jpg" id="id3667619__onlineimage" width="550" print-width="5in"/>
+        </media>
+      <caption>The order of decreasing repulsion between non-bonding (unshared) and bonding electron pairs. </caption></figure>
+  
+
+      <figure id="id36666677"><media id="id36666677_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig50.jpg" id="id36666677__onlineimage" width="300" print-width="3in"/>
+        </media>
+      <caption>Representation of the relative space taken up by (a) a lone pair of electrons and (b) a bonding pair of electrons. </caption></figure>
+ 
+
+
+    
+      <para id="id1171213547142">Water is one of the classic cases in considering the issue of non-bonding (unshared) electron pairs. </para>
+      <list id="id2633466" list-type="enumerated" number-style="arabic" class="stepwise"><item>Oxygen has 6 valence electrons</item>
+        <item>Add 2 electrons for the two σ-bonds: 6 + 2 = 8</item>
+        <item>Divide the number of electrons by two to give the number of electron pairs: 8/2 = 4</item>
+        <item>Two bonding pairs and two lone pairs = tetrahedral geometry</item>
+      </list>
+      <para id="id2638522">From this an idealized tetrahedral geometry would give the H-O-H angle as 109.5°, however, from <link target-id="id3667619"/> we know that the lone pair<sup>...</sup>lone pair repulsion is greater than the lone pair<sup>...</sup>bonding pair repulsion which is greater than the bonding pair<sup>...</sup>bonding pair repulsion, and thus, the H-O-H angle should be decreased from the ideal tetrahedral. The experimentally determined H-O-H angle in water is in fact 104.5°. </para>
+      <para id="id5600263">Ethylene is a good case in considering the issue of multiple bonds. Ethylene contains both σ-bond and π-bond between the carbon atoms. This combination can be thought of as a <emphasis effect="italics">super bond</emphasis>, and as such its effect is similar to a lone pair. </para>
+      <list id="id2459944" list-type="enumerated" number-style="arabic" class="stepwise"><item>Carbon has 4 valence electrons</item>
+        <item>Add 3 electrons for the two σ-bonds: 4 + 3 = 7</item>
+        <item>Subtract one electron for each π-bond: 7 – 1 = 6</item>
+        <item>Divide the number of electrons by two to give the number of electron pairs: 6/2 = 3</item>
+        <item>Three bonding pairs and no lone pairs = triangular geometry</item>
+      </list>
+      <para id="id2177533">From this an idealized tetrahedral geometry would give the H-C-H angle as 120°, however, the π-bond repulsion is greater than the σ-bond repulsion, and thus, the H-C-H angle should be decreased from the ideal tetrahedral. The experimentally determined H-O-H angle in water is in fact 118.3°. </para>
+    </section>
+    <section id="id2581104">
+      <title>Resonance structures</title>
+      <para id="id3496098">If a molecule or ion has two or more resonance forms it is necessary to consider each form before angles are predicted. For example, the carbonate anion, CO<sub>3</sub><sup>-</sup>, can be drawn as a single structure from which it would be predicted that two groups of O-C-O angles would result (<link target-id="id1171212610249"/>). </para>
+      <figure id="id1171212610249"><media id="id1171212610249_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-3f07.jpg" id="id1171212610249__onlineimage" width="150" print-width="1in"/>
+        </media>
+      <caption>VSEPR predicted structure of a single resonance form of CO<sub>3</sub><sup>2-</sup>. </caption></figure>
+      
+      <para id="id1171212729949">However, CO<sub>3</sub><sup>-</sup> should actually be drawn in each of its resonance forms as in <link target-id="id2646119"/>.</para>
+      <figure id="id2646119"><media id="id2646119_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-c853.jpg" id="id2646119__onlineimage" width="450" print-width="3in"/>
+        </media>
+      <caption>Resonance forms of CO<sub>3</sub><sup>2-</sup>.</caption></figure>
+      
+      <para id="eip-593">From <link target-id="id2646119"/> it is clear that the real structure will be an average of the three resonance forms, and hence there will be a single O-C-O angle = 120° (<link target-id="id2351501"/>). </para><figure id="id2351501"><media id="id2351501_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-8b2b.jpg" id="id2351501__onlineimage" width="150" print-width="1in"/>
+        </media>
+      <caption>Structure of CO<sub>3</sub><sup>2-</sup>.</caption></figure>
+      
+      
+    </section>
+    <section id="id1171213571202">
+      <title>Atom electronegativities </title>
+      <para id="id3383520">In an A-X bond where the atom electronegativities are very different the bonding pair is assumed to occupy less space than in bond between two atoms of similar electronegativities. As the bonding pair occupies less space it will repel neighboring electron pairs less. </para>
+      <para id="id1171211332608">For example, based on the above, a comparison of the tetrahedral compounds H<sub>2</sub>O and F<sub>2</sub>O would suggest that the F-O-F angle be smaller than the H-O-H angle since fluorine has a higher electronegativity than hydrogen (4.0 and 2.1, respectively). This is indeed observed (<link target-id="id1171216951608"/>). </para>
+      <figure id="id1171216951608"><media id="id1171216951608_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-7590.jpg" id="id1171216951608__onlineimage" width="350" print-width="2in"/>
+        </media>
+      <caption>Structures of H<sub>2</sub>O and F<sub>2</sub>O. </caption></figure>
+      
+      <para id="id4014804">In many cases, inter-ligand steric interactions can also be used to explain the difference in angle. For example, while fluorine is more electronegative than chlorine (4.0 versus 3.0, respectively) it is also significantly smaller (<link target-id="id6603623"/>). Thus, a larger Cl-X-Cl angle than a F-X-F angle in the homologous compound, can be attributed to a greater steric interactions, rather than difference in electronegativities. </para>
+      <table id="id6603623" summary="Comparison of size between fluoride and chloride ligands.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Ligand</emphasis></entry>
+              <entry><emphasis effect="bold">Covalent radius (Å)</emphasis></entry>
+              <entry><emphasis effect="bold">Van der Waal radius (Å)</emphasis></entry>
+            </row>
+            <row>
+              <entry>F</entry>
+              <entry>0.57</entry>
+              <entry>1.35</entry>
+            </row>
+            <row>
+              <entry>Cl</entry>
+              <entry>1.02</entry>
+              <entry>1.80</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Comparison of size between fluoride and chloride ligands. </caption>
+</table>
+      
+    </section>
+    <section id="id3454541">
+      <title>Bent’s rule</title>
+      <para id="id2452234">There is the potential for more than one isomer for molecules that adopt structures in which there is a symmetry difference between at least two of the ligand positions. For example a trigional bipyramidal compound of the formula PXY<sub>4</sub> has two possible structures. One where the X occupies an axial position (<link target-id="id2740066"/>a) and the other where it occupies an equatorial position (<link target-id="id2740066"/>b). </para>
+    
+
+        <figure id="id2740066"><media id="id2740066_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-aa1f.jpg" id="id2740066__onlineimage" width="300" print-width="2in"/>
+          </media>
+        <caption>The two possible structures of PXY<sub>4</sub>. </caption></figure>
+
+
+      
+      <para id="id7279281">Through the consideration of structures Henry Bent suggested a rule: <emphasis effect="italics">More electronegative substituents prefer hybrid orbitals with less s character, and conversely, more electropositive substituents prefer hybrid orbitals with greater s character. </emphasis></para>
+      
+      <para id="id1171207035140">For example, in PFCl<sub>5</sub> the fluorine is the most electronegative substituent and will therefore occupy the axial (p-character only) position. </para>
+    </section>
+    <section id="id4133919">
+      <title>Bibliography</title>
+      <list id="id1171209326015" list-type="bulleted">
+        <item>H. A. Bent, <emphasis effect="italics">J. Chem. Educ.</emphasis>, 1960, <emphasis effect="bold">37</emphasis>, 616. </item>
+        <item>H. A. Bent, <emphasis effect="italics">Chem. Rev.</emphasis>, 1961, <emphasis effect="bold">61</emphasis>, 275. </item>
+        <item>R. J. Gillespie, <emphasis effect="italics">J. Chem. Educ.</emphasis>, 1970, <emphasis effect="bold">47</emphasis>, 18. </item>
+        <item>R. J. Gillespie, <emphasis effect="italics">Chem. Soc. Rev.</emphasis>, 1992, <emphasis effect="bold">21</emphasis>, 59. </item>
+        <item>R. J. Gillespie and R. S. Nyholm, <emphasis effect="italics">Quart. Rev</emphasis>., 1957, <emphasis effect="bold">11</emphasis>, 339. </item>
+      </list>
+    </section>
+  </content>
+</document>

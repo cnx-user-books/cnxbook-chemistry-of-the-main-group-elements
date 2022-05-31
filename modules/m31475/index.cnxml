@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Oxidation State</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31475</md:content-id>
+  <md:title>Oxidation State</md:title>
+  <md:abstract/>
+  <md:uuid>1223018c-6e22-4347-9eca-de6e82e6d73f</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id4542254">The oxidation state of an element is defined as <emphasis effect="italics">the formal charge on the atom if all bonds were assumed to be fully ionic</emphasis>. </para>
+    <para id="id8276349">In an ionic compound the oxidation state is equal to the charge on the ion, e.g., in NaCl the charge on the sodium is +1 and the oxidation state is also +1. In contrast, the charge on an atom in a covalent compound never approaches the charge implied from the oxidation number, e.g., in CCl<sub>4</sub>, the oxidation state of carbon is +4 but the charge on the carbon atom is significantly less. </para>
+    <para id="id3602311">Thus, while oxidation state is a simple formulism it is very useful in a number of ways: </para>
+    <list id="id3590445" list-type="enumerated" number-style="arabic" mark-suffix=")">
+      <item>Classification of compounds of elements, especially those of the transition metals. </item>
+      <item>Enables the balance of reduction-oxidation (redox) reactions. </item>
+    </list>
+    <para id="id3551096">To determine the oxidation state of an element within a particular compound the following steps act as a guideline. </para>
+    <list id="id3538463" mark-suffix=")" list-type="enumerated" number-style="arabic" class="stepwise"><item>The oxidation state of any atom of any element in its elemental form is zero. </item>
+      <item>The oxidation state of a monatomic ion is equal to its charge. </item>
+      <item>Any homoleptic X-X bonds (e.g., the C-C bond in H<sub>3</sub>C-CH<sub>3</sub>) are assumed to be non-ionic and do not contribute to the oxidation state of X. </item>
+      <item>Fluorine always has oxidation state of –1. </item>
+      <item>Elements of Group 1 (IA) (except hydrogen) have an oxidation state of +1 in compounds. </item>
+      <item>Elements of Group 2 (IIA) have an oxidation state of +2 in compounds. </item>
+      <item>Elements of Group 17 (VIIA) have an oxidation state of -1 when they combine with elements below or to the left of their position in the periodic table. </item>
+      <item>Oxygen is usually assigned the oxidation state of –2, except in compounds with fluorine, oxygen has a positive oxidation number. </item>
+      <item>Hydrogen is assigned the oxidation state of +1 with non-metals and –1 with metals. </item>
+      <item>In any compound the sum of the oxidation states (oxidation numbers) is equal to the overall charge. </item>
+    </list>
+    <exercise id="eip-55"><problem id="eip-306">
+  <para id="eip-136">What is the oxidation state of sulfur in Na<sub>2</sub>SO<sub>4</sub>? </para>
+</problem>
+
+<solution id="eip-860">
+     <title/><para id="eip-788">The two sodium atoms each have an oxidation state of +1, while the oxygen atoms have an oxidation state of –2, and the overall charge is 0. </para>
+<list id="eip-25" list-type="enumerated" number-style="arabic" class="stepwise"><item>overall charge = sum of oxidation states</item>
+      <item>0 = (2 x oxidation state of Na) + (oxidation state of S) + (4 x oxidation state of O)</item>
+      <item>0 = (2 x +1) + (oxidation state of S) + (4 x -2) </item>
+      <item>oxidation state of S = 0 – (2 x +1) - (4 x –2) </item>
+      <item>oxidation state of S = +6 </item>
+    </list>
+
+</solution>
+</exercise>
+    
+    
+ 
+
+
+<exercise id="eip-262">
+<problem id="eip-166">
+  <para id="eip-889">What is the oxidation state of sulfur in Na<sub>2</sub>SO<sub>3</sub>? </para>
+</problem>
+
+<solution id="eip-744">
+    <para id="id3631298">The two sodium atoms each have an oxidation state of +1, while the oxygen atoms have an oxidation state of –2, and the overall charge is 0. </para>
+    
+    <list id="id3590819" list-type="bulleted"><item>overall charge = sum of oxidation states</item>
+<item>0 = (2 x oxidation state of Na) + (oxidation state of S) + (3 x oxidation state of O)</item>
+      <item>0 = (2 x +1) + (oxidation state of S) + (3 x -2) </item>
+      <item>oxidation state of S = 0 – (2 x +1) - (3 x –2) </item>
+      <item>oxidation state of S = +4 </item>
+    </list>
+</solution>
+</exercise>
+
+
+    <exercise id="eip-272"><problem id="eip-650">
+  <para id="eip-808">
+    What is the oxidation state of sulfur in H<sub>2</sub>S? 
+  </para>
+</problem>
+
+<solution id="eip-424">
+    <para id="id3322224">The two hydrogen atoms each have an oxidation state of +1 and the overall charge is 0. </para>
+    <list id="id3690580" list-type="bulleted">
+      <item>overall charge = sum of oxidation states</item>
+      <item>0 = (2 x oxidation state of H) + (oxidation state of S) </item>
+      <item>0 = (2 x +1) + (oxidation state of S) </item>
+      <item>oxidation state of S = 0 – (2 x +1) </item>
+      <item>oxidation state of S = -2 </item>
+    </list>
+</solution>
+</exercise>
+
+
+    <para id="id3656686">In writing the oxidation state of an element within a compound it is common to use a Roman numeral, rather than the <emphasis effect="italics">charge</emphasis>, i.e., Al(III) rather than Al<sup>3+</sup>. </para>
+  </content>
+</document>

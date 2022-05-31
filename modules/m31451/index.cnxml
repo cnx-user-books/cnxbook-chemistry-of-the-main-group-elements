@@ -1,0 +1,121 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Electron Affinity</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31451</md:content-id>
+  <md:title>Electron Affinity</md:title>
+  <md:abstract/>
+  <md:uuid>e01d11f0-fca5-44e1-a752-566149b3660d</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id7284580">The electron affinity (EA) of an element is defined as the energy given off when a neutral atom in the gas phase gains an extra electron to form a negatively charged ion. </para>
+    
+    <equation id="eip-403"><media id="id1167052877069_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-a296.jpg" id="id1167052877069__onlineimage" width="550" print-width="4.5in"/>
+      </media></equation><para id="id6530418">Electron affinities are more difficult to measure than ionization energies and are usually less accurately known. Electron affinities are large and negative for elements such as fluorine and oxygen, and small and positive for metals. </para>
+    <para id="id1167053063801">Electron affinities generally become smaller as you go down a Group of the periodic table (<link target-id="id1167055982869"/>). This is because the electron being added to the atom is placed in a larger orbital, where it spends less time near the nucleus of the atom, and also the number of electrons on an atom increases as we go down a column, so the force of repulsion between the electron being added and the electrons already present on a neutral atom becomes larger. Electron affinities are further complicated since the repulsion between the electron being added to the atom and the electrons already present on the atom depends on the volume of the atom. Thus, for the nonmetals in Groups 6 (VIA) and 7 (VIIA), this force of repulsion is largest for the very smallest atoms in these columns: oxygen and fluorine. As a result, these elements have a smaller electron affinity than the elements below them in these columns as shown in <link target-id="id1167055982869"/>. </para>
+    <table id="id1167055982869" summary="The electron affinity for the non-metallic halogens.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis> </entry>
+            <entry><emphasis effect="bold">Electron affinity (kJ/mol)</emphasis> </entry>
+          </row>
+          <row>
+            <entry>F</entry>
+            <entry>-322</entry>
+          </row>
+          <row>
+            <entry>Cl</entry>
+            <entry>-349</entry>
+          </row>
+          <row>
+            <entry>Br</entry>
+            <entry>-325</entry>
+          </row>
+          <row>
+            <entry>I</entry>
+            <entry>-295</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>The electron affinity for the non-metallic halogens. </caption>
+</table>
+    
+    <para id="id1167047896360">Although there is a general trend that for Group 1 (IA) to Group 17 (VIIA) elements the electron affinity increases across the Periodic table from left to right, the details of the trend are more complex. As may be seen from <link target-id="id1167054080357"/>, there is a cyclic trend. The explanation of this is a consequence of the unusually stable electron configurations exhibited by atoms with filled or half filled shells, i.e., helium, beryllium, nitrogen and neon (see <link target-id="id1167048268332"/>). These configurations are so stable that it actually takes energy to force one of these elements to pick up an extra electron to form a negative ion. </para>
+
+
+      <figure id="id1167054080357"><media id="id1167054080357_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-fda6.jpg" id="id1167054080357__onlineimage" width="350" print-width="3in"/>
+        </media>
+      <caption>Plot of the electron affinity for the elements hydrogen to fluorine. N.B. Values for helium, beryllium, nitrogen, and neon are not known with any accuracy but are all positive. </caption></figure>
+    
+    <table id="id1167048268332" summary="Electron affinities of the elements hydrogen to neon. N.B. Values for helium, beryllium, nitrogen, and neon are not known with any accuracy but are all positive.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Electron affinity (kJ/mol) </emphasis> </entry>
+            <entry><emphasis effect="bold">Electron configuration </emphasis> </entry>
+          </row>
+          <row>
+            <entry>H </entry>
+            <entry>-72.8 </entry>
+            <entry>1s<sup>1</sup></entry>
+          </row>
+          <row>
+            <entry>He </entry>
+            <entry>+ve</entry>
+            <entry>1s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>Li </entry>
+            <entry>-59.8 </entry>
+            <entry>[He] 2s<sup>1</sup></entry>
+          </row>
+          <row>
+            <entry>Be </entry>
+            <entry>+ve</entry>
+            <entry>[He] 2s<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>B </entry>
+            <entry>-27 </entry>
+            <entry>[He] 2s<sup>2</sup> 2p<sup>1</sup></entry>
+          </row>
+          <row>
+            <entry>C </entry>
+            <entry>-122.3 </entry>
+            <entry>[He] 2s<sup>2</sup> 2p<sup>2</sup></entry>
+          </row>
+          <row>
+            <entry>N </entry>
+            <entry>+ve</entry>
+            <entry>[He] 2s<sup>2</sup> 2p<sup>3</sup></entry>
+          </row>
+          <row>
+            <entry>O </entry>
+            <entry>-141.1 </entry>
+            <entry>[He] 2s<sup>2</sup> 2p<sup>4</sup></entry>
+          </row>
+          <row>
+            <entry>F </entry>
+            <entry>-328.0 </entry>
+            <entry>[He] 2s<sup>2</sup> 2p<sup>5</sup></entry>
+          </row>
+          <row>
+            <entry>Ne </entry>
+            <entry>+ve </entry>
+            <entry>[He] 2s<sup>2</sup> 2p<sup>6</sup></entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Electron affinities of the elements hydrogen to neon. N.B. Values for helium, beryllium, nitrogen, and neon are not known with any accuracy but are all positive. </caption>
+</table>
+    
+  </content>
+</document>

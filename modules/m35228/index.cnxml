@@ -1,0 +1,104 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Boron Hydrides</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35228</md:content-id>
+  <md:title>Boron Hydrides</md:title>
+  <md:abstract/>
+  <md:uuid>71e75129-a4c7-4604-b570-c5714bec6ab9</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1171479115347">
+      <title>Borane and diborane</title>
+      <para id="id1171489874154">Borane (BH<sub>3</sub>) formed in the gaseous state from decomposition of other compounds, <link target-id="eip-434"/>, but cannot be isolated except as a Lewis acid-base complex, <link target-id="eip-128"/>. As such many borane adducts are known. </para>
+      
+      
+      <equation id="eip-128"><media id="id1171472949304_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-38da.jpg" id="id1171472949304__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id7036356">In the absence of a Lewis base the dimeric diborane (B<sub>2</sub>H<sub>6</sub>) is formed. Diborane is generally synthesized by the reaction if BF<sub>3</sub> with a hydride source, such as NaBH<sub>4</sub>, <link target-id="eip-688"/>, or LiAlH<sub>4</sub>, <link target-id="eip-437"/>. </para>
+      <equation id="eip-434"><media id="id1171484628599_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-1de0.jpg" id="id1171484628599__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      
+      <equation id="eip-437"><media id="id1171483254834_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-fd43.jpg" id="id1171483254834__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1171471510871">The structure of diborane (<link target-id="id5922218B"/>a) is considered to be electron deficient, and has been confirmed by IR spectroscopy and electron diffraction. The four terminal B-H bonds are normal covalent bonds, however, the bridging B-H-B unit consists of two three-centered two-electron bonds, each ordinarily considered to be formed by the combination of two boron <emphasis effect="italics">sp</emphasis><sup>3</sup> orbitals and one hydrogen <emphasis effect="italics">s</emphasis> orbital (<link target-id="id5922218B"/>b). However, a consideration of the H-B-H bond angle associated with the terminal hydrides (120°) it is perhaps better to consider the BH<sub>2</sub> fragment to be <emphasis effect="italics">sp</emphasis><sup>2</sup> hybridized, and the B-H-B bridging unit to be a linear combination of one <emphasis effect="italics">sp</emphasis><sup>2</sup> orbital and one <emphasis effect="italics">p</emphasis> orbital from each boron atom with the two hydrogen <emphasis effect="italics">s</emphasis> orbitals. Diborane represents the archetypal electron deficient dimeric compound, of which Al<sub>2</sub>Me<sub>3</sub> is also a member of this class of electron deficient molecules. </para>
+
+        <figure id="id5922218B"><media id="id5922218B_media" alt="">
+            <image mime-type="image/jpg" src="../../media/BH.jpg" id="id5922218B__onlineimage" width="450" print-width="4.5in"/>
+          </media>
+        <caption>The structure (a) and the typical view of the three-centered two-electron bonds (b) in diborane, B<sub>2</sub>H<sub>6</sub>. </caption></figure>
+
+
+
+      
+      
+      <para id="id1171486386419">B<sub>2</sub>H<sub>6</sub> is spontaneously and highly exothermically inflammable above 25 °C (ΔH = -2137.7 kJ/mol), <link target-id="eip-744"/>. It is often used as one of a range of solvate forms for safety for both its flammability and toxicity. </para>
+      <equation id="eip-688"><media id="id1171471893576_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-37d3.jpg" id="id1171471893576__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-744"><media id="id1171489557480_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-a097.jpg" id="id1171489557480__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1966583">Most reactions of diborane involve the cleavage of the dimeric structure. Hydrolysis of diborane yields boric acid, <link target-id="eip-882"/>, while alcoholysis yields the appropriate borate ester, <link target-id="eip-974"/>. Diborane reacts with Lewis bases to form the appropriate Lewis acid-base complex, <link target-id="eip-445"/>. </para>
+      
+      
+      
+      <equation id="eip-882"><media id="id1171477893604sss_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-3e16.jpg" id="id1171477893604sss__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><equation id="eip-974"><media id="id1171477893604ss_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-bf7a.jpg" id="id1171477893604ss__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><equation id="eip-445"><media id="id1171477893604_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-c5a9.jpg" id="id1171477893604__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation><section id="id1171499891350">
+        <title>Borohydride</title>
+        <para id="id1171495375616">The borohydride anion (or more properly the tetrahydridoborate anion), BH<sub>4</sub><sup>-</sup>, can be considered as the Lewis acid-base complex between borane and H<sup>-</sup>. A typical synthesis involves the reaction of a borate ester with a hydride source, <link target-id="eip-643"/>. </para>
+        
+        <equation id="eip-643"><media id="id1171487897155_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-cb11.jpg" id="id1171487897155__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1171470613312">Sodium borohydride is a stable white crystalline solid that is stable in dry air and is non-volatile. The boron in borohydride (BH<sub>4</sub><sup>-</sup>) is tetrahedral. Although it is insoluble in Et<sub>2</sub>O, it is soluble in water (in which it reacts slowly), THF, ethylene glycol, and pyridine. Interestingly, NaBH<sub>4</sub> reacts rapidly with MeOH, but dissolves in EtOH. Sodium borohydride has extensive uses in organic chemistry as a useful reducing agent in which it donates a hydride (H<sup>-</sup>). </para>
+      </section>
+    </section>
+    <section id="id1171471978233"><title>Higher boranes</title><para id="id2888321">Higher boron hydrides contain, in addition to the bridging B-H-B unit, one or more B-B bonds. The higher boranes are usually formed by the thermal decomposition of diborane, <link target-id="eip-363"/> and <link target-id="eip-957"/>. </para>
+      
+      <equation id="eip-363"><media id="id1171491917782_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-fabd.jpg" id="id1171491917782__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-957"><media id="id1171486279182_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-27d7.jpg" id="id1171486279182__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1171484334434">These higher boranes have ‘open’ cluster structures, e.g., <link target-id="id5253010"/> - <link target-id="id1171483689277"/>. Tetraborane, or to be more precise tetraborane(10) or <emphasis effect="italics">arachno</emphasis>-B<sub>4</sub>H<sub>10</sub>, is a foul-smelling toxic gas. Pentaborane (9) is a toxic liquid (with a distinctive garlic odor) that can detonate in air, and like decaborane(14) was at one time considered as a potential rocket fuel. Because simple boron compounds burn with a characteristic green flame, the nickname for these fuels in the US military was <emphasis effect="italics">Green Dragon</emphasis>. Problems with using boranes as a fuel included their toxicity and the characteristic of bursting into flame on contact with the air; furthermore, the exhaust would also be toxic. The US program resulted in a stockpile of borane fuels, in particular pentaborane(9), which was not destroyed until 2000. The system for the destroying the boranes was appropriately known as <emphasis effect="italics">Dragon Slayer</emphasis>. </para>
+      <figure id="id5253010"><media id="id5253010_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics12-8092.png" id="id5253010__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+      <caption>The molecular structure of tetraborane(10), B<sub>4</sub>H<sub>10</sub>. Boron atoms are represented by pink spheres, and hydrogen by white spheres. </caption></figure>
+      
+
+        <figure id="id5922218"><media id="id5922218_media" alt="">
+            <image mime-type="image/png" src="../../media/graphics13-b111.png" id="id5922218__onlineimage" width="250" print-width="2.5in"/>
+          </media>
+        <caption>The molecular structure of pentaborane(9), B<sub>5</sub>H<sub>9</sub>. Boron atoms are represented by pink spheres, and hydrogen by white spheres.</caption></figure>
+
+      
+      <figure id="id1171483689277"><media id="id1171483689277_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics14-7c25.png" id="id1171483689277__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+      <caption>The molecular structure of decaborane(14), B<sub>10</sub>H<sub>14</sub>. Boron atoms are represented by pink spheres, and hydrogen by white spheres. </caption></figure>
+      
+    </section>
+    <section id="id1171472301937">
+      <title>Bibliography</title>
+      <list id="id1171474678077" list-type="bulleted">
+        <item>D. F. Gaines, <emphasis effect="italics">Acc. Chem. Res.</emphasis>, 1973, <emphasis effect="bold">6</emphasis>, 416. </item>
+        <item>C. E. Housecroft, <emphasis effect="italics">Boranes and metalloboranes: structure, bonding and reactivity</emphasis>, Ellis Horwood, Chichester (1990). </item>
+        <item>C. F. Lane, <emphasis effect="italics">Chem. Rev.</emphasis>, 1976, <emphasis effect="bold">76</emphasis>, 773. </item>
+      </list>
+    </section>
+  </content>
+</document>

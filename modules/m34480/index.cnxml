@@ -1,0 +1,517 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Stereochemistry</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34480</md:content-id>
+  <md:title>Stereochemistry</md:title>
+  <md:abstract/>
+  <md:uuid>895d8b18-b41d-49d1-ba68-3abfbd9af48d</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1168841641404">
+      <title>Stereo isomers</title>
+      <para id="id1168842549785">Stereo isomers have the same empirical formula or molecular formula but different structural formulas. A typical example is butane, C<sub>4</sub>H<sub>10</sub>, which can have two different possible structures: <emphasis effect="italics">n</emphasis>-butane (<link target-id="id1168842551003"/>a) and <emphasis effect="italics">iso</emphasis>-butane also known as 1-methylpropane (<link target-id="id1168842551003"/>b). </para>
+
+      <figure id="id1168842551003"><media id="id1168842551003_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig1-0ee9.jpg" id="id1168842551003__onlineimage" width="400" print-width="4in"/>
+        </media>
+<caption>The two stereo isomers of butane: (a) <emphasis effect="italics">n</emphasis>-butane and (b) <emphasis effect="italics">iso</emphasis>-butane. </caption>
+      </figure>
+
+
+    </section>
+
+
+    <section id="id1168845141792">
+      <title>Geometric isomers</title>
+      <para id="id1168848610297">Geometric isomers have the same empirical formula or molecular formula and also the same structural formula, but have a different relative arrangement of the substituent groups. For example, the two geometric isomers of 1,2-dichloroethene (<link target-id="id1168842360745"/>) have the molecular formula of C<sub>2</sub>H<sub>2</sub>Cl<sub>2</sub>, and the same structural formula of Cl(H)C=C(H)Cl, but the relative position of the two chlorine atoms can either be the same side of the C=C double bond (i.e., <emphasis effect="italics">cis</emphasis>, see <link target-id="id1168842360745"/>a) or on opposite sides of the C=C double bond (i.e., <emphasis effect="italics">trans</emphasis>, see <link target-id="id1168842360745"/>b). The use of <emphasis effect="italics">cis</emphasis> and <emphasis effect="italics">trans</emphasis> is not limited to organic compounds such as olefins, but can also be used in metal complexes, e.g., <link target-id="id1168842048037"/>. </para>
+
+
+      <figure id="id1168842360745">
+        <media id="id1168842360745_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig2-96d6.jpg" id="id1168842360745__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+<caption>The two geometric isomers of 1,2-dichloroethene. </caption>
+      </figure>
+
+
+
+      <figure id="id1168842048037">
+        <media id="id1168842048037_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig3-837b.jpg" id="id1168842048037__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+<caption>Examples of (a) <emphasis effect="italics">cis</emphasis> and (b) <emphasis effect="italics">trans</emphasis> geometric isomers for metal complexes. </caption>
+      </figure>
+
+
+
+
+      <para id="id1168853288382">When it is not possible to describe geometric isomers by the terms <emphasis effect="italics">cis</emphasis> or <emphasis effect="italics">trans</emphasis>, the terms facial (<emphasis effect="italics">fac</emphasis>, <link target-id="id1168841546718"/>a) or meridinal (<emphasis effect="italics">mer</emphasis>, <link target-id="id1168841546718"/>b) are commonly employed. </para>
+
+
+      <figure id="id1168841546718">
+        <media id="id1168841546718_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig4-e135.jpg" id="id1168841546718__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+<caption>Examples of (a) <emphasis effect="italics">fac</emphasis> and (b) <emphasis effect="italics">mer</emphasis> geometric isomers for metal complexes. </caption>
+      </figure>
+
+
+
+
+    </section>
+    <section id="id1168858106377">
+      <title>Optical isomers</title>
+      <para id="id1168841549038">If the mirror object and mirror image of a molecule are not the same (i.e., they are not superimposable) they are known as <emphasis effect="italics">enantiomers</emphasis>. If they also have optical activity they are called <emphasis effect="italics">chiral</emphasis> and are described as having <emphasis effect="italics">chirality</emphasis>. Enantiomers of a particular compound have the same general properties with two exceptions: </para>
+
+
+      <list id="id1168856865429" list-type="enumerated" number-style="arabic">
+        <item>Their behavior to polarized light. </item>
+        <item>Their reaction with other chiral molecules. </item>
+      </list>
+
+
+      <para id="id1168857000818">It is possible to determine if a molecule is chiral or not from its symmetry. Chiral molecules will have no symmetry or axis of rotation. The optical activity of a chiral molecule will turn the plane of polarized light either to the right (+) or the left (-). The former is known as <emphasis effect="italics">dextrorotatory</emphasis> (<emphasis effect="italics">D</emphasis>), while the latter is known as <emphasis effect="italics">levorotatory</emphasis> (<emphasis effect="italics">L</emphasis>). </para>
+
+      
+
+
+      <section id="id1168846159267">
+        <title>Configuration</title>
+        <para id="id1168842529327">The configuration of a chiral molecule may be represented in a number of ways. Lactic acid (C<sub>3</sub>H<sub>6</sub>O<sub>3</sub>) provides a suitable and simple example. The two optical isomers of lactic acid can be represented in 3-dimensional (3D) form as shown in <link target-id="id1168872724997"/>; however, it is also possible to draw the same molecules in 2D using the Fischer projection (<link target-id="id1168867787245"/>). While the Fisher projection does not appear to define the geometry about the central carbon atom, the convention is that the side chains are out of the plane of the page (towards the observer), while the top and bottom groups are into the plane of the page (away from the observer). Thus, <link target-id="id1168867787245"/>a is a representation of <link target-id="id1168872724997"/>a, and <link target-id="id1168867787245"/>b is a representation of <link target-id="id1168872724997"/>b. </para>
+
+
+
+        <figure id="id1168872724997"><media id="id1168872724997_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig5-1424.jpg" id="id1168872724997__onlineimage" width="275" print-width="2.75in"/>
+          </media>
+
+        <caption>3D representations of lactic acid. </caption></figure>
+
+
+
+          <figure id="id1168867787245"><media id="id1168867787245_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig6.jpg" id="id1168867787245__onlineimage" width="275" print-width="2.75in"/>
+            </media>
+
+          <caption>2D Fischer representations of lactic acid. </caption></figure>
+
+
+
+
+
+      </section>
+      <section id="id1168842651702">
+        <title>Fischer-Rosenoff convention</title>
+        <para id="id1168841692760">The Fischer-Rosenoff convention defines chirality of a molecule using the Fischer projection. The convention is based upon <emphasis effect="italics">D</emphasis>-(+)-glyceraldehydes (<link target-id="id1168853083342"/>). </para>
+
+        <figure id="id1168853083342"><media id="id1168853083342_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig7.jpg" id="id1168853083342__onlineimage" width="100" print-width="1in"/>
+          </media>
+
+        <caption>The Fischer projection of <emphasis effect="italics">D</emphasis>-(+)-glyceraldehyde. </caption></figure>
+
+
+
+
+        <para id="id1168848629207">To determine the chiral label for a molecule, the Fischer projection is drawn with the longest carbon chain pointing away from the observer, i.e., into the plain of the page. The number 1 carbon (that of the highest substitution) is positioned at the top of the diagram. If the functional group is on the right of the diagram the isomer is given the label <emphasis effect="italics">D</emphasis> (from the dextrorotatory enantiomer of glyceraldehydes rather than the molecule being dextrorotatory per se), i.e., <link target-id="id1168853083342"/>. On the other hand if the functional group is on the left of the diagram the isomer is given the label <emphasis effect="italics">L</emphasis> (from the levorotatory enantiomer of glyceraldehyde rather than the molecule being levorotatory per se). </para>
+
+
+        <section id="id1168845187121">
+          <title>Rules</title>
+          <para id="id1168842378100">Where molecules are large and complex a number of additional rules are useful: </para>
+          <list id="id1168842703191" list-type="enumerated" number-style="arabic">
+            <item>Make any alcohol substituent to be nearest to the top, e.g., a butan-2-ol (<link target-id="id8740521"/>a) rather than a butan-3-ol (<link target-id="id8740521"/>b). </item>
+            <item>Aldehydes and ketones are the number 1 carbon atom. </item>
+            <item>If there are both sets of substituents, rule 1 has precedence over rule 2. </item>
+          </list>
+
+          <figure id="id8740521">
+            <media id="id8740521_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig8.jpg" id="id8740521__onlineimage" width="250" print-width="2.5in"/>
+            </media>
+<caption>Preferred positioning of an alcohol substituent to be nearest the top (a) rather than at the bottom (b), according to the rules of the Fischer-Rosenoff convention. </caption>
+          </figure>
+
+
+
+
+        </section>
+      </section>
+      <section id="id1168875981985">
+        <title>Nomenclature in terms of <emphasis effect="italics">R</emphasis> and <emphasis effect="italics">S</emphasis></title>
+        <para id="id1168847360355">The <emphasis effect="italics">R</emphasis>/<emphasis effect="italics">S</emphasis> nomenclature is a more widely used alternative to the <emphasis effect="italics">D</emphasis>/<emphasis effect="italics">L</emphasis> nomenclature, and is based upon the hierarchical order of the substituents. From the Fischer projection, the groups are ordered with the largest atom first, as shown in <link target-id="id1168842691626"/>. The lowest numbered substituent is then oriented away from the observer (i.e., H in <link target-id="id1168842691626"/>). The order of the remaining substituents 1, 2, 3 is then traced: if it goes clockwise the molecule is labeled <emphasis effect="italics">R</emphasis>, if it goes anti-clockwise (counter-clockwise) the molecule is labeled <emphasis effect="italics">S</emphasis>. </para>
+
+
+
+        <figure id="id1168842691626">
+          <media id="id1168842691626_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig9.jpg" id="id1168842691626__onlineimage" width="300" print-width="3in"/>
+          </media>
+<caption>The structure of <emphasis effect="italics">S</emphasis>–lactic acid, and the ordering of the substituents.</caption>
+        </figure>
+
+
+
+
+        <para id="id1168847437432">The advantage of the <emphasis effect="italics">R</emphasis>/<emphasis effect="italics">S</emphasis> methodology is that it can also be used for geometric isomers. Thus, while <emphasis effect="italics">cis</emphasis> and <emphasis effect="italics">trans</emphasis> are useful when the groups either side of a C=C double bond are the same (e.g., <emphasis effect="italics">cis</emphasis>-1,2-dichloroethene, <link target-id="id1168856984137"/>a); however, when four different groups are present (e.g., A, B, X, and Y as seen in <link target-id="id1168856984137"/>b) then an alternative must be used. By taking either group A/B or X/Y and placing in order of precedence, the relative order defines the isomer. Thus, if in Figure 10b A&gt;B and X&gt;Y the label <emphasis effect="italics">Z</emphasis> (<emphasis effect="italics">zusammen</emphasis> from the German for <emphasis effect="italics">together</emphasis>) is used. Conversely, if in Figure 10b A&lt;B and X&gt;Y the label <emphasis effect="italics">E</emphasis> (<emphasis effect="italics">entgegen</emphasis> from the German for <emphasis effect="italics">opposite</emphasis>) is used. </para>
+
+
+        <figure id="id1168856984137">
+          <media id="id1168856984137_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig10.jpg" id="id1168856984137__onlineimage" width="250" print-width="2.5in"/>
+          </media>
+<caption>The structures of (a) <emphasis effect="italics">cis</emphasis>-1,2-dichloroethene and (b) a generic olefin with four different substituent groups. </caption>
+        </figure>
+
+
+
+
+      </section>
+      <section id="id1168842641625">
+        <title>More complex molecules</title>
+        <para id="id1168841452725">As molecules become more complex with multiple functional groups and multiple chiral centers the <emphasis effect="italics">D</emphasis>/<emphasis effect="italics">L</emphasis> nomenclature has the potential to become confusing. Erythrose has two chiral centers, and based upon the Fischer projections it may be seen that since the alcohol substituents in the 2 and 3 positions are on the same side of the backbone in the Fischer projection irrespective if it is <emphasis effect="italics">D</emphasis>-(-)-erythrose or <emphasis effect="italics">L</emphasis>-(+)-erythrose (<link target-id="id1168842381638"/>a and b). Thus, the naming is simplified despite the presence of multiple side groups. However, in threose (<link target-id="id1168842381638"/>c) the substituents are on different sides of the Fischer projection raising the issue as to whether this should be <emphasis effect="italics">L</emphasis> or <emphasis effect="italics">D</emphasis>. However, in such cases the substituent at the bottom of the side chain takes priority, thus <link target-id="id1168842381638"/>c is <emphasis effect="italics">D</emphasis>-(-)-threose. </para>
+
+
+          <figure id="id1168842381638"><media id="id1168842381638_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig11.jpg" id="id1168842381638__onlineimage" width="400" print-width="4in"/>
+            </media>
+
+          <caption>The Fischer projections of (a) <emphasis effect="italics">D</emphasis>-(-)-erythrose, (b) <emphasis effect="italics">L</emphasis>-(+)-erythrose, and (c) <emphasis effect="italics">D</emphasis>-(-)-threose. </caption></figure>
+
+
+
+
+        
+        <note id="eip-475"><emphasis effect="italics">D</emphasis>-(-)-erythrose and <emphasis effect="italics">L</emphasis>-(+)-erythrose are <emphasis effect="italics">enantiomers</emphasis>, and <emphasis effect="italics">D</emphasis>-(+)-threose and <emphasis effect="italics">L</emphasis>-(+)-threose are also <emphasis effect="italics">enantiomers</emphasis>, but threose and erythrose are <emphasis effect="italics">diasteriomers</emphasis>. Enantiomers have the same physical properties (just different behavior to polarized light), while diasteriomers may have different physical properties such as melting points and solubility. </note><section id="id1168841486835">
+
+
+
+          <title>Amino acids</title>
+          <para id="id1168854172360">Amino acids (or more properly α-amino acids) are compounds containing both an amine (NH<sub>2</sub>) group and a carboxylic acid (CO<sub>2</sub>H) attached to the same carbon atom. The presence of both acid and base groups can result in the formation of the Zwitterionic form with ammonium (NH<sub>3</sub><sup>+</sup>) and carboxylate (CO<sub>2</sub><sup>-</sup>) groups. </para>
+
+          <para id="id1168842566401">In defining the labels for amino acids, the basis is <emphasis effect="italics">D</emphasis>-(-)-allothreonine (<link target-id="id1168851193557"/>), whereas for an amino acid such as threonine the top substituent is used for a label, e.g., <link target-id="id1168864365326"/>. </para>
+
+
+          <figure id="id1168851193557">
+            <media id="id1168851193557_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig12.jpg" id="id1168851193557__onlineimage" width="125" print-width="1.25in"/>
+            </media>
+<caption>The Fischer projection of <emphasis effect="italics">D</emphasis>-(-)-allothreonine. </caption>
+          </figure>
+
+
+
+          <figure id="id1168864365326">
+            <media id="id1168864365326_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig13.jpg" id="id1168864365326__onlineimage" width="125" print-width="1.25in"/>
+            </media>
+<caption>The Fischer projection of <emphasis effect="italics">D</emphasis>-(-)-threonine. </caption>
+          </figure>
+
+
+
+
+        </section>
+        <section id="id1168847410566">
+          <title>Similar chiral centers</title>
+          <para id="id1168847969010">Just because a compound has more than one chiral center does not mean that it is optically active. A consideration of erythritol shows the presence of a mirror plane of symmetry (<link target-id="id1168841721239"/>). As such, erythritol is not optically active, i.e., there is no effect on polarized light. In contrast, while threitol has the same molecular and geometric formula, the lack of a mirror plane of symmetry (<link target-id="id1168842641393"/>) means that the <emphasis effect="italics">L</emphasis>- and <emphasis effect="italics">D</emphasis>+ forms are optically active. </para>
+
+
+            <figure id="id1168841721239">
+              <media id="id1168841721239_media" alt="">
+                <image mime-type="image/jpg" src="../../media/Fig14.jpg" id="id1168841721239__onlineimage" width="350" print-width="3.5in"/>
+              </media>
+<caption>The Fischer projections of <emphasis effect="italics">D</emphasis> and <emphasis effect="italics">L</emphasis> erythritol showing the presence of a mirror plane of symmetry. N.B. The presence of a mirror plane means that erythritol is not optically active and hence there is no need to label with “+” or “-”. </caption>
+            </figure>
+
+
+
+
+
+          <figure id="id1168842641393">
+            <media id="id1168842641393_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig15-751a.jpg" id="id1168842641393__onlineimage" width="300" print-width="3in"/>
+            </media>
+<caption>The Fischer projections of (a) <emphasis effect="italics">L</emphasis>-(-)-threitol and (b) <emphasis effect="italics">D</emphasis>-(+)-threitol. </caption>
+          </figure>
+
+
+
+
+
+          <para id="id1168865190773">Compounds with a D:L ratio of 1:1 are called racemic compounds and are totally optically inactive. However, it is also possible for a racemic solution of a compound to crystallize to form crystals of pure <emphasis effect="italics">D</emphasis> or <emphasis effect="italics">L</emphasis>, which may be manually separated.</para>
+        </section>
+      </section>
+
+
+      <section id="id1168857923275">
+        <title>Optical isomers that are not tetrahedral</title>
+        <section id="id1168853772134">
+          <title>Pyramidal molecules</title>
+          <para id="id1168854378487">Pyramidal molecules can also exhibit chirality when the three substituents are distinct, e.g., PR<sub>1</sub>R<sub>2</sub>R<sub>3</sub> (<link target-id="id1168852958637"/>). Unfortunately, most pyramidal compounds undergo an inversion of their isomers (in a similar manner to turning an umbrella inside out), such that the chiral forms interconvert rapidly. In such a case, it is not possible to resolve (separate) the different forms. Phosphines may generally be resolved because the barrier to their inversion is sufficiently large (ca. 132 kJ/mol). </para>
+
+
+          <figure id="id1168852958637">
+            <media id="id1168852958637_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig16-9935.jpg" id="id1168852958637__onlineimage" width="250" print-width="2.5in"/>
+            </media>
+<caption>An example of a chiral phosphine where R<sub>1</sub> ≠ R<sub>2</sub> ≠ R<sub>3</sub>. </caption>
+          </figure>
+
+
+
+
+          <para id="id1168846905267">The notation used for pyramidal molecules is the same as that for tetrahedral molecules, in that the individual substituents are ordered with the largest atom first. The lone pair is defined as having the lowest numbering and thus is oriented away from the observer. The order of the remaining substituents 1, 2, and 3 is then traced: if it goes clockwise the molecule is labeled <emphasis effect="italics">R</emphasis>, if it goes anti-clockwise (counter-clockwise) the molecule is labeled <emphasis effect="italics">S</emphasis>.</para>
+        </section>
+       
+
+ <section id="id1168847742234">
+          <title>Chirality in octahedral complexes</title>
+
+          <para id="id1168849162327">The presence of a chelate ligand on an octahedral complex can induce chirality in the complex. </para>
+
+          
+
+
+
+          <note id="eip-969">A chelate ligand is a molecule or ion that is bonded to at least two points of a central atom or ion. The term <emphasis effect="italics">chelate</emphasis> is from the Greek <emphasis effect="italics">chelè</emphasis>, meaning <emphasis effect="italics">claw</emphasis>. </note>
+
+<para id="id1168874544386">Unlike tetrahedral based compounds, chiral octahedral compounds have their nomenclature based on the structure of a helix. For example, in the case of a <emphasis effect="italics">bis</emphasis>-chelate complex (<link target-id="id1168842399667"/>), with one of the chelate ligands pointing straight up the helix, the direction of the other defines the chirality of the helix, i.e., if it is a left or right hand helix. If the ligand points up to the left the complex is assigned the symbol shown in <link target-id="id1168842399667"/>a, while if the ligand points up to the right the complex is assigned the symbol shown in <link target-id="id1168842399667"/>b. </para>
+
+
+          <figure id="id1168842399667">
+            <media id="id1168842399667_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig17-3481.jpg" id="id1168842399667__onlineimage" width="225" print-width="2.25in"/>
+            </media>
+<caption>The two optical isomers of a <emphasis effect="italics">bis</emphasis>-chelate metal complex. </caption>
+          </figure>
+
+
+
+
+
+
+          <para id="id1168842639305">In complexes with three chelate ligands (i.e., a <emphasis effect="italics">tris</emphasis>-chelate complex, <link target-id="id1168841531596"/>), the same methodology applies, in that any two ligands can be chosen and the same rules applied. </para>
+
+
+          <figure id="id1168841531596">
+            <media id="id1168841531596_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig18-ac00.jpg" id="id1168841531596__onlineimage" width="225" print-width="2.25in"/>
+            </media>
+<caption>The two optical isomers of a <emphasis effect="italics">tris</emphasis>-chelate metal complex. </caption>
+          </figure>
+
+
+
+
+        </section>
+      </section>
+      <section id="id1168847722083">
+        <title>Methods of resolution of racemic mixtures</title>
+        <para id="id1168841723269">A racemic mixture, or racemate, is one that has equal amounts of left- and right-handed enantiomers of a chiral molecule. The first known racemic mixture was "racemic acid," which Louis Pasteur (<link target-id="id1168841683662"/>) found to be a mixture of the two enantiomeric isomers of tartaric acid (<link target-id="id1168841523418"/>). </para>
+
+
+
+          <figure id="id1168841683662"><media id="id1168841683662_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig19-ab5f.jpg" id="id1168841683662__onlineimage" width="300" print-width="2in"/>
+            </media>
+
+          <caption>French microbiologist and chemist Louis Pasteur who is remembered for his remarkable breakthroughs in the causes and preventions of disease (1822 – 1895). </caption></figure>
+
+
+
+
+
+
+        <figure id="id1168841523418">
+          <media id="id1168841523418_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig20.jpg" id="id1168841523418__onlineimage" width="300" print-width="3in"/>
+          </media>
+<caption>The Fischer projections of the two enantiomeric isomers of tartaric acid. </caption>
+        </figure>
+
+
+
+
+
+        <para id="id1168842654254">In nature, it is common that only one of an optical isomers is naturally produced, but in laboratory synthesis it is more common that both isomers are made in equal amounts. The separation of a racemate into its components (the pure enantiomers) is called a chiral resolution.</para>
+
+        <section id="id1168842541700">
+          <title>Mechanical separation</title>
+          <para id="id4840584">The crystals of enantiomerically pure compounds often have different appearances. Thus, just as Pasteur did in 1848, it is often possible to look under a microscope and physically separate the two different enantiomers. </para>
+        </section>
+        <section id="id1168842536215">
+
+          <title>Resolution by formation of diasteriomers</title>
+          <para id="id1168842697321">One of the differentiating properties of a chiral molecule is that each enantiomer reacts with another chiral molecule to form a diastereomeric pair of compounds. For example, a racemic acid, (+)HA and (-)HA, will react with a chiral base, (-)B, to form a mixture of diasteriomers, [(-)BH<sup>+</sup>.(+)A<sup>-</sup>] and [(-)BH<sup>+</sup>.(-)A<sup>-</sup>]. Because diasteriomers have different physical properties they can be separated by recrystallization. Once separated by recrystallization, the addition of excess acid will liberate the enantiomerically pure compound, i.e., (+)HA or (-)HA. A typical chiral base would be a natural alkaloid base to ensure that it is pure + or -. If it is a base that is needed to be separated, then (-)malic acid is a suitable acid. </para>
+        </section>
+
+
+
+        <section id="id1168841596659">
+          <title>Resolution by chromatography</title>
+          <para id="id8422297">In a related method to resolution by the formation of diasteriomers, a chiral column material will allow for the chromatographic separation of an enantiomeric mixture. Thus, the retention rate for (+)X will be different from (-)X on a column in which the stationary phase is chiral, i.e., (-)A. Many common chiral stationary phases are based on oligosaccharides such as cellulose or cyclodextrin (in particular with β-cyclodextrin).</para>
+
+
+        </section>
+      </section>
+      <section id="id1168845421757">
+        <title>Labile stereo isomers and racemization</title>
+        <para id="id1168841715149">It is only possible to separate (resolve) racemic mixtures if the molecule stays as one form for a long time. In other words, if there is a mechanism by which the two forms are interconverted, then resolution cannot be achieved. </para>
+
+
+        <section id="id1168850511328">
+          <title>Intramolecular rearrangement</title>
+          <para id="id1168842391027">Intramolecular rearrangements involve no bonds being broken. The classic example is the inversion of an amine, <link target-id="eip-444"/>, which has a low energy barrier (24.7 kJ/mol). </para>
+
+<equation id="eip-444"><media id="id444_media" alt="">
+<image mime-type="image/jpg" src="../../media/Fig21.jpg" id="id444__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+          <para id="id1168847393592">Another example of an intramolecular rearrangement is the conversion of a square-based pyramidal geometry via a trigonal bipyramidal geometry to the isomeric square-based pyramidal geometry, or the alternative isomerization of one trigonal bipyramidal geometry to another via a square-based pyramidal transition state. Such a process is known as a <emphasis effect="italics">Berry rotation</emphasis>. The Berry mechanism is a pseudorotation process for simultaneously interchanging two equatorial groups with the two axial groups, while the third equatorial group (called the pivot group) remains an equatorial group (<link target-id="id1168856899474"/>). </para>
+
+
+          <figure id="id1168856899474">
+            <media id="id1168856899474_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig22.jpg" id="id1168856899474__onlineimage" width="450" print-width="4.5in"/>
+            </media>
+<caption>The Berry pseudorotation. </caption>
+          </figure>
+
+
+
+
+
+
+        </section>
+        <section id="id1168841521446">
+          <title>Intermolecular processes</title>
+          <para id="id1168847859587">Intermolecular processes involve bond breaking (and bond formation). For example a tetrahedral compound could loose one ligand, which creates a labile pyramidal compound. Rapid inversion of the pyramidal compound is followed by re-attachment of the ligand. Such a process is often so fast that resolution cannot be achieved. </para>
+        </section>
+        <section id="id1168846725463">
+          <title>Intramolecular processes</title>
+          <para id="id1168855233844">Intramolecular processes with bond breaking (and making) also lead to racemization. For example, in an octahedral complex with chelate ligands, if one of the ends of a chelate ligand detaches, it can reattach in the same confguration, or attach differently to change the chirality. In this manner the chirality can be changed from one form to another. </para>
+        </section>
+      </section>
+    </section>
+    <section id="id1168848629903">
+      <title>Conformation</title>
+      <para id="id1168847485047">The conformation of a molecule arises from the rotation of a single bond (<link target-id="id1168848537926"/>). However, even though there is rotation about the bond, there are energy barriers due to steric interactions of the substituents. In order to understand (and predict) these interactions, it is necessary to visualize the molecule in such a manner as to highlight the across-bond interactions; this is done by using a Newman projection. </para>
+
+
+      <figure id="id1168848537926">
+        <media id="id1168848537926_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig23.jpg" id="id1168848537926__onlineimage" width="150" print-width="1.5in"/>
+        </media>
+<caption>The rotation about the C-C single bond in ethane. </caption>
+      </figure>
+
+
+
+
+      <para id="id1168859173588">A Newman projection, useful in alkane stereochemistry, visualizes chemical conformations of a carbon-carbon chemical bond from front to back, with the front carbon represented by a dot and the back carbon as a circle (<link target-id="id1168842394797"/>). The front carbon atom is called proximal, while the back atom is called distal. This type of representation is useful for assessing the torsional angle between bonds. Using ethane as an example, the Newman projection along the C-C single bond results in two basic conformations: eclipsed (<link target-id="id1168842394797"/>a) and staggered (<link target-id="id1168842394797"/>b). The staggered conformation will be energetically favored since the substituents are the most distant from each other. Conversely, the staggered will be the highest in energy. The difference in energy between the two conformations will define the barrier to rotation. In the case of ethane this is very small (12.5 kJ/mol). </para>
+
+      <figure id="id1168842394797"><media id="id1168842394797_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig24.jpg" id="id1168842394797__onlineimage" width="180" print-width="1.8in"/>
+        </media>
+
+      <caption>The Newman projection of ethane showing (a) eclipsed (E) and (b) staggered (S) conformations. </caption></figure>
+
+
+
+
+
+      <para id="id1168841588859">Although we often only consider the two extreme conformations, in reality there is a continuum around 360° rotation of the C-C bond. <link target-id="id1168853654997"/> shows the relative energy as a function of the dihedral angle for ethane. Since each carbon in ethane has equivalent substitution (i.e., three H atoms) the energy for each staggered conformation is the same. This is not true for more complex molecules such as butane (<link target-id="id1168841553504"/>). </para>
+
+        <figure id="id1168853654997">
+          <media id="id1168853654997_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig25.jpg" id="id1168853654997__onlineimage" width="580" print-width="5.8in"/>
+          </media>
+<caption>The relative energy as a function of the dihedral angle for ethane.</caption>
+        </figure>
+
+
+
+
+
+      <figure id="id1168841553504">
+        <media id="id1168841553504_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig26.jpg" id="id1168841553504__onlineimage" width="600" print-width="6in"/>
+        </media>
+<caption>The relative energy as a function of the dihedral angle for butane.</caption>
+      </figure>
+
+
+
+
+      <para id="id1168842375896">As may be seen from <link target-id="id1168841553504"/>, the staggered conformation in which the two methyl groups (represented by the black circles) are as far away from each other (<emphasis effect="italics">anti</emphasis>) is the most energetically favored. The other two staggered conformations (<emphasis effect="italics">gauche</emphasis>) are mirror images of each other and are hence conformation enantiomers. It should also be noted from <link target-id="id1168841553504"/> that the eclipsed conformations vary in energy since the presence of methyl<sup>...</sup>methyl near neighbors is clearly less energetically favorable than methyl<sup>...</sup>H near neighbors. </para>
+
+      <para id="id1168853661142">Generally the rotation about C-C bonds has a low barrier to rotation, however, if substituents are sufficiently bulky the molecule will not twist around the bond, e.g., substituted bi-phenyl with sterically bulky substituents (<link target-id="id1168867174744"/>). </para>
+
+
+        <figure id="id1168867174744">
+          <media id="id1168867174744_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig27.jpg" id="id1168867174744__onlineimage" width="200" print-width="2in"/>
+          </media>
+<caption>The ease of rotation about the C-C bond of a substituted bi-phenyl will depend on the steric bulk of X and Y. </caption>
+        </figure>
+
+
+
+
+      <para id="id1168853677023">Free rotation about a C-C bond is not fully possible when you have a ring system, e.g., in a cyclic compound such as cyclohexane, C<sub>6</sub>H<sub>12</sub>. The limited rotation about the C-C bonds results in the flipping of the ring conformation from the chair form (<link target-id="id1168848434261"/>a) to the boat form (<link target-id="id1168848434261"/>b). Since the boat form has steric hindrance between the hydrogen atoms, the chair form is the more stable. </para><figure id="id1168848434261"><media id="id1168848434261_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Fig28.jpg" id="id1168848434261__onlineimage" width="350" print-width="3.5in"/>
+        </media>
+
+      <caption>The chair (a) and boat (b) conformations of cyclohexane, C<sub>6</sub>H<sub>12</sub>. </caption></figure><section id="id1168841607827">
+        <title>Conformation of compounds with lone pairs</title>
+        <para id="id1168848345438">Lone pairs often behave in a different manner to substituents in regard to conformations. Thus, methylamine (CH<sub>3</sub>NH<sub>2</sub>) would be predicted to have the staggered conformation shown in <link target-id="id1168841536294"/>a. However, the lower steric bulk of the lone pair results in the nitrogen being 0.09 Å away from the true center of the CH<sub>3</sub> projection (<link target-id="id1168841536294"/>b). </para>
+
+
+        <figure id="id1168841536294">
+          <media id="id1168841536294_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig29.jpg" id="id1168841536294__onlineimage" width="250" print-width="2.5in"/>
+          </media>
+<caption>The ideal (a) and observed (b) conformations of methylamine, CH<sub>3</sub>NH<sub>2</sub>. </caption>
+        </figure>
+
+
+
+
+        <para id="id1168841547878">In compounds with more than one lone pair, the lowest energy form is not always the <emphasis effect="italics">anti</emphasis> conformation. For example, at 20 °C hydrazine (H<sub>2</sub>NNH<sub>2</sub>) is 100% <emphasis effect="italics">gauche</emphasis> (<link target-id="id1168841650891"/>a); but for substituted hydrazines (i.e., a diamine, R<sub>2</sub>NNR<sub>2</sub>) if the substituent groups are sufficiently large then the <emphasis effect="italics">anti</emphasis> conformation will dominate (<link target-id="id1168841650891"/>b). </para>
+
+          <figure id="id1168841650891">
+            <media id="id1168841650891_media" alt="">
+              <image mime-type="image/jpg" src="../../media/Fig30.jpg" id="id1168841650891__onlineimage" width="250" print-width="2.5in"/>
+            </media>
+<caption>The stable conformation of hydrazine (H<sub>2</sub>NNH<sub>2</sub>) at 20 °C (a) as compared to the <emphasis effect="italics">anti</emphasis> conformation (b) observed for diamines (R<sub>2</sub>NNR<sub>2</sub>). </caption>
+          </figure>
+
+
+        <para id="id1168847722927">The conformation of hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) is dominated by the lone pairs rather than the hydrogen atoms. Instead of the expected <emphasis effect="italics">anti</emphasis> conformation (c.f., <link target-id="id1168841553504"/> where the black circles would represent the hydrogen atoms) in the free state the dihedral angle is 94° (<link target-id="id1168848522498"/>). The conformation of hydrogen peroxide is therefore neither eclipsed nor staggered but an intermediate structure. When in the solid state hydrogen bonding will cause the shape and angles to change. </para>
+
+
+        <figure id="id1168848522498">
+          <media id="id1168848522498_media" alt="">
+            <image mime-type="image/jpg" src="../../media/Fig31.jpg" id="id1168848522498__onlineimage" width="100" print-width="1in"/>
+          </media>
+<caption>The structure of hydrogen peroxide in the free state. </caption>
+        </figure>
+
+
+
+      </section>
+    </section>
+    <section id="id1168842390563">
+      <title>Bibliography</title>
+      <list id="id1168841469965" list-type="bulleted">
+        <item>R. S. Berry, <emphasis effect="italics">J. Chem. Phys</emphasis>., 1960, <emphasis effect="bold">32</emphasis>, 933. </item>
+        <item>A. Keys, S. G. Bott, and A. R. Barron, <emphasis effect="italics">J. Chem. Cryst</emphasis>., 1998, <emphasis effect="bold">28</emphasis>, 629.</item>
+      </list>
+    </section>
+  </content>
+</document>

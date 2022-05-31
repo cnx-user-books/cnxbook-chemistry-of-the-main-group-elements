@@ -1,0 +1,51 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Hydrogen Peroxide</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34995</md:content-id>
+  <md:title>Hydrogen Peroxide</md:title>
+  <md:abstract/>
+  <md:uuid>5e01f4ae-d105-49c6-8049-528326857eea</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1164917879533">Hydrogen peroxide (H<sub>2</sub>O<sub>2</sub>) is a very pale blue liquid but appears colorless in dilute solution. It is prepared by the oxidation of anthraquinol, e.g., <link target-id="eip-215"/>. The hydrogen peroxide is extracted with water from the anthraquinone solution and the 20 - 40% solution is purified by solvent extraction. An alternative process involves the oxidation of isopropanol in either the vapor or liquid phase at 100 °C and <emphasis effect="italics">ca</emphasis>. 15 atm, <link target-id="eip-345"/>. The products are separated by fractional distillation. </para>
+    
+    <equation id="eip-215"><media id="id1164918177995_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-68a0.jpg" id="id1164918177995__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation>
+    <equation id="eip-345"><media id="id1164921066726_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-c954.jpg" id="id1164921066726__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation><para id="id1164919111674">In the gas phase H<sub>2</sub>O<sub>2</sub> adopts a gauche conformation (<link target-id=" id1164920091057"/>), but there is only a low barrier to rotation about the O-O bond. </para>
+    <figure id="id1164920091057"><media id="id1164920091057_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-04fa.jpg" id="id1164920091057__onlineimage" width="400" print-width="4in"/>
+      </media>
+    <caption>Structure of hydrogen peroxide in (a) the vapor phase and (b) the solid (crystal) phase.</caption></figure>
+    
+    <para id="id1164917820174">Hydrogen peroxide is a liquid at standard temperature and pressure (25 °C, 1 atm) due to the presence of strong hydrogen bonding similar to found in water. In fact, the liquid range for H<sub>2</sub>O<sub>2</sub> (Mp = -0.43 °C, Bp = 150.2 °C) is actually broader than water, and it is slightly more viscous than water. Hydrogen peroxide has a density of 1.44 g/cm<sup>3</sup>, and is 10<sup>6</sup> times less basic that water. </para>
+    <para id="id1164917758261">As with water, H<sub>2</sub>O<sub>2</sub> is a good solvent because of its polar nature and broad liquid temperature range, however, it is dangerous in its pure state due to its facile (ΔH = -99 kJ/mol) auto decomposition, <link target-id="eip-655"/>, as well as its strong oxidizing nature. </para>
+    
+    <equation id="eip-655"><media id="id1164917296150_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics4-6168.jpg" id="id1164917296150__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation><para id="id1164917131394">Hydrogen peroxide is usually sold as 3 - 12% solution for home use; however, laboratory and certain industrial applications require 30% solutions. </para>
+    
+    
+    <note id="eip-987" type="warning">Hydrogen peroxide should be stored in a cool, dry, well-ventilated area and away from any flammable or combustible substances. It should be stored in a container composed of non-reactive materials such as stainless steel or glass (other materials including some plastics and aluminum alloys may also be suitable). Because it breaks down quickly when exposed to light, it should be stored in an opaque container, and pharmaceutical formulations typically come in brown bottles that filter out light. </note><para id="id1164917722799">Aqueous solution are weakly acidic (K = 1.5 x 10<sup>-12</sup>), <link target-id="eip-744"/>. However, there is no exchange of oxygen atoms between H<sub>2</sub>O<sub>2</sub> and H<sub>2</sub>O in the liquid phase. </para>
+    
+    
+    <equation id="eip-744"><media id="id1164921513986_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-990b.jpg" id="id1164921513986__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation><para id="eip-296">As expected hydrogen peroxide is a strong oxidizing agent, <link target-id="eip-729"/>, however, it can also act as a reducing agent, <link target-id="eip-822"/>. </para><equation id="eip-729"><media id="id1164920666012w_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-54a6.jpg" id="id1164920666012w__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><equation id="eip-822"><media id="id1164920666012s_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-1151.jpg" id="id1164920666012s__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+      
+
+  </content>
+</document>

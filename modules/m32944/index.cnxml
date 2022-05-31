@@ -1,0 +1,488 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Carbon Halides</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32944</md:content-id>
+  <md:title>Carbon Halides</md:title>
+  <md:abstract/>
+  <md:uuid>a9c5e55d-373d-46f3-bf4b-637b3e995027</md:uuid>
+</metadata>
+<content>
+    <para id="id16219044">There are two general classes of carbon halides. </para>
+    <list id="id16047166" list-type="enumerated" number-style="arabic">
+      <item>Homoleptic halides, e.g., CCl<sub>4</sub>, CCl<sub>2</sub>F<sub>2</sub>, C<sub>6</sub>Cl<sub>6</sub>, etc. </item>
+      <item>Carbonyl halides, e.g., Cl<sub>2</sub>C=O. </item>
+    </list>
+    <para id="id16336040">A summary of some simple carbon halides is given in <link target-id="id19569057"/>. </para>
+
+
+
+    <table id="id19569057" summary="Physical properties of simple halogen compounds of carbon.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Compound</emphasis></entry>
+            <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+            <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+            <entry><emphasis effect="bold">Remarks</emphasis></entry>
+          </row>
+          <row>
+            <entry>CF<sub>4</sub></entry>
+            <entry>-185</entry>
+            <entry>-128</entry>
+            <entry>Very stable gas</entry>
+          </row>
+          <row>
+            <entry>CCl<sub>4</sub></entry>
+            <entry>-23</entry>
+            <entry>76</entry>
+            <entry>Colorless liquid, stable</entry>
+          </row>
+          <row>
+            <entry>CBr<sub>4</sub></entry>
+            <entry>93</entry>
+            <entry>190</entry>
+            <entry>Pale yellow solid, decomposes upon boiling</entry>
+          </row>
+          <row>
+            <entry>CI<sub>4</sub></entry>
+            <entry>171</entry>
+            <entry>-</entry>
+            <entry>Bright red solid, decomposes prior to boiling, sublimed at low pressure</entry>
+          </row>
+          <row>
+            <entry>F<sub>2</sub>C=O</entry>
+            <entry>-114</entry>
+            <entry>-83</entry>
+            <entry>Decomposed by H<sub>2</sub>O</entry>
+          </row>
+          <row>
+            <entry>Cl<sub>2</sub>C=O</entry>
+            <entry>-118</entry>
+            <entry>8</entry>
+            <entry>Phosgene, highly toxic</entry>
+          </row>
+          <row>
+            <entry>Br<sub>2</sub>C=O</entry>
+            <entry>-</entry>
+            <entry>65</entry>
+            <entry>Fumes in air</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Physical properties of simple halogen compounds of carbon. </caption>
+</table>
+
+
+    
+
+
+
+
+    <section id="id11188416">
+      <title>Carbon tetrahalides</title>
+      <para id="id11193305">The carbon tetrahalides are generally prepared by the direct (thermal) reaction of carbon with the appropriate halogen, <link target-id="eip-5555"/>; however, specific syntheses are possible for each derivative. </para>
+
+
+<equation id="eip-5555">    <media id="id7267768_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-f614.jpg" id="id7267768__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+
+
+    
+
+
+
+      <para id="id10069046">In addition to the direct reaction of fluorine with carbon, CF<sub>4</sub> can be prepared from SiC, <link target-id="eip-5556"/>. The SiF<sub>4</sub> side product is removed by passing the reaction mixture through NaOH solution, in which SiF<sub>4</sub> reacts to form silicate. The difference in reactivity of SiF<sub>4</sub> and CF<sub>4</sub> is attributable to the lack of an energetically accessible five-coordinate intermediate required for the associative mechanism.</para>
+
+<equation id="eip-5556">        <media id="id10220154_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-1c0e.jpg" id="id10220154__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+
+</equation>
+
+
+
+
+      <para id="id7626305">Carbon tetrabromide can be obtained by bromination of CH<sub>4</sub> with HBr or Br<sub>2</sub>, or by the reaction of CCl<sub>4</sub> with AlBr<sub>3</sub>, <link target-id="eip-5557"/>. Carbon tetraiodide (CI4) can be made by the Lewis acid catalyzed halogen exchange reaction, <link target-id="eip-5558"/>. </para>
+
+<equation id="eip-5557">       <media id="id14569109_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-5065.jpg" id="id14569109__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+<equation id="eip-5558">       <media id="id19442341_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-e61f.jpg" id="id19442341__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+      <para id="id12729997">CF<sub>4</sub> is very stable. In fact, it is so stable that it does not even react with molten sodium. In contrast to CF<sub>4</sub>, carbon tetrachloride (CCl<sub>4</sub>) reacts readily with alkali metals (K and Na) or other strong reducing agents (e.g., F<sub>2</sub>, Al, Ba, Be, and Zn). While CCl<sub>4</sub> is thermodynamically unstable with respect to hydrolysis, it is kinetically stable, and thus finds extensive use as a solvent. Photolysis can result in the transfer of a chloride radical to various substrates. It is also used in the conversion of metal oxides to the chlorides. Carbon tetrabromide (CBr<sub>4</sub>) is insoluble in water and other polar solvents, but soluble in benzene. Carbon tetraiodide (CI<sub>4</sub>) decomposes thermally, <link target-id="eip-5559"/>. </para>
+
+<equation id="eip-5559">       <media id="id6197653_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-6a10.jpg" id="id6197653__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+
+      <para id="id8772791">The decreasing stability of CX<sub>4</sub>, from fluorine to iodine, is directly related to the C-X bond energy (<link target-id=" id8207787"/>). </para>
+
+
+      <table id="id8207787" summary="Bond energies for carbon-halide bonds.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">C-X</emphasis></entry>
+              <entry><emphasis effect="bold">Bond energy (kJ/mol)</emphasis></entry>
+            </row>
+            <row>
+              <entry>C-F</entry>
+              <entry>485</entry>
+            </row>
+            <row>
+              <entry>C-Cl</entry>
+              <entry>327</entry>
+            </row>
+            <row>
+              <entry>C-Br</entry>
+              <entry>285</entry>
+            </row>
+            <row>
+              <entry>C-I</entry>
+              <entry>213</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Bond energies for carbon-halide bonds. </caption>
+</table>
+      
+
+
+
+      <section id="id14062130">
+
+
+
+        <title>Hazards</title>
+        <para id="id8042078">Despite its use as a solvent CCl<sub>4</sub> has significant hazardous effects. Inhalation of carbon tetrachloride vapor can cause headaches, mental confusion, depression, fatigue, loss of appetite, nausea, vomiting, and coma. The symptoms can take many hours to appear. The vapor and liquid irritate the eyes, and internal irritation, nausea, and vomiting are caused when taken orally. Chronic effects from prolonged inhalation include bronchitis and jaundice, while skin exposure can cause dermatitis. </para>
+
+        <para id="id17561069">Carbon tetrabromide is toxic by inhalation, and the vapor is narcotic if taken in high concentrations. As with CCl<sub>4</sub>, CBr<sub>4</sub> can react explosively with alkali metals. </para>
+
+
+      </section>
+    </section>
+
+
+    <section id="id19554032">
+      <title>Higher homoleptic halides</title>
+      <para id="id11381129">Organic compounds that contain only carbon and a halogen are called halocarbons, and these include fluorocarbons and chlorocarbons. The easiest route to fluorocarbons involves the reaction of a hydrocarbon with a high valent fluoride (e.g., CoF<sub>3</sub>) or the reaction of a chlorocarbon with SbF<sub>3</sub>. In general, chlorocarbons with sp<sup>3</sup> carbon atoms are more stable than those with sp<sup>2</sup> carbon centers. The exception to this is aromatic compounds such as C<sub>6</sub>Cl<sub>6</sub>. </para>
+
+
+
+      <para id="id16499966">The physical properties of fluorocarbons range from inert to toxic. Thus, poly(tetrafluoroethylene), (C<sub>2</sub>F<sub>4</sub>)<sub>n</sub>, known by either its acronym (PTFE) or its trade name (Teflon), is chemically inert and has a low coefficient of friction (<link target-id="id19503946"/>). As a consequence its uses include coatings on armor-piercing bullets (to stop the wear on the gun barrel), laboratory containers and magnetic stirrers, tubing for corrosive chemicals, and thread seal tape in plumbing applications (plumbers tape). A summary of the physical properties of PTFE is given in <link target-id="id19503946"/>. PTFE is synthesized by the emulsion polymerization of tetrafluoroethylene monomer under pressure through free radical catalyst, <link target-id="eip-5554"/>. </para>
+
+<equation id="eip-5554">      <media id="id11316645_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-f7c0.jpg" id="id11316645__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+      <table id="id19503946" summary="Physical properties of poly(tetrafluoroethylene) (PTFE).">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Property</emphasis> </entry>
+              <entry><emphasis effect="bold">Value</emphasis></entry>
+            </row>
+            <row>
+              <entry>Density </entry>
+              <entry>2.2 g/cm<sup>3</sup></entry>
+            </row>
+            <row>
+              <entry>Melting point </entry>
+              <entry>327 °C</entry>
+            </row>
+            <row>
+              <entry>Young's modulus </entry>
+              <entry>0.5 GPa</entry>
+            </row>
+            <row>
+              <entry>Yield strength </entry>
+              <entry>23 MPa</entry>
+            </row>
+            <row>
+              <entry>Coefficient of friction </entry>
+              <entry>0.05 - 0.10</entry>
+            </row>
+            <row>
+              <entry>Dielectric constant </entry>
+              <entry>2.1</entry>
+            </row>
+            <row>
+              <entry>Dielectric strength (1 MHz) </entry>
+              <entry>60 MV/m</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Physical properties of poly(tetrafluoroethylene) (PTFE). </caption>
+</table>
+
+      
+
+
+
+
+      <para id="id6346003">In contrast with PTFE, octafluoroisobutylene, (CF<sub>3</sub>)<sub>2</sub>C=CF<sub>2</sub>, is highly toxic, while perfluorodecahydronapthalene (C<sub>10</sub>F<sub>8</sub>, <link target-id="id6144790"/>) is used as a blood substitute component. </para>
+
+
+      <figure id="id6144790"><media id="id6144790_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-4186.jpg" id="id6144790__onlineimage" width="200" print-width="1.75in"/>
+        </media>
+
+      <caption>Structure of perfluorodecahydronapthalene. </caption></figure>
+
+
+
+    </section>
+
+
+    <section id="id11417048">
+      <title>Mixed halides</title>
+
+      <para id="id15502990">Mixed halides are an important class of halocarbon compound. They are synthesized by halide exchange, <link target-id="eip-5553"/>. The high cost of SbF<sub>3</sub> means that the reaction is generally run with an excess of the chloride. </para>
+
+
+
+
+
+<equation id="eip-5553">
+<media id="id245922_media" alt="">
+          <image mime-type="image/jpg" src="../../media/Eq36.jpg" id="id245922__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation>
+
+
+
+
+
+
+
+
+      <para id="id16006012">The ordinary name for mixed carbon halide is halon or Freon, although Freon is actually a Du Pont trademark. A list of selected Freon compounds are given in <link target-id="id15659072"/>. Halons are non-toxic, non-flammable, and have no odor. However, it is their very lack of reactivity that has caused a problem. </para>
+
+
+      <table id="id15659072" summary="Selected Freons and their applications.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Freon</emphasis></entry>
+              <entry><emphasis effect="bold">Formula</emphasis></entry>
+              <entry><emphasis effect="bold">Uses</emphasis></entry>
+            </row>
+            <row>
+              <entry>12</entry>
+              <entry>CCl<sub>2</sub>F<sub>2</sub> </entry>
+              <entry>Refrigerant </entry>
+            </row>
+            <row>
+              <entry>11</entry>
+              <entry>CCl<sub>3</sub>F</entry>
+              <entry>Refrigerant</entry>
+            </row>
+            <row>
+              <entry>114</entry>
+              <entry>ClF<sub>2</sub>C-CClF<sub>2</sub></entry>
+              <entry>Refrigerant</entry>
+            </row>
+            <row>
+              <entry>113</entry>
+              <entry>Cl<sub>3</sub>C-CF<sub>3</sub></entry>
+              <entry>Solvent</entry>
+            </row>
+            <row>
+              <entry>13B1</entry>
+              <entry>CBrF<sub>3</sub></entry>
+              <entry>Fire extinguisher</entry>
+            </row>
+            <row>
+              <entry>1211</entry>
+              <entry>CBrClF<sub>2</sub></entry>
+              <entry>Fire extinguisher</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Selected Freons and their applications. </caption>
+</table>
+
+
+      
+
+
+
+      
+      <section id="id14567498">
+
+        <title>Environmental impact of chlorofluorcarbon compounds (CFCs)</title>
+        <para id="id5996522">Chlorofluorcarbon compounds (CFCs) are very stable and are not degraded in the environment. As a consequence they are transported to the stratosphere where they decomposed upon photolysis, <link target-id="eip-5552"/>. The resulting chloride radical is a catalyst for the decomposition of ozone, <link target-id="eip-5551"/>, as well as a catalyst for the reaction of ozone with molecular oxygen, <link target-id="eip-5550"/>. </para>
+
+<equation id="eip-5552">       <media id="id9399238_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-afdd.jpg" id="id9399238__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+<equation id="eip-5551">
+          <media id="id8947208_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-92d6.jpg" id="id8947208__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+<equation id="eip-5550">  <media id="id12602664_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-5ecd.jpg" id="id12602664__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</equation>
+
+
+
+
+ 
+
+
+        
+
+
+
+
+        <para id="id10701637">The widespread use of CFCs as refrigerants and propellants meant that by 1986 there were 2.5 billion pounds of CFC being liberated to the atmosphere. This was equivalent to <sup>1</sup>/<sub>2</sub>. lb per person on the planet. Since the ozone layer provides the vital protection to life on the Earth’s surface from high energy UV radiation the release of CFC (along with other chemicals) caused a dramatic change in the ozone layer, including the increase in the polar hole in the ozone layer. As a result of the EU called for a complete ban of CFCs (which was followed by other countries). In their place new chemicals with similar refrigerant properties were developed. These compounds contained C-H bonds (e.g., C<sub>2</sub>HCl<sub>2</sub>F<sub>3</sub> and C<sub>2</sub>H<sub>3</sub>Cl<sub>2</sub>F) that are readily broken in the lower atmosphere, thus limiting the transport to the stratosphere. </para>
+      </section>
+    </section>
+
+
+    <section id="id14465452">
+      <title>Carbonyl halides</title>
+      
+
+      <para id="id8619619">All the carbonyl halides (X<sub>2</sub>C=O, X = F, Cl, Br, I) are known (<link target-id="id19569057"/>). Phosgene (Cl<sub>2</sub>C=O) was first synthesized by John Davy (<link target-id="id14563370"/>) in 1812 by exposing a mixture of carbon monoxide and chlorine to sunlight, <link target-id="eip-55501"/>. He named it phosgene from the Greek, <emphasis effect="italics">phos</emphasis> (light) and <emphasis effect="italics">gene</emphasis> (born), in reference to use of light to promote the reaction. The fluoride is also prepared by the reaction of carbon monoxide with the halogen, while the bromide is prepared by the partial hydrolysis of CBr<sub>4</sub> with sulfuric acid. </para>
+
+<equation id="eip-55501">       <media id="id19586795_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-2b11.jpg" id="id19586795__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+ 
+
+
+      <figure id="id14563370">
+        <media id="id14563370_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-3da9.jpg" id="id14563370__onlineimage" width="300" print-width="2in"/>
+        </media>
+<caption>British doctor and chemist John Davy FRS (1790 – 1868) was also the brother of the noted chemist Sir Humphry Davy. </caption>
+      </figure>
+
+
+
+
+
+      <para id="id19633024">The synthesis of isocyanates from alkyl or aryl amines illustrates the electrophilic character of phosgene and its ability to introduce the equivalent of "CO<sup>2+</sup>", <link target-id="eip-55502"/>. This reaction is conducted in the presence of a base such as pyridine that absorbs the hydrogen chloride. Phosgene may also be used to produce acyl chlorides from carboxylic acids, <link target-id="eip-55503"/>. However, thionyl chloride is more commonly and more safely used in this reaction.</para>
+
+<equation id="eip-55502">  <media id="id7722035_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-0a65.jpg" id="id7722035__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+<equation id="eip-55503">      <media id="id14239920_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-f435.jpg" id="id14239920__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+
+
+  
+  
+
+
+
+
+
+      <section id="id14566500">
+        <title>Phosgene as a weapon of war</title>
+
+        <para id="id16792630">Phosgene is a toxic gas with the smell of “new-mown hay” and was used in chemical warfare during the First World War (<link target-id="id14566389"/>) where it was a more potent weapon than chlorine. While chlorine was potentially deadly it caused the victim to violently cough and choke (the bodies natural defense to limiting inhalation), in contrast, phosgene caused much less coughing with the result that more of it was inhaled. Phosgene often had a delayed effect; apparently healthy soldiers were taken down with phosgene gas poisoning up to 48 hours after inhalation. A fatal dose of phosgene eventually led to shallow breathing and retching, pulse up to 120, an ashen face and the discharge of four pints of yellow liquid from the lungs each hour for the 48 of the drowning spasms. </para>
+
+        <figure id="id14566389">
+          <media id="id14566389_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-f1e3.jpg" id="id14566389__onlineimage" width="300" print-width="2in"/>
+          </media>
+<caption>Australian infantry from the 45<sup>th</sup> Battalion, Australian 4<sup>th</sup> Division wearing Small Box Respirators (SBR) as protection of chemical warfare agents. Photograph taken at Zonnebeke, on the Ypres sector, 27<sup>th</sup> September 1917. Copyright: Australian War Memorial. </caption>
+        </figure>
+
+
+
+
+        <para id="id14571794">Although phosgene’s boiling point (7.6 °C) meant that is was a vapor, the so-called "white star" mixture of phosgene and chlorine was commonly used on the Somme, because the chlorine supplied the necessary vapor with which to carry the phosgene. A summary of the casualties inflicted by chemicval warefare agents during the Great War is shown in <link target-id="id19365443"/>. </para>
+
+
+
+        <table id="id19365443" summary="Casualties from gas attacks during the First World War (including chlorine, phosgene, and mustard gas). British Empire includes troops from United Kingdom, Australia, Canada, India, New Zealand, and South Africa.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Country</emphasis> </entry>
+                <entry><emphasis effect="bold">Total casualties </emphasis></entry>
+                <entry><emphasis effect="bold">Deaths</emphasis></entry>
+              </row>
+              <row>
+                <entry>Russia </entry>
+                <entry>419,340 </entry>
+                <entry>56,000</entry>
+              </row>
+              <row>
+                <entry>Germany </entry>
+                <entry>200,000 </entry>
+                <entry>9,000</entry>
+              </row>
+              <row>
+                <entry>France </entry>
+                <entry>190,000 </entry>
+                <entry>8,000</entry>
+              </row>
+              <row>
+                <entry>British Empire</entry>
+                <entry>188,706 </entry>
+                <entry>8,109</entry>
+              </row>
+              <row>
+                <entry>Austria-Hungary</entry>
+                <entry>100,000 </entry>
+                <entry>3,000</entry>
+              </row>
+              <row>
+                <entry>USA</entry>
+                <entry>72,807</entry>
+                <entry>1,462</entry>
+              </row>
+              <row>
+                <entry>Italy </entry>
+                <entry>60,000 </entry>
+                <entry>4,627</entry>
+              </row>
+              <row>
+                <entry>Others </entry>
+                <entry>10,000 </entry>
+                <entry>1,000</entry>
+              </row>
+            </tbody>
+          
+
+</tgroup><caption>Casualties from gas attacks during the First World War (including chlorine, phosgene, and mustard gas). British Empire includes troops from United Kingdom, Australia, Canada, India, New Zealand, and South Africa. </caption>
+</table>
+
+        
+
+      </section>
+    </section>
+  </content>
+</document>

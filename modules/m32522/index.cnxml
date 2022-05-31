@@ -1,0 +1,204 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Trends for the Group 13 Compounds</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32522</md:content-id>
+  <md:title>Trends for the Group 13 Compounds</md:title>
+  <md:abstract/>
+  <md:uuid>9e0b041c-b397-4e3d-b5aa-b53df97d6c86</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id3765172">Boron is a non-metal with metalloidal tenancies. The higher ionization energies for boron than for its other Group homologs are far more than would be compensated by lattice energies, and thus, the B<sup>3+</sup> ion plays no part in the chemistry of boron, and its chemistry is dominated by the formation of covalent compounds. In contrast, the elements aluminum through thallium each has a low electronegativity and the chemistry of their compounds reflects this characteristic. Each of the Group 13 metals forms both covalent compounds and ionic coordination complexes. </para>
+
+    <para id="id4286726">All of the Group 13 (IIIA) elements have a valence shell electron configuration of <emphasis effect="italics">n</emphasis>s<sup>2</sup><emphasis effect="italics">n</emphasis>p<sup>1</sup>. As a consequence all of the Group 13 elements for compounds in which they adopt a +3 oxidation state. While the lighter elements do form compounds with lower oxidation state, they are not the norm; however, the +1 oxidation state is more prevalent for the heavier elements in particular thallium. The rational for this is described as the <emphasis effect="italics">inert pair effect</emphasis>. The inert pair effect is usually explained by the energy of the <emphasis effect="italics">n</emphasis>s orbital is lower making it harder to ionize and stabilizing a <emphasis effect="italics">n</emphasis>s<sup>2</sup>np<sup>0</sup> valence shell. However, as may be seen from <link target-id="id9553869"/> the sum of the second and third ionization enthalpies is lower for indium (4501 kJ/mol), than for gallium (4916 kJ/mol), but with thallium intermediate (4820 kJ/mol). The true source of the inert pair effect is that the lower bond strengths observed for the heavier elements (due to more diffuse orbitals and therefore less efficient overlap) cannot compensate for the energy needed to promote the <emphasis effect="italics">n</emphasis>s<sup>2</sup> electrons. For example, the bond energies for gallium, indium, and thallium in MCl<sub>3</sub> are 242, 206, and 153 kJ/mol, respectively. It has also been suggested that relativistic effects make a contribution to the inert pair effect. </para>
+
+    <table id="id9553869" summary="Summary of first three ionization enthalpies for the Group 13 metals.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Ionization enthalpy (kJ/mol)</emphasis></entry>
+            <entry><emphasis effect="bold">Al</emphasis></entry>
+            <entry><emphasis effect="bold">Ga</emphasis></entry>
+            <entry><emphasis effect="bold">In</emphasis></entry>
+            <entry><emphasis effect="bold">Tl</emphasis></entry>
+          </row>
+          <row>
+            <entry>1</entry>
+            <entry>576.4</entry>
+            <entry>578.3</entry>
+            <entry>558.1 </entry>
+            <entry>589.0</entry>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>1814.1</entry>
+            <entry>1969.3</entry>
+            <entry>1811.2</entry>
+            <entry>1958.7</entry>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry>2741.4</entry>
+            <entry>2950.0</entry>
+            <entry>2689.3</entry>
+            <entry>2868.8</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Summary of first three ionization enthalpies for the Group 13 metals. </caption>
+</table>
+    
+
+
+    <para id="id5332024">In summary, it may be stated that while the chemistry of gallium, indium and thallium is very similar, that of aluminum is slightly different, while boron’s chemistry is very different from the rest of the Group. </para>
+    <para id="id10177813">A second effect is noticed in the transition from aluminum, to gallium, to indium. Based upon their position in the Group it would be expected that the ionic radius and associated lattice parameters should follow the trend: </para>
+
+<equation id="eip-333">      <media id="id4734991_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-2816.jpg" id="id4734991__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+
+
+    <para id="id4200836">However, as may be seen from <link target-id="id3785667"/> the values for gallium are either the same as, or smaller, than that of aluminum. In a similar manner, the covalent radius and covalent bond lengths as determined by X-ray crystallography for a range of compounds (<link target-id="id8237113"/>). </para>
+
+
+    <table id="id3785667" summary="Lattice parameter (a) for zinc blende forms of the Group 13 phosphides and arsenides.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Phosphide lattice parameter (Å)</emphasis></entry>
+            <entry><emphasis effect="bold">Arsenide lattice parameter (Å)</emphasis></entry>
+          </row>
+          <row>
+            <entry>Al</entry>
+            <entry>5.4635</entry>
+            <entry>5.6600</entry>
+          </row>
+          <row>
+            <entry>Ga</entry>
+            <entry>5.4505</entry>
+            <entry>5.6532</entry>
+          </row>
+          <row>
+            <entry>In</entry>
+            <entry>5.8687</entry>
+            <entry>6.0583</entry>
+          </row>
+        </tbody>
+      
+
+</tgroup><caption>Table. Lattice parameter (<emphasis effect="italics">a</emphasis>) for zinc blende forms of the Group 13 phosphides and arsenides. Data from <emphasis effect="italics">Semiconductors: Group IV Elements and III-V Compounds</emphasis>, Ed. O. Madelung, Springer-Verlag, Berlin (1991). </caption>
+</table>
+    
+
+
+
+    <table id="id8237113" summary="Comparative crystallographically determined bond lengths.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">M-C (Å)</emphasis></entry>
+            <entry><emphasis effect="bold">M-N (Å)</emphasis></entry>
+            <entry><emphasis effect="bold">M-O (Å)</emphasis></entry>
+            <entry><emphasis effect="bold">M-Cl (Å)</emphasis></entry>
+          </row>
+          <row>
+            <entry>Al</entry>
+            <entry>1.96 – 2.02</entry>
+            <entry>2.03 – 2.19</entry>
+            <entry>1.74 – 1.93</entry>
+            <entry>2.09 – 2.11</entry>
+          </row>
+          <row>
+            <entry>Ga</entry>
+            <entry>1.97 – 2.01</entry>
+            <entry>1.95 – 2.12</entry>
+            <entry>1.89 - 1.94 </entry>
+            <entry>2.12 – 2.23</entry>
+          </row>
+          <row>
+            <entry>In</entry>
+            <entry>2.14 – 2.17</entry>
+            <entry>2.23 – 2.31</entry>
+            <entry>2.19 – 2.20</entry>
+            <entry>2.39 – 2.47</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Comparative crystallographically determined bond lengths. </caption>
+</table>
+    
+
+    <para id="id19007229">Gallium is significantly smaller than expected from its position within the Group 13 elements (<link target-id="id8034470"/>). The rational for this may be attributed to an analogous effect as seen in the <emphasis effect="italics">lanthanide contraction</emphasis> observed for the lanthanides and the 3<sup>rd</sup> row of transition elements. In multi-electron atoms, the decrease in radius brought about by an increase in nuclear charge is partially offset by increasing electrostatic repulsion among electrons. In particular, a “shielding effect” results when electrons are added in outer shells, electrons already present shield the outer electrons from nuclear charge, making them experience a lower effective charge on the nucleus. The shielding effect exerted by the inner electrons decreases in the order <emphasis effect="italics">s</emphasis> &gt; <emphasis effect="italics">p</emphasis> &gt; <emphasis effect="italics">d</emphasis> &gt; <emphasis effect="italics">f</emphasis>. As a sub-shell is filled in a period the atomic radius decreases. This effect is particularly pronounced in the case of lanthanides, as the 4<emphasis effect="italics">f</emphasis> sub-shell is not very effective at shielding the outer shell (n = 5 and n = 6) electrons. However, a similar, but smaller effect should be observed with the post-transition metal elements, i.e., gallium. This is indeed observed (<link target-id="id8034470"/>). </para>
+
+
+    <table id="id8034470" summary="Comparison of the covalent and ionic radii of Group 13 elements.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Covalent radius (Å)</emphasis> </entry>
+            <entry><emphasis effect="bold">Ionic radius (Å)</emphasis></entry>
+          </row>
+          <row>
+            <entry>Aluminum</entry>
+            <entry>1.21 </entry>
+            <entry>0.53</entry>
+          </row>
+          <row>
+            <entry>Gallium</entry>
+            <entry>1.22</entry>
+            <entry>0.62</entry>
+          </row>
+          <row>
+            <entry>Indium</entry>
+            <entry>1.42</entry>
+            <entry>0.80</entry>
+          </row>
+          <row>
+            <entry>Iron (low spin)</entry>
+            <entry>1.32</entry>
+            <entry>0.55</entry>
+          </row>
+          <row>
+            <entry>Iron (high spin)</entry>
+            <entry>1.52</entry>
+            <entry>0.64</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Comparison of the covalent and ionic radii of Group 13 elements. </caption>
+</table>
+    
+
+
+
+    <para id="id10711317">The anomalous size of gallium has two positive effects. </para>
+    <list id="id20853484" list-type="enumerated" number-style="arabic"><item>The similarity in size of aluminum and gallium means that their Group 15 derivatives have near identical lattice parameters (<link target-id="id3785667"/>). This allows for both epitaxial growth of one material on the other, and also the formation of ternary mixtures (i.e., Al<sub>x</sub>Ga<sub>1-x</sub>As) with matched lattice parameters. The ability to grow hetrojunction structures of Group 13-15 compounds (III-V) is the basis for the fabrication of a wide range of important optoelectronic devices, including: LEDs and laser diodes. </item>
+      <item>The similarity in size of gallium(III) to iron(III) (<link target-id="id8034470"/>) means that gallium can substitute iron in a range of coordination compounds without alteration of the structure. Because of a similar size and charge as Fe<sup>3+</sup>, Ga<sup>3+</sup> is widely used as a non-redox-active Fe<sup>3+</sup> substitute for studying metal complexation in proteins and bacterial populations. </item>
+    </list>
+    <section id="id11625356">
+      <title>Bibliography</title>
+      <list id="id11222653" list-type="bulleted">
+        <item>K. S. Pitzer, <emphasis effect="italics">Acc. Chem. Res.</emphasis>, 1979, <emphasis effect="bold">12</emphasis>, 271. </item>
+        <item>K. D. Weaver, J. J. Heymann, A. Mehta, P. L. Roulhac, D. S. Anderson, A. J. Nowalk, P. Adhikari, T. A. Mietzner, M. C. Fitzgerald, and A. L. Crumbliss, <emphasis effect="italics">J. Biol. Inorg. Chem.</emphasis>, 2008, <emphasis effect="bold">13</emphasis>, 887. </item>
+        <item><emphasis effect="italics">Semiconductors: Group IV Elements and III-V Compounds</emphasis>, Ed. O. Madelung, Springer-Verlag, Berlin (1991).</item>
+      </list>
+    </section>
+  </content>
+</document>

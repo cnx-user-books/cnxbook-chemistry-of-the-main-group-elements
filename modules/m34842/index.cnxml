@@ -1,0 +1,152 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Oxyacids of Chlorine</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34842</md:content-id>
+  <md:title>Oxyacids of Chlorine</md:title>
+  <md:abstract/>
+  <md:uuid>96dbe46d-5aa4-4682-97b8-7e927d6f4ae5</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1164906799239"><link target-id="id6470821"/> lists the various oxyacids of chlorine. The relative strengths increase with the number of oxygen atoms since the more there are, the greater is the extent to which the negative charge on the resulting anion can be delocalized. </para>
+    <table id="id6470821" summary="Relative acidity of oxyacids of chlorine.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Oxyacid</emphasis></entry>
+            <entry><emphasis effect="bold">Formula</emphasis></entry>
+            <entry>
+              <emphasis effect="bold">pK<sub>a</sub></emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry>Hypochlorous</entry>
+            <entry>HOCl</entry>
+            <entry>7.5</entry>
+          </row>
+          <row>
+            <entry>Chlorous</entry>
+            <entry>HClO<sub>2</sub></entry>
+            <entry>1.9</entry>
+          </row>
+          <row>
+            <entry>Chloric</entry>
+            <entry>HClO<sub>3</sub></entry>
+            <entry>-2</entry>
+          </row>
+          <row>
+            <entry>Perchloric</entry>
+            <entry>HClO<sub>4</sub></entry>
+            <entry>-10</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Relative acidity of oxyacids of chlorine.</caption>
+</table>
+    
+    <section id="id1164901367538">
+      <title>Hypochlorous acid</title>
+      <para id="id1164900595427">Hypochlorous acid (HOCl) can be made pure in the gas phase, <link target-id="eip-170"/>, while strong acid solutions can be made from Cl<sub>2</sub>O. In contrast, dilute aqueous solutions are obtained with a suspension of mercury oxide to remove the chloride, <link target-id="eip-892"/>. </para>
+      <equation id="eip-170"><media id="id11649022464499_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics1-bd83.jpg" id="id11649022464499__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+      
+      <equation id="eip-892"><media id="id1164902640038_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-ba6c.jpg" id="id1164902640038__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1164904975821">Solutions of the anion, OCl<sup>-</sup>, are obtained by electrolysis of brine solution; allowing the products to mix at low temperature, <link target-id="eip-608"/>. </para>
+      
+      <equation id="eip-608"><media id="id1164912160436_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-280c.jpg" id="id1164912160436__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1164899249517">The anion (hypochlorite) is a good oxidant, <link target-id="eip-330"/> and <link target-id="eip-339"/>, but can undergo disproportionation, <link target-id="eip-157"/>; slowly at 25 °C, but fast above 80 °C.
+
+</para>
+      
+      <equation id="eip-330"><media id="id5620246_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-5fbf.jpg" id="id5620246__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+      <equation id="eip-339"><media id="id1164900599542_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-dea2.jpg" id="id1164900599542__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><equation id="eip-157"><media id="id1164907997727_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-423c.jpg" id="id1164907997727__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+    </section>
+    <section id="id1164911332857">
+      <title>Chlorous acid</title>
+      <para id="id1164909874198">Chlorous acid (HOClO) is prepared by the reaction of ClO<sub>2</sub> with base, <link target-id="eip-961"/>, followed by the precipitation of the ClO<sub>2</sub><sup>-</sup> salt with barium chloride, <link target-id="eip-936"/>. The barium salt is dried and then reacted with a calculated amount of H<sub>2</sub>SO<sub>4</sub>, <link target-id="eip-521"/>. </para>
+      
+      <equation id="eip-961"><media id="id1164902820938_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-7d16.jpg" id="id1164902820938__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+      <equation id="eip-936"><media id="id1164898855931_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-3a95.jpg" id="id1164898855931__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-521"><media id="id2207524_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-2b3e.jpg" id="id2207524__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1164913274473">The pure acid is unknown since it is too unstable, however, salts can be prepared directly, e.g., <link target-id="eip-901"/>. </para>
+      
+      <equation id="eip-901"><media id="id6826712_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-6043.jpg" id="id6826712__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1164901807418">The anion (ClO<sub>2</sub><sup>-</sup>) is stable in alkaline solutions but in acid solutions decomposition occurs, <link target-id="eip-127"/>. </para>
+      
+      <equation id="eip-127"><media id="id1164898153146_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-fe99.jpg" id="id1164898153146__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1164906031030">As with hypochlorite, the chlorite anion is a strong oxidant, <link target-id="eip-747"/>. </para><equation id="eip-747"><media id="id1164908868601_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-a550.jpg" id="id1164908868601__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+      
+    </section>
+    <section id="id1164914078408">
+      <title>Chloric acid</title>
+      <para id="id1164905452496">The chloric anion (ClO<sub>3</sub><sup>-</sup>) is made from the reaction of chlorine gas with hot alkali (80 °C) or by the electrolysis of hot NaCl solution. </para>
+      
+      <equation id="eip-424"><media id="id1164900555404_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-873c.jpg" id="id1164900555404__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1164910496722">To obtain a solution of the acid, ClO<sub>3</sub><sup>-</sup> is precipitated as the barium salt, <link target-id="eip-920"/>, which is removed, dried, and suspended in water and treated with a calculated amount of H<sub>2</sub>SO<sub>4</sub>, <link target-id="eip-281"/>. The free acid cannot be isolated and a maximum concentration of only 40% can be obtained in water. </para>
+      
+      <equation id="eip-920"><media id="id1164900274814_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-8ea1.jpg" id="id1164900274814__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+      <equation id="eip-281"><media id="id1164905555090_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics15-e547.jpg" id="id1164905555090__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1164902941644">The ClO<sub>3</sub><sup>-</sup> anion is pyramidal both in solid salts and in solution, and many salts are known; however, those with organic cations are explosive. The anion is a strong oxidizing agent, <link target-id="eip-231"/> and <link target-id="eip-731"/>, and it disproportionates slowly in solution, <link target-id="eip-251"/>. </para>
+      
+      <equation id="eip-231"><media id="id2167152_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-a8e0.jpg" id="id2167152__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+      <equation id="eip-731"><media id="id1164908923781_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics17-e2fc.jpg" id="id1164908923781__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><equation id="eip-251"><media id="id1164909873468_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics18-3b95.jpg" id="id1164909873468__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+    </section>
+    <section id="id1164914043878">
+      <title>Perchloric acid</title>
+      <para id="id1164907894168">The perchlorate anion (ClO<sub>4</sub><sup>-</sup>) is best made by electrolytic oxidation of chlorate in aqueous solution, <link target-id="eip-711"/>. Fractional distillation can concentrate the solution to 72.5% which is a constant boiling mixture. This concentration is moderately safe to use, however, 100% perchloric acid may be obtained by dehydration with H<sub>2</sub>SO<sub>4</sub>. </para>
+      
+      <equation id="eip-711"><media id="id1164907411621_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics19-f760.jpg" id="id1164907411621__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+      <note id="eip-290" type="warning">Perchloric acid is a very dangerous liquid that will explode if traces of metal ions are present. It is also a very strong oxidizing agent that will convert organic compounds to CO<sub>2</sub> and H<sub>2</sub>O. </note><para id="id1164912783075">Perchloric acid is a very strong acid that is fully ionized in aqueous solution, such that the salt [H<sub>3</sub>O][ClO<sub>4</sub>] can be isolated. Many other perchlorate salts are known, but those with organic cations are explosive. Perchlorate salts of metals are often used when studying complex formation in aqueous solution, because ClO<sub>4</sub><sup>-</sup> is a very weak ligand (PF<sub>6</sub><sup>-</sup> is better) and unlikely to form complexes itself. However, perchlorate does complex with +3 and +4 cations. </para>
+    </section>
+  </content>
+</document>

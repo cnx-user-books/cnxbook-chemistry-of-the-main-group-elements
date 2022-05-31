@@ -1,0 +1,196 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Periodic Trends for the Main Group Elements</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31489</md:content-id>
+  <md:title>Periodic Trends for the Main Group Elements</md:title>
+  <md:abstract/>
+  <md:uuid>3945cc27-65bc-4921-9d2e-401a6e9e51cb</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6060724">Within the main group (s- and p-block) elements of the Periodic Table (<link target-id="id5055553"/>) there are some general trends that we can observe for the elemental form, as well as the hydrides, oxides, and halides. </para>
+    <figure id="id5055553"><media id="id5055553_media" alt="">
+        <image mime-type="image/jpg" src="../../media/Fig1-dc1b.jpg" id="id5055553__onlineimage" width="400" print-width="3in"/>
+      </media>
+    <caption>The main group elements (Adapted from www.meta-synthesis.com). </caption></figure>
+    
+    <section id="id7053128">
+      <title>Periodic trends for the main group elements</title>
+      <para id="id7084293">Within the main group (s- and p-block) elements there are some general trends that we can observe. </para>
+      <list id="id12136376" list-type="bulleted"><item>The further down a given Group the elements have increased metallic character, i.e., good conductors of both heat and electricity, and exhibit delocalized bonding. </item>
+        <item>Moving from left to right across a Period the elements have greater non-metallic character, they are insulators with localized bonding. </item>
+        <item>Within the p-block at the boundary between the metallic elements (<link target-id="id5055553"/>, grey elements) and nonmetal elements (<link target-id="id5055553"/>, green elements) there is positioned boron and silicon that are metalloid in character (<link target-id="id5055553"/>, pink elements), i.e., they have low electrical conductivity but it increases with temperature. </item>
+      </list>
+      <para id="id6648869">As an example of these changes <link target-id="id6648875"/> shows the trends across one Period. </para>
+      <table id="id6648875" summary="Summary of trends for elements across the Periodic Table.">
+<tgroup cols="9"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <colspec colnum="7" colname="c7"/>
+          <colspec colnum="8" colname="c8"/>
+          <colspec colnum="9" colname="c9"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Na</emphasis></entry>
+              <entry><emphasis effect="bold">Mg</emphasis></entry>
+              <entry><emphasis effect="bold">Al</emphasis></entry>
+              <entry><emphasis effect="bold">Si</emphasis></entry>
+              <entry><emphasis effect="bold">P</emphasis></entry>
+              <entry><emphasis effect="bold">S</emphasis></entry>
+              <entry><emphasis effect="bold">Cl</emphasis></entry>
+              <entry><emphasis effect="bold">Ar</emphasis></entry>
+            </row>
+            <row>
+              <entry>Properties</entry>
+              <entry>Electro-positive metal</entry>
+              <entry>Electro-positive metal </entry>
+              <entry>Metal but forms covalent bonds</entry>
+              <entry>Metalloid semiconductor metal/non-metal character</entry>
+              <entry>E-E bonding in elements</entry>
+              <entry>E-E bonding in elements</entry>
+              <entry>Simple molecule</entry>
+              <entry>Mono atomic gas</entry>
+            </row>
+          </tbody>
+        
+
+
+
+</tgroup><caption>Summary of trends for elements across the Periodic Table. </caption>
+</table>
+      
+    </section>
+    <section id="id6974940">
+      <title>Periodic trends for the main group hydrides</title>
+      <para id="id7134314">The properties of main group hydrides are dependant on the difference in electronegativity between the element and hydrogen (<link target-id="id5668279"/>). Elements on the left of the Periodic Table are highly electropositive and form ionic hydrides, while those of the center and right are covalent in character. However, of those with covalent E-H bonds, there is a change from polymeric hydrides to molecular compounds. For example, the Group 13 element hydrides (i.e., BH<sub>3</sub>) form hydrogen-bridged oligomers (i.e., B<sub>2</sub>H<sub>6</sub>). In contrast, HCl is a diatomic molecule. </para>
+      <table id="id5668279" summary="Summary of properties of selected main group hydrides as a function of the relative electronegativities.">
+<tgroup cols="6"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <colspec colnum="6" colname="c6"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Hydride</emphasis></entry>
+              <entry><emphasis effect="bold">Element electronegativity</emphasis></entry>
+              <entry><emphasis effect="bold">Hydrogen electronegativity</emphasis> </entry>
+              <entry><emphasis effect="bold">E-H polarity</emphasis></entry>
+              <entry><emphasis effect="bold">Structure</emphasis> </entry>
+              <entry><emphasis effect="bold">Comments</emphasis></entry>
+            </row>
+            <row>
+              <entry>NaH</entry>
+              <entry>0.9</entry>
+              <entry>2.1</entry>
+              <entry>M<sup>+</sup> H<sup>-</sup></entry>
+              <entry>Ionic</entry>
+              <entry>Reacts with H<sub>2</sub>O to liberate H<sub>2</sub></entry>
+            </row>
+            <row>
+              <entry>BH<sub>3</sub></entry>
+              <entry>2.0</entry>
+              <entry>2.1</entry>
+              <entry>B<sup>δ</sup><sup>+</sup>-H<sup>δ</sup><sup>-</sup></entry>
+              <entry>Oligomeric and polymeric </entry>
+              <entry>Reacts slowly with H<sub>2</sub>O</entry>
+            </row>
+            <row>
+              <entry>CH<sub>4</sub></entry>
+              <entry>2.5</entry>
+              <entry>2.1</entry>
+              <entry>C<sup>δ</sup><sup>-</sup>-H<sup>δ</sup><sup>+</sup></entry>
+              <entry>Molecular</entry>
+              <entry>Insoluble in H<sub>2</sub>O </entry>
+            </row>
+            <row>
+              <entry>HCl</entry>
+              <entry>3.0</entry>
+              <entry>2.1</entry>
+              <entry>Cl<sup>δ</sup><sup>-</sup>-H<sup>δ</sup><sup>+</sup></entry>
+              <entry>Molecular</entry>
+              <entry>Dissolves in H<sub>2</sub>O to form H<sup>+</sup> and Cl<sup>-</sup></entry>
+            </row>
+          </tbody>
+        
+
+</tgroup><caption>Summary of properties of selected main group hydrides as a function of the relative electronegativities. </caption>
+</table>
+      
+    </section>
+    <section id="id6960876">
+      <title>Periodic trends for the main group oxides</title>
+      <para id="id12732621">As with hydrides the properties of main group oxides are dependant on the difference in electronegativity between the element and oxygen. Highly electropositive metals for ionic oxides, while other elements for covalent bonds (albeit polar in character) with oxygen. In addition, the aggregation of covalent oxides decreased across the Period from left to right (<link target-id="id6971675"/>). As may also be seen from <link target-id="id6971675"/>, oxides of elements on the left of the Periodic Table dissolve in water to form basic solutions, while those on the right form acidic solutions. There is a class of oxides (especially those of Group 13 and 14) that can react as either an acid or a base. These are known as amphoteric substances. </para>
+      
+      <note id="eip-621">The word is from the Greek prefix <emphasis effect="italics">ampho</emphasis> meaning “both”. </note><table id="id6971675" summary="Comparison of oxides across the Periodic Table.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Oxide</emphasis></entry>
+              <entry><emphasis effect="bold">Bonding</emphasis></entry>
+              <entry><emphasis effect="bold">Reactivity with H<sub>2</sub>O</emphasis> </entry>
+              <entry><emphasis effect="bold">Description</emphasis> </entry>
+            </row>
+            <row>
+              <entry>Na<sub>2</sub>O</entry>
+              <entry>Ionic</entry>
+              <entry>Dissolves to give a strong base</entry>
+              <entry>Basic</entry>
+            </row>
+            <row>
+              <entry>Al<sub>2</sub>O<sub>3</sub> </entry>
+              <entry>Covalent polymeric</entry>
+              <entry>Dissolves in both acidic and basic solution</entry>
+              <entry>Amphoteric</entry>
+            </row>
+            <row>
+              <entry>SiO<sub>2</sub></entry>
+              <entry>Covalent polymeric</entry>
+              <entry>Dissolves in both acidic and basic solution</entry>
+              <entry>Amphoteric</entry>
+            </row>
+            <row>
+              <entry>CO<sub>2</sub></entry>
+              <entry>Covalent molecular</entry>
+              <entry>Dissolves to give a weak acid</entry>
+              <entry>Acidic</entry>
+            </row>
+            <row>
+              <entry>SO<sub>3</sub></entry>
+              <entry>Covalent molecular</entry>
+              <entry>Dissolves to give a strong acid</entry>
+              <entry>Acidic</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Comparison of oxides across the Periodic Table. </caption>
+</table>
+      
+      <para id="id6711238">In summary, oxides of the main group elements show two trends. </para>
+      <list id="id5589266" list-type="enumerated" number-style="arabic" mark-suffix=")">
+        <item>From left to right across a Period, the oxides change from ionic → oligomeric/polymeric covalent → molecular covalent. </item>
+        <item>From left to right across a Period, the oxides change from ionic → oligomeric/polymeric covalent → molecular covalent. </item>
+      </list>
+    </section>
+    <section id="id6798542">
+      <title>Periodic trends for the main group chlorides</title>
+      <para id="id6712728">The trend between ionic and non-ionic/covalent in moving across a Period is also true for the chlorides of the main group elements. Those on the left (i.e., Group 1 and 2) are ionic and soluble in water, while those to the right tend to give acidic solutions due to reactions with the water and the formation of hydrochloric acid, e.g., <link target-id="eip-909"/>. </para>
+ 
+<equation id="eip-909"><media id="id6667349_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-4383.jpg" id="id6667349__onlineimage" width="475" print-width="4.5in"/>
+        </media>
+
+</equation>
+   
+
+  
+    </section>
+  </content>
+</document>

@@ -1,0 +1,211 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Wade’s Rules</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32846</md:content-id>
+  <md:title>Wade’s Rules</md:title>
+  <md:abstract/>
+  <md:uuid>ffb28f06-01f4-4f4e-9066-c7345e3eb6f8</md:uuid>
+</metadata>
+<content>
+    
+    <para id="id1171305301346">Ken Wade (<link target-id="id1171321372621 "/>) developed a method for the prediction of shapes of borane clusters; however, it may be used for a wide range of substituted boranes (such as carboranes) as well as other classes of cluster compounds. </para>
+    <figure id="id1171321372621"><media id="id1171321372621_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-67fd.jpg" id="id1171321372621__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>Chemist Ken Wade FRS. </caption></figure>
+    
+    <para id="id1171309523517">Wade’s rules are used to rationalize the shape of borane clusters by calculating the total number of skeletal electron pairs (SEP) available for cluster bonding. In using Wade’s rules it is key to understand structural relationship of various boranes (<link target-id="id1171305393968"/>). </para>
+
+
+      <figure id="id1171305393968"><media id="id1171305393968_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-ba02.jpg" id="id1171305393968__onlineimage" width="400" print-width="4in"/>
+        </media>
+      <caption>Structural relationship between <emphasis effect="italics">closo</emphasis>, <emphasis effect="italics">nido</emphasis>, and <emphasis effect="italics">arachno</emphasis> boranes (and hetero-substituted boranes). The diagonal lines connect species that have the same number of skeletal electron pairs (SEP). Hydrogen atoms except those of the B-H framework are omitted. The red atom is omitted first, the green atom removed second. Adapted from R. W. Rudolph, <emphasis effect="italics">Acc. Chem. Res.</emphasis>, 1976, <emphasis effect="bold">9</emphasis>, 446. </caption></figure>
+ 
+
+
+    
+    <para id="id1171312131476">The general methodology to be followed when applying Wade’s rules is as follows: </para>
+    <list id="id1171305325585" list-type="enumerated" number-style="arabic">
+      <item>Determine the total number of valence electrons from the chemical formula, i.e., 3 electrons per B, and 1 electron per H. </item>
+      <item>Subtract 2 electrons for each B-H unit (or C-H in a carborane). </item>
+      <item>Divide the number of remaining electrons by 2 to get the number of skeletal electron pairs (SEP). </item>
+      <item>A cluster with <emphasis effect="italics">n</emphasis> vertices (i.e., <emphasis effect="italics">n</emphasis> boron atoms) and <emphasis effect="italics">n</emphasis>+1 SEP for bonding has a <emphasis effect="italics">closo</emphasis> structure. </item>
+      <item>A cluster with <emphasis effect="italics">n</emphasis>-1 vertices (i.e., <emphasis effect="italics">n</emphasis>-1 boron atoms) and <emphasis effect="italics">n</emphasis>+1 SEP for bonding has a <emphasis effect="italics">nido</emphasis> structure. </item>
+      <item>A cluster with <emphasis effect="italics">n</emphasis>-2 vertices (i.e., <emphasis effect="italics">n</emphasis>-2 boron atoms) and <emphasis effect="italics">n</emphasis>+1 SEP for bonding has an <emphasis effect="italics">arachno</emphasis> structure. </item>
+      <item>A cluster with <emphasis effect="italics">n</emphasis>-3 vertices (i.e., <emphasis effect="italics">n</emphasis>-3 boron atoms) and <emphasis effect="italics">n</emphasis>+1 SEP for bonding has an <emphasis effect="italics">hypho</emphasis> structure. </item>
+      <item>If the number of boron atoms (i.e., <emphasis effect="italics">n</emphasis>) is larger than <emphasis effect="italics">n</emphasis>+1 SEP then the extra boron occupies a capping position on a triangular phase. </item>
+    </list>
+
+
+    <example id="eip-785">
+
+<para id="id1171316785558">What is the structure of B<sub>5</sub>H<sub>11</sub>? </para>
+    <list id="id1171305416588" list-type="enumerated" number-style="arabic">
+      <item>Total number of valence electrons = (5 x B) + (11 x H) = (5 x 3) + (11 x 1) = 26 </item>
+      <item>Number of electrons for each B-H unit = (5 x 2) = 10 </item>
+      <item>Number of skeletal electrons = 26 – 10 = 16 </item>
+      <item>Number SEP = 16/2 = 8 </item>
+      <item>If <emphasis effect="italics">n</emphasis>+1 = 8 and <emphasis effect="italics">n</emphasis>-2 = 5 boron atoms, then <emphasis effect="italics">n</emphasis> = 7 </item>
+      <item>Structure of <emphasis effect="italics">n</emphasis> = 7 is pentagonal bipyramid (<link target-id="id1171305393968"/>), therefore B<sub>5</sub>H<sub>11</sub> is an <emphasis effect="italics">arachno</emphasis> based upon a pentagonal bipyramid with two apexes missing (<link target-id="id1171305258602"/>). </item>
+    </list>
+    <figure id="id1171305258602"><media id="id1171305258602_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-66ce.jpg" id="id1171305258602__onlineimage" width="300" print-width="3in"/>
+      </media>
+
+    <caption>Ball and stick representation of the structure of B<sub>5</sub>H<sub>11</sub>.  </caption></figure>
+
+</example>
+
+
+
+
+
+
+
+    <example id="eip-651">
+<para id="id1171308768021">What is the structure of B<sub>5</sub>H<sub>9</sub>? </para>
+    <list id="id1171316770271" list-type="enumerated" number-style="arabic">
+      <item>Total number of valence electrons = (5 x B) + (9 x H) = (5 x 3) + (9 x 1) = 24</item>
+      <item>Number of electrons for each B-H unit = (5 x 2) = 10 </item>
+      <item>Number of skeletal electrons = 24 – 10 = 14 </item>
+      <item>Number SEP = 14/2 = 7 </item>
+      <item>If <emphasis effect="italics">n</emphasis>+1 = 7 and <emphasis effect="italics">n</emphasis>-1 = 5 boron atoms, then <emphasis effect="italics">n</emphasis> = 6 </item>
+      <item>Structure of <emphasis effect="italics">n</emphasis> = 6 is octahedral (<link target-id="id1171305393968"/>), therefore B<sub>5</sub>H<sub>9</sub> is a <emphasis effect="italics">nido</emphasis> structure based upon an octahedral structure with one apex missing (<link target-id="id1171308515174"/>). </item>
+    </list>
+      <figure id="id1171308515174"><media id="id1171308515174_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-906c.jpg" id="id1171308515174__onlineimage" width="300" print-width="3in"/>
+        </media>
+
+      <caption>Ball and stick representation of the structure of B<sub>5</sub>H<sub>9</sub>. </caption></figure>
+
+
+
+</example>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<exercise id="eip-220">
+
+<problem id="eip-901">
+  <para id="eip-121">
+   What is the structure of B<sub>6</sub>H<sub>6</sub><sup>2-</sup>?
+  </para>
+</problem>
+
+
+<solution id="eip-703">
+
+    <list id="id1171314569629" list-type="enumerated" number-style="arabic"><item>Total number of valence electrons = (6 x B) + (3 x H) = (6 x 3) + (6 x 1) + 2 = 26</item>
+      <item>Number of electrons for each B-H unit = (6 x 2) = 12 </item>
+      <item>Number of skeletal electrons = 26 – 12 = 14 </item>
+      <item>Number SEP = 14/2 = 7 </item>
+      <item>If <emphasis effect="italics">n</emphasis>+1 = 7 and <emphasis effect="italics">n</emphasis> boron atoms, then <emphasis effect="italics">n</emphasis> = 6 </item>
+      <item>Structure of <emphasis effect="italics">n</emphasis> = 6 is octahedral (<link target-id="id1171305393968"/>), therefore B<sub>6</sub>H<sub>6</sub><sup>2-</sup> is a <emphasis effect="italics">closo</emphasis> structure based upon an octahedral structure (<link target-id="id1171305335679"/>). </item>
+    </list>
+
+
+    <figure id="id1171305335679">
+      <media id="id1171305335679_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics5-1dc0.jpg" id="id1171305335679__onlineimage" width="300" print-width="3in"/>
+      </media>
+<caption>Ball and stick representation of the structure of B<sub>6</sub>H<sub>6</sub><sup>2-</sup>. </caption>
+    </figure>
+
+
+</solution>
+
+</exercise>
+
+
+
+
+
+
+
+
+
+
+
+    <para id="id1171305423666"><link target-id="id1171315515979"/> provides a summary of borane cluster with the general formula B<sub>n</sub>H<sub>n</sub><sup>x-</sup> and their structures as defined by Wade’s rules. </para>
+
+
+    <table id="id1171315515979" summary="Wade’s rules for boranes.">
+<tgroup cols="7"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <colspec colnum="7" colname="c7"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Type</emphasis></entry>
+            <entry><emphasis effect="bold">Basic formula</emphasis></entry>
+            <entry><emphasis effect="bold">Example</emphasis></entry>
+            <entry><emphasis effect="bold"># of verticies</emphasis></entry>
+            <entry><emphasis effect="bold"># of vacancies</emphasis></entry>
+            <entry><emphasis effect="bold"># of e- in B + charge</emphasis></entry>
+            <entry><emphasis effect="bold"># of bonding MOs</emphasis></entry>
+          </row>
+          <row>
+            <entry><emphasis effect="italics">Closo</emphasis></entry>
+            <entry>B<sub>n</sub>H<sub>n</sub><sup>2-</sup></entry>
+            <entry>B<sub>6</sub>H<sub>6</sub><sup>2-</sup></entry>
+            <entry>n</entry>
+            <entry>0</entry>
+            <entry>3n + 2</entry>
+            <entry>n + 1</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="italics">Nido</emphasis></entry>
+            <entry>B<sub>n</sub>H<sub>n</sub><sup>4-</sup></entry>
+            <entry>B<sub>5</sub>H<sub>9</sub></entry>
+            <entry>n + 1</entry>
+            <entry>1</entry>
+            <entry>3n + 4</entry>
+            <entry>n + 2</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="italics">Arachno</emphasis></entry>
+            <entry>B<sub>n</sub>H<sub>n</sub><sup>6-</sup></entry>
+            <entry>B<sub>4</sub>H<sub>10</sub></entry>
+            <entry>n + 2</entry>
+            <entry>2</entry>
+            <entry>3n + 6</entry>
+            <entry>n + 3</entry>
+          </row>
+          <row>
+            <entry><emphasis effect="italics">Hypho</emphasis></entry>
+            <entry>B<sub>n</sub>H<sub>n</sub><sup>8-</sup></entry>
+            <entry>B<sub>5</sub>H<sub>11</sub><sup>2-</sup></entry>
+            <entry>n + 3</entry>
+            <entry>3</entry>
+            <entry>3n + 8</entry>
+            <entry>n + 4</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Wade’s rules for boranes. </caption>
+</table>
+    
+    <section id="id1171319195810">
+      <title>Bibliography</title>
+      <list id="id1171321458955" list-type="bulleted">
+        <item>R. W. Rudolph, <emphasis effect="italics">Acc. Chem. Res.</emphasis>, 1976, <emphasis effect="bold">9</emphasis>, 446.</item>
+        <item>K. Wade, <emphasis effect="italics">Adv. Inorg. Chem. Radiochem.</emphasis>, 1976, <emphasis effect="bold">18</emphasis>, 1. </item>
+      </list>
+    </section>
+  </content>
+</document>

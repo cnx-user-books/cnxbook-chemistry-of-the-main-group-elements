@@ -1,0 +1,182 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Halides of Phosphorous</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35020</md:content-id>
+  <md:title>Halides of Phosphorous</md:title>
+  <md:abstract/>
+  <md:uuid>e870d1cb-4f5f-4205-94bc-0caae375ad8c</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1169321433000">
+      <title>Phosphorous trihalides</title>
+      <para id="id1169320302662">Phosphorous trihalides, PX<sub>3</sub>, are produced from the direct reaction of phosphorous with the appropriate halogen, <link target-id="eip-127"/>. The fluoride is readily made from the halide exchange reaction of PCl<sub>3</sub> with fluoride salts, <link target-id="eip-566"/>. Mixed trihalides are formed by halide exchange, <link target-id="eip-988"/>. </para>
+      
+      <equation id="eip-127"><media id="id1169314928812_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-c015.jpg" id="id1169314928812__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-566"><media id="id1169314882849_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-a831.jpg" id="id1169314882849__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-988"><media id="id1169324118710_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-4902.jpg" id="id1169324118710__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id2981062">A summary of the physical properties of the phosphorous trihalides is given in <link target-id="id1169321512062"/>. All the compounds have a pyramidal structure in the vapor phase and in solution. </para>
+      <table id="id1169321512062" summary="Selected physical properties of the phosphorous trihalides.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Compound</emphasis></entry>
+              <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">P-X (Å)</emphasis></entry>
+              <entry><emphasis effect="bold">X-P-X (°)</emphasis></entry>
+            </row>
+            <row>
+              <entry>PF<sub>3</sub> </entry>
+              <entry>-151.5</entry>
+              <entry>-101.8</entry>
+              <entry>1.56</entry>
+              <entry>96.3</entry>
+            </row>
+            <row>
+              <entry>PCl<sub>3</sub> </entry>
+              <entry>-93.6</entry>
+              <entry>76.1</entry>
+              <entry>2.04</entry>
+              <entry>100</entry>
+            </row>
+            <row>
+              <entry>PBr<sub>3</sub> </entry>
+              <entry>-41.5</entry>
+              <entry>173.2</entry>
+              <entry>2.22</entry>
+              <entry>101</entry>
+            </row>
+            <row>
+              <entry>PI<sub>3</sub> </entry>
+              <entry>61.2</entry>
+              <entry>200 (dec.)</entry>
+              <entry>2.43</entry>
+              <entry>102</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Selected physical properties of the phosphorous trihalides. </caption>
+</table>
+      
+      <para id="id1169326247038">The phosphorous trihalides hydrolyze to phosphoric acid, <link target-id="eip-787"/>, and undergo alcoholysis to form the trialkyl phosphite derivative, <link target-id="eip-308"/>. Phosphorous trifluoride is only slowly hydrolyzed by water, but reacts readily with alakaline solutions. In contrast, phosphorus triiodide is an unstable red solid that reacts violently with water. Phosphorous trichloride in particular is an excellent synthon for most trialkyl phosphines, <link target-id="eip-138"/>. </para>
+      
+      <equation id="eip-787"><media id="id1169344030780_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-f2f4.jpg" id="id1169344030780__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+      <equation id="eip-308"><media id="id8655016_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-f18f.jpg" id="id8655016__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-138"><media id="id1169318142991_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics6-c83b.jpg" id="id1169318142991__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+<para id="id1169316584510">As with other P(III) compounds such as trialkyl phosphines, phosphorous trihalides can be oxidized to the analogous phosphene oxide, e.g., <link target-id="eip-361"/>. </para>
+      
+      <equation id="eip-361"><media id="id4433524_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-af3e.jpg" id="id4433524__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+<para id="id1169315993618">Phosphorous trihalides form Lewis acid-base complexes with main group metals, but the bonding to <emphasis effect="italics">d</emphasis><sup>n</sup> (n ≠ 0) transition metals occurs in the same manner to that of trialkyl phosphine, i.e., with dπ-pπ back donation. In fact one of the first examples of complexation of phosphorous to a low oxidation metal was the formation of PF<sub>3</sub> complexes with Fe-porphyrin. </para>
+    </section>
+    <section id="id1169322192713">
+      <title>Phosphorous pentahalides</title>
+      <para id="id1169328851849">The reaction of white phosphorous with excess halogen yields the pentahalides, <link target-id="eip-980"/>. However, the pentafluoride is best prepared by halide exchange, <link target-id="eip-991"/>. </para>
+      
+      <equation id="eip-980"><media id="id1169315755099_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-aea4.jpg" id="id1169315755099__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+      <equation id="eip-991"><media id="id1169320818506_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-ce63.jpg" id="id1169320818506__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+<para id="id8099983">The pentaiodide is unknown, however, selected physical properties are given for the others in <link target-id="id1169331444267"/>. </para>
+
+
+      <table id="id1169331444267" summary="Selected physical properties of phosphorous pentahalides.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Compound</emphasis></entry>
+              <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+            </row>
+            <row>
+              <entry>PF<sub>5</sub></entry>
+              <entry>-93.78</entry>
+              <entry>-84.5</entry>
+            </row>
+            <row>
+              <entry>PCl<sub>5</sub></entry>
+              <entry>166.8</entry>
+              <entry>160 (subl.)</entry>
+            </row>
+            <row>
+              <entry>PBr<sub>5</sub></entry>
+              <entry>100</entry>
+              <entry>106.0</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Selected physical properties of phosphorous pentahalides. </caption>
+</table>
+      
+      <para id="id1169330014890">The structures of the phosphorous pentahalides are all trigonal bipyramidal in the gas phase (<link target-id="id1169336369942"/>). Phosphorous pentafluoride maintains the trigonal bipyramidal structure in solid state, but the chloride and bromide are ionic solids, [PCl<sub>4</sub>]<sup>+</sup>[PCl<sub>6</sub>]<sup>-</sup> and [PBr<sub>4</sub>]Br (<link target-id="id116933636994q"/>), respectively. The tetrahedral [PCl<sub>4</sub>]<sup>+</sup> ion is also formed with the reaction of PCl<sub>5</sub> with other chloride ion acceptors, <link target-id="eip-733"/> and <link target-id="eip-215"/>. </para>
+      
+      <equation id="eip-733"><media id="id1169313223723_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-48c0.jpg" id="id1169313223723__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+      <equation id="eip-215"><media id="id1169318025350_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-b2ab.jpg" id="id1169318025350__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+<figure id="id1169336369942"><media id="id1169336369942_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-0345.jpg" id="id1169336369942__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+      <caption>The structures of (a) PF<sub>5</sub> and (b) PCl<sub>5</sub>. </caption></figure>
+
+<figure id="id116933636994q"><media id="id116933636994q_media" alt="">
+          <image mime-type="image/jpg" src="../../media/PBr3.jpg" id="id116933636994q__onlineimage" width="300" print-width="3in"/>
+        </media>
+      <caption>The crystal structure of phosphorous pentabromide. </caption></figure>
+
+      
+
+
+      <para id="id1169316183065">All of the pentahalides undergo thermal decomposition, <link target-id="eip-752"/>. </para>
+      
+      <equation id="eip-752"><media id="id1169328183861_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-91e7.jpg" id="id1169328183861__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+<para id="id1169314943282">Careful hydrolysis of the pentahalides yields the oxide of the appropriate trihalide, <link target-id="eip-280"/>, while excess hydrolysis yields phosphoric acid, <link target-id="eip-795"/>. </para>
+      
+      <equation id="eip-280"><media id="id1169322306002_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics15-b42b.jpg" id="id1169322306002__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><equation id="eip-795"><media id="id1169321488841_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-7d11.jpg" id="id1169321488841__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+    </section>
+  </content>
+</document>

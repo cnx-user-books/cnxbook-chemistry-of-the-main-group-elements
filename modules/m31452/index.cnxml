@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Electronegativity</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31452</md:content-id>
+  <md:title>Electronegativity</md:title>
+  <md:abstract/>
+  <md:uuid>27b21c12-3653-4500-b0d8-53dd8230c846</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id10406899">An issue with ionization potential and electron affinity is that they are defined and measured as reactions in the gas phase. Although values have been determined for molecular fragments it is still difficult to correlate with reaction trends in solution. To overcome this issue the concept of electronegativity was developed. </para>
+    
+    <para id="id10406968">Electronegativity is defined as the <emphasis effect="italics">tendency of an atom in a molecule to attract electrons to itself</emphasis>. Although several electronegativity scales have been developed, that by Linus Pauling (<link target-id="id10407106"/>) is the most often used. <link target-id="id10407182"/> provides selected Pauling electronegativity values (unit less). </para>
+    <figure id="id10407106"><media id="id10407106_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-59f5.jpg" id="id10407106__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>American chemist Linus Carl Pauling (1901 –1994). </caption></figure>
+    
+    <table id="id10407182" summary="Selected Pauling electronegativity values.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Pauling scale</emphasis></entry>
+          </row>
+          <row>
+            <entry>F</entry>
+            <entry>4.0</entry>
+          </row>
+          <row>
+            <entry>O</entry>
+            <entry>3.5</entry>
+          </row>
+          <row>
+            <entry>Cl</entry>
+            <entry>3.0</entry>
+          </row>
+          <row>
+            <entry>N</entry>
+            <entry>3.0</entry>
+          </row>
+          <row>
+            <entry>S</entry>
+            <entry>2.5</entry>
+          </row>
+          <row>
+            <entry>C</entry>
+            <entry>2.5</entry>
+          </row>
+          <row>
+            <entry>H</entry>
+            <entry>2.1</entry>
+          </row>
+          <row>
+            <entry>B</entry>
+            <entry>2.0</entry>
+          </row>
+          <row>
+            <entry>Na</entry>
+            <entry>0.9</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Selected Pauling electronegativity values. </caption>
+</table>
+    
+    <para id="id10384331">The advantage of the Pauling electronegativity scale is that it allows the prediction of general behavior. For example, the larger the difference in electronegativity between two elements the more ionic character or more polar the bonding interaction. Thus, a H-O bond (3.5 - 2.1 = 1.4) is more polar than a H-S bond (2.5 – 2.1 = 0.4). </para>
+    
+  </content>
+</document>

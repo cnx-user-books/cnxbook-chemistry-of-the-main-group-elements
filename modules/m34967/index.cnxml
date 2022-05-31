@@ -1,0 +1,309 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Compounds of Chlorine</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34967</md:content-id>
+  <md:title>Compounds of Chlorine</md:title>
+  <md:abstract/>
+  <md:uuid>f6f6f043-2f51-41e8-80f7-13a0cf8227eb</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="id1165535956843">
+      <title>Comparison to fluorine</title>
+      <para id="id1165527355754">To appreciate the chemistry of chlorine in comparison to that of fluorine it is necessary to appreciate the differences and trends between the elements. As may be seen in <link target-id="id1165518891302"/>, chloride is significantly larger than fluorine. In addition while chlorine is an electronegative element its electronegativity is significantly less than that of fluorine, resulting in less polar bonding. </para>
+      <table id="id1165518891302" summary="Comparison of physical characteristics for fluorine and chlorine.">
+<tgroup cols="5"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <colspec colnum="5" colname="c5"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Element</emphasis></entry>
+              <entry><emphasis effect="bold">Ionic radius (Å)</emphasis></entry>
+              <entry><emphasis effect="bold">Covalent radius (Å)</emphasis> </entry>
+              <entry><emphasis effect="bold">van der Waal radius (Å)</emphasis></entry>
+              <entry><emphasis effect="bold">Electronegativity</emphasis></entry>
+            </row>
+            <row>
+              <entry>Fluorine</entry>
+              <entry>1.33</entry>
+              <entry>0.64</entry>
+              <entry>1.47</entry>
+              <entry>-4.1</entry>
+            </row>
+            <row>
+              <entry>Chlorine</entry>
+              <entry>1.81</entry>
+              <entry>0.99</entry>
+              <entry>1.75</entry>
+              <entry>-2.9</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Comparison of physical characteristics for fluorine and chlorine. </caption>
+</table>
+      
+      <para id="id1165542264444">The X-Cl bond is an electron pair covalent bond with a highly polar nature. In this regard, chlorine is similar to fluorine. However, there are two key features with regard to chlorine’s bonding that differentiates it from fluorine. </para>
+      <list id="id1165538183098" list-type="enumerated" number-style="arabic"><item>Unlike fluorine, chlorine can form multiple covalent bonds, e.g., ClO<sub>4</sub><sup>-</sup> and ClF<sub>3</sub>. </item>
+        <item>Unlike fluorine, chlorine can form π-bonds with oxygen, i.e., Cl=O. </item>
+      </list>
+
+      <para id="id1165537994616">The chloride ion (Cl<sup>-</sup>) forms salts with ionic lattices (e.g., NaCl) but also forms a wide range of complexes, e.g., [Fe(H<sub>2</sub>O)<sub>5</sub>Cl]<sup>2+</sup> and [RhCl<sub>6</sub>]<sup>3-</sup>. Chloride also acts as a bridging ligand in which one, two or three chlorides can bridge two metal centers (<link target-id="id1165544847169"/>). </para>
+
+
+      <figure id="id1165544847169"><media id="id1165544847169_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-8421.jpg" id="id1165544847169__onlineimage" width="350" print-width="3.5in"/>
+        </media>
+
+      <caption>Structures of common halide bridging moieties. </caption></figure>
+
+
+
+
+      <para id="id6289709">Chloride (and bromide) bridges are usually bent, whereas fluoride bridges can be either linear or bent. As an example, BeF<sub>2</sub> and BeCl<sub>2</sub> are isostructural, consisting of infinite chains with bent bridges (<link target-id="id1165516425941"/>). In contrast, transition metal pentahalides show different structures depending on the identity of the halide. This, TaCl<sub>5</sub> dimerizes with bent bridges (<link target-id="id1165522562821"/>a), while TaF<sub>5</sub> forms a cyclic tetramer with linear fluoride bridges (<link target-id="id1165522562821"/>b). </para>
+
+
+      <figure id="id1165516425941"><media id="id1165516425941_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-2738.jpg" id="id1165516425941__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+
+      <caption>The solid state structure of BeX<sub>2</sub> (X = F or Cl). </caption></figure>
+
+
+        <figure id="id1165522562821"><media id="id1165522562821_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-bbd0.jpg" id="id1165522562821__onlineimage" width="400" print-width="4in"/>
+          </media>
+
+        <caption>The solid state structure of (a) TaCl<sub>5</sub> and (b) TaF<sub>5</sub>. </caption></figure>
+
+
+
+
+
+
+      <section id="id1165529851907">
+        <title>The halide bridge</title>
+        <para id="id1165535616508">The bridging halide bonds can be described by both Lewis and molecular orbital (MO) theory. In a simple picture, the lone pair of a terminal halide can be thought to act as a Lewis base donor ligand to the second Lewis acidic metal center. Indeed some bridging halides are asymmetric consistent with this view; however, the symmetrical ones can be described by a resonance form. From a molecular orbital point of view, the bridging halide is represented by a combination of two metal centered orbitals with two halogen orbitals. </para>
+      </section>
+    </section>
+
+
+
+
+    <section id="id1165539371990">
+      <title>Hydrogen chloride</title>
+      <para id="id1165532829355">Hydrogen chloride (HCl) is prepared by the reaction of concentrated sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) with either NaCl or concentrated HCl solution. </para>
+
+      <para id="id1165532587367">Hydrogen chloride is a polar molecule with a dipole of 1.08 D. However, the lower polarity as compared to that of hydrogen fluoride (1.91 D) is consistent with the physical and chemical properties. Hydrogen chloride is a gas at room temperature (Mp = -114.25 °C, Bp = -85.09 °C), and its low boiling point is consistent with weak hydrogen bonding in the liquid state. While self-ionization, <link target-id="eip-932"/>, is very small, liquid HCl dissolves some inorganic compounds to give conducting solutions, <link target-id="eip-105"/>. </para>
+
+        
+
+      <equation id="eip-932"><media id="id1165526873811_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-bb75.jpg" id="id1165526873811__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+      <equation id="eip-105"><media id="id1165516069513_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-c9fa.jpg" id="id1165516069513__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1165522349560">Hydrogen chloride is soluble (and reacts) in water, <link target-id="eip-870"/>. The pK<sub>a</sub> of the reaction (-7.0) is larger than observed for fluorine (3.2) and as such HCl is a stronger acid than HF. </para><equation id="eip-870"><media id="id1165518118681_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-658f.jpg" id="id1165518118681__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+
+      
+
+    </section>
+
+
+
+    <section id="id1165535845678"><title>Oxides of chlorine</title><para id="id6288968">Chlorine forms a series of oxides (<link target-id="id1165541429666"/>) in which the chlorine has the formal oxidation states +1, +4, +6, and +7. The physical properties of the oxides are summarized in <link target-id="id1165541429666"/>. While, the oxides of chlorine are not very stable (in fact several are shock sensitive and are prone to explode) the conjugate oxyacids are stable. </para>
+
+
+
+      <table id="id1165541429666" summary="Physical properties of the oxides of chlorine.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Compound</emphasis></entry>
+              <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+              <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Cl<sub>2</sub>O</entry>
+              <entry>-116</entry>
+              <entry>4</entry>
+            </row>
+            <row>
+              <entry>ClO<sub>2</sub></entry>
+              <entry>-5.9</entry>
+              <entry>10</entry>
+            </row>
+            <row>
+              <entry>Cl<sub>2</sub>O<sub>4</sub></entry>
+              <entry>-117</entry>
+              <entry>44.5</entry>
+            </row>
+            <row>
+              <entry>Cl<sub>2</sub>O<sub>6</sub></entry>
+              <entry>3.5</entry>
+              <entry>unstable</entry>
+            </row>
+            <row>
+              <entry>Cl<sub>2</sub>O<sub>7</sub></entry>
+              <entry>-91.5</entry>
+              <entry>82</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Physical properties of the oxides of chlorine. </caption>
+</table>
+      
+
+
+
+      <para id="id7767286">Dichlorine monoxide (Cl<sub>2</sub>O, <link target-id="id1165520211138"/>a) is a yellowish-red gas that is prepared by the reaction of chlorine with mercury oxide, <link target-id="eip-305"/>, or with a solution of chlorine in CCl<sub>4</sub>. </para>
+
+
+      
+
+      <equation id="eip-305"><media id="id1864005_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-d655.jpg" id="id1864005__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation>
+
+<figure id="id1165520211138">
+        <media id="id1165520211138_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-9a0c.jpg" id="id1165520211138__onlineimage" width="300" print-width="3in"/>
+        </media>
+<caption>The structure of (a) Cl<sub>2</sub>O, (b) ClO<sub>2</sub>, (c) Cl<sub>2</sub>O<sub>4</sub>, and (d) Cl<sub>2</sub>O<sub>7</sub>.</caption>
+      </figure>
+
+
+
+      <para id="id1165526860806">When heated or subject to a spark, Cl<sub>2</sub>O explodes to Cl<sub>2</sub> and O<sub>2</sub>. Dichlorine monoxide reacts with water to form an orange-yellow solution of hypochlorous acid, <link target-id="eip-131"/>. </para>
+
+
+
+
+
+      <equation id="eip-131"><media id="id1165521837653_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-7e7a.jpg" id="id1165521837653__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+</equation><para id="id1165527936095">Chlorine dioxide (ClO<sub>2</sub>) is a yellowish gas at room temperature and is commonly used in industry as an oxidizing agent. The best synthesis of ClO<sub>2</sub> involves the reduction of potassium chlorate (KClO<sub>3</sub>) by oxalic acid at 90 °C, since the CO<sub>2</sub> formed acts as a diluent for the highly explosive ClO<sub>2</sub>. On an industrial scale ClO<sub>2</sub> is made by the exothermic reaction of sodium chlorate with SO<sub>2</sub> in sulfuric acid, <link target-id="eip-238"/>. The photolysis of ClO<sub>2</sub> yields a dark brown solid with the formula Cl<sub>2</sub>O<sub>3</sub>; however, its facile explosive decomposition precludes study. </para>
+
+
+        
+
+
+      <equation id="eip-238"><media id="id1165526410346_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-03d0.jpg" id="id1165526410346__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><para id="id1165526246423">The structure of ClO<sub>2</sub> (<link target-id="id1165520211138"/>b) is equivalent to SO<sub>2</sub> with one extra electron, resulting in a paramagnetic unpaired electron species. Unusually, despite the unpaired electron configuration, ClO<sub>2</sub> shows no tendency to dimerize. This is unlike the analogous NO<sub>2</sub> molecule. </para>
+
+
+
+      <para id="id1165544538987">Dichlorine tetraoxide (Cl<sub>2</sub>O<sub>4</sub>) is commonly called chlorine perchlorate as a consequence of its structure (<link target-id="id1165520211138"/>c). Dichlorine hexaoxide (Cl<sub>2</sub>O<sub>6</sub>) is an unstable red oil that has the ionic structure in the solid state: [ClO<sub>2</sub>]<sup>+</sup>[ClO<sub>4</sub>]<sup>-</sup>. </para>
+
+
+
+      <para id="id1165526634202">Dichlorine heptoxide (Cl<sub>2</sub>O<sub>7</sub>) is a relatively stable oil, that is prepared by the dehydration of perchloric acid at -10 °C, <link target-id="eip-786"/>, followed by vacuum distillation. The structure of Cl<sub>2</sub>O<sub>7</sub> (<link target-id="id1165520211138"/>d) has been determined by gas phase electron diffraction. </para>
+
+
+      
+
+      <equation id="eip-786"><media id="id1165516470032_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-1d03.jpg" id="id1165516470032__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1165535241053">The reaction of Cl<sub>2</sub>O<sub>7</sub> with alcohols and amines yields alkyl perchlorates (ROClO<sub>3</sub>) and amine perchlorates (R<sub>2</sub>NClO<sub>3</sub>), respectively. </para>
+
+    </section>
+
+
+    <section id="id1165544710914">
+
+
+      <title>Fluorides of chlorine</title>
+      <para id="id1165526399527">Given the isolobal relationship between the halogens it is not surprising that the mixed dihalogens can be prepared, e.g., ClF, ICl, and BrCl. Chlorine fluoride is a highly reactive gas (Bp = -100.1 °C) that is a powerful fluorinating agent, and is prepared by the oxidation of chlorine by chlorine trifluoride, <link target-id="eip-196"/>. </para>
+
+
+      
+
+
+      <equation id="eip-196"><media id="id1165524586754_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-6189.jpg" id="id1165524586754__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1165539076141">The higher electronegativity of fluorine as compared to chlorine (<link target-id="id1165518891302"/>), and the ability of chlorine to form more than one bond, means that higher fluorides of chlorine are also known, i.e., ClF<sub>3</sub> and ClF<sub>5</sub>. Chlorine trifluoride (CF<sub>3</sub>, Bp = 11.75 °C) is a useful fluorinating agent, that is prepared by the high temperature reaction of elemental chlorine and fluorine, is a useful fluorinating age. The gaseous pentafluoride (ClF<sub>5</sub>, Bp = -31.1 °C) is prepared by the reaction of potassium chloride with fluorine, <link target-id="eip-658"/>.</para>
+
+      
+      <equation id="eip-987"><media id="id1165543102137_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-182f.jpg" id="id1165543102137__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+
+      </equation>
+
+
+
+      <equation id="eip-658"><media id="id1165544772041_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-e69e.jpg" id="id1165544772041__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1165535242537">The structure of ClF<sub>3</sub> is T-shaped with two lone pairs on chlorine (<link target-id="id1165544662028"/>a), while that of ClF<sub>5</sub> is square pyramidal with a single lone pair on chlorine (<link target-id="id1165544662028"/>b). </para>
+
+
+      <figure id="id1165544662028"><media id="id1165544662028_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics15-88be.jpg" id="id1165544662028__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+
+      <caption>The structures of (a) ClF<sub>3</sub> and (b) ClF<sub>5</sub>.</caption></figure>
+
+
+
+      <para id="id1165516403453">In general the halogen fluorides are very reactive; explosive reactions occur with organic compounds. They are all powerful fluorinating agents when diluted with nitrogen, and the order of reactivity follows: </para>
+
+
+      
+
+
+      <equation id="eip-124"><media id="id1165527942409_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics16-bfad.jpg" id="id1165527942409__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1165534078161">Like most halogen fluorides, ClF, ClF<sub>3</sub> and ClF<sub>5</sub> all react with strong bases (e.g., alkali metal fluorides) to form anions, <link target-id="eip-154"/> and <link target-id="eip-667"/>, and strong acids (e.g., AsF<sub>5</sub> and SbF<sub>5</sub>) to form cations, <link target-id="eip-697"/>, <link target-id="eip-392"/>, and <link target-id="eip-613"/>. </para>
+
+
+        
+
+        <equation id="eip-154"><media id="id1165516452922_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics17-7b6d.jpg" id="id1165516452922__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+        <equation id="eip-667"><media id="id1165530531385_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics18-1d2e.jpg" id="id1165530531385__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+      <equation id="eip-697"><media id="id1165537643888_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics19-8e3a.jpg" id="id1165537643888__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+
+        <equation id="eip-392"><media id="id1165526442703_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics20-0bfa.jpg" id="id1165526442703__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><equation id="eip-613"><media id="id8630321_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics21-f824.jpg" id="id8630321__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+    </section>
+  </content>
+</document>

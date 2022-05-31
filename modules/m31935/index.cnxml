@@ -1,0 +1,98 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Calcium Carbide: From Gaslight to Fertilizer</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m31935</md:content-id>
+  <md:title>Calcium Carbide: From Gaslight to Fertilizer</md:title>
+  <md:abstract/>
+  <md:uuid>47c229e7-f7ba-440c-b572-4abb53cb3734</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1171326888417">Calcium carbide has an interesting role in the societal and commercial changes that took place in the late 19<sup>th</sup> and early 20<sup>th</sup> centuries. However, in order to understand the effects of calcium carbide it is important to realize the state of the art of lighting in the late 18<sup>th</sup> century. </para>
+    <para id="id1171333963922">It was in 1792 that William Murdoch (<link target-id="id8180593"/>) first began experimenting with the use of gas, derived from the heating of coal and other materials, for lighting. Murdoch produced this “coal gas,” or “manufactured gas” and conveyed it through metal pipes, lighting his cottage and offices in Redruth, Cornwall (<link target-id="id1171320151619"/>). </para>
+    <figure id="id8180593"><media id="id8180593_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-6c4a.jpg" id="id8180593__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>Scottish engineer, inventor, and pioneer of gas lighting William Murdoch (1754 - 1839).</caption></figure>
+    
+    <figure id="id1171320151619"><media id="id1171320151619_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-4e46.jpg" id="id1171320151619__onlineimage" width="300" print-width="3in"/>
+      </media>
+    <caption>Murdoch's house at Redruth was the first domestic residence to be lit by gas. </caption></figure>
+    
+    <para id="id1171337878783">In 1802 as part of the public celebrations of the Peace of Amiens (between England and France) Murdoch made a public exhibition of his lighting by illuminating the exterior of the Soho Foundry in Birmingham, England. Then in 1807 an entrepreneur, Fredrick Winsor (originally Friedrich Albrecht Winzer) displayed gaslights along the top of the wall between Carlton House and the Mall in London. This demonstration for city use was a revelation. By 1823 Britain had 300 miles of gas pipe and by 1850 it was 2000 miles. Gaslight had a profound impact on society. Walking the streets at night was safer, and it allowed for longer working hours. It also made evening activities easier. As a consequence reading and evening schools became popular pastimes. Unfortunately, gaslight was rather dull orange in color (<link target-id="id1171303292606"/>), but it was due to another area of chemical research that a brighter alternative was discovered. </para>
+    <figure id="id1171303292606"><media id="id1171303292606_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics3-e003.jpg" id="id1171303292606__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>A gas light still in use on the streets of London. </caption></figure>
+    
+    
+      <para id="eip-995">In 1895 the Frenchman Henry Moissan (<link target-id="id1171322273148"/>) was trying to make diamonds by the reaction of carbon (graphite) with almost anything he could lay his hands on. Although highly unsuccessful, one of his experiments did prove useful. By reacting carbon with lime, the common name for calcium oxide (CaO) at 2000 °C (in an electric arc furnace that he had helped develop) he produced calcium carbide (CaC<sub>2</sub>). </para><figure id="id1171322273148"><media id="id1171322273148_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-124a.jpg" id="id1171322273148__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>French chemist Ferdinand Frederick Henri Moissan (1852 - 1907). </caption></figure>
+
+    
+    <para id="eip-13">Pure calcium carbide is colorless, but most samples have a color ranging from black to grayish-white, depending on the grade. As an ionic salt it has a high melting point (2160 °C). While the structure of calcium carbide (<link target-id="id5219366"/>) has a tetragonal lattice, it is related to that of a cubic rock salt structure, but where the anion is the linear C<sub>2</sub><sup>2-</sup> moiety. </para><figure id="id5219366"><media id="id5219366_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics5-45ce.jpg" id="id5219366__onlineimage" width="300" print-width="3in"/>
+      </media>
+    <caption>The unit cell of calcium carbide (CaC<sub>2</sub>). Adapted from N. N. Greenwood and A. Earnshaw, <emphasis effect="italics">Chemistry of the Elements</emphasis>, Butterworth-Heinemann (1984). </caption></figure>
+    
+    <para id="id1171300067771">Although now used extensively, at the time of its discovery calcium carbide itself did not prove very interesting, its reaction with water had a profound effect on illumination. The reaction of calcium carbide with water yields acetylene, <link target-id="eip-53"/>. </para>
+    
+    <equation id="eip-53"><media id="id1171322357734_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics6-3080.jpg" id="id1171322357734__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation><para id="id1171337955920">Unlike coal gas, acetylene burns with a very bright white flame. Although electricity was starting to become more commonly used it was very expensive and acetylene offered a cheaper alternative for domestic lighting. Thus, by 1899 there were over 250,000 acetylene gas jets in Germany alone. The reaction of calcium carbide to form acetylene was used in a variety of portable lamps. These so-called carbide lamps were used in slate, copper and tin mines, and were also used extensively as headlights in early automobiles and bikes (<link target-id="id1171293556208"/>). </para>
+    <figure id="id1171293556208"><media id="id1171293556208_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics7-e866.jpg" id="id1171293556208__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>The carbide lamp on a 1911 Renault. </caption></figure>
+    
+    <para id="id1171326968535">Unfortunately for acetylene there was one discovery and one economic change that brought the use of acetylene as a light source to an end. In 1893 Auer von Welsbach (<link target-id="id1171324118565"/>) invented the gas mantel (<link target-id="id1171306653814"/>). By the impregnation of silk or cotton with a mixture of thorium dioxide and cerium(IV) oxide (99:1), and using this in combination with gas he was able to produce a very white flame. </para>
+    
+      <figure id="id1171324118565"><media id="id1171324118565_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-c051.jpg" id="id1171324118565__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Austrian scientist and inventor Carl Auer Freiherr von Welsbach (1858 - 1929). </caption></figure>
+
+    
+     <figure id="id1171306653814"><media id="id1171306653814_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-0f73.jpg" id="id1171306653814__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>Gas mantles. Copyright Science Museum, London. </caption></figure>
+  
+    <para id="id1171300766196">The other impact on acetylene, was that by 1905 the cost of electricity was significantly lower, and as a consequence the price of CaC<sub>2</sub> dropped to 30%. There were stockpiles of calcium carbide all over Europe and America. This may have been the end of calcium carbide’s usefulness, however, in 1895 Heinrich Caro (<link target-id="id1171318793404"/>) and Adolf Frank (<link target-id="id3273486"/>), at the German chemical giant Badische Anilin- und Soda-Fabrik (BASF), were trying to make hydrogen cyanide (HCN) to use in its color dye business. In 1898, one of their colleagues demonstrated that what was actually produced during the reaction at temperatures exceeding 1000 C° was not cyanide, as they had hoped. It turned out that what Caro and Frank had found was that that when calcium carbide is reacted with nitrogen at 1000 °C it forms calcium cyanamide (CaCN<sub>2</sub>), <link target-id="eip-752"/>. The cyanamide anion has the structure [N=C=N]<sup>2-</sup>. </para>
+    
+    <equation id="eip-752"><media id="id1171306147995_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics10-3871.jpg" id="id1171306147995__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+
+
+     <figure id="id1171318793404"><media id="id1171318793404_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-bf51.jpg" id="id1171318793404__onlineimage" width="300" print-width="2in"/>
+        </media>
+      <caption>German chemist Heinrich Caro (1834 - 1910).</caption></figure>
+
+    
+    <figure id="id3273486"><media id="id3273486_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics12-0582.jpg" id="id3273486__onlineimage" width="300" print-width="2in"/>
+      </media>
+    <caption>German chemist, engineer, and businessman Adolph Frank (1834 – 1916). </caption></figure>
+    
+    <para id="id1171321713531">In contact with water calcium cyanamide decomposes and liberates ammonia: </para>
+    
+    <equation id="eip-21"><media id="id1171333632877_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics13-0fef.jpg" id="id1171333632877__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation><para id="id3156726">As such, CaCN<sub>2</sub> is an excellent solid fertilizer that is readily plowed into the soil. By 1908 calcium cyanamide was also found to be a plant protection agent, which, at a time when all weed control was performed mechanically, represented a great step forward. Consequently, the output of calcium cyanamide grew enormously. In 1910, 30,000 tons were produced, but in 1928, global production had reached 1.2 million tons. After a temporary decline, demand has again risen in recent years owing to the ban on several pesticides due to the environmental damage they cause. Even after 100 years of use, no harmful long-term effects to the earth or environment have been observed, nor have weeds or pests developed a resistance to calcium cyanamide. </para>
+    <section id="id1171317712237">
+      <title>Bibliography</title>
+      <list id="id1171315947758" list-type="bulleted"><item>N.-G. Vannerberg, <emphasis effect="italics">Acta Chem. Scand.</emphasis>, 1962, <emphasis effect="bold">16</emphasis>, 1212. </item>
+<item>M. A. Bredig, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 1942, <emphasis effect="bold">64</emphasis>, 1730. </item>
+        <item>Y. Yamamoto, K. Kinoshita, K. Tamaru, and T. Yamanaka, <emphasis effect="italics">Bull. Chem. Soc. Japan</emphasis>, 1958, <emphasis effect="bold">31</emphasis>, 501. </item>
+      </list>
+    </section>
+  </content>
+</document>

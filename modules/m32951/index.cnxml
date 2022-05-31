@@ -1,0 +1,134 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Trihydrides of the Group 15 Elements</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32951</md:content-id>
+  <md:title>Trihydrides of the Group 15 Elements</md:title>
+  <md:abstract/>
+  <md:uuid>e2e3545a-f2c8-4088-805d-bef6e963eb31</md:uuid>
+</metadata>
+<content>
+    <para id="id9312825">All five of the Group 15 elements form hydrides of the formula EH<sub>3</sub>. <link target-id="id9312844"/> lists the IUPAC names along with those in more common usage. </para>
+
+
+    <table id="id9312844" summary="Traditional and IUPAC (International Union of Pure and Applied Chemistry) names for the Group 15 hydrides.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Compound</emphasis></entry>
+            <entry><emphasis effect="bold">Traditional name</emphasis></entry>
+            <entry><emphasis effect="bold">IUPAC name</emphasis></entry>
+          </row>
+          <row>
+            <entry>NH<sub>3</sub></entry>
+            <entry>Ammonia</entry>
+            <entry>Azane</entry>
+          </row>
+          <row>
+            <entry>PH<sub>3</sub></entry>
+            <entry>Phosphine</entry>
+            <entry>Phosphane</entry>
+          </row>
+          <row>
+            <entry>AsH<sub>3</sub></entry>
+            <entry>Arsine</entry>
+            <entry>Arsane</entry>
+          </row>
+          <row>
+            <entry>SbH<sub>3</sub></entry>
+            <entry>Stibine</entry>
+            <entry>Stibane</entry>
+          </row>
+          <row>
+            <entry>BiH<sub>3</sub></entry>
+            <entry>Bismuthine</entry>
+            <entry>Bismuthane </entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>Traditional and IUPAC (International Union of Pure and Applied Chemistry) names for the Group 15 hydrides. </caption>
+</table>
+
+
+
+
+
+    <para id="id9313080">The boiling point and melting point increase increases going down the Group (<link target-id="id9330992"/>) with increased molecular mass, with the exception of NH<sub>3</sub> whose anomalously high melting and boiling points (<link target-id="id9331358"/>) are a consequence of strong N-H<sup>...</sup>H hydrogen bonding. A similar (and stronger) effect is observed for the Group 16 hydrides (H<sub>2</sub>E). </para>
+
+
+    <table id="id9330992" summary="Selected physical properties of Group 15 hydrides. ">
+      <tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Compound</emphasis></entry>
+            <entry><emphasis effect="bold">Mp (°C)</emphasis></entry>
+            <entry><emphasis effect="bold">Bp (°C)</emphasis></entry>
+            <entry><emphasis effect="bold">ΔH<sub>f</sub> (kJ/mol)</emphasis></entry>
+            <entry><emphasis effect="bold">E-H bond energy (kJ/mol)</emphasis></entry>
+            <entry><emphasis effect="bold">H-E-H bond angle (°)</emphasis></entry>
+          </row>
+          <row>
+            <entry>NH<sub>3</sub></entry>
+            <entry>-77.7</entry>
+            <entry>-33.35</entry>
+            <entry>-46.2</entry>
+            <entry>391</entry>
+            <entry>107</entry>
+          </row>
+          <row>
+            <entry>PH<sub>3</sub></entry>
+            <entry>-133</entry>
+            <entry>-87.7</entry>
+            <entry>9.3</entry>
+            <entry>322</entry>
+            <entry>93.5</entry>
+          </row>
+          <row>
+            <entry>AsH<sub>3</sub></entry>
+            <entry>-116.3</entry>
+            <entry>-55</entry>
+            <entry>172.2</entry>
+            <entry>247</entry>
+            <entry>92</entry>
+          </row>
+          <row>
+            <entry>SbH<sub>3</sub></entry>
+            <entry>-88</entry>
+            <entry>-17.1</entry>
+            <entry>142.8</entry>
+            <entry>255</entry>
+            <entry>91.5</entry>
+          </row>
+        </tbody>
+      </tgroup>
+<caption>Selected physical properties of Group 15 hydrides. </caption>
+    </table>
+
+
+
+
+    <figure id="id9331358">
+      <media id="id9331358_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-3bb4.jpg" id="id9331358__onlineimage" width="400" print-width="4in"/>
+      </media>
+<caption>Plot of melting and boiling points of EH<sub>3</sub> (E = N, P, As, and Sb) as a function of molecular mass. </caption>
+    </figure>
+
+
+
+
+    <para id="id9331403">The E-H bond strengths decrease down the group and this correlates with the overall stability of each compound (<link target-id="id9330992"/>). The H-E-H bond angles (<link target-id="id9330992"/>) also decrease down the Group. The H-E-H bond angle is expected to be a tetrahedral ideal of 109.5°, but since lone pairs repel more than bonding pairs, the actual angle would be expected to be slightly smaller. Two possible explanations are possible for the difference between NH<sub>3</sub> and the other hydrides. </para>
+
+    <list id="id9331423" list-type="enumerated" number-style="arabic">
+      <item>The N-H bond is short (1.015 Å) compared to the heavier analogs, and nitrogen is more electronegative than hydrogen, so the bonding pair will reside closer to the central atom and the bonding pairs will repel each other opening the H-N-H angle more than observed for PH<sub>3</sub>, etc. </item>
+      <item id="id9331441">The accessibility of the 2<emphasis effect="italics">s</emphasis> and 2<emphasis effect="italics">p</emphasis> orbitals on nitrogen allows for hybridization and the orbitals associated with N-H bonding in NH<sub>3</sub> are therefore close to sp<sup>3</sup> in character, resulting in a close to tetrahedral geometry. In contrast, hybridization of the n<emphasis effect="italics">s</emphasis> and n<emphasis effect="italics">p</emphasis> orbitals for P, As, etc., is less accessible, and as a consequence the orbitals associated with P-H bonding in PH<sub>3</sub> are closer to p in character resulting in almost 90° H-P-H angle. The lower down the Group the central atom the less hybridization that occurs and the closer to pure p-character the orbitals on E associated with the E-H bond. </item>
+    </list>
+  </content>
+</document>

@@ -1,0 +1,155 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Oxoacids of Phosphorus</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m35001</md:content-id>
+  <md:title>Oxoacids of Phosphorus</md:title>
+  <md:abstract/>
+  <md:uuid>89dd1508-3f43-4004-b110-ebc37d093046</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id7867888">Phosphorous pentoxide (P<sub>2</sub>O<sub>5</sub>) is an excellent drying agent, and its action is a result of the formation of a range of oxoacids. </para>
+
+
+    <section id="id1170302191769">
+      <title>Hypophosphorous acid</title>
+      <para id="id1170294321903">Hypophosphorous acid, H<sub>3</sub>PO<sub>2</sub>, is easily prepared pure buy the reaction of white phosphorous with base, followed by acidification, <link target-id="eip-554"/>. The pure acid is a solid (Mp = 27 °C) and very soluble in water. </para>
+
+      
+
+      <equation id="eip-554"><media id="id1170305928965_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-04c1.jpg" id="id1170305928965__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1170309318411">The structure of H<sub>3</sub>PO<sub>2</sub> is determined by X-ray crystallography to be tetrahedral with two hydride ligands and a hydroxide (<link target-id="id1170293509181"/>a). The presence of two hydrides is confirmed by NMR spectroscopy. The <sup>1</sup>H NMR resonance shows an OH line and a doublet from the P-H with a large one-bond coupling constant to the <sup>31</sup>P nucleus. The non-decoupled <sup>31</sup>P NMR spectrum shows a triplet (δ = 13 ppm, <emphasis effect="italics">J</emphasis>P-H = 530 Hz) due to the two hydrides. </para>
+
+      <figure id="id1170293509181">
+        <media id="id1170293509181_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-c800.jpg" id="id1170293509181__onlineimage" width="400" print-width="4in"/>
+        </media>
+<caption>Oxoacids of phosphorous: (a) hypophosphorous acid, (b), phosphorous acid, and (c) phosphoric acid.</caption>
+      </figure>
+
+
+
+
+      <para id="id1170292215148">In water hypophosphorous acid is a monobasic acid (pK = 1.2), <link target-id="eip-192 "/>, and it forms a wide range of salts. It is also a powerful reducing agent, but its reaction kinetics is slow. </para><equation id="eip-192"><media id="id1170293755634_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-eaa9.jpg" id="id1170293755634__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+        
+    </section>
+
+    <section id="id1170293830245">
+      <title>Phosphorous acid</title>
+      <para id="id1170292284446">The reaction of P<sub>4</sub>O<sub>6</sub> or PCl<sub>3</sub> with water yields phosphorous acid, H<sub>3</sub>PO<sub>3</sub>; which like hypophosphorous acid is a solid (Mp = 70.1 °C) and very soluble in water. The structure is shown by X-ray crystallography to be comprised of a tetrahedral phosphorus with one hydride and two hydroxides (<link target-id="id1170293509181"/>b). <sup>31</sup>P NMR spectroscopy demonstrates the presence of a single hydride by the presence of a doublet as a consequence of the phosphorous center being split by a single hydride (δ = 4 ppm, <emphasis effect="italics">J</emphasis>P-H = 700 Hz). The <sup>1</sup>H NMR spectrum shows a doublet for the hydride and a single resonance of twice the intensity for the hydroxide. </para>
+
+
+
+
+      <para id="id1170302787492">As expected, in water phosphorous acid is dibasic, <link target-id="eip-460"/>. The acid (and the anions) are strong reducing agents, yielding phosphoric acid. They actually react very slowly, and it is thought that this may be due to the reaction being in the tautomeric form, P(OH)<sub>3</sub>. Although this has not been isolated, the trialkyl derivatives exist in both forms, i.e., esters of phosphoric acids (<link target-id="id1170301252574"/>a) and trialkyl phosphates (<link target-id="id1170301252574"/>b).</para>
+
+        
+
+      <equation id="eip-460"><media id="id1170309013704_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-782b.jpg" id="id1170309013704__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><figure id="id1170301252574">
+        <media id="id1170301252574_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-b506.jpg" id="id1170301252574__onlineimage" width="250" print-width="2.5in"/>
+        </media>
+<caption>Structures of two tautomeric forms; (a) an ester of phosphoric acid and (b) a trialkyl phosphate.</caption>
+      </figure>
+
+
+    </section>
+
+
+    <section id="id1170302238296">
+      <title>Ortho phosphoric acid</title>
+      <para id="id1170295082845">Orthophosphoric acid (H<sub>3</sub>PO<sub>4</sub>) is the most common oxoacid of phosphorus (<link target-id="id1170293509181"/>c). The term acid phosphoric acid is commonly used. It is made from the reaction of phosphates with sulfuric acid (H<sub>2</sub>SO<sub>4</sub>), or from the hydrolysis of P<sub>4</sub>O<sub>10</sub>. The pure acid is a colorless crystalline solid (Mp = 42.35 °C) with extensive hydrogen bonding. The inter-phosphoric acid hydrogen bonding is partially maintained in aqueous solutions above 50% solutions. </para>
+      <para id="id1170301244110">Phosphoric acid is very stable and shows no oxidation chemistry below 350 °C. As expected, phosphoric acid is tribasic, <link target-id="eip-107"/>. The anions H<sub>2</sub>PO<sub>4</sub><sup>-</sup> and HPO<sub>4</sub><sup>2-</sup> have particular names, dihydrogen phosphate and monohydrogen phosphate, respectively. </para>
+
+      
+
+      <equation id="eip-107"><media id="id1170291492876_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-2258.jpg" id="id1170291492876__onlineimage" width="500" print-width="4.5in"/>
+        </media>
+      </equation><para id="id1170291237629">Many salts of are known for all three anions; those with phosphate (PO<sub>4</sub><sup>2-</sup>) are often insoluble in water. Many coordination complexes are known, especially with M<sup>3+</sup> and M<sup>4+</sup> ions. </para>
+
+      <section id="id1170294206201">
+        <title>Phosphorous esters</title>
+        <para id="id1170305804959">The alkyl and aryl homologs of phosphoric acid (i.e., the phosphate triester O=P(OR)<sub>3</sub>) are prepared by the reaction of P<sub>4</sub>O<sub>10</sub> with the appropriate alcohol. The triesters are good solvents and Lewis basic ligands with coordination via the oxide moiety. The diesters and monoesters can also be made, and they are important in biochemical processes. </para>
+        <para id="id1170292179952">Phosphite triesters, P(OR)<sub>3</sub>, may be made by the reaction of PCl<sub>3</sub> with alcohols or phenols in the presence of an organic base as the acceptor for the HCl formed. Alternatively, they can be prepared directly from white phosphorous, <link target-id="eip-551"/>. </para>
+
+          
+
+        <equation id="eip-551"><media id="id1170292195375_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics7-75e9.jpg" id="id1170292195375__onlineimage" width="500" print-width="4.5in"/>
+            </media>
+          </equation><para id="id1170293490084">Phosphite triesters are readily oxidized to the appropriate phosphate triester, <link target-id="eip-164"/>. They also react with alkyl halides to form the dialkyl phosphonate via the Michaelis-Arbusov reaction, <link target-id="eip-61"/>. </para>
+
+        
+
+          <equation id="eip-164"><media id="id1170291265644_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-f095.jpg" id="id1170291265644__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><equation id="eip-61"><media id="id1170291333121_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics9-a501.jpg" id="id1170291333121__onlineimage" width="500" print-width="4.5in"/>
+            </media>
+          </equation>
+
+      </section>
+      <section id="id1170294465103">
+
+        <title>Polyphosphates </title>
+        <para id="id1170292026298">Polyphosphates contain the PO<sub>4</sub> unit, and the simplest example (pyrophosphate or diphosphate, <link target-id="id1170298180962"/>a) can be considered as condensation products of monohydrogen phosphate, <link target-id="eip-417"/>. Longer chains can be formed, e.g., the triphosphate P<sub>3</sub>O<sub>10</sub><sup>5-</sup> (<link target-id="id1170298180962"/>b). The formation and reverse (hydrolysis) reaction are slow, but are readily catalyzed, e.g., by enzymes. </para>
+
+        
+
+        <equation id="eip-417"><media id="id1170294372203_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-9efa.jpg" id="id1170294372203__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation><figure id="id1170298180962">
+          <media id="id1170298180962_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-1a83.jpg" id="id1170298180962__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>The structures of the (a) diphosphate and (b) triphosphate anions. </caption>
+        </figure>
+
+
+        <para id="id1170306059958">The monoesters of the diphosphate and triphosphate are very important in biological processes. In particular the conversion of the triphosphate ATP (adenosine triphosphate) to the diphosphate ADP (adenosine diphosphate) by the transfer of a phosphate group, <link target-id="eip-214"/>, is important in the energetics of biological reactions. </para><equation id="eip-214"><media id="id1170297625654_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-9211.jpg" id="id1170297625654__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+        </equation>
+
+        
+
+
+      </section>
+      <section id="id1170307034904">
+        <title>Cyclic polyphosphates</title>
+        <para id="id1170291938811">Also known as meta phosphates, cyclic phosphates are also made from fused PO<sub>4</sub> units. The simplest, P<sub>3</sub>O<sub>9</sub><sup>3-</sup>, is shown in <link target-id="id1170294172556a"/>. Slow addition of water to P<sub>4</sub>O<sub>10</sub> results in the formation of the tetrameric polyphosphate, P<sub>4</sub>O<sub>12</sub><sup>4-</sup> (<link target-id="id1170294172556"/>), which is known as <emphasis effect="italics">calgon</emphasis> due to its ability to complex Ca<sup>2+</sup> as well as other metals. </para>
+
+   <figure id="id1170294172556a"><media id="id1170294172556a_media" alt="">
+              <image mime-type="image/jpg" src="../../media/P3O9.jpg" id="id1170294172556a__onlineimage" width="250" print-width="2.5in"/>
+            </media>
+
+          <caption>The structure of P<sub>3</sub>O<sub>9</sub><sup>3-</sup>. Phosphorus atoms are represented by the large spheres, and oxygen atoms by the small spheres (Copyright: Karl Harrison, 2005). </caption></figure>
+
+
+
+          <figure id="id1170294172556">
+            <media id="id1170294172556_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics14-f17f.jpg" id="id1170294172556__onlineimage" width="250" print-width="2.5in"/>
+            </media>
+<caption>The structure of P<sub>4</sub>O<sub>12</sub><sup>4-</sup><emphasis effect="italics">calgon</emphasis>. Phosphorus atoms are represented by the large spheres, and oxygen atoms by the small spheres (Copyright: Karl Harrison, 2005).</caption>
+          </figure>
+
+
+
+      </section>
+    </section>
+  </content>
+</document>

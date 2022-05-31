@@ -1,0 +1,132 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Bromine Trifluoride as a Solvent</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33061</md:content-id>
+  <md:title>Bromine Trifluoride as a Solvent</md:title>
+  <md:abstract/>
+  <md:uuid>da5327e8-136f-41e0-ba49-264c5e945b4e</md:uuid>
+</metadata>
+<content>
+    <note id="eip-57" type="warning">Bromine trifluoride is a toxic, colorless, and corrosive liquid with a pungent choking smell that is soluble in sulfuric acid but explodes on contact with water and organic compounds. Vapors severely irritate and may burn the eyes, skin, and respiratory system. The liquid burns all human tissue and causes severe damage. </note>
+
+
+
+
+
+
+    <para id="id13762920">Bromine trifluoride (BrF<sub>3</sub>) has a liquid range similar to water (Mp = 8.8 °C and Bp = 127 °C), and like water it auto ionizes, <link target-id="eip-6660"/>. </para>
+
+<equation id="eip-6660">      <media id="id6020313_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-f605.jpg" id="id6020313__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+
+
+    <para id="id12782454">The products, like those of water’s self-ionization, are an acid (BrF<sub>2</sub><sup>+</sup>) and a base (BrF<sub>4</sub><sup>-</sup>). However, unlike water, BrF<sub>3</sub> reacts with fluoride acids and bases not proton acids and bases. Thus, in BrF<sub>3</sub> a base is a salt that provides F<sup>-</sup>, i.e., potassium fluoride (KF) is a base in BrF<sub>3</sub> solution in the same manner as potassium hydroxide (KOH) is a base in water. The product from the reaction of a fluoride donor salt with BrF<sub>3</sub> is the formation of the conjugate base, BrF<sub>4</sub><sup>-</sup>, <link target-id="eip-6661"/>. </para>
+
+<equation id="eip-6661">      <media id="id12025677_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-b370.jpg" id="id12025677__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+  
+
+
+    <para id="id30331012">Other examples of this type of reaction include: </para>
+
+<equation id="eip-6662"><media id="id29037174_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-ef70.jpg" id="id29037174__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+        
+
+<equation id="eip-6663">   <media id="id15406539_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics4-5415.jpg" id="id15406539__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+   
+
+
+
+
+    <para id="id29409510">By analogy, an acid in BrF<sub>3</sub> solution is a compound that acts as a fluoride (F<sup>-</sup>) acceptor, i.e., a Lewis acid, <link target-id="eip-6664"/>. </para>
+
+<equation id="eip-6664"> <media id="id27665865_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics5-8a65.jpg" id="id27665865__onlineimage" width="500" print-width="4.5in"/>
+      </media></equation>
+
+     
+
+
+    <exercise id="eip-760"><problem id="eip-215">
+  <para id="eip-145">
+What are the products from the reaction of HF with BrF<sub>3</sub>? 
+  </para>
+</problem>
+
+<solution id="eip-579">
+  <para id="eip-502">
+
+      <media id="id24227502_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics6-a6df.jpg" id="id24227502__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+  </para>
+</solution>
+</exercise>
+
+
+
+
+    <section id="id30836538">
+
+
+      <title>Bromine trifluoride as a fluorinating agent</title>
+      <para id="id31486371">Bromine trifluoride is a strong fluorinating agent that is able to convert a metal (e.g., vanadium) to its associated fluoride compound, (i.e., VF<sub>5</sub>). A wide range of salts and oxides may be converted to fluorides with the metal in a high oxidation state. However, it should be noted that BeO, MgO, and Al<sub>2</sub>O<sub>3</sub> form oxo fluorides rather than the fluoride. </para>
+
+      <para id="id30376382">The reaction of silver with BrF<sub>3</sub> yields the monofluoride, while the same reaction with gold yields the trifluoride, Eq. If the reactions are combined in BrF<sub>3</sub> solution a mixed metal fluoride salt is formed, <link target-id="eip-6665"/>. </para>
+
+
+<equation id="eip-6665">    <media id="id30295298_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-5b04.jpg" id="id30295298__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+    
+
+
+      <para id="id21355315">A similar reaction occurs with NOCl and V<sub>2</sub>O<sub>5</sub>, <link target-id="eip-6666"/>. </para>
+
+<equation id="eip-6666">     <media id="id25919590_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-0d1b.jpg" id="id25919590__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+   
+
+      <exercise id="eip-118"><problem id="eip-28">
+
+  <para id="eip-153">
+What are the products from the reaction of BrF<sub>3</sub> with (a) Sb<sub>2</sub>O<sub>5</sub>, (b) KCl, and (c) a mixture of Sb<sub>2</sub>O<sub>5</sub> and KCl? 
+  </para>
+</problem>
+
+
+
+
+<solution id="eip-276">
+  <para id="eip-967">
+(a) SbF<sub>5</sub>, (b) KF, and (c) K[SbF<sub>6</sub>]. 
+  </para>
+</solution>
+</exercise>
+
+
+
+
+
+    </section>
+
+    <section id="id20337482">
+      <title>Bibliography</title>
+      <list id="id24181668" list-type="bulleted">
+        <item>J. H. Simons, <emphasis effect="italics">Inorg. Synth.</emphasis>, 1950, <emphasis effect="bold">3</emphasis>, 184. </item>
+      </list>
+    </section>
+  </content>
+</document>

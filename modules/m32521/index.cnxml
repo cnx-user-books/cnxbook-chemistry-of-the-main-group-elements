@@ -1,0 +1,37 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Aluminum Oxides, Hydroxides, and Hydrated Oxides</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32521</md:content-id>
+  <md:title>Aluminum Oxides, Hydroxides, and Hydrated Oxides</md:title>
+  <md:abstract/>
+  <md:uuid>a3160e38-66db-4aab-8ddf-b013a5b74984</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1170885655624">The many forms of aluminum oxides and hydroxides are linked by complex structural relationships. Bauxite has the formula Al<sub>x</sub>(OH)<sub>3-2x</sub> (0 &lt; x &lt; 1) and is thus a mixture of Al<sub>2</sub>O<sub>3</sub> (α-alumina), Al(OH)<sub>3</sub> (gibbsite), and AlO(OH) (boehmite). The latter is an industrially important compound that is used in the form of a gel as a pre-ceramic in the production of fibers and coatings, and as a fire-retarding agent in plastics. </para>
+    <para id="id1170885375529">Knowledge of microstructural evolution in ceramic systems is important in determining their end-use application. In this regard alumina has been the subject of many studies in which the phase, morphology, porosity and crystallinity are controlled by physical and chemical processing. The transformation from boehmite [<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mi>γ</m:mi></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ} {}</m:annotation></m:semantics></m:math>-Al(O)(OH)] to corundum (α-Al<sub>2</sub>O<sub>3</sub>) has been well characterized and is known to go through the following sequence: </para>
+    
+    <equation id="eip-527"><media id="id1170877885849_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-5281.jpg" id="id1170877885849__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation>
+
+
+<para id="id1170876665583">The phase changes from boehmite through θ-Al<sub>2</sub>O<sub>3</sub> are known to be topotactic (i.e., changes in crystal structure are accomplished without changes in crystalline morphology), however, each phase change is accompanied by a change in porosity. The θ- to α-Al<sub>2</sub>O<sub>3</sub> phase transition occurs through nucleation and growth of the θ-Al<sub>2</sub>O<sub>3</sub> crystallites. The α-Al<sub>2</sub>O<sub>3</sub> phase transition temperature can be altered by the addition of certain additives. For example, because the α-Al<sub>2</sub>O<sub>3</sub> phase occurs by nucleation, the addition of small seed crystals can lower the transition temperature between 100 and 200 °C. The addition of certain transition metals (chromium, manganese, iron, cobalt, nickel, and copper) has also been shown to decrease the transition temperature, while lanthanum or rare earth metals tend to increase the temperature. Finally, the addition of metal oxides has also shown to affect the growth rate in α-Al<sub>2</sub>O<sub>3</sub>. </para>
+
+    <para id="id1170874156183">A third form of Al<sub>2</sub>O<sub>3</sub> forms on the surface of the clean aluminum metal, <link target-id="eip-906"/>. This oxide skin is rapidly self-repairing because its heat of formation is so large (ΔH = 3351 kJ/mol). The thin, tough, transparent oxide layer is the reason for much of the usefulness of aluminum. </para>
+    
+    <equation id="eip-906"><media id="id1170874893283_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-c03f.jpg" id="id1170874893283__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+    </equation><section id="id1170886668479">
+      <title>Bibliography</title>
+      <list id="id1170869252238" list-type="bulleted">
+        <item>K. Wefers and C. Misra, <emphasis effect="italics">Oxides and Hydroxides of Aluminum</emphasis>, Alcoa Laboratories (1987). </item>
+        <item>H. L. Wen and F. S. Yen, <emphasis effect="italics">J. Cryst. Growth</emphasis>, 2000, <emphasis effect="bold">208</emphasis>, 696. </item>
+        <item>G. K Priya, P. Padmaja, K. G. K. Warrier, A. D. Damodaran, and G. Aruldhas, <emphasis effect="italics">J. Mater. Sci. Lett.</emphasis>, 1997, <emphasis effect="bold">16</emphasis>, 1584. </item>
+        <item>E. Prouzet, D. Fargeot, and J. F. Baumard, <emphasis effect="italics">J. Mater. Sci. Lett.</emphasis>, 1990, <emphasis effect="bold">9</emphasis>, 779. </item>
+      </list>
+    </section>
+  </content>
+</document>

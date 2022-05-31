@@ -1,0 +1,274 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Nitrogen Compounds of Carbon</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m33075</md:content-id>
+  <md:title>Nitrogen Compounds of Carbon</md:title>
+  <md:abstract/>
+  <md:uuid>69a734d8-f998-4791-bf76-9596fc81b5ff</md:uuid>
+</metadata>
+<content>
+    <para id="id7363766">There are a myriad of organic compounds containing carbon-nitrogen bonds, including: amines, imines, and nitriles. However, here we are concerned with the simplest carbon-nitrogen compounds. </para>
+    <section id="id8511385">
+      <title>Cyanogen</title>
+
+      <para id="id4778897">Cyanogen, (CN)<sub>2</sub>, may be considered the smallest molecular fragment containing carbon and nitrogen (<link target-id="id10543171"/>a). The reaction chemistry of cyanogen is related to that of the halogens, i.e., F<sub>2</sub>, Cl<sub>2</sub>, etc. Consequently, cyanogen is called a <emphasis effect="italics">pseudo halogen</emphasis>. </para>
+
+      <figure id="id10543171">
+        <media id="id10543171_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-55bd.jpg" id="id10543171__onlineimage" width="350" print-width="3in"/>
+        </media>
+<caption>The structures of (a) cyanogen, (CN)<sub>2</sub> and (b) dicyanoacetylene (carbon subnitride, C<sub>4</sub>N<sub>2</sub>). </caption>
+      </figure>
+
+
+
+
+      <para id="id3119744">As shown in <link target-id="id10035256"/> the bonding in cyanogen is consistent with localization of the π-bonding between carbon and nitrogen given the similarity of the C-N bond distance in cyanogens and acetonitrile. However, there is clearly some π-delocalization associated with the C-C distance given its shortening as compared to ethane. </para>
+
+      <table id="id10035256" summary="A comparison of the bond distances in selected carbon nitrogen compounds. ">
+        <tgroup cols="4">
+          <colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="bold">Compound</emphasis></entry>
+              <entry><emphasis effect="bold">Formula</emphasis></entry>
+              <entry><emphasis effect="bold">C-C bond distance (Å)</emphasis> </entry>
+              <entry><emphasis effect="bold">C-N bond distance (Å)</emphasis></entry>
+            </row>
+            <row>
+              <entry>Cyanogen</entry>
+              <entry>(CN)<sub>2</sub></entry>
+              <entry>1.393</entry>
+              <entry>1.163</entry>
+            </row>
+            <row>
+              <entry>Hydrogen cyanide </entry>
+              <entry>HCN</entry>
+              <entry>-</entry>
+              <entry>1.154</entry>
+            </row>
+            <row>
+              <entry>Acetonitrile</entry>
+              <entry>CH<sub>3</sub>CN</entry>
+              <entry>1.46</entry>
+              <entry>1.16</entry>
+            </row>
+            <row>
+              <entry>Ethane</entry>
+              <entry>C<sub>2</sub>H<sub>6</sub></entry>
+              <entry>1.535</entry>
+              <entry>- </entry>
+            </row>
+            <row>
+              <entry>Ethylene</entry>
+              <entry>C<sub>2</sub>H<sub>4</sub></entry>
+              <entry>1.339</entry>
+              <entry>- </entry>
+            </row>
+          </tbody>
+        </tgroup>
+<caption>A comparison of the bond distances in selected carbon nitrogen compounds. </caption>
+      </table>
+
+
+
+
+      <para id="id8846229">Cyanogen is produced by the reaction of a mixture of the cyanide and chloride of mercury, <link target-id="eip-7760"/>. </para>
+
+<equation id="eip-7760">   <media id="id10854979_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics2-c3f9.jpg" id="id10854979__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+       
+
+
+
+
+      <para id="id10786065">Alternatively, the decomposition of unstable copper(II) cyanide, formed from a copper(II) salts with a Group 1 cyanide, <link target-id="eip-7761"/>, yields cyanogens, <link target-id="eip-7762"/>. </para>
+
+
+<equation id="eip-7761"> <media id="id10392228_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics3-271a.jpg" id="id10392228__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+         
+
+<equation id="eip-7762">  <media id="id8057533_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics4-ca8f.jpg" id="id8057533__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+        
+
+
+      <para id="id11058605">Cyanogen is a flammable gas (Mp = -28 °C and Bp = -21 °C) that produces the second hottest flame natural flame (after carbon subnitride, C<sub>4</sub>N<sub>2</sub>) with a temperature of over 4525 °C when burnt in oxygen. Heating cyanogen in the absence of oxygen results self polymerizes, <link target-id="eip-7763"/>.</para>
+
+<equation id="eip-7763">   <media id="id10682360_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-ab60.jpg" id="id10682360__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+     
+
+      <para id="id8172906">Hydrolysis of cyanogen results in addition across the carbon-nitrogen triple bonds and the formation of oxamide, <link target-id="eip-7764"/>. Cleavage of the C-C bond does occur in the presence of base (e.g., KOH), with the formation of cyanide (CN<sup>-</sup>) and cyanate (CNO<sup>-</sup>) salts, <link target-id="eip-7765"/>. </para>
+
+<equation id="eip-7764">    <media id="id10189753_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-4c5a.jpg" id="id10189753__onlineimage" width="500" print-width="4.5in"/>
+        </media></equation>
+
+   
+<equation id="eip-7765">  <media id="id10207863_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics7-9247.jpg" id="id10207863__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+        
+
+
+
+    </section>
+    <section id="id7619319">
+      <title>Dicyanoacetylene</title>
+
+      <para id="id10873236">Dicyanoacetylene (also known as carbon subnitride or by its IUPAC name but-2-ynedinitrile) has the structure shown in <link target-id="id10543171"/>b, and may be thought of as a dicyanaide substituted acetylene. </para>
+
+      <para id="id13780172">At room temperature, dicyanoacetylene is a clear liquid, however, solid dicyanoacetylene has been detected in the atmosphere of Titan (the largest moon of the planet Saturn) by infrared spectroscopy. Dicyanoacetylene is an entropic explosive giving carbon powder and nitrogen gas. In the presence of oxgyen it burns with a bright blue-white flame at a temperature of 4990 °C. </para>
+    </section>
+
+
+    <section id="id10863467">
+      <title>Hydrogen cyanide</title>
+      <para id="id12164978">Hydrogen cyanide (HCN) is a colorless, highly poisonous, gas (Mp = -13.5 °C and Bp = 25.6 °C). Due to its original isolation from Prussian blue (hydrated ferric ferrocyanide), hydrogen cyanaide is also known by the name of <emphasis effect="italics">prussic acid</emphasis>. </para>
+
+      <para id="id12929458">The synthesis of hydrogen cyanide is accomplished commercially by the partial oxidation of methane in the presence of ammonia, <link target-id="eip-7766"/>, using a platinum catalyst. The heat to activate the reaction is derived from the partial combustion of the methane and ammonia. The resulting aqueous solution is dried by distilled from phosphorus pentoxide (P<sub>2</sub>O<sub>5</sub>) to yield anhydrous hydrogen cyanide. </para>
+
+
+<equation id="eip-7766">    <media id="id10609312_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics8-7df8.jpg" id="id10609312__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+      
+
+
+
+      <para id="id13648292">Hydrogen cyanide may also be formed in the absence of oxygen, <link target-id="eip-7767"/>; however, in this case the reaction must be heated externally. </para>
+
+<equation id="eip-7767">    <media id="id12195616_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-f954.jpg" id="id12195616__onlineimage" width="500" print-width="4.5in"/>
+          </media>
+</equation>
+
+       
+
+      <para id="id8169440">Small quantities of hydrogen cyanide for laboratory use may be prepared by the reaction of an acid with a cyanide salt (either potassium or sodium), <link target-id="eip-7768"/>. </para>
+
+
+<equation id="eip-7768">   <media id="id6980160_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics10-aca7.jpg" id="id6980160__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+       
+
+
+      <para id="id8523547">The structure of hydrogen cyanide is shown in <link target-id="id7620053"/> along with its isomeric form, hydrogen isocyanide (HNC). While hydrogen cyanide is present in the pits of many fruits, and is generated by burnet moths and some millipedes, hydrogen isocyanide is only found in interstellar space. It is postulated, however, that along with HCN, HNC is an important building block for amino acids and hence life. </para>
+
+
+      <figure id="id7620053">
+        <media id="id7620053_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-ea1c.jpg" id="id7620053__onlineimage" width="250" print-width="2in"/>
+        </media>
+<caption>The structures of (a) hydrogen cyanaide (HCN) and (b) its isomer hydrogen isocyanide (HNC). </caption>
+      </figure>
+
+
+
+
+      <para id="id8823212">In the liquid state hydrogen cyanide forms strong hydrogen bonds (<link target-id="id8142584"/>). Hydrogen cyanide is a good solvent for polar compounds due to its high permittivity (∈<sub>r</sub>) and high dipole moment (2.98 D). </para>
+
+
+      <figure id="id8142584">
+        <media id="id8142584_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-1eab.jpg" id="id8142584__onlineimage" width="250" print-width="2in"/>
+        </media>
+<caption>The hydrogen bonding in liquid hydrogen cyanide. </caption>
+      </figure>
+
+
+
+
+      <para id="id12176602">In aqueous solution hydrogen cyanide is a weak acid, <link target-id="eip-7769"/>, and several salts are known. However, HCN also reacts with water to give ammonium formate via formamide, <link target-id="eip-7770"/>. </para>
+
+<equation id="eip-7769">  <media id="id5580891_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-09ee.jpg" id="id5580891__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+         
+
+<equation id="eip-7770">      <media id="id12156796_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics14-d93e.jpg" id="id12156796__onlineimage" width="500" print-width="4.5in"/>
+          </media></equation>
+
+
+    
+ 
+
+
+
+      <para id="id11468298">In a similar manner to cyanogen’s relationship to the halogens, the cyanide anion (CN<sup>-</sup>) is considered a <emphasis effect="italics">pseudo halide</emphasis> (i.e., F<sup>-</sup>, Cl<sup>-</sup>, etc), and as such forms many coordination compounds, e.g., [Fe(CN)<sub>6</sub>]<sup>3-</sup> and [Ag(CN)<sub>2</sub>]<sup>-</sup>. </para>
+
+
+
+      <section id="id14084907">
+        <title>Assassination, execution, and the Holocaust</title>
+        <para id="id10845303">Hydrogen cyanide is fatal to humans due to its inhibition of the enzyme cytochrome c oxidase by the cyanide ion (CN<sup>-</sup>), which results in the halting of cellular respiration. A concentration of 300 mg/m<sup>3</sup> will kill within 10 minutes, while 3200 mg/m<sup>3</sup> (<emphasis effect="italics">ca.</emphasis> 3500 ppm) will be fatal in about 1 minute. </para>
+
+
+        <para id="id10861572">The symptoms of cyanide poisoning appear similar to a heart attack and this has led to it being the poison of choice for both fictional murder mystery writers as well as the former KGB (<emphasis effect="italics">Konitet </emphasis><emphasis effect="italics">gosudarstvennoy bezopasnosti</emphasis> or Committee for State Security) and its predecessor SMERSH (from the contraction <emphasis effect="italics">smert shpionam</emphasis> meaning <emphasis effect="italics">death to spies</emphasis>) in real life. Possibly the most famous use of hydrogen cyanide for assassination was the use of an atomizer mist gun by KGB agent Bohdan Stashynsky for the killing of the Ukranian political writer and anti-communist Lev Rebet in 1957, and later in 1959 that of fellow Ukranian, Stepan Bandera. In both cases the intention was to induce cardiac arrest and make it look like the victim had died of a heart attack. </para>
+
+
+        <para id="id8939957">Without doubt the most notorious use of hydrogen cyanide is in the form of the product Zyklon B, which was originally developed as an insecticide. Dr. Walter Heerdt found that hydrogen cyanide could be absorbed onto substrates such as absorbent pellets (e.g., silica), fibers, or diatomaceous earth (<link target-id="id14019465"/>). While stable in an airtight container, once opened the hydrogen cyanide is released. The “B” in the trade name comes from the German name for prussic acid (the common name for hydrogen cyanide), i.e., <emphasis effect="italics">Blausäure</emphasis> meaning <emphasis effect="italics">blue acid</emphasis>. </para>
+
+        <figure id="id14019465">
+          <media id="id14019465_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics15-add3.jpg" id="id14019465__onlineimage" width="400" print-width="3in"/>
+          </media>
+<caption>A can of Zyklon B granules. </caption>
+        </figure>
+
+
+
+        <para id="id8703362">The first wholesale use of Zyklon B was actually in the US where it was used as early as 1929 to disinfect the freight trains and cloths of Mexican immigrants entering the US. The first use of Zyklon B in the concentration camps during World War II was for a similar purpose (in particular for delousing to control typhus); however, for its use as an insecticide, Zyklon B contained a warning odorant. The deliberate manufacture of Zyklon B without the odorant resulted in the material that was used on a group of 250 gypsy children at the Buchenwald concentration camp in early 1940. Subsequently in September 1940, a similar number of sick Polish prisoners of war and 600 Soviet prisoners of war were killed at Auschwitz (<link target-id="id13469833"/>). Once these horrific tests were performed, the systematic murder of millions of people, including Jews, gypsies, and homosexuals, was accomplished using Zyklon B at Auschwitz, Majdanek, Sachsenhausen, and one of the Operation Reinhard camps. It is only fitting that many of the architects of the Holocaust themselves died from cyanide, including: Adolf Hitler (in addition to a bullet), Joseph Goebbles, Hermann Göring, and Heinrich Himmler. </para>
+
+
+        <figure id="id13469833">
+          <media id="id13469833_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics16-feb9.jpg" id="id13469833__onlineimage" width="400" print-width="3in"/>
+          </media>
+<caption>The main gate at Auschwitz, through which an estimated two million victims of Nazi genocide passed. </caption>
+        </figure>
+
+
+
+        <para id="id13463892">Despite the horror associated with the use of hydrogen cyanide for the Holocaust, it was used by 11 US states for the death penalty (<link target-id="id13665846"/>). Arizona, Maryland, and Missouri retain the gas chamber as a secondary method of execution though they have lethal injection as the primary method. Potassium cyanide (KCN) pellets are placed into a compartment directly below the chair in the gas chamber (<link target-id=" id13665846 "/>). The condemned person is then strapped into the chair, and the airtight chamber sealed. Concentrated sulfuric acid (H<sub>2</sub>SO<sub>4</sub>) is then poured down a tube onto the cyanide pellets to generate hydrogen cyanide, <link target-id="eip-7768"/>. Execution by gas chamber is especially unpleasant for the witnesses to the execution due to the physical responses exhibited during the process of dying, including: convulsions and excessive drooling. </para>
+
+
+          <figure id="id13665846">
+            <media id="id13665846_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics17-d3c3.jpg" id="id13665846__onlineimage" width="200" print-width="2in"/>
+            </media>
+<caption>The former gas chamber in San Quentin State Prison, now an execution chamber for lethal injection, in which the State of California executed 192 men and 4 women. </caption>
+          </figure>
+
+
+
+
+      </section>
+    </section>
+    <section id="id10843240">
+      <title>Bibliography</title>
+      <list id="id11382376" list-type="bulleted">
+        <item>J. Wu and N. J. Evans, <emphasis effect="italics">Astrophys. J.</emphasis>, 2003, <emphasis effect="bold">592</emphasis>, L79. </item>
+      </list>
+    </section>
+  </content>
+</document>

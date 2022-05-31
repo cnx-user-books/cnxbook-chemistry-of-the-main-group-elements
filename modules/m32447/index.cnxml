@@ -1,0 +1,61 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Borides</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m32447</md:content-id>
+  <md:title>Borides</md:title>
+  <md:abstract/>
+  <md:uuid>68a78b08-9f1c-4550-b29b-9024e9b58f7e</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="id1166008152497">The non-metallic nature of boron means that it makes a number of binary compounds with elements more electropositive than itself (i.e., metals). These compounds are called, <emphasis effect="italics">borides</emphasis>, and some are also formed with metalloid elements as well (e.g., arsenic). In this regard, borides may be considered similar to carbides, silicides, and some phosphides. </para>
+    <para id="id1166029014435">Borides are prepared in a number of ways, however, direct combination of the elements, <link target-id="eip-358"/>, is the simplest. Other routes include, electrolysis of the fused salts, and the reduction of the metal oxide with a mixture of carbon and boron carbide. </para>
+    
+    <equation id="eip-358"><media id="id1166021132478_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-7197.jpg" id="id1166021132478__onlineimage" width="500" print-width="4.5in"/>
+      </media>
+</equation><para id="id1166010644009">Metal borides are generally refractory in character and chemically inert, while they often have properties better that of the constituent elements. For example, the thermal conductivity of TiB<sub>2</sub> is about ten times greater than that of titanium, and the melting point is significantly higher (<link target-id="id1166027835175"/>). </para>
+    <table id="id1166027835175" summary="The melting points of Group 4 metals and their borides.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry><emphasis effect="bold">Element</emphasis></entry>
+            <entry><emphasis effect="bold">Melting point (°C)</emphasis></entry>
+            <entry><emphasis effect="bold">Boride</emphasis></entry>
+            <entry><emphasis effect="bold">Melting point (°C)</emphasis></entry>
+          </row>
+          <row>
+            <entry>Ti</entry>
+            <entry>1725</entry>
+            <entry>TiB<sub>2</sub></entry>
+            <entry>3225</entry>
+          </row>
+          <row>
+            <entry>Zr</entry>
+            <entry>1855</entry>
+            <entry>ZrB<sub>2</sub></entry>
+            <entry>2990</entry>
+          </row>
+          <row>
+            <entry>Hf</entry>
+            <entry>2233</entry>
+            <entry>HfB<sub>2</sub></entry>
+            <entry>3100</entry>
+          </row>
+        </tbody>
+      
+</tgroup><caption>The melting points of Group 4 metals and their borides. </caption>
+</table>
+    
+    <para id="id1166018986513">The structures of metal borides depends on the M:B ratio. Borides with an isolated boron atom have a low B:M ratio: M<sub>4</sub>B, M<sub>3</sub>B, M<sub>2</sub>B, M<sub>5</sub>B<sub>2</sub>, and M<sub>7</sub>B<sub>3</sub>. In such compounds the boron atom is normally in a triangular-prismatic or square-antiprismatic hole in a metal lattice. Borides with equal or near equal metal and boron ratio have structures with either pairs of boron atoms (as in V<sub>3</sub>B<sub>2</sub>), single boron chains (seen in all MB compounds), or double boron chains (observed for many M<sub>3</sub>B<sub>4</sub> compounds). Increasing the boron content results in two-dimensional structures. For example, MB<sub>2</sub> usually consists of alternate hexagonal layers of metal and boron (<link target-id="id1166018999061 "/>). Finally, boron rich borides (e.g., MB<sub>4</sub>, MB<sub>6</sub>, and MB<sub>12</sub>) all have three-dimensional structures. </para>
+    <figure id="id1166018999061"><media id="id1166018999061_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-eea9.jpg" id="id1166018999061__onlineimage" width="300" print-width="3in"/>
+      </media>
+    <caption>Alternate layers of metal atoms (large circles) and boron (small circles) in MB<sub>2</sub>. </caption></figure>
+    
+  </content>
+</document>

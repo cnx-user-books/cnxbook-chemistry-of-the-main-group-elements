@@ -1,0 +1,154 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Ceramic Processing of Alumina</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m22376</md:content-id>
+  <md:title>Ceramic Processing of Alumina</md:title>
+  <md:abstract/>
+  <md:uuid>86a578f4-98c3-4b99-b556-a9e945c4a039</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170629326120">
+      <title>Introduction</title>
+      <para id="id1170624734340">While aluminum is the most abundant metal in the earth's crust (<emphasis effect="italics">ca. </emphasis>8%) and aluminum compounds such as alum, K[Al(SO<sub>4</sub>)<sub>2</sub>].12(H<sub>2</sub>O), were known throughout the world in ancient times, it was not until the isolation of aluminum in the late eighteenth century by the Danish scientist H. C. Öersted that research into the chemistry of the Group 13 elements began in earnest. Initially, metallic aluminum was isolated by the reduction of aluminum trichloride with potassium or sodium; however, with the advent of inexpensive electric power in the late 1800's, it became economically feasible to extract the metal <emphasis effect="italics">via</emphasis> the electrolyis of alumina (Al<sub>2</sub>O<sub>3</sub>) dissolved in cryolite, Na<sub>3</sub>AlF<sub>6</sub>, (the Hall-Heroult process). Today, alumina is prepared by the Bayer process, in which the mineral bauxite (named for Les Baux, France, where it was first discovered) is dissolved with aqueous hydroxides, and the solution is filtered and treated with CO<sub>2</sub> to precipitate alumina. With availability of both the mineral and cheap electric power being the major considerations in the economical production of aluminum, it is not surprising that the leading producers of aluminum are the United States, Japan, Australia, Canada, and the former Soviet Union. </para>
+    </section>
+    <section id="id1170629448680">
+      <title>Aluminum oxides and hydroxides</title>
+      <para id="id1170629486658">The many forms of aluminum oxides and hydroxides are linked by complex structural relationships. Bauxite has the formula Al<sub>x</sub>(OH)<sub>3-2x</sub> (0 &lt; x &lt; 1) and is thus a mixture of Al<sub>2</sub>O<sub>3</sub> (α-alumina), Al(OH)<sub>3</sub> (gibbsite), and AlO(OH) (boehmite). The latter is an industrially important compound which is used in the form of a gel as a pre-ceramic in the production of fibers and coatings, and as a fire retarding agent in plastics. </para>
+      <para id="id1170624387837">Heating boehmite and diaspore to 450 °C causes dehydration to yield forms of alumina which have structures related to their oxide-hydroxide precursors. Thus, boehmite produces the low-temperature form γ-alumina, while heating diaspore will give α-alumina (corundum). γ-alumina converts to the hcp structure at 1100 °C. A third form of Al<sub>2</sub>O<sub>3</sub> forms on the surface of the clean aluminum metal. The thin, tough, transparent oxide layer is the reason for much of the usefulness of aluminum. This oxide skin is rapidly self-repairing because its heat of formation is so large (ΔH = -3351 kJ/mol). </para>
+
+
+<equation id="eip-2221"><media id="id2221_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq21.jpg" id="id2221__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+
+
+
+      <section id="id3912446">
+        <title>Ternary and mixed-metal oxides</title>
+        <para id="id1170630466600">A further consequence of the stability of alumina is that most if not all of the naturally occurring aluminum compounds are oxides. Indeed, many precious gemstones are actually corundum doped with impurities. Replacement of aluminum ions with trace amounts of transition-metal ions transforms the formerly colorless mineral into ruby (red, Cr<sup>3+</sup>), sapphire (blue, Fe<sup>2+/3+</sup>, Ti<sup>4+</sup>), or topaz (yellow, Fe<sup>3+</sup>). The addition of stoichiometric amounts of metal ions causes a shift from the α-Al<sub>2</sub>O<sub>3</sub> hcp structure to the other common oxide structures found in nature. Examples include the perovskite structure for ABO<sub>3</sub> type minerals (e.g., CeTiO<sub>7</sub> or LaAlO<sub>3</sub>) and the spinel structure for AB<sub>2</sub>O<sub>4</sub> minerals (e.g., beryl, BeAl<sub>2</sub>O<sub>4</sub>). </para><para id="eip-360">Aluminum oxide also forms ternary and mixed-metal oxide phases. Ternary systems such as mullite (Al<sub>6</sub>Si<sub>2</sub>O<sub>13</sub>), yttrium aluminum garnet (YAG, Y<sub>3</sub>Al<sub>5</sub>O<sub>12</sub>), the <emphasis effect="italics">β</emphasis><emphasis effect="italics">-</emphasis>aluminas (e.g., NaAl<sub>11</sub>O<sub>17</sub>) and aluminates such as hibonite (CaAl<sub>12</sub>O<sub>19</sub>) possessing <emphasis effect="italics">β</emphasis>-alumina or magnetoplumbite-type structures can offer advantages over those of the binary aluminum oxides. </para><para id="eip-965">Applications of these materials are found in areas such as engineering composite materials, coatings, technical and electronic ceramics, and catalysts. For example, mullite has exceptional high temperature shock resistance and is widely used as an infrared-transparent window for high temperature applications, as a substrate in multilayer electronic device packaging, and in high temperature structural applications. Hibonite and other hexaluminates with similar structures are being evaluated as interfacial coatings for ceramic matrix composites due to their high thermal stability and unique crystallographic structures. Furthermore, aluminum oxides doped with an alkali, alkaline earth, rare earth, or transition metal are of interest for their enhanced chemical and physical properties in applications utilizing their unique optoelectronic properties. </para>
+      </section>
+      
+    </section>
+    <section id="id1170625064707">
+      <title>Synthesis of aluminum oxide ceramics </title>
+      <para id="id7269068">In common with the majority of oxide ceramics, two primary synthetic processes are employed for the production of aluminum oxide and mixed metal oxide materials: </para>
+      <list id="eip-739" list-type="enumerated" number-style="arabic"><item>The traditional ceramic powder process.</item>
+<item>The solution-gelation, or "sol-gel" process.</item>
+
+</list><para id="eip-635">The environmental impact of alumina and alumina-based ceramics is in general negligible; however, the same cannot be said for these methods of preparation. As practiced commercially, both of the above processes can have a significant detrimental environmental impact. </para><section id="id1170628278718">
+        <title>Traditional ceramic processing</title>
+        <para id="id1170628435936">Traditional ceramic processing involves three basic steps generally referred to as powder-processing, shape-forming, and densification, often with a final mechanical finishing step. Although several steps may be energy intensive, the most direct environmental impact arises from the shape-forming process where various binders, solvents, and other potentially toxic agents are added to form and stabilize a solid ("green") body (<link target-id="eip-896"/>). 
+
+</para>
+        
+        
+        <table id="eip-896" summary="Typical composition of alumina green body">
+<tgroup cols="3"><tbody>
+  <row>
+    <entry><emphasis effect="bold">Function</emphasis></entry>
+    <entry><emphasis effect="bold">Composition</emphasis></entry>
+    <entry><emphasis effect="bold">Volume (%)</emphasis></entry>
+  </row>
+  <row>
+    <entry>Powder</entry>
+    <entry>alumina (Al<sub>2</sub>O<sub>3</sub>)</entry>
+    <entry>27</entry>
+  </row>
+  <row>
+    <entry>Solvent</entry>
+    <entry>1,1,1-trichloroethane/ethanol</entry>
+    <entry>58</entry>
+  </row>
+  <row>
+    <entry>Deflocculant</entry>
+    <entry>menhaden oil</entry>
+    <entry>1.8</entry>
+  </row>
+  <row>
+    <entry>Binder</entry>
+    <entry>poly(vinyl butyrol)</entry>
+    <entry>4.4</entry>
+  </row>
+  <row>
+    <entry>Plasticizer</entry>
+    <entry>poly(ethylene glycol)/octyl phthalate</entry>
+    <entry>8.8</entry>
+  </row>
+</tbody>
+
+
+
+</tgroup><caption>Typical composition of alumina green body</caption>
+</table><para id="id1170625119104">The component chemicals are mixed to a slurry, cast, then dried and fired. In addition to any innate health risk associated with the chemical processing these agents are subsequently removed in gaseous form by direct evaporation or pyrolysis. The replacement of chlorinated solvents such as 1,1,1-trichloroethylene (TCE) must be regarded as a high priority for limiting environmental pollution. The United States Environmental Protection Agency (EPA) included TCE on its 1991 list of 17 high-priority toxic chemicals targeted for source reduction. The plasticizers, binders, and alcohols used in the process present a number of potential environmental impacts associated with the release of combustion products during firing of the ceramics, and the need to recycle or discharge alcohols which, in the case of discharge to waterways, may exert high biological oxygen demands in the receiving communities. It would be desirable, therefore, to be able to use aqueous processing; however, this has previously been unsuccessful due to problems associated with batching, milling, and forming. Nevertheless, with a suitable choice of binders, etc., aqueous processing is possible. Unfortunately, in many cast-parts formed by green body processing the liquid solvent alone consists of over 50 % of the initial volume, and while this is not directly of an environmental concern, the resultant shrinkage makes near net shape processing difficult. </para>
+      </section>
+      <section id="id6620734">
+        <title>Sol-gel</title>
+        <para id="id1170624226904">Whereas the traditional sintering process is used primarily for the manufacture of dense parts, the solution-gelation (sol-gel) process has been applied industrially primarily for the production of porous materials and coatings. </para>
+        <para id="id1170636861758">Sol-gel involves a four stage process: dispersion, gelation, drying, and firing. A stable liquid dispersion or<emphasis effect="italics"> sol</emphasis> of the colloidal ceramic precursor is initially formed in a solvent with appropriate additives. By changing the concentration (aging) or pH, the dispersion is "polymerized" to form a solid dispersion or <emphasis effect="italics">gel</emphasis>. The excess liquid is removed from this gel by drying and the final ceramic is formed by firing the gel at higher temperatures. </para>
+        <para id="id1170624468689">The common sol-gel route to aluminum oxides employs aluminum hydroxide or hydroxide-based material as the solid colloid, the second phase being water and/or an organic solvent, however, the strong interactions of the freshly precipitated alumina gels with ions from the precursor solutions makes it difficult to prepare these gels in pure form. To avoid this complication, alumina gels are also prepared from the hydrolysis of aluminum alkoxides, Al(OR)<sub>3</sub>. </para>
+
+
+<equation id="eip-2222"><media id="id2222_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq22.jpg" id="id2222__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+<equation id="eip-2223"><media id="id2223_media" alt="">
+<image mime-type="image/jpg" src="../../media/Eq23.jpg" id="id2223__onlineimage" width="500" print-width="4.5in"/>
+</media>
+</equation>
+
+ 
+
+
+       <para id="id7978090">The exact composition of the gel in commercial systems is ordinarily proprietary, however, a typical composition will include an aluminum compound, a mineral acid, and a complexing agent to inhibit premature precipitation of the gel, e.g., <link target-id="id2630518"/>. </para>
+        
+        <table id="id2630518" summary="Typical composition of an alumina sol-gel for slipcast ceramics.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Function</emphasis></entry>
+                <entry><emphasis effect="bold">Composition</emphasis></entry>
+              </row>
+              <row>
+                <entry>Boehmite precursor</entry>
+                <entry>ASB [aluminum <emphasis effect="italics">sec</emphasis>-butoxide, Al(OC<sub>4</sub>H<sub>9</sub>)<sub>3</sub>]</entry>
+              </row>
+              <row>
+                <entry>Electrolyte</entry>
+                <entry>HNO<sub>3</sub> 0.07 mole/mole ASB</entry>
+              </row>
+              <row>
+                <entry>Complexing agent</entry>
+                <entry>glycerol <emphasis effect="italics">ca</emphasis>. 10 wt.%</entry>
+              </row>
+            </tbody>
+          
+
+
+</tgroup><caption>Typical composition of an alumina sol-gel for slipcast ceramics. </caption>
+</table>
+        <para id="id1170625180048">The principal environmental consequences arising from the sol-gel process are those associated with the use of strong acids, plasticizers, binders, solvents, and <emphasis effect="italics">sec</emphasis>-butanol formed during the reaction. Depending on the firing conditions, variable amounts of organic materials such as binders and plasticizers may be released as combustion products. NO<sub>x</sub>’s may also be produced in the off-gas from residual nitric acid or nitrate salts. Moreover, acids and solvents must be recycled or disposed of. Energy consumption in the process entails “upstream” environmental emissions associated with the production of that energy. </para>
+      </section>
+    </section>
+    <section id="id1170635797447">
+      <title>Bibliography</title>
+      <list id="id1170625062270" list-type="bulleted"><item><emphasis effect="italics">Advances in Ceramics</emphasis>, Eds. J. A. Mangels and G. L. Messing, American Ceramic Society, Westville, OH, 1984, Vol. 9.</item>
+        <item>Adkins, <emphasis effect="italics">J. Am. Chem. Soc.</emphasis>, 1922, <emphasis effect="bold">44</emphasis>, 2175. </item>
+        <item>A. R. Barron, <emphasis effect="italics">Comm. Inorg. Chem</emphasis>., 1993, <emphasis effect="bold">14</emphasis>, 123.</item>
+        <item>M. K. Cinibulk, <emphasis effect="italics">Ceram. Eng. Sci., Proc</emphasis>., 1994, <emphasis effect="bold">15</emphasis>, 721.</item>
+        <item>F. A. Cotton and G. Wilkinson, <emphasis effect="italics">Advanced Inorganic Chemistry</emphasis>, 5th Ed., John Wiley and Sons, New York (1988).</item>
+        <item>N. N. Greenwood and A. Earnshaw, <emphasis effect="italics">Chemistry of the Elements</emphasis>, Pergamon Press, Oxford (1984). </item>
+        <item>P. H. Hsu and T. F. Bates, <emphasis effect="italics">Mineral Mag</emphasis>., 1964, <emphasis effect="bold">33</emphasis>, 749.</item>
+        <item>W. D. Kingery, H. K. Bowen, and D. R. Uhlmann, <emphasis effect="italics">Introduction to Ceramics</emphasis>, 2nd Ed. Wiley, New York (1976). </item>
+        <item>H. Schneider, K. Okada, and J. Pask, <emphasis effect="italics">Mullite and Mullite Ceramics</emphasis>, Wiley (1994).</item>
+        <item>R. V. Thomas, <emphasis effect="italics">Systems Analysis and Water Quality Management</emphasis>, McGraw-Hill, New York (1972).</item>
+        <item>J. C. Williams, in <emphasis effect="italics">Treatise on Materials Science and Technology</emphasis>, Ed. F. F. Y. Wang, Academic Press, New York (1976).</item>
+      </list>
+    </section>
+  </content>
+</document>
